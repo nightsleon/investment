@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>指数估值看板归档</title>
+  <style>
+    :root{--bg:#f6f8fb;--card:#fff;--text:#1f2328;--muted:#667085;--line:#e5e7eb;--brand:#2563eb;}
+    *{box-sizing:border-box} body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Segoe UI",sans-serif;background:var(--bg);color:var(--text)}
+    .wrap{max-width:1400px;margin:0 auto;padding:24px}
+    .panel{background:var(--card);border:1px solid var(--line);border-radius:16px;box-shadow:0 1px 3px rgba(0,0,0,.04);overflow:hidden}
+    .head{padding:20px 24px;border-bottom:1px solid var(--line);display:flex;gap:16px;align-items:center;justify-content:space-between;flex-wrap:wrap}
+    .title h1{font-size:24px;margin:0 0 6px} .title p{margin:0;color:var(--muted);font-size:13px}
+    .controls{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+    select,button,a.btn{height:38px;border:1px solid var(--line);border-radius:10px;background:#fff;padding:0 12px;font-size:14px;color:var(--text);text-decoration:none;display:inline-flex;align-items:center;cursor:pointer}
+    button.primary,a.primary{background:var(--brand);border-color:var(--brand);color:#fff}
+    .meta{padding:10px 24px;color:var(--muted);font-size:12px;border-bottom:1px solid var(--line)}
+    iframe{display:block;width:100%;height:calc(100vh - 180px);border:0;background:#fff}
+    @media (max-width:900px){iframe{height:calc(100vh - 220px)} .wrap{padding:12px} .head{padding:16px} .meta{padding:10px 16px}}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="panel">
+      <div class="head">
+        <div class="title">
+          <h1>指数估值看板归档</h1>
+          <p>GitHub Pages 入口页。可切换历史归档日期；默认打开最新一期。</p>
+        </div>
+        <div class="controls">
+          <label for="dateSelect">数据日期</label>
+          <select id="dateSelect"><option value="2026-06-01" selected>2026-06-01</option>
+<option value="2026-05-28">2026-05-28</option></select>
+          <button id="openBtn" class="primary">打开归档</button>
+          <a id="newTabBtn" class="btn" target="_blank" rel="noopener">新标签打开</a>
+        </div>
+      </div>
+      <div class="meta">最新日期：2026-06-01 · 当前选择：<span id="currentDate">2026-06-01</span></div>
+      <iframe id="viewer" title="指数估值看板"></iframe>
+    </div>
+  </div>
+  <script>
+    (function(){
+      var archiveDates = ["2026-06-01", "2026-05-28"];
+      var latest = "2026-06-01";
+      var select = document.getElementById('dateSelect');
+      var viewer = document.getElementById('viewer');
+      var currentDate = document.getElementById('currentDate');
+      var newTabBtn = document.getElementById('newTabBtn');
+      function pathFor(date){
+        return 'index-valuation/' + encodeURIComponent('指数估值看板_' + date + '.html');
+      }
+      function render(date, pushState){
+        if(!date || archiveDates.indexOf(date) === -1) date = latest;
+        select.value = date;
+        currentDate.textContent = date;
+        var path = pathFor(date);
+        viewer.src = path;
+        newTabBtn.href = path;
+        if(pushState){
+          var u = new URL(window.location.href);
+          u.searchParams.set('date', date);
+          window.history.replaceState(null, '', u.toString());
+        }
+      }
+      document.getElementById('openBtn').addEventListener('click', function(){ render(select.value, true); });
+      select.addEventListener('change', function(){ render(select.value, true); });
+      var initial = new URL(window.location.href).searchParams.get('date') || latest;
+      render(initial, false);
+    })();
+  </script>
+</body>
+</html>

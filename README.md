@@ -92,6 +92,10 @@ cd 指数估值 && python3 generate.py
 
 详见 [指数估值/generate.py](指数估值/generate.py)
 
+- GitHub Pages 入口：`docs/index.html`
+- 本地直接打开：`/Users/pidan-l/Documents/AI投资/investment/docs/index.html`
+- 发布后建议从仓库 Pages 首页访问，并通过日期下拉切换历史归档
+
 ## 工具
 
 `scripts/generate_charts.py` — 通用图表生成器，传参即可复用：

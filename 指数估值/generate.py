@@ -21,6 +21,35 @@ INDICES = [
 API_BASE = "https://danjuanfunds.com/djapi/index_eva"
 HEADERS = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"}
 OUTPUT_DIR = os.path.dirname(os.path.abspath(__file__))
+REPO_ROOT = os.path.dirname(OUTPUT_DIR)
+DOCS_DIR = os.path.join(REPO_ROOT, "docs")
+DOCS_ARCHIVE_DIR = os.path.join(DOCS_DIR, "index-valuation")
+
+
+def ensure_dir(path):
+    os.makedirs(path, exist_ok=True)
+
+
+def list_archive_dates():
+    if not os.path.isdir(DOCS_ARCHIVE_DIR):
+        return []
+    dates = []
+    prefix = "指数估值看板_"
+    suffix = ".html"
+    for name in os.listdir(DOCS_ARCHIVE_DIR):
+        if name.startswith(prefix) and name.endswith(suffix):
+            dates.append(name[len(prefix):-len(suffix)])
+    return sorted(set(dates), reverse=True)
+
+
+def list_local_archive_files():
+    prefix = "指数估值看板_"
+    suffix = ".html"
+    files = []
+    for name in os.listdir(OUTPUT_DIR):
+        if name.startswith(prefix) and name.endswith(suffix):
+            files.append(name)
+    return sorted(set(files), reverse=True)
 
 
 def fetch_json(url):
@@ -388,14 +417,129 @@ def build_html(snap_map, history, data_date):
 </html>"""
 
 
-def main():
-    snap_map, history, data_date = fetch_all()
-    html = build_html(snap_map, history, data_date)
+def build_index_html(archive_dates, current_date):
+    options = "\n".join(
+        f'<option value="{d}"{" selected" if d == current_date else ""}>{d}</option>'
+        for d in archive_dates
+    )
+    latest = archive_dates[0] if archive_dates else current_date
+    selected = current_date if current_date in archive_dates else latest
+    return f"""<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>指数估值看板归档</title>
+  <style>
+    :root{{--bg:#f6f8fb;--card:#fff;--text:#1f2328;--muted:#667085;--line:#e5e7eb;--brand:#2563eb;}}
+    *{{box-sizing:border-box}} body{{margin:0;font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Segoe UI",sans-serif;background:var(--bg);color:var(--text)}}
+    .wrap{{max-width:1400px;margin:0 auto;padding:24px}}
+    .panel{{background:var(--card);border:1px solid var(--line);border-radius:16px;box-shadow:0 1px 3px rgba(0,0,0,.04);overflow:hidden}}
+    .head{{padding:20px 24px;border-bottom:1px solid var(--line);display:flex;gap:16px;align-items:center;justify-content:space-between;flex-wrap:wrap}}
+    .title h1{{font-size:24px;margin:0 0 6px}} .title p{{margin:0;color:var(--muted);font-size:13px}}
+    .controls{{display:flex;gap:10px;align-items:center;flex-wrap:wrap}}
+    select,button,a.btn{{height:38px;border:1px solid var(--line);border-radius:10px;background:#fff;padding:0 12px;font-size:14px;color:var(--text);text-decoration:none;display:inline-flex;align-items:center;cursor:pointer}}
+    button.primary,a.primary{{background:var(--brand);border-color:var(--brand);color:#fff}}
+    .meta{{padding:10px 24px;color:var(--muted);font-size:12px;border-bottom:1px solid var(--line)}}
+    iframe{{display:block;width:100%;height:calc(100vh - 180px);border:0;background:#fff}}
+    @media (max-width:900px){{iframe{{height:calc(100vh - 220px)}} .wrap{{padding:12px}} .head{{padding:16px}} .meta{{padding:10px 16px}}}}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="panel">
+      <div class="head">
+        <div class="title">
+          <h1>指数估值看板归档</h1>
+          <p>GitHub Pages 入口页。可切换历史归档日期；默认打开最新一期。</p>
+        </div>
+        <div class="controls">
+          <label for="dateSelect">数据日期</label>
+          <select id="dateSelect">{options}</select>
+          <button id="openBtn" class="primary">打开归档</button>
+          <a id="newTabBtn" class="btn" target="_blank" rel="noopener">新标签打开</a>
+        </div>
+      </div>
+      <div class="meta">最新日期：{latest} · 当前选择：<span id="currentDate">{selected}</span></div>
+      <iframe id="viewer" title="指数估值看板"></iframe>
+    </div>
+  </div>
+  <script>
+    (function(){{
+      var archiveDates = {json.dumps(archive_dates, ensure_ascii=False)};
+      var latest = {json.dumps(latest, ensure_ascii=False)};
+      var select = document.getElementById('dateSelect');
+      var viewer = document.getElementById('viewer');
+      var currentDate = document.getElementById('currentDate');
+      var newTabBtn = document.getElementById('newTabBtn');
+      function pathFor(date){{
+        return 'index-valuation/' + encodeURIComponent('指数估值看板_' + date + '.html');
+      }}
+      function render(date, pushState){{
+        if(!date || archiveDates.indexOf(date) === -1) date = latest;
+        select.value = date;
+        currentDate.textContent = date;
+        var path = pathFor(date);
+        viewer.src = path;
+        newTabBtn.href = path;
+        if(pushState){{
+          var u = new URL(window.location.href);
+          u.searchParams.set('date', date);
+          window.history.replaceState(null, '', u.toString());
+        }}
+      }}
+      document.getElementById('openBtn').addEventListener('click', function(){{ render(select.value, true); }});
+      select.addEventListener('change', function(){{ render(select.value, true); }});
+      var initial = new URL(window.location.href).searchParams.get('date') || latest;
+      render(initial, false);
+    }})();
+  </script>
+</body>
+</html>"""
+
+
+def write_outputs(html, data_date):
+    ensure_dir(OUTPUT_DIR)
+    ensure_dir(DOCS_ARCHIVE_DIR)
+
     filename = f"指数估值看板_{data_date}.html"
     out_path = os.path.join(OUTPUT_DIR, filename)
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(html)
+
+    # 同步本地所有历史归档到 docs/index-valuation，保证 Pages 可按日期切换
+    for archive_name in list_local_archive_files():
+        src = os.path.join(OUTPUT_DIR, archive_name)
+        dst = os.path.join(DOCS_ARCHIVE_DIR, archive_name)
+        with open(src, "r", encoding="utf-8") as rf, open(dst, "w", encoding="utf-8") as wf:
+            wf.write(rf.read())
+
+    docs_archive_path = os.path.join(DOCS_ARCHIVE_DIR, filename)
+    archive_dates = list_archive_dates()
+    if data_date not in archive_dates:
+        archive_dates = sorted(set(archive_dates + [data_date]), reverse=True)
+
+    ensure_dir(DOCS_DIR)
+    index_html = build_index_html(archive_dates, data_date)
+    index_path = os.path.join(DOCS_DIR, "index.html")
+    with open(index_path, "w", encoding="utf-8") as f:
+        f.write(index_html)
+
+    manifest_path = os.path.join(DOCS_DIR, "index-valuation-manifest.json")
+    with open(manifest_path, "w", encoding="utf-8") as f:
+        json.dump({"latest": archive_dates[0] if archive_dates else data_date, "current": data_date, "archives": archive_dates}, f, ensure_ascii=False, indent=2)
+
+    return out_path, docs_archive_path, index_path, manifest_path
+
+
+def main():
+    snap_map, history, data_date = fetch_all()
+    html = build_html(snap_map, history, data_date)
+    out_path, docs_archive_path, index_path, manifest_path = write_outputs(html, data_date)
     print(f"\n✅ 生成完成: {out_path}")
+    print(f"✅ Pages 归档: {docs_archive_path}")
+    print(f"✅ Pages 入口: {index_path}")
+    print(f"✅ Pages 清单: {manifest_path}")
     print(f"   文件大小: {len(html):,} bytes")
     return out_path
 
