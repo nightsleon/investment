@@ -15,8 +15,15 @@ body{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Segoe UI",sa
 .toc{display:flex;flex-wrap:wrap;gap:8px;padding:20px 0 16px}
 .toc a{background:var(--card);border:1px solid var(--border);color:var(--accent);padding:6px 14px;border-radius:20px;text-decoration:none;font-size:12px;font-weight:500;transition:all .2s}
 .toc a:hover{background:var(--accent);color:#fff;border-color:var(--accent)}
-.table-wrap{background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden;margin-bottom:28px;box-shadow:0 1px 3px rgba(0,0,0,.04)}
-table{width:100%;border-collapse:collapse;font-size:13px}thead{background:#f5f7fa}
+.mobile-summary{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:0 0 18px}
+.summary-block{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:14px;box-shadow:0 1px 3px rgba(0,0,0,.04)}
+.summary-title{font-size:14px;font-weight:700;margin-bottom:4px}.summary-sub{font-size:11px;color:var(--text3);margin-bottom:10px}
+.mini-cards{display:flex;flex-direction:column;gap:8px}.mini-card{text-decoration:none;color:var(--text);background:var(--bg);border:1px solid var(--border);border-radius:10px;padding:10px 12px}
+.mini-card-top{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:6px}.mini-name{font-size:13px;font-weight:600}.mini-tag{font-size:11px;padding:2px 8px;border-radius:999px;background:#eef2f7}
+.mini-meta{font-size:11px;color:var(--text3);line-height:1.5}
+.table-hint{color:var(--text3);font-size:12px;margin:-6px 0 12px}
+.table-wrap{background:var(--card);border:1px solid var(--border);border-radius:12px;overflow-x:auto;overflow-y:hidden;-webkit-overflow-scrolling:touch;margin-bottom:28px;box-shadow:0 1px 3px rgba(0,0,0,.04)}
+table{width:100%;min-width:980px;border-collapse:collapse;font-size:13px}thead{background:#f5f7fa}
 th{padding:12px 10px;text-align:right;font-weight:600;color:var(--text3);font-size:11px;text-transform:uppercase;letter-spacing:.5px;white-space:nowrap}
 th:first-child,th:nth-child(2),th:nth-child(3),th:nth-child(4){text-align:left}
 td{padding:12px 10px;text-align:right;border-top:1px solid var(--border);white-space:nowrap}
@@ -38,15 +45,16 @@ tr{cursor:pointer;transition:background .15s}tr:hover{background:var(--accent-li
 .kpi-l{font-size:11px;color:var(--text3);margin-bottom:4px;font-weight:500}.kpi-v{font-size:20px;font-weight:700}
 .charts{display:grid;grid-template-columns:1fr 1fr;gap:16px}
 .chart-box{background:var(--bg);border:1px solid var(--border);border-radius:10px;padding:16px;position:relative}
-.chart-top{display:flex;align-items:center;justify-content:space-between;margin-bottom:10px}
+.chart-top{display:flex;align-items:flex-start;justify-content:space-between;margin-bottom:10px;gap:8px;flex-wrap:wrap}
 .chart-title{font-size:12px;color:var(--text3);font-weight:600}
-.range-btns{display:flex;gap:4px}
+.range-btns{display:flex;gap:4px;flex-wrap:wrap}
 .range-btn{border:1px solid var(--border);background:var(--card);color:var(--text3);padding:3px 10px;border-radius:6px;font-size:11px;cursor:pointer;font-weight:500;transition:all .15s}
 .range-btn:hover,.range-btn.active{background:var(--accent);color:#fff;border-color:var(--accent)}
 .chart-badge{position:absolute;top:42px;right:14px;background:var(--card);border:1px solid var(--border);border-radius:8px;padding:4px 10px;z-index:2;box-shadow:0 2px 8px rgba(0,0,0,.08)}
 .badge-val{font-size:15px;font-weight:800;line-height:1.1}.badge-sub{font-size:9px;color:var(--text3);margin-top:1px}
 .chart-wrap{height:260px;position:relative}.chart-wrap canvas{width:100%!important;height:100%!important}
-@media(max-width:900px){.charts{grid-template-columns:1fr}.kpis{gap:8px}.kpi{min-width:80px;padding:10px 12px}.kpi-v{font-size:16px}}
+@media(max-width:900px){.header{padding:28px 18px 22px}.header h1{font-size:22px}.container{padding:0 12px}.mobile-summary{grid-template-columns:1fr;gap:10px}.table-hint{margin:-2px 0 10px}.charts{grid-template-columns:1fr}.kpis{gap:8px}.kpi{min-width:calc(50% - 6px);padding:10px 12px;flex:none}.kpi-v{font-size:16px}.card{padding:16px}.card-head{align-items:flex-start}.card-title{width:100%}.card-eva{align-self:flex-start}.chart-box{padding:14px}.chart-badge{position:static;display:inline-block;margin-bottom:8px}.chart-wrap{height:220px}}
+@media(max-width:640px){.toc{flex-wrap:nowrap;overflow-x:auto;padding:16px 0 12px;-webkit-overflow-scrolling:touch}.toc a{flex:0 0 auto}.kpi{min-width:100%}.chart-title{width:100%}.range-btns{width:100%}.range-btn{flex:1;justify-content:center;padding:6px 0}.footer{font-size:11px;padding:20px 0 28px}}
 .footer{text-align:center;padding:24px 0 32px;color:var(--text3);font-size:12px}
 </style>
 </head>
@@ -67,6 +75,8 @@ tr{cursor:pointer;transition:background .15s}tr:hover{background:var(--accent-li
     <a href="#sec_HKHSTECH">恒生科技</a>
     <a href="#sec_SP500">标普500</a>
     <a href="#sec_NDX">纳指100</a></div>
+  <div class="mobile-summary"><div class="summary-block"><div class="summary-title">低估优先看</div><div class="summary-sub">PE分位越低越靠前</div><div class="mini-cards"><a class="mini-card" href="#sec_SZ399989"><div class="mini-card-top"><span class="mini-name">中证医疗</span><span class="mini-tag eva-low">低估</span></div><div class="mini-meta">PE 27.26 · PE分位 <span class="val-green">9.8%</span></div><div class="mini-meta">股息率 <span class="">1.56%</span> · ROE 11.21%</div></a><a class="mini-card" href="#sec_SH000932"><div class="mini-card-top"><span class="mini-name">主要消费</span><span class="mini-tag eva-low">低估</span></div><div class="mini-meta">PE 21.94 · PE分位 <span class="val-green">15.0%</span></div><div class="mini-meta">股息率 <span class="">3.98%</span> · ROE 15.44%</div></a><a class="mini-card" href="#sec_SZ399997"><div class="mini-card-top"><span class="mini-name">中证白酒</span><span class="mini-tag eva-low">低估</span></div><div class="mini-meta">PE 20.21 · PE分位 <span class="val-green">17.6%</span></div><div class="mini-meta">股息率 <span class="">4.4%</span> · ROE 19.46%</div></a></div></div><div class="summary-block"><div class="summary-title">高估需谨慎</div><div class="summary-sub">PE分位越高越靠前</div><div class="mini-cards"><a class="mini-card" href="#sec_SH000688"><div class="mini-card-top"><span class="mini-name">科创50</span><span class="mini-tag eva-high">高估</span></div><div class="mini-meta">PE 157.91 · PE分位 <span class="val-red">90.7%</span></div><div class="mini-meta">股息率 <span class="">0.32%</span> · ROE 4.68%</div></a><a class="mini-card" href="#sec_SH000300"><div class="mini-card-top"><span class="mini-name">沪深300</span><span class="mini-tag eva-high">高估</span></div><div class="mini-meta">PE 14.52 · PE分位 <span class="val-red">90.3%</span></div><div class="mini-meta">股息率 <span class="">2.73%</span> · ROE 9.97%</div></a><a class="mini-card" href="#sec_SP500"><div class="mini-card-top"><span class="mini-name">标普500</span><span class="mini-tag eva-high">高估</span></div><div class="mini-meta">PE 29.15 · PE分位 <span class="val-red">86.2%</span></div><div class="mini-meta">股息率 <span class="">1.0%</span> · ROE 20.07%</div></a></div></div><div class="summary-block"><div class="summary-title">高股息</div><div class="summary-sub">股息率越高越靠前</div><div class="mini-cards"><a class="mini-card" href="#sec_CSIH30269"><div class="mini-card-top"><span class="mini-name">红利低波</span><span class="mini-tag eva-high">高估</span></div><div class="mini-meta">PE 8.30 · PE分位 <span class="">74.9%</span></div><div class="mini-meta">股息率 <span class="">4.87%</span> · ROE 10.07%</div></a><a class="mini-card" href="#sec_CSI931157"><div class="mini-card-top"><span class="mini-name">红利成长LV</span><span class="mini-tag eva-high">高估</span></div><div class="mini-meta">PE 7.98 · PE分位 <span class="">62.9%</span></div><div class="mini-meta">股息率 <span class="">4.63%</span> · ROE 10.79%</div></a><a class="mini-card" href="#sec_SZ399997"><div class="mini-card-top"><span class="mini-name">中证白酒</span><span class="mini-tag eva-low">低估</span></div><div class="mini-meta">PE 20.21 · PE分位 <span class="val-green">17.6%</span></div><div class="mini-meta">股息率 <span class="">4.4%</span> · ROE 19.46%</div></a></div></div></div>
+  <div class="table-hint">移动端可左右滑动查看完整表格；点击表格行可跳转到对应指数详情。</div>
   <div class="table-wrap"><table>
     <thead><tr><th>指数</th><th>代码</th><th>类别</th><th>估值</th><th>PE</th><th>PB</th><th>PE百分位</th><th>PB百分位</th><th>ROE</th><th>股息率</th></tr></thead>
     <tbody><tr onclick="document.getElementById('sec_SH000300').scrollIntoView({behavior:'smooth',block:'start'})"><td class="idx-name">沪深300</td><td class="idx-code">SH000300</td><td>A股宽基</td><td class="eva-high">高估</td><td class="val-red">14.52</td><td>1.45</td><td class="val-red">90.3%</td><td>46.8%</td><td>9.97%</td><td class="">2.73%</td></tr>
