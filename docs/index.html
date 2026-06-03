@@ -7,47 +7,41 @@
   <style>
     :root{--bg:#ffffff;--card:#fff;--card-soft:#fafafa;--text:#09090b;--muted:#52525b;--line:#e5e7eb;--line-strong:#d4d4d8;--brand:#18181b;--brand-soft:#f4f4f5;--shadow:0 1px 2px rgba(0,0,0,.03),0 8px 24px rgba(0,0,0,.03);}
     *{box-sizing:border-box} body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Segoe UI",sans-serif;background:#fff;color:var(--text)}
-    .wrap{max-width:1380px;margin:0 auto;padding:28px 24px 24px}
-    .hero{margin-bottom:16px;padding:4px 2px 0}
-    .hero-kicker{display:inline-flex;align-items:center;gap:8px;font-size:12px;color:var(--muted);font-weight:700;margin-bottom:14px} .hero-kicker:before{content:"";width:6px;height:6px;border-radius:50%;background:var(--brand)}
-    .hero h1{font-size:34px;letter-spacing:-.04em;margin:0 0 10px} .hero p{margin:0;color:var(--muted);font-size:14px;line-height:1.7;max-width:900px}
-    .hero-meta{display:flex;gap:10px;flex-wrap:wrap;margin-top:18px} .hero-pill{display:inline-flex;align-items:center;height:34px;padding:0 12px;border:1px solid var(--line);border-radius:999px;background:#fff;color:var(--muted);font-size:12px}
+    .wrap{max-width:1380px;margin:0 auto;padding:16px 24px 20px}
     .panel{background:#fff;border:1px solid var(--line);border-radius:24px;box-shadow:none;overflow:hidden}
-    .head{padding:24px;border-bottom:1px solid var(--line);display:flex;gap:16px;align-items:flex-end;justify-content:space-between;flex-wrap:wrap;background:linear-gradient(180deg,rgba(255,255,255,1) 0%,rgba(250,252,255,1) 100%)}
-    .title h2{font-size:22px;margin:0 0 6px;letter-spacing:-.025em} .title p{margin:0;color:var(--muted);font-size:13px}
+    .head{padding:16px 24px;border-bottom:1px solid var(--line);display:flex;gap:12px;align-items:flex-end;justify-content:space-between;flex-wrap:wrap;background:linear-gradient(180deg,rgba(255,255,255,1) 0%,rgba(250,252,255,1) 100%)}
+    .title h2{font-size:20px;margin:0;letter-spacing:-.025em} .title p{margin:0;color:var(--muted);font-size:12px}
     .controls{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
     select,button,a.btn{height:40px;border:1px solid var(--line);border-radius:12px;background:#fff;padding:0 14px;font-size:14px;color:var(--text);text-decoration:none;display:inline-flex;align-items:center;justify-content:center;cursor:pointer;transition:all .16s}
     select{min-width:140px}
     select:hover,button:hover,a.btn:hover{border-color:var(--line-strong);transform:translateY(-1px)}
     button.primary,a.primary{background:var(--brand);border-color:var(--brand);color:#fff}
-    .meta{padding:14px 24px;color:var(--muted);font-size:12px;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;background:#fff} .meta b{color:var(--text)}
-    .section{padding:16px 24px;border-bottom:1px solid var(--line)}
+    .head-meta{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px}
+    .head-pill{display:inline-flex;align-items:center;height:28px;padding:0 10px;border:1px solid var(--line);border-radius:999px;background:#fff;color:var(--muted);font-size:11px;font-weight:600}
+    .head-pill b{color:var(--text);margin-left:4px}
+    .section{padding:12px 24px;border-bottom:1px solid var(--line)}
     .section-label{font-size:12px;font-weight:750;color:#94a3b8;letter-spacing:.08em;text-transform:uppercase;margin-bottom:12px}
     .quick-links,.archive-nav{display:flex;gap:10px;flex-wrap:wrap}
+    .quick-links-combined{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+    .quick-links-combined .group-sep{width:1px;height:24px;background:var(--line);margin:0 2px}
     .chip{height:36px;padding:0 14px;border:1px solid var(--line);border-radius:999px;background:#fff;color:var(--text);text-decoration:none;display:inline-flex;align-items:center;justify-content:center;font-size:13px;font-weight:600;cursor:pointer;transition:all .16s}
     .chip:hover{transform:translateY(-1px);border-color:var(--line-strong)}
     .chip.primary{background:var(--brand-soft);color:var(--brand);border-color:var(--line)}
     .mobile-note{display:none;padding:14px 24px;border-bottom:1px solid var(--line);background:var(--brand-soft);color:#35507a;font-size:13px;line-height:1.5}
     .mobile-actions{display:none;padding:16px 24px;border-bottom:1px solid var(--line);gap:10px;flex-wrap:wrap;background:#fff}
     .mobile-actions a{flex:1;min-width:140px}
-    iframe{display:block;width:100%;height:calc(100vh - 220px);border:0;background:#fff}
-    @media (max-width:900px){.wrap{padding:12px} .hero{padding:2px 0 0} .hero h1{font-size:26px} .head{padding:16px;align-items:flex-start} .title{width:100%} .controls{width:100%} select,button,a.btn{flex:1;min-width:0} .meta{padding:12px 16px} .section{padding:14px 16px} .mobile-note{display:block;padding:12px 16px} .mobile-actions{display:flex;padding:14px 16px} iframe{display:none}}
-    @media (max-width:640px){.controls label{width:100%} select{width:100%;flex:initial} button,a.btn{width:100%} .mobile-actions a{min-width:100%} .quick-links .chip,.archive-nav .chip{flex:1}}
+    iframe{display:block;width:100%;height:calc(100vh - 170px);border:0;background:#fff}
+    @media (max-width:900px){.wrap{padding:12px} .head{padding:14px 16px;align-items:flex-start} .title{width:100%} .controls{width:100%} select,button,a.btn{flex:1;min-width:0} .section{padding:12px 16px} .mobile-note{display:block;padding:12px 16px} .mobile-actions{display:flex;padding:14px 16px} iframe{display:none}}
+    @media (max-width:640px){.controls label{width:100%} select{width:100%;flex:initial} button,a.btn{width:100%} .mobile-actions a{min-width:100%} .quick-links .chip,.archive-nav .chip,.quick-links-combined .chip{flex:1} .quick-links-combined .group-sep{display:none}}
   </style>
 </head>
 <body>
   <div class="wrap">
-    <div class="hero">
-      <div class="hero-kicker">研究归档</div>
-      <h1>指数估值看板归档</h1>
-      <p>用于统一浏览每日快照与历史归档。桌面端默认内嵌最新一期，移动端直接跳转到独立页面，避免 iframe 带来的滚动与图表交互问题。</p>
-      <div class="hero-meta"><span class="hero-pill">最新一期：2026-06-02</span><span class="hero-pill">当前默认：2026-06-02</span><span class="hero-pill">数据源：蛋卷基金</span></div>
-    </div>
     <div class="panel">
       <div class="head">
         <div class="title">
           <h2>浏览与切换</h2>
-          <p>按日期进入任一期归档，也可以直接跳到最新或最早一期。</p>
+          <div class="head-meta"><span class="head-pill">最新日期<b>2026-06-02</b></span><span class="head-pill">当前选择<b id="currentDate">2026-06-02</b></span><span class="head-pill">数据源<b>蛋卷基金</b></span></div>
         </div>
         <div class="controls">
           <label for="dateSelect">数据日期</label>
@@ -58,18 +52,13 @@
           <a id="newTabBtn" class="btn" target="_blank" rel="noopener">新标签打开</a>
         </div>
       </div>
-      <div class="meta"><div>最新日期：<b>2026-06-02</b></div><div>当前选择：<b id="currentDate">2026-06-02</b></div></div>
       <div class="section">
         <div class="section-label">快捷入口</div>
-        <div class="quick-links">
+        <div class="quick-links-combined">
           <a id="latestBtn" class="chip primary">最新一期</a>
           <a id="oldestBtn" class="chip">最早一期</a>
           <a id="selectedLinkBtn" class="chip">当前日期直达</a>
-        </div>
-      </div>
-      <div class="section">
-        <div class="section-label">顺序翻看</div>
-        <div class="archive-nav">
+          <span class="group-sep" aria-hidden="true"></span>
           <a id="prevBtn" class="chip">上一期</a>
           <a id="nextBtn" class="chip">下一期</a>
         </div>
