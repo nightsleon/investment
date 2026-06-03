@@ -5,53 +5,74 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>指数估值看板归档</title>
   <style>
-    :root{--bg:#f6f8fb;--card:#fff;--text:#1f2328;--muted:#667085;--line:#e5e7eb;--brand:#2563eb;--brand-light:#eef4ff;}
-    *{box-sizing:border-box} body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Segoe UI",sans-serif;background:var(--bg);color:var(--text)}
-    .wrap{max-width:1400px;margin:0 auto;padding:24px}
-    .panel{background:var(--card);border:1px solid var(--line);border-radius:16px;box-shadow:0 1px 3px rgba(0,0,0,.04);overflow:hidden}
-    .head{padding:20px 24px;border-bottom:1px solid var(--line);display:flex;gap:16px;align-items:center;justify-content:space-between;flex-wrap:wrap}
-    .title h1{font-size:24px;margin:0 0 6px} .title p{margin:0;color:var(--muted);font-size:13px}
+    :root{--bg:#ffffff;--card:#fff;--card-soft:#fafafa;--text:#09090b;--muted:#52525b;--line:#e5e7eb;--line-strong:#d4d4d8;--brand:#18181b;--brand-soft:#f4f4f5;--shadow:0 1px 2px rgba(0,0,0,.03),0 8px 24px rgba(0,0,0,.03);}
+    *{box-sizing:border-box} body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Segoe UI",sans-serif;background:#fff;color:var(--text)}
+    .wrap{max-width:1380px;margin:0 auto;padding:28px 24px 24px}
+    .hero{margin-bottom:16px;padding:4px 2px 0}
+    .hero-kicker{display:inline-flex;align-items:center;gap:8px;font-size:12px;color:var(--muted);font-weight:700;margin-bottom:14px} .hero-kicker:before{content:"";width:6px;height:6px;border-radius:50%;background:var(--brand)}
+    .hero h1{font-size:34px;letter-spacing:-.04em;margin:0 0 10px} .hero p{margin:0;color:var(--muted);font-size:14px;line-height:1.7;max-width:900px}
+    .hero-meta{display:flex;gap:10px;flex-wrap:wrap;margin-top:18px} .hero-pill{display:inline-flex;align-items:center;height:34px;padding:0 12px;border:1px solid var(--line);border-radius:999px;background:#fff;color:var(--muted);font-size:12px}
+    .panel{background:#fff;border:1px solid var(--line);border-radius:24px;box-shadow:none;overflow:hidden}
+    .head{padding:24px;border-bottom:1px solid var(--line);display:flex;gap:16px;align-items:flex-end;justify-content:space-between;flex-wrap:wrap;background:linear-gradient(180deg,rgba(255,255,255,1) 0%,rgba(250,252,255,1) 100%)}
+    .title h2{font-size:22px;margin:0 0 6px;letter-spacing:-.025em} .title p{margin:0;color:var(--muted);font-size:13px}
     .controls{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
-    select,button,a.btn{height:38px;border:1px solid var(--line);border-radius:10px;background:#fff;padding:0 12px;font-size:14px;color:var(--text);text-decoration:none;display:inline-flex;align-items:center;justify-content:center;cursor:pointer}
+    select,button,a.btn{height:40px;border:1px solid var(--line);border-radius:12px;background:#fff;padding:0 14px;font-size:14px;color:var(--text);text-decoration:none;display:inline-flex;align-items:center;justify-content:center;cursor:pointer;transition:all .16s}
     select{min-width:140px}
+    select:hover,button:hover,a.btn:hover{border-color:var(--line-strong);transform:translateY(-1px)}
     button.primary,a.primary{background:var(--brand);border-color:var(--brand);color:#fff}
-    .meta{padding:10px 24px;color:var(--muted);font-size:12px;border-bottom:1px solid var(--line)}
-    .quick-links,.archive-nav{display:flex;gap:10px;flex-wrap:wrap;padding:14px 24px;border-bottom:1px solid var(--line)}
-    .chip{height:34px;padding:0 12px;border:1px solid var(--line);border-radius:999px;background:#fff;color:var(--text);text-decoration:none;display:inline-flex;align-items:center;justify-content:center;font-size:13px;cursor:pointer}
-    .chip.primary{background:var(--brand-light);color:var(--brand);border-color:#cfe0ff}
-    .mobile-note{display:none;padding:14px 24px;border-bottom:1px solid var(--line);background:var(--brand-light);color:#35507a;font-size:13px;line-height:1.5}
-    .mobile-actions{display:none;padding:16px 24px;border-bottom:1px solid var(--line);gap:10px;flex-wrap:wrap}
+    .meta{padding:14px 24px;color:var(--muted);font-size:12px;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;background:#fff} .meta b{color:var(--text)}
+    .section{padding:16px 24px;border-bottom:1px solid var(--line)}
+    .section-label{font-size:12px;font-weight:750;color:#94a3b8;letter-spacing:.08em;text-transform:uppercase;margin-bottom:12px}
+    .quick-links,.archive-nav{display:flex;gap:10px;flex-wrap:wrap}
+    .chip{height:36px;padding:0 14px;border:1px solid var(--line);border-radius:999px;background:#fff;color:var(--text);text-decoration:none;display:inline-flex;align-items:center;justify-content:center;font-size:13px;font-weight:600;cursor:pointer;transition:all .16s}
+    .chip:hover{transform:translateY(-1px);border-color:var(--line-strong)}
+    .chip.primary{background:var(--brand-soft);color:var(--brand);border-color:var(--line)}
+    .mobile-note{display:none;padding:14px 24px;border-bottom:1px solid var(--line);background:var(--brand-soft);color:#35507a;font-size:13px;line-height:1.5}
+    .mobile-actions{display:none;padding:16px 24px;border-bottom:1px solid var(--line);gap:10px;flex-wrap:wrap;background:#fff}
     .mobile-actions a{flex:1;min-width:140px}
-    iframe{display:block;width:100%;height:calc(100vh - 180px);border:0;background:#fff}
-    @media (max-width:900px){.wrap{padding:12px} .head{padding:16px;align-items:flex-start} .title{width:100%} .controls{width:100%} select,button,a.btn{flex:1;min-width:0} .meta{padding:10px 16px} .quick-links,.archive-nav{padding:12px 16px} .mobile-note{display:block;padding:12px 16px} .mobile-actions{display:flex;padding:14px 16px} iframe{display:none}}
-    @media (max-width:640px){.title h1{font-size:22px} .controls label{width:100%} select{width:100%;flex:initial} button,a.btn{width:100%} .mobile-actions a{min-width:100%} .quick-links .chip,.archive-nav .chip{flex:1}}
+    iframe{display:block;width:100%;height:calc(100vh - 220px);border:0;background:#fff}
+    @media (max-width:900px){.wrap{padding:12px} .hero{padding:2px 0 0} .hero h1{font-size:26px} .head{padding:16px;align-items:flex-start} .title{width:100%} .controls{width:100%} select,button,a.btn{flex:1;min-width:0} .meta{padding:12px 16px} .section{padding:14px 16px} .mobile-note{display:block;padding:12px 16px} .mobile-actions{display:flex;padding:14px 16px} iframe{display:none}}
+    @media (max-width:640px){.controls label{width:100%} select{width:100%;flex:initial} button,a.btn{width:100%} .mobile-actions a{min-width:100%} .quick-links .chip,.archive-nav .chip{flex:1}}
   </style>
 </head>
 <body>
   <div class="wrap">
+    <div class="hero">
+      <div class="hero-kicker">研究归档</div>
+      <h1>指数估值看板归档</h1>
+      <p>用于统一浏览每日快照与历史归档。桌面端默认内嵌最新一期，移动端直接跳转到独立页面，避免 iframe 带来的滚动与图表交互问题。</p>
+      <div class="hero-meta"><span class="hero-pill">最新一期：2026-06-02</span><span class="hero-pill">当前默认：2026-06-02</span><span class="hero-pill">数据源：蛋卷基金</span></div>
+    </div>
     <div class="panel">
       <div class="head">
         <div class="title">
-          <h1>指数估值看板归档</h1>
-          <p>GitHub Pages 入口页。可切换历史归档日期；默认打开最新一期。</p>
+          <h2>浏览与切换</h2>
+          <p>按日期进入任一期归档，也可以直接跳到最新或最早一期。</p>
         </div>
         <div class="controls">
           <label for="dateSelect">数据日期</label>
-          <select id="dateSelect"><option value="2026-06-01" selected>2026-06-01</option>
+          <select id="dateSelect"><option value="2026-06-02" selected>2026-06-02</option>
+<option value="2026-06-01">2026-06-01</option>
 <option value="2026-05-28">2026-05-28</option></select>
           <button id="openBtn" class="primary">打开归档</button>
           <a id="newTabBtn" class="btn" target="_blank" rel="noopener">新标签打开</a>
         </div>
       </div>
-      <div class="meta">最新日期：2026-06-01 · 当前选择：<span id="currentDate">2026-06-01</span></div>
-      <div class="quick-links">
-        <a id="latestBtn" class="chip primary">最新一期</a>
-        <a id="oldestBtn" class="chip">最早一期</a>
-        <a id="selectedLinkBtn" class="chip">当前日期直达</a>
+      <div class="meta"><div>最新日期：<b>2026-06-02</b></div><div>当前选择：<b id="currentDate">2026-06-02</b></div></div>
+      <div class="section">
+        <div class="section-label">快捷入口</div>
+        <div class="quick-links">
+          <a id="latestBtn" class="chip primary">最新一期</a>
+          <a id="oldestBtn" class="chip">最早一期</a>
+          <a id="selectedLinkBtn" class="chip">当前日期直达</a>
+        </div>
       </div>
-      <div class="archive-nav">
-        <a id="prevBtn" class="chip">上一期</a>
-        <a id="nextBtn" class="chip">下一期</a>
+      <div class="section">
+        <div class="section-label">顺序翻看</div>
+        <div class="archive-nav">
+          <a id="prevBtn" class="chip">上一期</a>
+          <a id="nextBtn" class="chip">下一期</a>
+        </div>
       </div>
       <div class="mobile-note">移动端不再内嵌 iframe，改为直接打开对应归档页面，滚动和图表交互会更顺手。</div>
       <div class="mobile-actions">
@@ -63,8 +84,8 @@
   </div>
   <script>
     (function(){
-      var archiveDates = ["2026-06-01", "2026-05-28"];
-      var latest = "2026-06-01";
+      var archiveDates = ["2026-06-02", "2026-06-01", "2026-05-28"];
+      var latest = "2026-06-02";
       var select = document.getElementById('dateSelect');
       var viewer = document.getElementById('viewer');
       var currentDate = document.getElementById('currentDate');
