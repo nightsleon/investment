@@ -1,0 +1,16 @@
+latest_date=2026-06-05
+latest_price=122.04
+mcap_yi=1488.84
+deduct_ttm_yi=109.76
+pe=13.56
+pe_pct_10y=0.0%
+pe10_min=13.56
+pe10_median=35.70
+pe10_max=130.56
+cash_q1_yi=371.36
+cash_per_share_q1=30.44
+adj_mcap_yi=1117.49
+adj_pe_q1_cash=10.18
+cash_annual_confirmed_yi=289.70
+cagr3=14.85%
+cagr5=32.12%
