@@ -1,0 +1,17 @@
+{
+  "latest_trade_date": "2026-06-22",
+  "close": 37.06,
+  "market_cap_yi": 132.4238348684,
+  "shares": 357322814.0,
+  "pe_ttm": 17.50770639,
+  "pe_percentile_available_since": "2018-01-02",
+  "pe_percentile": 0.496031746031746,
+  "latest_quarter": "2026Q1",
+  "latest_non_gaap_ttm_yi": 7.673931,
+  "cash_position_yi": 3.864001,
+  "per_share_cash": 1.0813753974298435,
+  "ex_cash_mcap_yi": 128.5598338684,
+  "ex_cash_pe": 16.75280034032102,
+  "long_debt_yi": 0.075999,
+  "data_note": "现金头寸按2025年报：货币资金 + 交易性金融资产(0) - 一年内到期租赁负债 - 租赁负债；其他流动资产为待抵扣进项税/预缴所得税，不计入。"
+}
