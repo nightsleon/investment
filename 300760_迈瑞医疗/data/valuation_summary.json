@@ -1,0 +1,14 @@
+{
+  "last_trade_date": "2026-07-07",
+  "close": 138.17,
+  "pe_ttm": 21.37631398,
+  "pb": 4.17658049,
+  "market_cap_yi": 1675.2302740898,
+  "pe_percentile_available_period_pct": 1.1205976520811098,
+  "available_start": "2018-10-16",
+  "available_days": 1874,
+  "deduct_np_2022_yi": 95.25117528,
+  "deduct_np_2025_yi": 80.68550808,
+  "deduct_np_3y_cagr_pct": -5.381716517967972,
+  "peg": null
+}
