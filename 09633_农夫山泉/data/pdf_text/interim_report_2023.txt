@@ -1,0 +1,2689 @@
+
+===== PDF_PAGE 1 =====
+（於中華人民共和國註冊成立的股份有限公司）
+(A joint stock company incorporated in the People’s Republic of China with limited liability)
+股份代號 Stock Code : 9633
+2023
+中期報告
+INTERIM REPORT
+農夫山泉股份有限公司
+NONGFU
+SPRING
+CO.,
+LTD.
+中期報告
+2023
+INTERIM
+REPORT
+
+===== PDF_PAGE 2 =====
+目錄 CONTENT
+2 公司資料
+Corporate Information
+5 管理層討論及分析
+Management Discussion and Analysis
+20 企業管治及其他數據
+Corporate Governance and Other Information
+33 獨立審閱報告
+Independent Review Report
+35 中期簡明綜合損益表
+Interim Condensed Consolidated Statement of Profit or Loss
+36 中期簡明綜合全面收益表
+Interim Condensed Consolidated Statement of Comprehensive Income
+37 中期簡明綜合財務狀況表
+Interim Condensed Consolidated Statement of Financial Position
+39 中期簡明綜合權益變動表
+Interim Condensed Consolidated Statement of Changes in Equity
+41 中期簡明綜合現金流量表
+Interim Condensed Consolidated Statement of Cash Flows
+43 中期簡明綜合財務資料附註
+Notes to Interim Condensed Consolidated Financial Information
+
+===== PDF_PAGE 3 =====
+公司資料
+CORPORATE INFORMATION
+股份上市 SHARE LISTING
+香港聯合交易所有限公司 The Stock Exchange of Hong Kong Limited
+（股份代號：9633） (Stock Code: 9633)
+上市日期 LISTING DATE
+2020年9月8日 September 8, 2020
+註冊辦事處和總部 REGISTERED OFFICE AND HEAD OFFICE
+中國 No.181 Geyazhuang
+浙江杭州 Xihu District
+西湖區 Hangzhou, Zhejiang
+葛衙莊181號 PRC
+香港主要營業地點 PRINCIPAL PLACE OF BUSINESS IN HONG KONG
+香港 Room F, 6/F, CNT Tower
+灣仔 338 Hennessy Road
+軒尼詩道338號 Wan Chai
+北海中心6樓F室 Hong Kong
+公司網站 COMPANY’S WEBSITE
+www.nongfuspring.com www.nongfuspring.com
+董事會 BOARD OF DIRECTORS
+執行董事 EXECUTIVE DIRECTORS
+鍾睒睒先生（董事長及總經理） Mr. Zhong Shanshan (Chairman and General Manager)
+吳莉敏女士 Ms. Wu Limin
+向咸松先生 Mr. Xiang Xiansong
+韓林攸女士 Ms. Han Linyou
+非執行董事 NON-EXECUTIVE DIRECTORS
+Zhong Shu Zi先生 Mr. Zhong Shu Zi
+薛蓮女士 Ms. Xue Lian
+獨立非執行董事 INDEPENDENT NON-EXECUTIVE DIRECTORS
+Stanley Yi Chang先生 Mr. Stanley Yi Chang
+楊磊先生 Mr. Yang, Lei Bob
+呂源先生 Mr. Lu Yuan
+監事會 SUPERVISOR COMMITTEE
+劉敏女士（主席） Ms. Liu Min (Chairman)
+饒明紅先生 Mr. Rao Minghong
+劉熹悅先生 Mr. Liu Xiyue
+聯席公司秘書 JOINT COMPANY SECRETARIES
+韓林攸女士 Ms. Han Linyou
+麥寶文女士 Ms. Mak Po Man Cherie
+2
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 4 =====
+公司資料 CORPORATE INFORMATION
+審計委員會 AUDIT COMMITTEE
+Stanley Yi Chang先生（主席） Mr. Stanley Yi Chang (Chairman)
+楊磊先生 Mr. Yang, Lei Bob
+呂源先生 Mr. Lu Yuan
+薪酬委員會 REMUNERATION COMMITTEE
+呂源先生（主席） Mr. Lu Yuan (Chairman)
+鍾睒睒先生 Mr. Zhong Shanshan
+楊磊先生 Mr. Yang, Lei Bob
+提名委員會 NOMINATION COMMITTEE
+鍾睒睒先生（主席） Mr. Zhong Shanshan (Chairman)
+呂源先生 Mr. Lu Yuan
+Stanley Yi Chang先生 Mr. Stanley Yi Chang
+授權代表 AUTHORISED REPRESENTATIVES
+韓林攸女士 Ms. Han Linyou
+吳莉敏女士 Ms. Wu Limin
+主要往來銀行 PRINCIPAL BANKERS
+中國工商銀行－杭州羊壩頭支行 Industrial and Commercial Bank of China Hangzhou Yangbatou Branch
+中國農業銀行－杭州分行 Agricultural Bank of China Hangzhou Branch
+中國銀行－浙江分行 Bank of China Zhejiang Branch
+中國建設銀行－之江分行 China Construction Bank Zhijiang Branch
+中國光大銀行－杭州分行 China Everbright Bank Hangzhou Branch
+香港法律顧問 HONG KONG LEGAL ADVISOR
+天元律師事務所（有限法律責任合夥） Tian Yuan Law Firm LLP
+香港中環 Room 3304-3309, 33/F Jardine House
+康樂廣場1號 One Connaught Place
+怡和大廈33樓3304-3309室 Central Hong Kong
+中國法律顧問 PRC LEGAL ADVISOR
+天元律師事務所 Tian Yuan Law Firm
+中國 Suite 509 Tower A, Corporation Square
+北京市 35 Financial Street
+西城區 Xicheng District
+金融大街35號 Beijing
+國際企業大廈A座509單元 PRC
+3
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 5 =====
+公司資料 CORPORATE INFORMATION
+境外核數師 OVERSEAS AUDITOR
+安永會計師事務所 Ernst & Young
+執業會計師 Certified Public Accountants
+註冊公眾利益實體核數師 Registered Public Interest Entity Auditor
+香港 27/F, One Taikoo Place
+鰂魚涌英皇道979號 979 King’s Road, Quarry Bay
+太古坊一座27樓 Hong Kong
+境內審計師 DOMESTIC AUDITOR
+天健會計師事務所（特殊普通合夥） Pan-China Certified Public Accountants LLP
+中國 Tower B, China Resources Building, 1366 Qianjiang Road
+浙江杭州 Shangcheng District
+上城區 Hangzhou, Zhejiang
+錢江路1366號華潤大廈B座 PRC
+H股股份過戶登記處 H SHARE REGISTRAR
+香港中央證券登記有限公司 Computershare Hong Kong Investor Services Limited
+香港 Shops 1712-1716, 17th Floor Hopewell Centre
+灣仔 183 Queen’s Road East
+皇后大道東183號 Wan Chai
+合和中心17樓1712-1716室 Hong Kong
+4
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 6 =====
+管理層討論及分析
+MANAGEMENT DISCUSSION AND ANALYSIS
+董事會欣然提呈本集團截至2023年6月30日 The Board is pleased to present the unaudited interim condensed
+止六個月未經審核中期簡明綜合財務資料。 consolidated financial information of the Group for the six months
+該中期簡明綜合財務資料雖未經審核，但已 ended June 30, 2023. The interim condensed consolidated financial
+由董事會審計委員會（「審計委員會」）和本公 information is unaudited, but has been reviewed by the audit
+司獨立核數師安永會計師事務所按照香港會 committee of the Board (the “Audit Committee”) and Ernst & Young,
+計師公會頒佈的香港審閱工作準則第2410 the independent auditors of the Company, in accordance with
+號「實體的獨立核數師對中期財務數據的審 Hong Kong Standard on Review Engagements 2410 “Review of
+閱」進行審閱。 Interim Financial Information Performed by the Independent Auditor
+of the Entity” issued by the Hong Kong Institute of Certified Public
+Accountants.
+經濟環境狀況 ECONOMIC ENVIRONMENT
+2023年上半年，中國經濟運行總體呈現回 In the first half of 2023, China’s overall economy has been on an
+升向好態勢，上半年國內生產總值(GDP)超 uptrend, with GDP exceeding RMB59 trillion, representing a year-on-
+過59萬億元，同比增長5.5%。市場活力和 year increase of 5.5%. Market dynamics and consumption potential
+消費潛力逐步釋放，消費呈恢復增長態勢， have been gradually released, and household consumption has
+社會消費品零售總額超過22萬億元，同比增 resumed its growth trend, with total retail sales of consumer goods
+長8.2%。 exceeding RMB22 trillion, representing a year-on-year increase of
+8.2%.
+隨著消費動力恢復、消費者戶外出行增加， With the recovery of consumption motivation and the increase of
+飲料行業市場規模回升明顯，軟飲料行業多 consumers’ outdoor and travel activities, the market size of the
+元化、無糖化、健康化的發展趨勢逐步顯 beverage industry has rebounded significantly, and the market
+現。 shift toward diversified, sugar-free and healthy products within soft
+beverage industry has gradually emerged.
+2023年5月5日起，新發佈的《工業產品生產 The newly issued “Regulations on the Supervision and Management
+單位落實質量安全主體責任監督管理規定》 of Implementation of Main Responsibility of Quality and Safety of
+實施，督促企業落實主體責任，提升風險防 Industrial Product Manufacturing Units (工業產品生產單位落實質
+控能力。監管機關和消費者對產品質量的關 量安全主體責任監督管理規定)” came into effect on May 5, 2023,
+注度持續提高，堅持重視主體責任、嚴格管 driving enterprises to fulfill their primary responsibilities and enhance
+控產品質量的企業，競爭優勢將得到進一步 hazard prevention and control capabilities. As authorities and
+鞏固和發揮。 consumers pay increasing attentions to product quality, enterprises
+that consistently stress their primary responsibility and strictly control
+their products’ qualities will further consolidate and maximize their
+competitive advantages.
+5
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 7 =====
+管理層討論及分析 MANAGEMENT DISCUSSION AND ANALYSIS
+業務回顧 BUSINESS REVIEW
+2023年上半年，本集團錄得收益人民幣 In the first half of 2023, the Group recorded a revenue of RMB20,462
+20,462百萬元，較去年同期增長23.3%，其 million, representing an increase of 23.3% as compared with
+中，包裝飲用水產品的收益較去年上半年同 the corresponding period of last year, of which the revenue from
+期增長11.7%，在總收益佔比為51.0%；飲 packaged drinking water products increased by 11.7% as compared
+料產品的收益較去年同期增長38.9%，在總 with that in the first half of last year, accounting for 51.0% of the total
+收益佔比為48.4%。下表載列本集團於所示 revenue. The revenue from beverage products increased by 38.9% as
+期間各產品類別的收益和佔總收益比例明 compared with the same period of last year, accounting for 48.4% of
+細： the total revenue. The following table sets forth a breakdown of our
+revenue from each product category and their percentage of total
+revenue for the periods indicated:
+截至6月30日止6個月
+Six Months Ended June 30,
+2023年 2022年 變動
+2023 2022 Change
+收益 佔總收益 收益 佔總收益 金額
+（人民幣百萬元） 比例 （人民幣百萬元） 比例 （人民幣百萬元） 比例
+Revenue Percentage of Revenue Percentage of Amount
+產品類別 Product Category (RMB million) total revenue (RMB million) total revenue (RMB million) Percentage
+包裝飲用水產品 Packaged drinking water products 10,442 51.0% 9,349 56.3% 1,093 11.7%
+茶飲料產品 Tea beverage products 5,286 25.8% 3,307 19.9% 1,979 59.8%
+功能飲料產品 Functional beverage products 2,457 12.0% 2,023 12.2% 434 21.5%
+果汁飲料產品 Juice beverage products 1,686 8.3% 1,275 7.7% 411 32.2%
+其他產品（附註） Other products (Note) 591 2.9% 645 3.9% -54 -8.4%
+合計 Total 20,462 100.0% 16,599 100% 3,863 23.3%
+附註： 其他產品主要包括蘇打水飲料、含氣風味飲 Note: Other products primarily include other beverage products such as soda
+料、檸檬汁飲料、咖啡飲料產品等其他飲料產 water beverage, sparkling flavored beverage, lemon juice beverages, coffee
+品，及鮮果等農產品。 beverage, and agricultural products such as fresh fruits.
+包裝飲用水產品 Packaged drinking water products
+隨疫情情況好轉，人們戶外活動增加，即飲 With pandemic situation improving, consumers have increased their
+渠道的銷售狀況恢復，2023年上半年本集 outdoor activities, resulting in the recovery of consumptions in ready-
+團錄得包裝飲用水產品收益為人民幣10,442 to-drink channels. In the first half of 2023, revenue from packaged
+百萬元，較去年同期增長11.7%，佔總收益 drinking water products of the Group was RMB10,442 million,
+的51.0%。 representing an increase of 11.7% as compared with the same
+period of last year, accounting for 51.0% of the total revenue.
+6
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 8 =====
+管理層討論及分析 MANAGEMENT DISCUSSION AND ANALYSIS
+2023年農曆新年，我們繼續推出「兔」年生 During the Chinese New Year of 2023, we continued our tradition of
+肖紀念典藏版玻璃瓶裝礦泉水以及「兔」年賀 launching an anniversary edition of zodiac version of natural mineral
+歲動畫廣告《穿越寒冬，與你團圓》，向消費 water (glass bottled) in Chinese year of “Rabbit” and released an
+者傳遞「回家團圓」的美好祝願。報告期內我 animated advertisement called “To Reunite With You Through the
+們的農夫山泉飲用天然水（適合嬰幼兒）也聯 Winter (《穿越寒冬，與你團圓》)”, conveying the best wishes to
+名迪士尼推出了「兔年寶寶」限量裝和「公主 consumers that “Going Home for Reunion (回家團圓)”. During the
+系列」限量IP瓶，配合廣告宣傳片《接下來的 Reporting Period, our Nongfu Spring drinking natural water (suitable
+十二個月》，向消費者持續傳遞「天生有愛， for infants and young children) also co-branded with Disney and
+天然相伴」的品牌理念。 launched the “Bunny Baby (兔年寶寶)” limited edition and the
+“Princess Series (公主系列)” limited edition of IP-characterized
+bottles, together with the advertisement named “The Next 12 Months
+(接下來的十二個月)”, conveying to consumers the brand’s concept
+of “Born with Love, Accompanied by Nature (天生有愛，天然相伴)”.
+今年以來，我們加大了對農夫山泉各優質水 Since the beginning the year, we have stepped up the promotion
+源地的宣傳。我們推出了《世界的稀客－長 on Nongfu Spring’s various high-quality water sources. We have
+白山的雪》、《每一滴農夫山泉都有一個美 released four advertisements for our water sources, namely “Snow
+麗的水源（峨眉山篇）》、《每一滴農夫山泉都 of Changbai Mountains: Rare Visitor of the World (《世界的稀客－長
+有一個美麗的水源（太白山篇）》和《每一滴農 白山的雪》)”, “Every Drop of Nongfu Spring Has Its Source (Mount
+夫山泉都有一個美麗的水源（萬綠湖篇）》四 Emei) (《每一滴農夫山泉都有一個美麗的水源（峨眉山篇）》)”, “Every
+支水源地宣傳廣告片，通過展現各水源地的 Drop of Nongfu Spring Has Its Source (Mount Taibai) (《每一滴農夫
+自然環境、物種生態和氣候水文等，向消費 山泉都有一個美麗的水源（太白山篇）》)” and “Every Drop of Nongfu
+者宣傳農夫山泉的天然優質水源地，傳遞 Spring Has Its Source (Wanlv Lake) (《每一滴農夫山泉都有一個美麗
+「什麼樣的水源孕育什麼樣的生命」的品牌理 的水源（萬綠湖篇）》)”. By demonstrating the natural environment,
+念。同時，我們邀請廣大消費者和合作夥伴 species ecology and climate and hydrology of each water source,
+到我們遍佈全國的各優質水源地開展「尋源」 we publicise to consumers the high-quality natural water sources of
+活動，讓更多人了解「每一滴農夫山泉都有 Nongfu Spring and convey the brand philosophy that “The quality of
+一個美麗的水源」。 the water source defines the quality of life (什麼樣的水源孕育什麼樣
+的生命)”. At the meantime, we have invited consumers and partners
+to visit our high-quality water sources throughout the country for the
+“Source-tracking (尋源)” mission, so as for more people to better
+understand the essence of “Every Drop of Nongfu Spring Has Its
+Source (每一滴農夫山泉都有一個美麗的水源)”.
+7
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 9 =====
+管理層討論及分析 MANAGEMENT DISCUSSION AND ANALYSIS
+此外，我們還推出了「水管篇」廣告《越源 In addition, we have also released an advertisement centered on our
+頭，越天然》，首次將視角對準取水管道， water pipelines, named “The Closer To Source, The Better Water We
+講述為了追求取自源頭的天然好水，從 Gain (《越源頭，越天然》)”, for the first time zooming in on our water
+1996年舖設第一條水管開始，農夫山泉就 intake pipelines and telling the story that in order to get better water
+堅持源頭取水，28年來在全國修建了43根 from the natural source, since the first water pipe was laid in 1996,
+飲水管道，總長約300公里，最高海拔約 Nongfu Spring has persisted on intaking water from the very source
+1,400米，最長約98公里，最深水下約45 and built 43 water pipelines across the country over the past 28
+米、地下約1,000米，最大落差約400米， years, with a total length of approximately 300 kilometres, with the
+「向前一米，只為更安全、更天然」。通過展 highest altitude at approximately 1,400 metres, the longest length for
+示管道環境和為修建管道克服的艱難險阻， approximately 98 kilometres, the deepest depth at approximately 45
+讓消費者看到農夫山泉為了給消費者提供更 metres underwater and approximately 1,000 metres underground,
+優質的飲用水產品而付出的艱辛，從而更加 and the maximum drop of approximately 400 metres, demonstrating
+了解農夫山泉產品的差異性，並進一步體會 the company’s determination that “Making one metre forward,
+農夫山泉通過數十年如一日的堅持所打造的 only to be safer and more natural (「向前一米，只為更安全、更天
+不可複製的全國水源地戰略佈局實力。 然」)”. Through showcasing the environment of the pipelines and
+the difficulties and obstacles encountered during their construction,
+Nongfu Spring has revealed to consumers the great efforts for
+providing them with drinking water products of superior quality. In
+turn, the consumers would further identify with the differentiation
+of Nongfu Spring’s products, and further appreciate the strength
+of Nongfu Spring’s unrepeatable strategic layout of the nation-
+wide water sources, which has been created through decades of
+persistence.
+茶飲料產品 Tea beverage products
+我們的茶飲料產品進一步獲得消費者的喜 Our tea beverage products have further gained favor from
+愛，報告期內錄得收益人民幣5,286 百萬 consumers. During the Reporting Period, we recorded a revenue of
+元，較去年同期增長59.8%，佔總收益的 RMB5,286 million, representing an increase of 59.8% as compared
+25.8%。 with the same period of last year, accounting for 25.8% of the total
+revenue.
+報告期內，「東方樹葉」持續立足產品創新， During the Reporting Period, “Oriental Leaf (東方樹葉)” continued
+傳播中國茶文化。今年3月春季限定產品「龍 focusing on product innovation and promoting Chinese tea culture.
+井新茶」再度回歸，以其明前特級龍井的優 In March this year, the spring limited product “Longjing Spring Tea
+質原料，打造出媲美現泡龍井茶的口感體 (龍井新茶)” returned to shelves with its high quality raw materials of
+驗。5月「東方樹葉」新口味「黑烏龍」上市， premium Longjing tea picked before the Ching Ming Festival, creating
+進一步完善「東方樹葉」在茶產品的品類佈 a taste experience comparable to the freshly-brewed Longjing tea. In
+局。 May, “Black Oolong Tea (黑烏龍)”, a new flavor of “Oriental Leaf (東
+方樹葉)”, was launched to further enrich the product mix of “Oriental
+Leaf (東方樹葉)” in the tea sector.
+8
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 10 =====
+管理層討論及分析 MANAGEMENT DISCUSSION AND ANALYSIS
+「茶π」繼續加強與年輕消費者的溝通。我們 “Tea π (茶π)” has continued to strengthen its communication with
+開展了「Welcome茶π美好世界」藝術營銷 young consumers. We initiated an artistic marketing campaign
+活動，在全球範圍內與各地插畫藝術家合作 known as “Welcome to the Wonderful World of Tea π (Welcome茶π
+舉辦品牌畫展，並開展全民性的標簽插畫徵 美好世界)”, hosting branded art exhibitions in cooperation with local
+集，以美好故事和插畫藝術的形式持續與新 illustration artists around the world and launching campaign calling
+一代年輕人溝通，進一步夯實「茶π」新世代 for label illustrations from the public, in order to keep communicating
+果味茶的定位。 with the new generation of young people in the form of beautiful
+stories and illustration art, aiming at further solidifying the positioning
+of “Tea π (茶π)” as a new-generation fruit-flavored tea.
+功能飲料產品 Functional beverage products
+我們的功能飲料產品繼續堅持創新，報告期 Our functional beverage products is continuously persisting in
+內錄得收益為人民幣2,457百萬元，較去年 innovation. During the Reporting Period, we recorded a revenue of
+同期增長21.5%，佔總收益的12.0%。 RMB2,457 million, representing an increase of 21.5% as compared
+with the same period of last year, accounting for 12.0% of the total
+revenue.
+報告期內，「力量帝」維他命水推出「西梅桃 During the Reporting Period, “Victory (力量帝)” Vitamin Water
+子風味」和「柚子複合風味」兩款新口味，並 launched two new flavors, namely “Prune and peach flavor” and
+通過開展「新口味，新活力」嘗鮮活動、品 “Mixed pomelo flavor”, and reached out to the trendy circles through
+牌街舞賽事「VBD國際街舞大賽」等一系列活 a series of activities such as the “New Flavor, New Vitality (新口味，
+動，深入潮流圈層，為年輕人帶來活力維他 新活力)” tasting campaign and the “V-Break Dance Battle (VBD國
+命。「尖叫」飲料則與中國大學生籃球聯賽聯 際街舞大賽)” branded street dance battle, in a bid to bring vibrant
+合，持續以「冠軍補水，等滲尖叫」向消費者 vitamin to young people. In collaboration with the Chinese University
+宣傳「等滲尖叫」在運動補水領域的專業性。 Basketball League (CUBAL), “Scream (尖叫)” beverage continued to
+promote to the consumers for the in-sports hydration expertise of
+“Isotonic Scream (等滲尖叫)” known as “Isotonic Scream, Hydration
+Choice of Champions (冠軍補水，等滲尖叫)”.
+果汁飲料產品 Juice beverage products
+我們的果汁飲料產品進一步獲得市場認可， Our juice beverage products were further recognized by the market.
+報告期內錄得收益為人民幣1,686百萬元， During the Reporting Period, we recorded a revenue of RMB1,686
+較去年同期增長32.2%，佔總收益的8.3%。 million, representing an increase of 32.2% as compared with the
+same period of last year, accounting for 8.3% of the total revenue.
+2023年上半年，我們開展了「VC保護」主題 In the first half of 2023, we initiated a “VC Supporting” themed
+傳播，「水溶C100」能補充成人每日所需維 promotion campaign, popularizing the concept that “Water Soluble
+生素C，符合後疫情時代消費者更加重視補 C100 (水溶C100)” replenishes an adult’s daily requirement for
+充維生素的需求。而「農夫果園」煥新包裝 Vitamin C, which is in line with consumers’ demand for vitamin
+也獲得消費者進一步認可。「NFC」果汁和 supplementation in the post pandemic era. The new packaging of
+「17.5°」果汁則繼續深化與鮮果的聯合，以 the “Farmer’s Orchard (農夫果園)” was also further recognized by
+「擁有自己鮮果品牌的NFC果汁」的差異化 consumers. “NFC” juice and “17.5°” juice continued to deepen their
+宣傳，進一步強化農夫山泉「NFC」果汁和 alliance with fresh fruits with the differentiated promotion of “NFC
+「17.5°」果汁天然、健康的產品屬性，深化 juice that owns its own brand of fresh fruits”. All these efforts further
+從源頭做好果汁的高端定位。 strengthened the natural and healthy product attributes of Nongfu
+Spring’s “NFC” juice and “17.5°” juice, and reinforced its high-end
+positioning of making good juices from the source.
+9
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 11 =====
+管理層討論及分析 MANAGEMENT DISCUSSION AND ANALYSIS
+其他產品 Other products
+報告期內，我們繼續執行聚焦重點品項的策 During the Reporting Period, we have continued with our strategy of
+略，其他產品（主要包括蘇打水飲料、含氣 focusing on the core items. Other products (mainly including soda
+風味飲料、檸檬汁飲料、咖啡飲料等其他飲 water beverage, sparkling flavored beverage, lemon juice beverages,
+料產品，及鮮果等農產品）錄得收益為人民 coffee beverage, as well as agricultural products such as fresh fruits
+幣591百萬元，較去年同期下降8.4%，佔總 etc.) recorded a revenue of RMB591 million, representing a decrease
+收益的2.9%。 of 8.4% as compared with the same period of last year, accounting
+for 2.9% of the total revenue.
+報告期內，我們還推出了新產品「大檸檬」系 During the Reporting Period, we also launched a new product, “the
+列飲料，產品創新使用鮮榨檸檬汁，並特別 Big Lemon (大檸檬)” series of beverages, which innovatively uses
+保留了整果壓榨產生的檸檬皮油，使其具有 freshly squeezed lemon juice and particularly retains the lemon peel
+接近真實檸檬的口味和清香。 oil produced by whole fruit squeeze, giving it a taste and fragrance
+similar to real lemons.
+展望 Outlook
+從全年看，在中國，隨經濟恢復及內需拉動 Looking ahead toward the whole year, consumption in China is
+逐步增強，消費有望繼續擴大。但世界局勢 expected to continuously expand as the economy recovers and the
+仍複雜嚴峻，全球主要經濟體宏觀經濟走勢 domestic demand gradually increases. However, the world situation
+和政策分化，世界經濟增長持續放緩，通脹 remains complex and severe, with macroeconomic trends and
+壓力依然較大。我們會繼續加強成本控制和 policies of major economies around the world diverging, the world’s
+風險管理，積極抓住市場機遇，謹慎應對各 overall economic growth continuing to slow down and inflationary
+種挑戰。 pressures remaining relatively strong. We will continue to strengthen
+our cost control and risk management systems, proactively seize
+market opportunities and prudently respond to various challenges.
+財務回顧 FINANCIAL REVIEW
+收益及毛利 Revenue and Gross Profit
+報告期內本集團錄得收益人民幣20,462百萬 During the Reporting Period, the Group recorded a revenue of
+元，較去年上半年的人民幣16,599百萬元 RMB20,462 million, representing an increase of 23.3% as compared
+增長23.3%；毛利為人民幣12,310百萬元， with RMB16,599 million in the first half of last year; and the gross
+較去年上半年的人民幣9,838 百萬元增長 profit was RMB12,310 million, representing an increase of 25.1% as
+25.1%。報告期內本集團PET採購成本因國 compared with RMB9,838 million in the first half of last year. During
+際原油價格變動而有提升，但紙箱、標簽及 the Reporting Period, the Group’s PET procurement costs increased
+部分飲料內容物的原料採購成本與去年同期 as a result of changing international crude oil prices, whereas, the
+相比有所下降，基於此，本集團毛利率由去 procurement costs of paper cartons, labels and some beverage
+年同期的59.3%上升0.9%至60.2%。 contents decreased as compared with the same period of last year.
+Based on this, the Group’s gross profit margin increased from 59.3%
+in the corresponding period of last year by 0.9% to 60.2%.
+10
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 12 =====
+管理層討論及分析 MANAGEMENT DISCUSSION AND ANALYSIS
+銷售及分銷開支 Selling and Distribution Expenses
+報告期內本集團銷售及分銷開支為人民幣 During the Reporting Period, the selling and distribution expenses of
+4,695百萬元，較去年上半年的人民幣3,612 the Group amounted to RMB4,695 million, representing an increase
+百萬元增加30.0%，這主要是由於提升了廣 of 30.0% as compared with RMB3,612 million in the first half of
+告和市場營銷的投入。報告期內本集團銷售 last year, which was mainly due to the increase in advertising and
+及分銷開支佔總收益的22.9%，較去年上半 marketing spending. During the Reporting Period, the selling and
+年的21.8%上升1.1%。 distribution expenses of the Group accounted for 22.9% of the total
+revenue, representing an increase of 1.1% as compared with 21.8%
+in the first half of last year.
+行政開支 Administrative Expenses
+報告期內本集團的行政開支為人民幣959 During the Reporting Period, the administrative expenses of the
+百萬元，較去年上半年的人民幣876百萬 Group amounted to RMB959 million, representing an increase of
+元增加9.4%，行政開支佔總收益的佔比為 9.4% as compared with RMB876 million in the first half of last year.
+4.7%，較去年上半年的5.3%降低0.6%。 The proportion of administrative expenses to total revenue amounted
+to 4.7%, representing a decrease of 0.6% as compared with 5.3% in
+the first half of last year.
+其他收入及收益 Other Income and Gains
+報告期內本集團其他收入及收益為人民幣 During the Reporting Period, other income and gains of the Group
+901百萬元，較去年上半年的人民幣751百 amounted to RMB901 million, representing an increase of 19.9%
+萬元上升19.9%，佔總收益的4.4%，主要 as compared with RMB751 million in the first half of last year, and
+為募集資金獲得的外幣帶來的匯兌收益和存 accounting for 4.4% of the total revenue, which was mainly due to
+放於銀行的定期存款帶來的利息收入變動 the exchange gains caused by the foreign currencies from the initial
+導致。報告期內匯兌收益約人民幣158百萬 public offering proceeds and the increased interest income from time
+元。截至2023年6月30日，本集團持有港幣 deposits placed with banks. During the Reporting Period, exchange
+1,478百萬元、美元450百萬元以及少量其他 gains amounted to approximately RMB158 million. As of June 30,
+外幣，比2022年12月31日持有港幣1,469百 2023, the Group held HK$1,478 million, US$450 million and a small
+萬元、美元443百萬元以及少量其他外幣， amount of other foreign currencies, which remained essentially
+基本不變。 unchanged as compared with HK$1,469 million, US$443 million and
+a small amount of other foreign currencies held in December 31,
+2022.
+財務費用 Finance Costs
+報告期內本集團財務費用由去年同期的人民 During the Reporting Period, the finance costs of the Group slightly
+幣22百萬元增加至人民幣30百萬元，略有 increased from RMB22 million in the corresponding period of last
+增加。 year to RMB30 million.
+期內利潤 Profit for the Period
+基於以上變動，報告期本集團利潤由去年上 As a result of the aforementioned changes, profit of the Group during
+半年的人民幣4,608百萬元增加25.3%至人 the Reporting Period was increased by 25.3% from RMB4,608
+民幣5,775百萬元。 million in the first half of last year to RMB5,775 million.
+11
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 13 =====
+管理層討論及分析 MANAGEMENT DISCUSSION AND ANALYSIS
+股息 Dividends
+董事會決議不宣派截至2023年6月30日止六 The Board resolved not to declare an interim dividend for the six
+個月的中期股息。 months ended June 30, 2023.
+長期銀行定期存款、質押存款、現金、銀行 Long-term Bank Deposits, Pledged Deposits, Cash, Bank
+結餘及借款 Balances and Borrowings
+於2023年6月30日，本集團的長期銀行定期 As of June 30, 2023, the sum of long-term bank deposits, pledged
+存款、質押存款、現金及銀行結餘總額為 deposits, cash and bank balances of the Group amounted to
+人民幣27,477百萬元，較2022年12月31日 RMB27,477 million, representing an increase of 42.2% as compared
+的人民幣19,316百萬元增加42.2%。本集 with RMB19,316 million as of December 31, 2022. The total credit
+團於2023年6月30日的授信總額度為人民幣 facility of the Group was RMB14,030 million and interest-bearing
+14,030百萬元，計息借貸為人民幣3,920百 borrowings amounted to RMB3,920 million as of June 30, 2023,
+萬元，較2022年12月31日的人民幣2,425百 representing an increase of 61.6% as compared with RMB2,425
+萬元增加61.6%，截至2023年6月30日已償 million as of December 31, 2022, with due repayment of a total
+還到期總金額人民幣4,425百萬元。所有借 amount of RMB4,425 million as of June 30, 2023. All of the
+款均以人民幣計值。截至2023年6月30日的 borrowings are denominated in RMB. Among the total borrowings as
+借款總額中，按固定利率收取的借款金額 of June 30, 2023, the borrowings of RMB100 million were charged
+為人民幣100百萬元（不含銀行承兌匯票貼 at a fixed interest rate (not including discounted bank acceptances).
+現）。本集團並無實施任何利率對沖政策。 The Group does not have any interest rate hedging policy.
+存貨 Inventories
+報告期內我們聚焦重點品項、提升經營效 During the Reporting Period, we focused on our key items and
+率，本集團的存貨由2022年12月31日的人 improved operational efficiency. Inventories of the Group increased
+民幣2,108百萬元增加至2023年6月30日的 from RMB2,108 million as at December 31, 2022 to RMB2,393
+人民幣2,393百萬元。存貨周轉天數由2022 million as at June 30, 2023. Inventory turnover days decreased from
+年12月31日的50.5天減少至2023年6月30日 50.5 days as at December 31, 2022 to 50.4 days as at June 30,
+的50.4天。 2023.
+貿易應收款項及應收票據 Trade and Bills Receivables
+本集團的貿易應收款項及應收票據由2022 Trade and bills receivables of the Group increased from RMB479
+年12月31日的人民幣479百萬元增加至2023 million as at December 31, 2022 to RMB603 million as at June 30,
+年6月30日的人民幣603百萬元。貿易應收 2023. Trade and bills receivables turnover days decreased from 5.2
+款項及應收票據周轉天數從2022年的5.2天 days in 2022 to 4.8 days in the first half of 2023.
+減少至2023年上半年的4.8天。
+貿易應付款項及應付票據 Trade and Bills Payables
+本集團的貿易應付款項及應付票據由2022 Trade and bills payables of the Group increased from RMB1,425
+年12月31日的人民幣1,425百萬元增加至 million as at December 31, 2022 to RMB1,754 million as at June 30,
+2023年6月30日的人民幣1,754百萬元。貿 2023. Trade and bills payables turnover days increased from 33.3
+易應付款項與應付票據周轉天數從2022年 days in 2022 to 35.6 days in the first half of 2023.
+的33.3天增加至2023年上半年的35.6天。
+12
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 14 =====
+管理層討論及分析 MANAGEMENT DISCUSSION AND ANALYSIS
+資本負債比率 Gearing Ratio
+於2023年6月30日，本集團資本負債比 As at June 30, 2023, the gearing ratio of the Group (equaling
+率（等於（計息借貸+租賃負債）╱權益）為 (interest-bearing borrowings + lease liabilities)/equity) was 18.0%
+18.0%（報告期內本集團無少數股東權益）， (there was no minority equity in the Group during the Reporting
+比2022年12月31日本集團的資本負債比率 Period), representing an increase as compared with the gearing ratio
+10.5%有所上升，這主要由於我們提高了應 of the Group as at December 31, 2022 being 10.5%, mainly due to
+收票據融資的使用。 our increased use of bills receivable financing.
+庫務政策 Treasury Policy
+本集團針對其庫務政策採取審慎的財務管理 The Group adopts a prudent financial management approach for
+方法，確保本集團的資產、負債及其他承擔 its treasury policy to ensure that the Group’s liquidity structure
+的流動資金構架始終能夠滿足其資金需求。 comprising assets, liabilities and other commitments is able to
+always meet its capital requirements.
+報告期後重大事項 MATERIAL EVENTS AFTER THE REPORTING PERIOD
+自2023年6月30日起直至本報告日期，本集 There have been no material events of the Group from June 30,
+團並無發生任何重大事項。 2023 until the date of this report.
+外匯風險 FOREIGN EXCHANGE RISK
+截至2023 年6月30日，本集團持有港幣 As of June 30, 2023, the Group held HK$1,478 million, US$450
+1,478百萬、美元450百萬以及少量其他外 million and a small amount of other foreign currencies. As of the
+幣。截至本報告日期，美元和港幣兌人民幣 date of this report, the exchange rates of the U.S. dollar and the
+匯率均有所上升，但仍需關注外匯市場進一 Hong Kong dollar against RMB have both increased, but we still
+步動向。本集團會密切監察我們的外匯風 need to monitor the further trends in the foreign exchange market.
+險，並會在有需要時通過適當金融工具做對 The Group will closely monitor our foreign exchange risks and will
+沖用途，以助降低外匯風險。 utilize appropriate financial instruments for hedging purposes when
+necessary to help reduce foreign exchange risks.
+或有負債 CONTINGENT LIABILITIES
+截至2023年6月30日，本集團無任何重大或 As of June 30, 2023, the Group did not have any significant
+有負債。 contingent liabilities.
+資本承諾 CAPITAL COMMITMENTS
+於2023年6月30日，本集團的資本承諾約為 Capital commitments of the Group amounted to approximately
+人民幣1,788百萬元，主要用於建設生產廠 RMB1,788 million as at June 30, 2023, mainly used for construction
+房、購置生產設備。 of production plants and purchase of production equipment.
+資產抵押 PLEDGE OF ASSETS
+於2023年6月30日，本集團並無就任何集團 As at June 30, 2023, no assets of the Group were pledged by the
+資產抵押。 Group.
+重大投資、重大收購及出售事項 SIGNIFICANT INVESTMENT, MATERIAL
+ACQUISITION AND DISPOSAL
+報告期內本集團並無持有任何重大投資，亦 The Group did not have any significant investments held, or
+無任何有關附屬公司、聯營公司及合營企業 any material acquisition or disposal of any relevant subsidiaries,
+的重大收購或出售事項。 associates and joint ventures during the Reporting Period.
+13
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 15 =====
+管理層討論及分析 MANAGEMENT DISCUSSION AND ANALYSIS
+未來重大投資或資本資產計劃 FUTURE PLAN FOR MATERIAL INVESTMENTS OR
+CAPITAL ASSETS
+於本報告日期，除本公司於2020年8月25日 As at the date of this report, save for the “Future Plans and Use of
+刊發的招股書（「招股書」）中披露的「未來計 Proceeds” disclosed in the prospectus issued by the Company on
+劃及所得款項用途」外，本集團現時沒有計 August 25, 2020 (the “Prospectus”), the Group did not have any
+劃取得其他重大投資或資本資產。 existing plan for acquiring other material investments or capital assets.
+人力資源與酬金政策 HUMAN RESOURCES AND EMOLUMENT POLICY
+於2023年6月30日，本集團員工總人數超過 As at June 30, 2023, the total number of employees of the Group
+2萬名，報告期內員工福利開支總額（包括 exceeded 20,000. During the Reporting Period, the total employee
+董事酬金）為人民幣1,850百萬元。我們始終 benefit expenses (including directors’ remuneration) amounted to
+堅信本集團的長期增長取決於員工的專業知 RMB1,850 million. We always believes that long-term growth of
+識、能力及發展，我們積極完善人才選拔培 the Group depends on the expertise, experience and development
+養機制，提高員工的整體競爭力和對本集團 of our employees. We proactively optimize the talent selection and
+的歸屬感。本集團的員工薪金及福利水平參 cultivation system in order to improve the general competitiveness
+考市場以及個人資歷及能力而定，並設立績 of our employees and their sense of belongings to the Group.
+效獎金等激勵機制。績效獎金會根據本集團 The remuneration and benefits for employees of the Group are
+達成的收益、利潤等目標以及員工所在組織 determined with reference to the market standards as well as
+的績效、員工個人的績效評核發放，並嘉許 individual qualification and experience, performance bonus and
+及鼓勵為本集團業務作出傑出貢獻的組織、 other incentive systems are established. Performance bonuses are
+員工，整體薪資政策具有競爭力。 paid based on the Group’s revenue and profit targets, as well as the
+performance of the organisation in which the employee works and
+the performance of the individual employee, and to recognise and
+encourage outstanding contributions to the Group’s business. Our
+overall remuneration policy is competitive.
+為完善公司激勵機制，留住關鍵員工，牽引 In order to improve the Company’s incentive mechanism, retain
+公司業務的可持續發展等，經2022年1月14 key employees and promote sustainable growth of the Company’s
+日召開的臨時股東大會審議通過，本公司已 performance, as approved in the extraordinary general meeting held
+於2022年採納員工股權激勵計劃，以激勵 in January 14, 2022, the Company has adopted the employee share
+對本集團經營業績和未來發展發揮重要作用 incentive scheme in 2022 to incentivize management personnel and
+的管理人員和核心技術專家。根據員工股權 core technical experts who play an important role in the Group’s
+激勵計劃，受託人在員工股權激勵計劃存續 business performance and future development. According to the
+期間根據員工股權激勵計劃可不時獲得和持 employee share incentive scheme, the maximum number of H
+有的H股最高數量不得超過本公司於採納日 Shares that the trustee can acquire and hold from time to time under
+已發行股本總額的5%，且非經股東大會特 the employee share incentive scheme throughout the duration of the
+別決議批准，任何一名激勵對象通過員工股 employee share incentive scheme shall not exceed 5% of the total
+權激勵計劃累計獲得的本公司H股總量，不 issued share capital of the Company as at the date of adoption, and
+超過本公司股本總額的1%。2022年3月， without the approval by a special resolution at the general meeting,
+本公司根據員工股權激勵計劃實施了授予， the total number of H shares of the Company obtained by any
+所授予激勵份額對應本公司H股數量共計為 scheme participant through the employee share incentive scheme
+6,636,400股，佔本公司已發行股份總數的 shall not exceed 1% of the total share capital of the Company. In
+0.059%及佔本公司已發行H股的0.1318%。 March 2022, the awards granted by the Company according to
+該次授予激勵份額的授予價格根據員工股權 the employee share incentive scheme correspond to 6,636,400 H
+激勵計劃的規定，為授予日前一百二十個 shares of the Company, accounting for 0.059% of the total issued
+香港交易日本公司H股收盤價均值的百分之 shares of the Company and 0.1318% of the issued H shares of
+三十，即每激勵份額13.22港元。該次授予 the Company. Pursuant to the provisions of the employee share
+14
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 16 =====
+管理層討論及分析 MANAGEMENT DISCUSSION AND ANALYSIS
+的108名激勵對象包括本公司董事（「董事」） incentive scheme, the grant price under the grant of the awards is
+向咸松先生和韓林攸女士、監事（「監事」） 30% of the average closing price of the Company’s H shares in the
+饒明紅先生和劉熹悅先生。其中向咸松先 120 Hong Kong trading days before the grant date, being HK$13.22
+生獲授予的激勵份額對應本公司H股數量為 per incentive share. The 108 scheme participants in the grant
+108,000股、韓林攸女士獲授予的激勵份額 include Mr. Xiang Xiansong and Ms. Han Linyou, the directors of the
+對應本公司H股數量為90,800股、饒明紅先 Company (“Director(s)”), Mr. Rao Minghong and Mr. Liu Xiyue, the
+生和劉熹悅先生二人各自獲授予的激勵份額 supervisors of the Company (“Supervisor(s)”), in which, the awards
+對應本公司H股數量為99,000股；以及1名 granted to Mr. Xiang Xiansong correspond to 108,000 H shares of
+養生堂集團員工，獲授予激勵份額對應本公 the Company, the awards granted to Ms. Han Linyou correspond
+司H股數量為39,600股，該名員工在參與養 to 90,800 H shares of the Company, the awards granted to each
+生堂集團向本集團提供IT服務的關連交易項 of Mr. Rao Minghong and Mr. Liu Xiyue correspond to 99,000 H
+目時，為本集團信息系統建設做出了重大貢 shares of the Company; and 1 employee of Yangshengtang Group,
+獻（該員工已於2023年調入本集團）；其餘 the awards granted correspond to 39,600 H shares of the Company
+103名激勵對象全部為本集團員工，且不包 (such employee made significant contributions to the construction
+含本公司的董事、監事、其他關連人士及本 of the information system of the Group during the participation in
+公司H股上市前一日（即2020年9月7日）登記 the connected transaction project where Yangshengtang Group
+於本公司股東名冊的股東。員工股權激勵計 provided IT services to the Group and was transferred to the Group
+劃有效期為10年，截至本報告日，員工股權 in 2023). The remaining 103 scheme participants are all employees
+激勵計劃有效期還剩餘約8年。於2022年4 of the Group, excluding the Directors, Supervisors, other connected
+月，該次授予的激勵股份中，有2,610,000 persons of the Company and shareholders registered in the register
+股已達成第一期歸屬條件而歸屬於相應的激 of members of the Company on the day before the listing of the
+勵對象，剩餘44,184股未符合歸屬條件的激 Company’s H Shares (being September 7, 2020). The employee
+勵股份作為沒收股份。相關詳情可參見本公 share incentive scheme is valid for 10 years, and as of the date of this
+司2021年和2022年年度報告相關內容。 report, the validity period of the employee share incentive scheme
+has about 8 years left. In April 2022, among the incentive shares
+under the grant, 2,610,000 incentive shares have met the conditions
+for the first tranche vesting and belonged to the corresponding
+scheme participants, while the remaining 44,184 incentive shares
+that did not meet the vesting conditions have become forfeit shares.
+For details, please refer to the relevant content in the 2021 and 2022
+annual reports of the Company.
+於2023年4月，該次授予的激勵股份中有 In April 2023, among the incentive shares under the grant, 1,708,200
+1,708,200股激勵股份已達成第二期歸屬條 incentive shares have met the conditions for the second tranche
+件而歸屬於相應的激勵對象，285,048股未 vesting and belonged to the corresponding scheme participants,
+達到歸屬條件而成為沒收股份，此外還有 while the remaining 285,048 incentive shares that did not meet the
+102,760股因相關員工發生離職降職等退出 vesting conditions have become forfeit shares. In addition, 102,760
+情形而成為沒收股份。沒收股份已由公司指 incentive shares have become forfeit shares due to the resignation
+示受託人在公開市場上按市價出售，出售所 and demotion of relevant employees. The Company had instructed
+得款項在付還員工認購授予份額時支付的自 the trustee to sell the forfeit shares at the market price in the open
+有資金出資後，由受託人留存及併入信託資 market. The proceeds from the disposal of the forfeit shares, after
+金池，用於未來在員工股權激勵計劃實施期 repaying the self-owned capital contribution paid by the employees
+間進一步購買激勵股份。於報告期內，本公 when subscribing for the granted shares, will be retained by the
+司未授出新的激勵份額。 trustee and incorporated into the trust fund pool for further purchase
+of incentive shares during the implementation of the employee share
+incentive scheme in the future. During the Reporting Period, the
+Company did not grant any new award.
+15
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 17 =====
+管理層討論及分析 MANAGEMENT DISCUSSION AND ANALYSIS
+有關董事及監事、關連實體參與者及其他僱 Particulars of the interests of the Directors and supervisors,
+員參與者獲授予及歸屬激勵股份的權益詳情 connected entity participants and other employee participants in the
+載列如下： award shares granted and vested are set out below:
+於2023年 於2023年
+報告期內的 1月1日 6月30日
+歸屬日期前 尚未歸屬的 報告期內 報告期內 尚未歸屬的
+激勵對象姓名╱ 授予價格 獲授予激勵 股價（港幣） 激勵股份 歸屬的 沒收的 激勵股份
+類別 授予日 （港幣） 股份數量 已歸屬日期 （附註1） 剩餘歸屬日期 數量 股份數量 股份數量 數量
+Share
+price prior
+to vesting Number Number
+date of award Number Number of award
+during the shares of shares of shares shares
+Number Reporting unvested vested forfeited unvested
+Name/Class Price of of award Period as at during the during the as at
+of scheme grant shares (HKD) Remaining January 1, Reporting Reporting June 30,
+participants Date of grant (HKD) granted Vested date (note 1) vesting date 2023 Period Period 2023
+向咸松（董事） 2022年3月29日 13.22 108,000 2022年4月29日 42.20 2024年4月最後 64,800 32,400 0 32,400
+Xiang Xiansong March 29, 2022 及2023年 一個交易日
+(Director) 4月28日 （附註2）
+April 29, 2022 Last trading day
+and April 28, in April 2024
+2023 (note 2)
+韓林攸（董事） 2022年3月29日 13.22 90,800 2022年4月29日 42.20 2024年4月最後 54,568 27,200 0 27,368
+Han Linyou March 29, 2022 及2023年 一個交易日
+(Director) 4月28日 （附註2）
+April 29, 2022 Last trading day
+and April 28, in April 2024
+2023 (note 2)
+饒明紅（監事） 2022年3月29日 13.22 99,000 2022年4月29日 42.20 2024年4月最後 59,400 29,800 0 29,600
+Rao Minghong March 29, 2022 及2023年 一個交易日
+(Supervisor) 4月28日 （附註2）
+April 29, 2022 Last trading day
+and April 28, in April 2024
+2023 (note 2)
+16
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 18 =====
+管理層討論及分析 MANAGEMENT DISCUSSION AND ANALYSIS
+於2023年 於2023年
+報告期內的 1月1日 6月30日
+歸屬日期前 尚未歸屬的 報告期內 報告期內 尚未歸屬的
+激勵對象姓名╱ 授予價格 獲授予激勵 股價（港幣） 激勵股份 歸屬的 沒收的 激勵股份
+類別 授予日 （港幣） 股份數量 已歸屬日期 （附註1） 剩餘歸屬日期 數量 股份數量 股份數量 數量
+Share
+price prior
+to vesting Number Number
+date of award Number Number of award
+during the shares of shares of shares shares
+Number Reporting unvested vested forfeited unvested
+Name/Class Price of of award Period as at during the during the as at
+of scheme grant shares (HKD) Remaining January 1, Reporting Reporting June 30,
+participants Date of grant (HKD) granted Vested date (note 1) vesting date 2023 Period Period 2023
+劉熹悅（監事） 2022年3月29日 13.22 99,000 2022年4月29日 42.20 2024年4月最後 59,400 26,800 2,970 29,630
+Liu Xiyue March 29, 2022 及2023年 一個交易日
+(Supervisor) 4月28日 （附註2）
+April 29, 2022 Last trading day
+and April 28, in April 2024
+2023 (note 2)
+關連實體參與者 2022年3月29日 13.22 39,600 2022年4月29日 42.20 2024年4月最後 23,800 10,600 1,188 12,012
+（附註3） March 29, 2022 及2023年 一個交易日
+Connected entity 4月28日 （附註2）
+participants April 29, 2022 Last trading day
+(note 3) and April 28, in April 2024
+2023 (note 2)
+其他僱員參與者 2022年3月29日 13.22 6,200,000 2022年4月29日 42.20 2024年4月最後 3,720,248 1,581,400 383,650 1,755,198
+合計 March 29, 2022 及2023年 一個交易日
+Other employee 4月28日 （附註2）
+participants in April 29, 2022 Last trading day
+aggregate and April 28, in April 2024
+2023 (note 2)
+附註： Notes:
+(1) 為本公司股份在緊接2023年4月28日之前，即 (1) The closing price of the Company’s shares immediately prior to April 28,
+2023年4月27日的收市價。 2023, i.e. on April 27, 2023.
+(2) 任何上海證券交易所、深圳證券交易所及香港 (2) Any day other than a day on which the securities on the Shanghai Stock
+聯合交易所有限公司（「聯交所」）根據法律有權 Exchange, the Shenzhen Stock Exchange and The Stock Exchange of
+或必須停止證券交易的日期以外的任何日期。 Hong Kong Limited (the “Stock Exchange”) are authorized or required by
+law to close trading.
+(3) 該員工原為養生堂集團員工，已於2023年調 (3) The employee was originally an employee of Yangshengtang Group and
+入本集團。 was re-designated to the Group in 2023.
+17
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 19 =====
+管理層討論及分析 MANAGEMENT DISCUSSION AND ANALYSIS
+環境、社會與管治 ENVIRONMENT, SOCIAL AND GOVERNANCE
+本集團立足於健全的公司治理，秉持天然、 Based on its robust corporate governance, the Group always
+健康的品牌理念，深懷對自然環境的敬畏之 respects the environment, reflecting its commitment to the natural
+心，保障全體員工的合法權益，投身社會公 and healthy brand philosophy. In the Group, legitimate rights and
+益事業，與周邊社區攜手共進，為建設低碳 interests of employees are protected. We also devote ourselves to
+綠色的美好未來持續貢獻自身力量。2023 community services by working with communities where we operate
+年4月14日，我們發佈了農夫山泉《2022可 to contribute to a low-carbon and green future. On April 14, 2023,
+持續發展報告（ESG報告）》。 we released 2022 Sustainability Report (ESG Report) of Nongfu
+Spring.
+在企業管治方面，我們致力於通過與自身 In terms of corporate governance, we are committed to continuously
+價值觀相契合的治理實踐，持續夯實農夫 consolidating the cornerstone of our business ecosystem through
+山泉商業生態的基石。我們繼續精進由董事 governance practices that are in line with our own values. We
+會擔任最高領導者的三級ESG治理架構，為 further improved the three-level ESG governance structure with the
+集團可持續發展提供頂層驅動力與一綫執行 Board of Directors as the top leader so that more top-level driving
+力。我們完善了以《可持續發展公共政策》為 forces are provided for our sustainable development and front-line
+總領的集團可持續發展管理體系，制定健全 employees faithfully and efficiently execute the Group’s sustainable
+有效的政策制度，統籌引領集團可持續發展 development-related initiatives. Our sustainable development
+工作。我們依託於《反貪污政策》、《舉報政 management system, which is underpinned by the Sustainable
+策》、《農夫山泉員工商業行為準則》等內部 Development Public Policy, was improved, and a sound and effective
+制度，明確對全體員工及各類合作夥伴在商 policy system was established, serving as the guiding principle of
+業道德方面的要求，實現商業行為準則全簽 our sustainability efforts. In our internal systems such as the Anti-
+署、反貪腐培訓全覆蓋，保障集團合法合規 corruption Policy, the Whistleblowing Policy and the Nongfu Spring
+運營與廉潔管理。 Employee Code of Business Conduct, we clarified our business
+ethics requirements for all employees and various partners. Each of
+our employees and partners signed the business code of conduct
+and all of them participated in the anti-corruption trainings, ensuring
+legal and compliant operation and integrity management throughout
+the Group.
+在應對氣候變化與環境保護方面，我們聚 When it comes to our response to climate change and environmental
+焦於農夫山泉可持續發展戰略目標，即「以 protection, we focused our efforts on our strategic goal of sustainable
+2019年為基準，2030年碳排放強度下降 development, that is, “carbon emission intensity and comprehensive
+20%，綜合能耗強度下降20%；以2020年為 energy consumption intensity will fall by 20% respectively by 2030
+基準，2030年用水強度下降20%；到2025 against 2019 baseline; water use intensity will fall by 20% by 2030
+年，實現水和飲料產品塑料包裝100%可回 against 2020 baseline; and plastic packaging for water and beverage
+收╱可重複使用╱可用作堆肥」，進行持續 product will become 100% recyclable/reusable/compostable by
+努力。節能減排方面，我們堅持低碳生產， 2025”. In terms of energy conservation and emission reduction, we
+推廣清潔能源，打造可持續供應鏈，全面管 conducted comprehensive climate change risks and opportunities
+理氣候變化風險和機遇。可持續用水方面， management by continuing low-carbon production, promoting clean
+我們注重水源地及周邊生物多樣性的保護； energy, and developing the sustainable supply chain. Greater efforts
+在日常運營中，我們對設備進行改造升級、 were made to protect water sources and biodiversity within their
+對工序流程進行優化管理、對技術進行研發 surrounding areas to achieve sustainable use of water. As a part
+應用，全方位促進水資源高效、可持續利 of our day-to-day operation, we boosted efficient and sustainable
+用。環境保護與廢棄物管理方面，我們持續 use of water resources in all aspects through renovation and
+研發三廢處理技術，升級三廢排放標準和排 upgrading of equipment, optimization of process flow management,
+放監測力度，最大限度避免環境污染；持續 and development and application of technologies. In terms of
+減少食物浪費、推動食物殘渣再利用；持續 environmental protection and waste management, we minimized
+推進包材輕量化與可回收，助力循環經濟發 environmental pollution by developing treatment technologies for
+展；與此同時，我們開展了一系列可持續農 the three wastes, lifting discharge standards for the three wastes
+業促進工作，帶動合作夥伴從全價值鏈角度 and monitoring emissions of the three wastes more frequently. We
+推動可持續發展。 continued to reduce food waste and promote the reuse of food
+residues. Further efforts were made to popularize lightweight and
+recyclable packaging materials throughout the Group to facilitate
+the development of circular economy. Moreover, we carried out a
+wealth of activities to bolster sustainable agriculture, leading partners
+to promote sustainable development from a whole-value chain
+perspective.
+18
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 20 =====
+管理層討論及分析 MANAGEMENT DISCUSSION AND ANALYSIS
+在產品方面，滿足消費者需求的同時，我 In terms of products, while meeting the needs of consumers, we
+們將營養與健康作為產品研發的核心目標 regard nutrition and health as one of the core objectives of product
+之一，積極響應國家「三減三健」膳食行動。 research and development, and actively respond to the national
+2023年上半年，農夫山泉推出新產品「大檸 dietary campaign to pursue “Three reduction, Three health (三減三
+檬」飲料，利用複合果汁保存與加工技術， 健)”. In the first half of 2023, Nongfu Spring launched a new product
+鎖住果肉精華與維C營養；與此同時，農夫 “Big Lemon (大檸檬)” beverage, which locks the essences of fruits
+山泉既有產品依然不斷推陳出新－東方樹葉 and maintains the nutrients of Vitamin C through compound juice
+系列推出黑烏龍新品，選用閩北武夷岩茶風 preservation and processing technology. The Group also introduced
+味高級原茶，堅持0糖 · 0卡 · 0脂 · 0香精 · 0 new models of existing products. For example, black oolong (黑烏
+防腐劑的同時，基於優質茶葉萃取，為消費 龍) tea was added to the Oriental Leaf (東方樹葉) family. The tea is
+者提供層次豐富、滋味濃醇的黑烏龍曼妙體 characterized by zero sugar, calorie, fat, flavor and preservative as it is
+驗。除新品研發外，產品質量保障體系的建 based on the high-end original tea with the flavor of Wuyi Rock Tea
+設與優化也是我們工作的重點，農夫山泉始 in northern Fujian and is extracted from quality tea leaves. It can offer
+終堅持提高檢驗標準，加強質量督察、構建 amazing experience for consumers. In addition to the research and
+質量文化，多方面提高質量管理能力，持續 development of new products, improving and optimizing product
+為消費者提供優質的產品。 quality assurance system are also the focus of our work. To provide
+consumers with high-quality products, Nongfu Spring is committed
+to enhancing our quality management in various aspects by raising
+inspection standards, strengthening quality supervision, and building
+a quality culture.
+在員工方面，我們秉持「以人為本」的理念與 In terms of employees, we, adhering to the “people-oriented”
+「任人唯才」的宗旨，全力打造具有行業競爭 concept and “meritocratic” principle, have made every effort to
+力的多元人才團隊，努力營造兼容並包的企 create a competitive and diversified team, and an inclusive corporate
+業文化氛圍，並以人力資源信息化建設三年 culture atmosphere. We leveraged the three-year informatization
+規劃為契機穩步提升人力資源管理水平，確 plan for human resources as an opportunity to steadily improve our
+保全體員工的合法權益得到有效保障。我們 human resources management so as to ensure that the legitimate
+致力於建立完善的薪酬管理體系和清晰的人 rights and interests of all employees are effectively protected. We
+才發展通道，鼓勵員工不斷提升自我、實現 are committed to establishing a sound remuneration management
+自我價值。同時，我們亦將職業健康與安全 system and a clear talent development channel to encourage
+視作保障企業平穩運行的重要因素，通過完 employees to continuously improve themselves and realize their self-
+善的內部制度與風控機制，持續為全體員工 worth. At the same time, we also regard occupational health and
+提供安全保障。 safety as an important factor to ensure the smooth operation of the
+Group. We continued to ensure safety of our employees through a
+strong internal system and risk control mechanism.
+在企業公民方面，我們遵循「創利、育人、 Under the community investment concept of “creating values,
+兼濟天下」的社區投資理念，在推動行業綠 nurturing people, and contributing to the world”, we fulfill our
+色發展、減緩貧困、公共教育、環境保護 responsibility as a corporate citizen. To be specific, we demonstrated
+等領域以實際行動彰顯企業社會責任。我們 our corporate social responsibility through concrete actions such as
+始終將可持續理念融入供應鏈管理戰略，與 promoting green development of the industry, alleviating poverty,
+供應商合作夥伴攜手打造綠色健康的產業生 contributing to public education, and protecting environment. We
+態。同時，我們投身於社會公益事業與周邊 always integrated the concept of sustainability into our supply
+社區發展，通過「授人以漁」的公益模式詮釋 chain management strategy and worked with our suppliers to
+人文關懷。炎炎夏日，農夫山泉持續開展 create a green and healthy industrial ecosystem. At the same
+「感謝您，為了這座城市」公益送水活動，以 time, we devoted ourselves to social welfare undertakings and the
+切實舉措向「高溫下的堅守」人們致敬。 development of communities where we operate, offering humanistic
+care under the public welfare model of “teaching those in need how
+to fish”. In the hot summer, Nongfu Spring continued to carry out
+the campaign of “Thank you for Your Contributions to the City”, an
+campaign held by us to deliver water to those who were still working
+for their cities under the high temperature.
+19
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 21 =====
+企業管治及其他數據
+CORPORATE GOVERNANCE AND OTHER INFORMATION
+遵守有關董事證券交易的守則 COMPLIANCE WITH CODE OF CONDUCT REGARDING
+DIRECTORS’ SECURITIES TRANSACTIONS
+本公司已採納《香港聯合交易所有限公司證 The Company has adopted the Model Code for Securities
+券上市規則》（「《上市規則》」）附錄十所載的 Transactions by Directors of Listed Issuers (“Model Code”) under
+《上市發行人董事進行證券交易的標準守則》 Appendix 10 to the Rules Governing the Listing of Securities on
+（「標準守則」），制定了本公司的《董事、監 The Stock Exchange of Hong Kong Limited (the “Listing Rules”) to
+事及有關僱員證券交易守則》。經本公司作 work out the Regulations on Securities Transactions by Directors,
+出特定查詢後，所有董事及監事確認彼等於 Supervisors and Related Employees. All Directors and Supervisors
+報告期間已遵守標準守則規定的有關董事及 have confirmed, following specific enquiry by the Company, that
+監事證券交易的要求。 they have complied with the requirements for securities transactions
+of directors and supervisors set out in the Model Code during the
+Reporting Period.
+遵守《企業管治守則》 COMPLIANCE WITH THE CORPORATE
+GOVERNANCE CODE
+本公司致力踐行企業管治最佳實踐，自 The Company is committed to the best practices on corporate
+2023年1月1日起直至本中期報告日期，一 governance, and had complied with all the code provisions as set
+直遵守《上市規則》附錄十四《企業管治守則》 out in the Corporate Governance Code and Corporate Governance
+及《企業管治報告》（「企業管治守則」）所載的 Report in Appendix 14 to the Listing Rules (the “Corporate
+所有守則條文，惟下文所披露企業管治守則 Governance Code”) since the January 1, 2023 and up to the date
+第二部分第C.2.1條的偏離者除外。 of this interim report, save for the deviations from the code provision
+C.2.1 under Part 2 of the Corporate Governance Code disclosed
+below.
+企業管治守則第二部分C.2.1條訂明，董事 Pursuant to code provision C.2.1 under Part 2 of the Corporate
+會主席與行政總裁的角色應有區分，並不應 Governance Code, the roles of chairman of the board and chief
+由同一人兼任。主席及行政總裁的職責劃分 executive officer should be separated and should not be performed
+應清晰界定並以書面列示。鍾睒睒先生為本 by the same individual. The division of responsibilities between the
+公司董事長兼總經理。鍾睒睒先生為本集團 chairman and chief executive officer should be clearly established
+的創始人，擁有豐富的飲用水及軟飲料行業 and set out in writing. Mr. Zhong Shanshan is the Chairman of the
+經驗，負責本公司業務策略及營運的整體管 Board and General Manager of the Company. As the founder of the
+理，自本公司於1996年成立以來對本集團 Group, Mr. Zhong Shanshan has extensive experience in the drinking
+的增長及業務擴展起著關鍵作用。董事會認 water and soft beverage industry and is responsible for the overall
+為，由鍾睒睒先生一人兼任董事長與總經理 management of the Company’s business strategies and operations.
+對本公司管理有利。 He has been mainstay to the growth and business expansion of the
+Group since the Company’s establishment in 1996. The Board is of
+the view that vesting both roles of Chairman and General Manager
+in Mr. Zhong Shanshan is beneficial to the management of the
+Company.
+此外，由經驗豐富及才能出眾的人士組成的 In addition, the balance of power and authority is ensured by
+高級管理層與董事會可確保權力與權限之間 the operation of the senior management and the Board, which
+有所制衡。董事會現時由四名執行董事（包 comprises experienced and high-caliber individuals. The Board
+括鍾睒睒先生）、兩名非執行董事及三名獨 currently consists of four executive Directors (including Mr. Zhong
+立非執行董事組成，因此，我們認為其組成 Shanshan), two non-executive Directors and three independent non-
+具有較高的獨立性。 executive Directors. Therefore, we consider that the Board has a
+fairly strong independence element in its composition.
+20
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 22 =====
+企業管治及其他數據 CORPORATE GOVERNANCE AND OTHER INFORMATION
+董事會將不時檢討架構，以確保架構有助於 The Board shall review the structure from time to time to ensure that
+執行本集團的業務策略及盡量提高其運營效 the structure facilitates the execution of the business strategies of
+率。 the Group and maximizes effectiveness of its operation.
+董事、監事及最高行政人員於股 INTERESTS AND SHORT POSITIONS OF DIRECTORS,
+份、相關股份及債權證之權益與淡 SUPERVISORS AND CHIEF EXECUTIVE IN THE
+倉 SHARES, UNDERLYING SHARES AND DEBENTURES
+於2023年6月30日，本公司董事、監事或最 As at June 30, 2023, the interests and short positions of the
+高行政人員於本公司及其相聯法團（定義見 Directors, Supervisors or chief executive of the Company in the
+證券及期貨條例第XV部）的股份、相關股份 shares, underlying shares or debentures of the Company and
+或債權證中擁有本公司根據證券及期貨條例 its associated corporations (within the meaning of Part XV of the
+第352條須予備存之登記冊所記錄的權益及 SFO) which were recorded in the register required to be kept by
+淡倉，或根據標準守則須知會本公司及聯交 the Company pursuant to section 352 of the SFO, or which were
+所的權益及淡倉如下： required to be notified to the Company and the Stock Exchange
+pursuant to the Model Code were as follows:
+於本公司的權益 Interests in the Company
+佔相關類別 佔已發行股本
+股份股權的 總額股權的 好倉╱
+持有的 概約百分比 概約百分比 淡倉╱可供
+姓名 股份類別 權益性質 股份數目 (%) (%) 借出的股份
+Approximate Approximate
+Percentage of Percentage of Long
+Shareholding in Shareholding position/
+the Relevant in the Total short
+Class of Nature of Number of Class of Issued Share position/
+Name Shares Interest Shares Held Shares (%) Capital (%) lending pool
+鍾睒睒先生 內資股 受控法團持有權益 6,211,800,000 100.0000 55.2333 好倉
+Mr. Zhong Shanshan Domestic Interest held by controlled （附註1） Long position
+shares corporations (note 1)
+鍾睒睒先生 H股 受控法團持有權益 1,303,252,410 25.8856 11.5881 好倉
+Mr. Zhong Shanshan H shares Interest held by controlled Long position
+corporations
+鍾睒睒先生 H股 實益擁有人 1,929,249,240 38.3193 17.1543 好倉
+Mr. Zhong Shanshan H shares Beneficial owner Long position
+21
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 23 =====
+企業管治及其他數據 CORPORATE GOVERNANCE AND OTHER INFORMATION
+佔相關類別 佔已發行股本
+股份股權的 總額股權的 好倉╱
+持有的 概約百分比 概約百分比 淡倉╱可供
+姓名 股份類別 權益性質 股份數目 (%) (%) 借出的股份
+Approximate Approximate
+Percentage of Percentage of Long
+Shareholding in Shareholding position/
+the Relevant in the Total short
+Class of Nature of Number of Class of Issued Share position/
+Name Shares Interest Shares Held Shares (%) Capital (%) lending pool
+向咸松先生 H股 實益擁有人 32,400 0.0006 0.0003 好倉
+Mr. Xiang Xiansong H shares Beneficial owner （附註2） Long position
+(note 2)
+韓林攸女士 H股 實益擁有人 27,368 0.0005 0.0002 好倉
+Ms. Han Linyou H shares Beneficial owner （附註3） Long position
+(note 3)
+薛蓮女士 H股 實益擁有人 7,000,090 0.1390 0.0622 好倉
+Ms. Xue Lian H shares Beneficial owner Long position
+劉敏女士 H股 實益擁有人 222,400 0.0044 0.0020 好倉
+Ms. Liu Min H shares Beneficial owner Long position
+饒明紅先生 H股 實益擁有人 59,400 0.0012 0.0005 好倉
+Mr. Rao Minghong H shares Beneficial owner （附註4） Long position
+(note 4)
+劉熹悅先生 H股 實益擁有人 29,630 0.0006 0.0003 好倉
+Mr. Liu Xiyue H shares Beneficial owner （附註5） Long position
+(note 5)
+22
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 24 =====
+企業管治及其他數據 CORPORATE GOVERNANCE AND OTHER INFORMATION
+所披露信息乃是基於香港聯交所的網站 The information was disclosed based on the data available on the
+(www.hkex.com.hk)所提供的信息做出。上 website of the Hong Kong Stock Exchange (www.hkex.com.hk).
+文「佔已發行股本總額股權的概約百分比」乃 The abovementioned “Approximate Percentage of Shareholding
+以11,246,466,400股股份（即於2023年6月 in the Total Issued Share Capital” is calculated based on the
+30日本公司已發行的股份數目）為基礎計算。 11,246,466,400 shares, being the number of issued shares of the
+Company as at June 30, 2023.
+附註： Notes:
+(1) 於本報告日期，鍾睒睒先生直接持有養生堂 (1) As at the date of this report, Mr. Zhong Shanshan directly held 98.38%
+98.38%權益，並通過杭州友福（由鍾睒睒先生 equity interest in Yangshengtang and indirectly held 1.62% equity interest
+全資擁有）間接持有養生堂1.62%權益。因此 in Yangshengtang through Hangzhou Youfu (wholly owned by Mr. Zhong
+鍾睒睒先生被視為於養生堂所持有的股份中擁 Shanshan). Therefore, Mr. Zhong Shanshan was deemed to be interested
+有權益。 in the shares held by Yangshengtang.
+(2) 本報告日期，向咸松先生於本公司數量為 (2) As at the date of this report, Mr. Xiang Xiansong has beneficial interests
+32,400股的H股中擁有實益權益，該等股份為 in 32,400 H shares of the Company, which represents the number of H
+根據本公司員工股權激勵計劃獲授予但尚未歸 Shares of the Company underlying the incentive shares granted but not
+屬的激勵份額對應本公司H股數量。員工股權 vested under the Employee Share Incentive Scheme of the Company. For
+激勵計劃詳情可參閱本報告「人力資源與酬金 details of the Employee Share Incentive Scheme, please refer to the “Human
+政策」。 Resources and Emolument Policy” in this report.
+(3) 本報告日期，韓林攸女士於本公司數量為 (3) As at the date of this report, Ms. Han Linyou has beneficial interests in
+27,368股的H股中擁有實益權益，該等股份為 27,368 H shares of the Company, which represents the number of H
+根據本公司員工股權激勵計劃獲授予但尚未歸 Shares of the Company underlying the incentive shares granted but not
+屬的激勵份額對應本公司H股數量。員工股權 vested under the Employee Share Incentive Scheme of the Company. For
+激勵計劃詳情可參閱本報告「人力資源與酬金 details of the Employee Share Incentive Scheme, please refer to the “Human
+政策」。 Resources and Emolument Policy” in this report.
+(4) 本報告日期，饒明紅先生於本公司數量為 (4) As at the date of this report, Mr. Rao Minghong has beneficial interests in
+59,400股的H股中擁有實益權益，該等股份包 59,400 H shares of the Company, which includes the number of H Shares
+含根據本公司員工股權激勵計劃獲授予已歸屬 of the Company underlying the incentive shares granted and vested and not
+及尚未歸屬的激勵份額對應本公司H股數量。 vested under the Employee Share Incentive Scheme of the Company. For
+員工股權激勵計劃詳情可參閱本報告「人力資 details of the Employee Share Incentive Scheme, please refer to the “Human
+源與酬金政策」。 Resources and Emolument Policy” in this report.
+(5) 本報告日期，劉熹悅先生於本公司數量為 (5) As at the date of this report, Mr. Liu Xiyue has beneficial interests in 29,630
+29,630股的H股中擁有實益權益，該等股份為 H shares of the Company, which represents the number of H Shares of
+根據本公司員工股權激勵計劃獲授予但尚未歸 the Company underlying the incentive shares granted but not vested under
+屬的激勵份額對應本公司H股數量。員工股權 the Employee Share Incentive Scheme of the Company. For details of the
+激勵計劃詳情可參閱本報告「人力資源與酬金 Employee Share Incentive Scheme, please refer to the “Human Resources
+政策」。 and Emolument Policy” in this report.
+23
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 25 =====
+企業管治及其他數據 CORPORATE GOVERNANCE AND OTHER INFORMATION
+於相聯法團的權益 Interests in Associated Corporations
+所持或擁有權益 於相聯法團的
+的股份數目 權益概約百分比
+姓名 相聯法團名稱 權益性質 （股） (%)
+Approximate
+Percentage
+of Interests
+Number of in Associated
+Name of Shares Held Corporations
+Name Associated Corporations Nature of Interest or Interested (%)
+鍾睒睒先生 養生堂（附註1） 實益擁有人 不適用 98.38
+Mr. Zhong Shanshan Yangshengtang (note 1) Beneficial owner N/A
+受控法團持有權益 不適用 1.62
+Interest held N/A
+by controlled
+corporations
+養生堂藥業有限公司（附註2） 實益擁有人 不適用 2.47
+Yangshengtang Pharmaceutical Beneficial owner N/A
+Co., Ltd. (note 2)
+受控法團持有權益 不適用 97.53
+Interest held N/A
+by controlled
+corporations
+北京萬泰生物藥業股份 實益擁有人 不適用 17.66
+有限公司（附註3） Beneficial owner N/A
+Beijing Wantai Biological
+Pharmaceutical Enterprise
+Co., Ltd. (note 3)
+受控法團持有權益 不適用 55.65
+Interest held N/A
+by controlled
+corporations
+廈門優邁科醫學儀器有限 受控法團持有權益 不適用 63.50
+公司（附註4） Interest held N/A
+Xiamen Youmaike Medical by controlled
+Instruments Co., Ltd. (note 4) corporations
+北京泰潤創新科技孵化器 受控法團持有權益 不適用 60.00
+有限公司（附註5） Interest held N/A
+Beijing Tairun Innovation by controlled
+Technology Incubator corporations
+Co., Ltd. (note 5)
+24
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 26 =====
+企業管治及其他數據 CORPORATE GOVERNANCE AND OTHER INFORMATION
+所持或擁有權益 於相聯法團的
+的股份數目 權益概約百分比
+姓名 相聯法團名稱 權益性質 （股） (%)
+Approximate
+Percentage
+of Interests
+Number of in Associated
+Name of Shares Held Corporations
+Name Associated Corporations Nature of Interest or Interested (%)
+捷和泰（北京）生物科技有限 受控法團持有權益 不適用 94.93
+公司（附註6） Interest held N/A
+JWT (Beijing) Biotechnology by controlled
+Company Limited (note 6) corporations
+廈門英博邁生物科技有限 受控法團持有權益 不適用 60.00
+公司（附註7） Interest held N/A
+Xiamen Innobiomax Biotechnology by controlled
+Co., Ltd. (note 7) corporations
+關子管理諮詢（麗水）合夥企業 實益擁有人 不適用 90.00
+（有限合夥）（附註8） Beneficial owner N/A
+Guanzi Management Consulting
+(Lishui) Partnership (Limited
+Partnership) (note 8)
+受控法團持有權益 不適用 10.00
+Interest held N/A
+by controlled
+corporations
+關子股權投資（麗水）合夥企業 實益擁有人 不適用 24.81
+（有限合夥）（附註9） Beneficial owner N/A
+Guanzi Equity Investment
+(Lishui) Partnership (Limited
+Partnership) (note 9)
+受控法團持有權益 不適用 74.94
+Interest held N/A
+by controlled
+corporations
+承光管理諮詢（麗水）合夥企業 實益擁有人 不適用 24.81
+（有限合夥）（附註10） Beneficial owner N/A
+Chengguang Management
+Consulting (Lishui) Partnership
+(Limited Partnership) (note 10)
+受控法團持有權益 不適用 74.94
+Interest held N/A
+by controlled
+corporations
+25
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 27 =====
+企業管治及其他數據 CORPORATE GOVERNANCE AND OTHER INFORMATION
+附註： Notes:
+(1) 我們的控股股東養生堂為一家於中國註冊成立 (1) Yangshengtang, our controlling shareholder, is a company incorporated
+的有限公司且並無發行任何股份。鍾睒睒先生 in the PRC with limited liability and did not issue any share. Mr. Zhong
+分別直接持有及通過杭州友福（由鍾睒睒先生 Shanshan directly held 98.38% equity interest and, through Hangzhou
+全資擁有）間接持有養生堂98.38%及1.62%權 Youfu (wholly owned by Mr. Zhong Shanshan), indirectly held 1.62% equity
+益。 interest in Yangshengtang.
+(2) 養生堂藥業有限公司（養生堂的非全資附屬公 (2) Yangshengtang Pharmaceutical Co., Ltd. (養生堂藥業有限公司), a non-
+司）為一家於中國註冊成立的有限公司且並無 wholly owned subsidiary of Yangshengtang, is a company incorporated
+發行任何股份。鍾睒睒先生分別直接持有及通 in the PRC with limited liability and did not issue any share. Mr. Zhong
+過養生堂間接持有養生堂藥業有限公司2.47% Shanshan directly held 2.47% equity interest and, through Yangshengtang,
+及97.53%權益。 indirectly held 97.53% equity interest in Yangshengtang Pharmaceutical
+Co., Ltd.
+(3) 北京萬泰生物藥業股份有限公司（養生堂的非 (3) Beijing Wantai Biological Pharmaceutical Enterprise Co., Ltd. (北京萬泰生物
+全資附屬公司），為一家於中國註冊成立的股 藥業股份有限公司), a non-wholly owned subsidiary of Yangshengtang, is a
+份有限公司，總股本為1,268,206,999股。鍾 joint stock company incorporated in the PRC with limited liabilities with total
+睒睒先生分別直接持有及通過養生堂間接持 share capital of 1,268,206,999 shares. Mr. Zhong Shanshan directly held
+有北京萬泰生物藥業股份有限公司17.66%及 17.66% equity interest and, through Yangshengtang, indirectly held 55.65%
+55.65%權益。 equity interest in Beijing Wantai Biological Pharmaceutical Enterprise Co.,
+Ltd.
+(4) 廈門優邁科醫學儀器有限公司為北京萬泰生物 (4) Xiamen Youmaike Medical Instruments Co., Ltd. (廈門優邁科醫學儀器
+藥業股份有限公司的非全資附屬公司，是一家 有限公司), a non-wholly owned subsidiary of Beijing Wantai Biological
+在中國註冊成立的有限公司且並無發行任何股 Pharmaceutical Enterprise Co., Ltd., is a company incorporated in the PRC
+份。鍾睒睒先生透過北京萬泰生物藥業股份有 with limited liabilities and did not issue any share. Mr. Zhong Shanshan
+限公司間接持有廈門優邁科醫學儀器有限公司 indirectly held interest in Xiamen Youmaike Medical Instruments Co., Ltd.
+權益，北京萬泰生物藥業股份有限公司持有廈 through Beijing Wantai Biological Pharmaceutical Enterprise Co., Ltd.,
+門優邁科醫學儀器有限公司63.50%權益。 which holds 63.50% interest in Xiamen Youmaike Medical Instruments Co.,
+Ltd.
+(5) 北京泰潤創新科技孵化器有限公司為北京萬泰 (5) Beijing Tairun Innovation Technology Incubator Co., Ltd. (北京泰潤創新
+生物藥業股份有限公司的非全資附屬公司，是 科技孵化器有限公司), a non-wholly owned subsidiary of Beijing Wantai
+一家在中國註冊成立的有限公司且並無發行任 Biological Pharmaceutical Enterprise Co., Ltd., is a company incorporated
+何股份。鍾睒睒先生透過北京萬泰生物藥業股 in the PRC with limited liabilities and did not issue any share. Mr. Zhong
+份有限公司間接持有北京泰潤創新科技孵化器 Shanshan indirectly held interest in Beijing Tairun Innovation Technology
+有限公司權益，北京萬泰生物藥業股份有限 Incubator Co., Ltd. through Beijing Wantai Biological Pharmaceutical
+公司持有北京泰潤創新科技孵化器有限公司 Enterprise Co., Ltd., which holds 60.00% interest in Beijing Tairun
+60.00%權益。 Innovation Technology Incubator Co., Ltd.
+(6) 捷和泰（北京）生物科技有限公司為北京萬泰生 (6) JWT (Beijing) Biotechnology Company Limited (捷和泰（北京）生物科技
+物藥業股份有限公司的非全資附屬公司，是一 有限公司), a non-wholly owned subsidiary of Beijing Wantai Biological
+家在中國註冊成立的有限公司且並無發行任何 Pharmaceutical Enterprise Co., Ltd., is a company incorporated in the PRC
+股份。鍾睒睒先生透過北京萬泰生物藥業股份 with limited liabilities and did not issue any share. Mr. Zhong Shanshan
+有限公司間接持有捷和泰（北京）生物科技有限 indirectly holds interest in JWT (Beijing) Biotechnology Company Limited
+公司權益，北京萬泰生物藥業股份有限公司持 through Beijing Wantai Biological Pharmaceutical Enterprise Co., Ltd.,
+有捷和泰（北京）生物科技有限公司94.93%權 which holds 94.93% interest in JWT (Beijing) Biotechnology Company
+益。 Limited.
+26
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 28 =====
+企業管治及其他數據 CORPORATE GOVERNANCE AND OTHER INFORMATION
+(7) 廈門英博邁生物科技有限公司為廈門萬泰凱瑞 (7) Xiamen Innobiomax Biotechnology Co., Ltd. (廈門英博邁生物科技有限公
+生物技術有限公司（北京萬泰生物藥業股份有 司), a non-wholly owned subsidiary of Xiamen Innodx Biotechnology Co.,
+限公司的全資附屬公司）的非全資附屬公司， Ltd. (廈門萬泰凱瑞生物技術有限公司) (a wholly owned subsidiary of Beijing
+是一家在中國註冊成立的有限公司且並無發行 Wantai Biological Pharmaceutical Enterprise Co., Ltd.), is a company
+任何股份。鍾睒睒先生透過廈門萬泰凱瑞生物 incorporated in the PRC with limited liabilities and did not issue any share.
+技術有限公司間接持有廈門英博邁生物科技有 Mr. Zhong Shanshan indirectly holds interest in Xiamen Innobiomax
+限公司權益，廈門萬泰凱瑞生物技術有限公司 Biotechnology Co., Ltd. through Xiamen Innodx Biotechnology Co., Ltd.,
+持有廈門英博邁生物科技有限公司60.00%權 which holds 60.00% interest in Xiamen Innobiomax Biotechnology Co., Ltd.
+益。
+(8) 關子管理諮詢（麗水）合夥企業（有限合夥）為一 (8) Guanzi Management Consulting (Lishui) Partnership (Limited Partnership)
+家在中國註冊成立的有限合夥企業，養生堂全 (關子管理諮詢（麗水）合夥企業（有限合夥）) is a limited partnership
+資附屬公司關子私募基金管理（杭州）有限公司 incorporated in the PRC, where Guanzi Private Equity Fund Management
+擔任其執行事務合夥人。鍾睒睒先生分別直接 (Hangzhou) Co., Ltd. (關子私募基金管理（杭州）有限公司) (a wholly owned
+持有及通過關子私募基金管理（杭州）有限公司 subsidiary of Yangshengtang) acts as its executive partner. Mr. Zhong
+間接持有關子管理諮詢（麗水）合夥企業（有限 Shanshan holds 90.00% and 10.00% interest in Guanzi Management
+合夥）90.00%及10.00%權益。 Consulting (Lishui) Partnership (Limited Partnership) directly and indirectly
+through Guanzi Private Equity Fund Management (Hangzhou) Co., Ltd.
+respectively.
+(9) 關子股權投資（麗水）合夥企業（有限合夥）為一 (9) Guanzi Equity Investment (Lishui) Partnership (Limited Partnership) (關子股
+家在中國註冊成立的有限合夥企業。鍾睒睒先 權投資（麗水）合夥企業（有限合夥）) is a limited partnership incorporated
+生分別直接持有及通過養生堂、關子管理諮詢 in the PRC. Mr. Zhong Shanshan directly held 24.81% equity interest
+（麗水）合夥企業（有限合夥）間接持有關子股 and, through Yangshengtang and Guanzi Management Consulting (Lishui)
+權投資（麗水）合夥企業（有限合夥）24.81%、 Partnership (Limited Partnership) indirectly held 74.44% and 0.50%
+74.44%及0.50%權益。 equity interest in Guanzi Equity Investment (Lishui) Partnership (Limited
+Partnership), respectively.
+(10) 承光管理諮詢（麗水）合夥企業（有限合夥）為一 (10) Chengguang Management Consulting (Lishui) Partnership (Limited
+家在中國註冊成立的有限合夥企業。鍾睒睒先 Partnership) (承光管理諮詢（麗水）合夥企業（有限合夥）) is a limited
+生分別直接持有及通過養生堂、關子管理諮詢 partnership incorporated in the PRC. Mr. Zhong Shanshan directly
+（麗水）合夥企業（有限合夥）間接持有承光管 held 24.81% equity interest and, through Yangshengtang and Guanzi
+理諮詢（麗水）合夥企業（有限合夥）24.81%、 Management Consulting (Lishui) Partnership (Limited Partnership) indirectly
+74.44%及0.50%權益。 held 74.44% and 0.50% equity interest in Chengguang Management
+Consulting (Lishui) Partnership (Limited Partnership), respectively.
+除上文所披露外，於2023年6月30日，本公 Saved as disclosed above, as at June 30, 2023, none of the
+司董事、監事、最高行政人員概無於本公司 Directors, Supervisors and chief executive of the Company had any
+或其任何相聯法團（定義見證券及期貨條例 interests or short positions in the shares, underlying shares and
+第XV部）的股份、相關股份及債券證中擁有 debentures of the Company or any of its associated corporations
+根據證券及期貨條例第352條規定須予備存 (within the meaning of Part XV of the SFO) as recorded in the register
+之登記冊所記錄，或根據標準守則的規定須 required to be kept under Section 352 of the SFO, or as otherwise
+知會本公司及聯交所之權益及淡倉。 notified to the Company and the Stock Exchange pursuant to the
+requirements of the Model Code.
+27
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 29 =====
+企業管治及其他數據 CORPORATE GOVERNANCE AND OTHER INFORMATION
+主要股東於股份及相關股份中的權 INTERESTS AND SHORT POSITIONS OF
+益及淡倉 SUBSTANTIAL SHAREHOLDERS IN SHARES AND
+UNDERLYING SHARES
+於2023年6月30日，就董事所知，下列人士 As at June 30, 2023, to the best knowledge of the Directors, the
+（並非董事或本公司最高行政人員）於本公司 interests and short positions of the following persons (other than
+股份及相關股份中擁有證券及期貨條例第 the Directors or the chief executive of the Company) in the shares
+336條而備存的登記冊所記錄的權益及淡倉 and underlying shares of the Company as recorded in the register
+如下： required to be kept under section 336 of the SFO are as follows:
+於本公司的權益 Interests in the Company
+佔相關類別 佔已發行股本
+股份股權的 總額股權的 好倉╱
+持有的 概約百分比 概約百分比 淡倉╱可供
+名稱 股份類別 權益性質 股份數目 (%) (%) 借出的股份
+Approximate Approximate
+Percentage of Percentage of
+Shareholding Shareholding
+in the Relevant in the Total Long position/
+Number of Class of Issued Share short position/
+Name Class of Shares Nature of Interest Shares Held Shares (%) Capital (%) lending pool
+養生堂 內資股 實益擁有人 6,211,800,000 100 55.2333 好倉
+Yangshengtang Domestic shares Beneficial owner Long position
+養生堂 H股 實益擁有人 1,303,252,410 25.8856 11.5581 好倉
+Yangshengtang H shares Beneficial owner Long position
+所披露信息乃是基於香港聯交所的網站 The information was disclosed based on the information available on
+(www.hkex.com.hk)所提供的信息做出。 the website of the Hong Kong Stock Exchange (www.hkex.com.hk).
+除上文所披露外，據董事所知，於2023年6 Save as disclosed above, to the best knowledge of the Directors,
+月30日，概無任何其他人士（並非董事、監 as at June 30, 2023, no other person (other than the Directors,
+事或本公司最高行政人員）於本公司股份或 Supervisors or the chief executive of the Company) had any interests
+相關股份中擁有根據證券及期貨條例第336 or short positions in the shares or underlying shares of the Company
+條而備存的登記冊所記錄的權益或淡倉。 as recorded in the register required to be kept under section 336 of
+the SFO.
+對法律法規的合規和法律訴訟 COMPLIANCE WITH LAWS AND REGULATIONS AND
+LEGAL PROCEEDINGS
+對法律法規的合規 Compliance with Laws and Regulations
+本集團的業務營運主要在中國進行，而本公 The Group’s operations are carried out primarily in the PRC, while
+司的股份則在香港聯交所上市。本集團所營 the Shares of the Company are listed on the Hong Kong Stock
+運的業務主要受中國、香港等相關區域的法 Exchange. The businesses operated by the Group are subject to
+律監管。於截至2023年6月30日止期間以及 the laws of relevant jurisdiction in the PRC and Hong Kong. During
+截至本報告日期止，本集團已遵守所適用區 the period ended June 30, 2023 and as of the date of this report,
+域對本集團有重大影響的相關法例及規例。 the Group has complied with relevant laws and regulations that have
+具體而言，作為包裝水與飲料生產商，本集 a significant impact on the Group in the applicable jurisdictions.
+團的運營受適用中國食品安全及環境保護法 Specifically, as a manufacturer of packaged water and beverages,
+律法規的監管。於報告期內，本集團未有任 the Group’s operations are subject to the applicable food safety and
+何重大違反該等法律法規的行為。 environmental protection laws and regulations in the PRC. During
+the Reporting Period, the Group did not have any material non-
+compliance with such laws and regulations.
+28
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 30 =====
+企業管治及其他數據 CORPORATE GOVERNANCE AND OTHER INFORMATION
+購買、出售或贖回本公司上市證券 PURCHASE, SALE OR REDEMPTION OF LISTED
+SECURITIES OF THE COMPANY
+None of the Company and its subsidiaries had purchased, sold or
+報告期內，本公司或其任何附屬公司概無購
+redeemed any of the listed securities of the Company during the
+買、出售或贖回本公司之任何上市證券。
+Reporting Period.
+USE OF PROCEEDS FROM THE LISTING
+上市所得款項用途
+From September 8, 2020 (the “Listing Date”) to June 30, 2023,
+自2020年9月8日（「上市日期」）起至截至
+the Group has gradually used the proceeds from the initial public
+2023年6月30日，本集團已根據招股書所載
+offering for the intended purposes set out in the Prospectus. The
+擬定用途逐步動用首次公開發售所得款項。
+sum of IPO proceeds from the listing of the shares of the Company
+本公司股份於香港聯合交易所有限公司（「聯
+on the Main Board of The Stock Exchange of Hong Kong Limited
+交所」）主板上市的首次公開發售所得款及悉
+(the “Stock Exchange”) and the net proceeds from the full exercise
+數行使超額配售權所得款淨額總和（於扣除
+of the over-allotment option (after deducting underwriting fees and
+承銷費用及其他相關費用後）約為港幣9,377
+other related expenses) is approximately HK$9,377 million. As of
+百萬元。截至2023年6月30日止，本集團已
+June 30, 2023, the Group has utilised approximately HK$4,896
+根據本公司發佈的招股書所載擬定用途累計
+million of the proceeds for the intended purposes set out in the
+動用所得款項中的約港幣4,896百萬元，佔
+Prospectus published by the Company, accounting for 52.21% of all
+所有募集資金的52.21%，餘下未動用所得
+raised funds, and the remaining unutilised proceeds is approximately
+款項約為港幣4,481百萬元。上市所得款項
+HK$4,481 million. The balance of the proceeds from the Listing will
+結餘將繼續根據招股書披露之用途及比例使
+continue to be utilised according to the purposes and proportions
+用。詳情請見下表：
+disclosed in the Prospectus. See the table below for details:
+截至 截至
+上市募集 2023年6月30日 2023年6月30日 尚未動用淨額
+可供使用淨額 實際使用淨額 尚未動用淨額 預計悉數使用時間
+（港幣百萬） （港幣百萬） （港幣百萬）
+Net proceeds Actual Unutilised Expected
+from the net amount net amount timeline for fully
+Listing utilised up to up to utilising unutilised
+available June 30, 2023 June 30, 2023 net amount
+(HK$ million) (HK$ million) (HK$ million)
+品牌建設 2,344 1,003 1,341 2024年12月31日
+Brand building December 31, 2024
+購置銷售設備 2,344 371 1,973 2024年12月31日
+Purchasing sales equipment December 31, 2024
+購置生產設施及新建廠房 1,875 1,434 441 2024年12月31日
+Purchasing production facilities and December 31, 2024
+building new factories
+基礎能力建設 938 212 726 2024年12月31日
+Strengthening fundamental December 31, 2024
+capabilities
+償還貸款 938 938 – 不適用
+Repaying loans N/A
+補充流動資金和其他一般企業用途 938 938 – 不適用
+Working capital and other general N/A
+corporate purposes
+總計 9,377 4,896 4,481 2024年12月31日
+Total December 31, 2024
+29
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 31 =====
+企業管治及其他數據 CORPORATE GOVERNANCE AND OTHER INFORMATION
+審計委員會 AUDIT COMMITTEE
+本公司成立審計委員會，並根據《上市規則》 The Company established the Audit Committee with written terms
+第3.21條及企業管治守則制定其書面職權範 of reference in compliance with the Rule 3.21 of the Listing Rules
+圍。於本報告發佈日期，審計委員會由本公 and the CG Code. As at the date of this report, the Audit Committee
+司三名獨立非執行董事（Stanley Yi Chang先 comprises three independent non-executive Directors (Mr. Stanley
+生、楊磊先生和呂源先生）組成。Stanley Yi Yi Chang, Mr. Yang, Lei Bob and Mr. Lu Yuan) of the Company. Mr.
+Chang先生為審計委員會主席。 Stanley Yi Chang is the chairman of the Audit Committee.
+審計委員會已審閱本公司於截至2023年6月 The Audit Committee has reviewed the Company’s unaudited
+30日止六個月的未經審核簡明綜合中期業 condensed consolidated interim results for the six months ended
+績，並確認已遵從適用的會計原則、準則 June 30, 2023, and confirms that the applicable accounting
+及規定及已作出足夠披露。截至2023年6月 principles, standards and requirements have been complied with,
+30日止六個月的中期業績未經審核，但已 and that adequate disclosures have been made. The interim results
+由本公司獨立核數師安永會計師事務所根據 for the six months ended June 30, 2023 are unaudited, but have
+香港會計師公會頒佈的香港審閱工作準則第 been reviewed by Ernst & Young, the independent auditors of the
+2410號「實體的獨立核數師對中期財務資料 Company, in accordance with Hong Kong Standard on Review
+的審閱」進行審閱。 Engagements 2410 “Review of Interim Financial Information
+Performed by the Independent Auditor of the Entity” issued by the
+Hong Kong Institute of Certified Public Accountants.
+中期股息 INTERIM DIVIDEND
+董事會決議不宣派截至2023年6月30日止六 The Board resolved not to declare an interim dividend for the six
+個月的中期股息。 months ended June 30, 2023.
+充足公眾持股量 SUFFICIENT PUBLIC FLOAT
+聯交所已授予本公司豁免嚴格遵守《上市規 The Stock Exchange has granted the Company a waiver from strict
+則》第8.08(1)(a)條的規定，惟本公司的最低 compliance with the requirements of Rule 8.08(1)(a) of the Listing
+公眾持股量應為以下最高者：(1)本公司已發 Rules, provided that the minimum public float of the Company shall
+行股本總額的13.66%；(2)緊隨全球發售完 be the highest of (1) 13.66% of the total issued share capital of
+成及超額配股權獲行使後公眾持有H股的百 the Company; (2) such percentage of H shares to be held by the
+分比。根據本公司公開獲得的資料並據董事 public immediately after the completion of the Global Offering and
+所知，董事確認，本公司自2023年1月1日 the exercise of the Over-allotment Option. Based on the information
+起及直至本中期報告日期間均維持聯交所要 that is publicly available to the Company and to the best knowledge
+求的前述最低公眾持股量。 of the Directors, the Directors confirmed that the Company has
+maintained the aforementioned minimum public float required by the
+Stock Exchange since January 1, 2023 and up to the date of this
+interim report.
+30
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 32 =====
+企業管治及其他數據 CORPORATE GOVERNANCE AND OTHER INFORMATION
+董事、監事及高級管理人員變動 CHANGES OF DIRECTORS, SUPERVISORS AND
+SENIOR MANAGEMENT
+報告期內，經2023年5月16日召開的2022 During the Reporting Period, as considered and approved at the
+年度股東大會（「年度股東大會」）審議批准， 2022 annual general meeting (the “AGM”) held on May 16, 2023, Mr.
+鍾睒睒先生、吳莉敏女士、向咸松先生及韓 Zhong Shanshan, Ms. Wu Limin, Mr. Xiang Xiansong and Ms. Han
+林攸女士獲選為本公司第八屆董事會執行董 Linyou were elected as executive Directors of the eighth session of
+事，Zhong Shu Zi先生及薛蓮女士獲選為本 the Board of the Company, Mr. Zhong Shu Zi and Ms. Xue Lian were
+公司第八屆董事會非執行董事，Stanley Yi elected as non-executive Directors of the eighth session of the Board
+Chang先生、楊磊先生及呂源先生獲選為本 of the Company, and Mr. Stanley Yi Chang, Mr. Yang, Lei Bob and
+公司第八屆董事會獨立非執行董事。本公司 Mr. Lu Yuan were elected as independent non-executive Directors of
+第八屆董事會任期三年，自年度股東大會批 the eighth session of the Board of the Company. The term of office
+准之日起生效。 of the eighth session of the Board of the Company is three years
+commencing from the date of approval at the AGM.
+於緊隨年度股東大會後召開的第八屆董事會 At the first meeting of the eighth session of the Board held
+第一次會議上，鍾睒睒先生獲委任為第八屆 immediately after the AGM, Mr. Zhong Shanshan was appointed
+董事會董事長。同時，董事會批准委任以下 as the chairman of the eighth session of the Board. In addition, the
+人員為公司的高級管理人員：(1)鍾睒睒先生 Board has approved the appointments of the following individuals
+為本公司總經理；(2)吳莉敏女士為本公司財 as senior management of the Company: (1) Mr. Zhong Shanshan
+務負責人；(3)向咸松先生為本公司行銷中心 as the General Manager of the Company; (2) Ms. Wu Limin as the
+總經理；及(4)韓林攸女士為本公司董事會秘 Chief Financial Officer of the Company; (3) Mr. Xiang Xiansong as the
+書。以上人士之任期及高級管理人員身份均 General Manager of the Sales & Marketing Center of the Company;
+自2023年5月16日起生效，為期三年，與第 and (4) Ms. Han Linyou as the Board Secretary of the Company.
+八屆董事會任期一致。同時，董事會亦委任 The terms of office and senior management capacity of the above
+韓林攸女士和麥寶文女士為本公司聯席公司 individuals are effective from May 16, 2023 for a period of three
+秘書，吳莉敏女士和韓林攸女士為香港上市 years, which was consistent with the term of office of the eighth
+規則第3.05條項下規定的授權代表，任期三 session of the Board. Meanwhile, the Board also appointed Ms. Han
+年，自2023年5月16日起生效，至第八屆董 Linyou and Ms. Mak Po Man Cherie as Joint Company Secretaries
+事會屆滿之日止。 of the Company, and Ms. Wu Limin and Ms. Han Linyou as the
+authorised representatives as required under Rule 3.05 of the Hong
+Kong Listing Rules, all for a term of three years effective from May
+16, 2023 and ending on the date of expiry of the term of office of the
+eighth session of the Board.
+31
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 33 =====
+企業管治及其他數據 CORPORATE GOVERNANCE AND OTHER INFORMATION
+經2022年度股東大會審議批准，劉敏女 As considered and approved at the 2022 AGM, Ms. Liu Min and Mr.
+士、劉熹悅先生獲選為本公司第八屆監事會 Liu Xiyue were elected as shareholder representative Supervisors of
+股東代表監事。經本公司職工民主選舉程 the eighth session of the Supervisory Committee of the Company.
+序，饒明紅先生於2023年3月2日獲重選為 Besides, Mr. Rao Minghong was re-elected by the Company
+第八屆監事會職工代表監事。年度股東大會 through employees’ democratic election procedure as the employee
+選舉產生的兩名股東代表監事與職工代表監 representative Supervisor of the eighth session of the Supervisory
+事饒明紅先生共同組成本公司第八屆監事 Committee on March 2, 2023. Two shareholder representative
+會，任期三年，自年度股東大會之日起算。 Supervisors elected at the AGM together with the employee
+於緊隨年度股東大會後召開的第八屆監事會 representative Supervisor, Mr. Rao Minghong will form the eighth
+第一次會議上，劉敏女士獲委任為第八屆監 session of the Supervisory Committee of the Company, and their
+事會主席。 term of office shall be three years commencing from the date of the
+AGM. At the first meeting of the eighth session of the Supervisory
+Committee held immediately after the AGM, Ms. Liu Min was
+appointed as the chairman of the eighth session of the Supervisory
+Committee.
+就前述董事會、監事會成員、副總經理、財 In respect of the aforesaid changes in members of the Board and
+務負責人及授權代表變更，郭振先生、周力 the Supervisory Committee, the Deputy General Managers, the
+先生、周震華女士、廖原先生及鍾紀鋼先生 Chief Financial Officer and the authorised representatives, Mr. Guo
+均因任期屆滿退任。 Zhen, Mr. Zhou Li, Ms. Zhou Zhenhua, Mr. Liao Yuan and Mr. Zhong
+Jigang all retired due to the expiry of their terms of office.
+有關本公司董事、監事及高級管理人員變更 For details of the changes of the Directors, Supervisors and senior
+的詳情，請參閱本公司日期為2023年3月3 management of the Company, please refer to the announcements
+日和2023年5月16日的公告及日期為2023年 dated March 3, 2023 and May 16, 2023 and the circular dated April
+4月17日的通函。 17, 2023 of the Company.
+代表董事會 On behalf of the Board of Directors
+農夫山泉股份有限公司 Nongfu Spring Co., Ltd.
+董事長 Zhong Shanshan
+鍾睒睒 Chairman
+32
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 34 =====
+獨立審閱報告
+INDEPENDENT REVIEW REPORT
+致農夫山泉股份有限公司股東 To the shareholders of Nongfu Spring Co., Ltd.
+（於中華人民共和國註冊成立的股份有限 (A joint stock company incorporated in the People’s Republic of
+公司） China with limited liability)
+緒言 INTRODUCTION
+吾等已審閱第35至64頁所載的農夫山泉股 We have reviewed the interim financial information set out on pages
+份有限公司（「貴公司」）及其附屬公司（「貴集 35 to 64, which comprises the condensed consolidated statement
+團」）的中期財務資料，包括於2023年6月30 of financial position of Nongfu Spring Co., Ltd. (the “Company”) and
+日的簡明綜合財務狀況表以及截至該日止六 its subsidiaries (the “Group”) as at 30 June 2023 and the related
+個月期間的相關簡明綜合損益表、全面收 condensed consolidated statements of profit or loss, comprehensive
+益表、權益變動表及現金流量表以及說明附 income, changes in equity and cash flows for the six-month period
+註。香港聯合交易所有限公司證券上市規則 then ended, and explanatory notes. The Rules Governing the Listing
+規定，編製中期財務資料的報告須符合上市 of Securities on The Stock Exchange of Hong Kong Limited require
+規則有關條文以及國際會計準則理事會（「國 the preparation of a report on interim financial information to be in
+際會計準則理事會」）頒佈的國際會計準則 compliance with the relevant provisions thereof and International
+第34號中期財務報告（「國際會計準則第34 Accounting Standard 34 Interim Financial Reporting (“IAS 34”)
+號」）。 貴公司董事負責根據國際會計準則 issued by the International Accounting Standards Board (“IASB”).
+第34號編製及呈列本中期財務資料。吾等的 The directors of the Company are responsible for the preparation
+責任是根據吾等的審閱對本中期財務資料作 and presentation of this interim financial information in accordance
+出結論。根據雙方協定的委聘條款，吾等僅 with IAS 34. Our responsibility is to express a conclusion on this
+向 閣下（作為整體）報告，除此之外本報告 interim financial information based on our review. Our report is
+不作其他用途。吾等概不就本報告的內容對 made solely to you, as a body, in accordance with our agreed
+任何其他人士負責或承擔責任。 terms of engagement, and for no other purpose. We do not assume
+responsibility towards or accept liability to any other person for the
+contents of this report.
+審閱範圍 SCOPE OF REVIEW
+吾等已根據香港會計師公會（「香港會計師 We conducted our review in accordance with Hong Kong Standard
+公會」）頒佈的香港審閱工作準則第2410號 on Review Engagements 2410 (“HKSRE 2410”) Review of Interim
+（「香港審閱工作準則第2410號」）實體的獨 Financial Information Performed by the Independent Auditor of
+立核數師對中期財務資料的審閱進行審閱工 the Entity issued by the Hong Kong Institute of Certified Public
+作。審閱中期財務資料包括主要向負責財務 Accountants (“HKICPA”). A review of interim financial information
+及會計事務的人員作出查詢，並應用分析及 consists of making inquiries, primarily of persons responsible for
+其他審閱程序。審閱的範圍遠較根據香港審 financial and accounting matters, and applying analytical and other
+核準則進行審核的範圍為小，故無法保釋吾 review procedures. A review is substantially less in scope than an
+等將知悉在審核中可能識別到的所有重大事 audit conducted in accordance with Hong Kong Standards on
+項。因此，吾等不發表審核意見。 Auditing and consequently does not enable us to obtain assurance
+that we would become aware of all significant matters that might
+be identified in an audit. Accordingly, we do not express an audit
+opinion.
+33
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 35 =====
+獨立審閱報告（續） INDEPENDENT REVIEW REPORT (continued)
+結論 CONCLUSION
+按照吾等的審閱，吾等並無發現任何事項， Based on our review, nothing has come to our attention that causes
+致使吾等相信中期財務資料在所有重大方面 us to believe that the interim financial information is not prepared, in
+並未根據國際會計準則第34號編製。 all material respects, in accordance with IAS 34.
+安永會計師事務所 Ernst & Young
+執業會計師 Certified Public Accountants
+香港 Hong Kong
+2023年8月29日 29 August 2023
+34
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 36 =====
+中期簡明綜合損益表
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF PROFIT OR LOSS
+截至2023年6月30日止六個月
+For the six months ended 30 June 2023
+2023年 2022年
+2023 2022
+附註 人民幣千元 人民幣千元
+Notes RMB’000 RMB’000
+（未經審核） （未經審核）
+(Unaudited) (Unaudited)
+收益 REVENUE 4 20,462,425 16,598,761
+銷售成本 Cost of sales (8,152,496) (6,761,083)
+毛利 Gross profit 12,309,929 9,837,678
+其他收入及收益，淨額 Other income and gains, net 900,521 751,368
+銷售及分銷開支 Selling and distribution expenses (4,695,318) (3,611,520)
+行政開支 Administrative expenses (958,569) (876,351)
+其他開支 Other expenses (2,589) (9,579)
+財務費用 Finance costs (29,670) (22,341)
+除稅前溢利 PROFIT BEFORE TAX 5 7,524,304 6,069,255
+所得稅開支 Income tax expense 6 (1,748,883) (1,460,930)
+母公司擁有人 PROFIT FOR THE PERIOD
+應佔期內 ATTRIBUTABLE TO OWNERS OF
+溢利 THE PARENT 5,775,421 4,608,325
+母公司普通 EARNINGS PER SHARE
+權益持有人 ATTRIBUTABLE TO ORDINARY
+應佔每股盈利 EQUITY HOLDERS OF THE PARENT
+基本及攤薄 Basic and diluted
+期內溢利 For profit for the period RMB0.51 RMB0.41
+8 人民幣0.51元 人民幣0.41元
+35
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 37 =====
+中期簡明綜合全面收益表
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+截至2023年6月30日止六個月
+For the six months ended 30 June 2023
+2023年 2022年
+2023 2022
+人民幣千元 人民幣千元
+RMB’000 RMB’000
+（未經審核） （未經審核）
+(Unaudited) (Unaudited)
+期內溢利 PROFIT FOR THE PERIOD 5,775,421 4,608,325
+其他全面收益 OTHER COMPREHENSIVE INCOME
+可於後續期間重新分類至 Other comprehensive income that
+損益的其他全面收益： may be reclassified to profit or loss in
+subsequent periods:
+匯兌差額： Exchange differences:
+換算海外業務產生的匯兌差額 Exchange differences on translation of
+foreign operations 773 937
+可於後續期間重新分類至 Net other comprehensive income that
+損益的其他全面收益淨額 may be reclassified to profit or loss in
+subsequent periods 773 937
+期內其他全面收益（除稅後） OTHER COMPREHENSIVE INCOME
+FOR THE PERIOD, NET OF TAX 773 937
+母公司擁有人應佔期內 TOTAL COMPREHENSIVE INCOME
+全面收益總額 FOR THE PERIOD ATTRIBUTABLE
+TO OWNERS OF THE PARENT 5,776,194 4,609,262
+36
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 38 =====
+中期簡明綜合財務狀況表
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+2023年6月30日
+30 June 2023
+2023年 2022年
+6月30日 12月31日
+30 June 31 December
+2023 2022
+附註 人民幣千元 人民幣千元
+Notes RMB’000 RMB’000
+（未經審核） （經審核）
+(Unaudited) (Audited)
+非流動資產 NON-CURRENT ASSETS
+物業、廠房及設備 Property, plant and equipment 9 16,078,576 15,397,585
+使用權資產 Right-of-use assets 831,169 853,488
+無形資產 Intangible assets 74,239 58,077
+遞延稅項資產 Deferred tax assets 845,972 433,105
+長期銀行存款 Long-term bank deposits 10 2,827,961 4,101,670
+其他非流動資產 Other non-current assets 92,409 49,435
+非流動資產總額 Total non-current assets 20,750,326 20,893,360
+流動資產 CURRENT ASSETS
+存貨 Inventories 2,393,212 2,108,372
+貿易應收款項及應收票據 Trade and bills receivables 11 602,567 478,587
+預付款項、其他應收款項 Prepayments, other receivables and
+及其他資產 other assets 704,665 560,307
+質押存款 Pledged deposits 10 3,348 3,059
+現金及銀行結餘 Cash and bank balances 10 24,645,669 15,211,156
+流動資產總額 Total current assets 28,349,461 18,361,481
+流動負債 CURRENT LIABILITIES
+貿易應付款項及應付票據 Trade and bills payables 12 1,754,331 1,425,069
+其他應付款項及應計費用 Other payables and accruals 16,234,632 6,505,820
+合約負債 Contract liabilities 2,559,246 2,677,190
+計息借貸 Interest-bearing borrowings 13 3,919,632 2,425,093
+租賃負債 Lease liabilities 51,165 68,678
+應付稅項 Tax payables 1,781,539 1,499,579
+流動負債總額 Total current liabilities 26,300,545 14,601,429
+流動資產淨額 NET CURRENT ASSETS 2,048,916 3,760,052
+總資產減流動負債 TOTAL ASSETS LESS CURRENT
+LIABILITIES 22,799,242 24,653,412
+37
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 39 =====
+中期簡明綜合財務狀況表（續） INTERIM CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION (continued)
+2023年6月30日
+30 June 2023
+2023年 2022年
+6月30日 12月31日
+30 June 31 December
+2023 2022
+附註 人民幣千元 人民幣千元
+Note RMB’000 RMB’000
+（未經審核） （經審核）
+(Unaudited) (Audited)
+非流動負債 NON-CURRENT LIABILITIES
+遞延收益 Deferred income 283,691 291,420
+遞延稅項負債 Deferred tax liabilities 227,049 246,737
+租賃負債 Lease liabilities 31,216 31,179
+非流動負債總額 Total non-current liabilities 541,956 569,336
+資產淨額 NET ASSETS 22,257,286 24,084,076
+權益 EQUITY
+母公司擁有人 Equity attributable to owners
+應佔權益 of the parent
+股本 Share capital 14 1,124,647 1,124,647
+儲備 Reserves 21,132,639 22,959,429
+權益總額 Total equity 22,257,286 24,084,076
+38
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 40 =====
+中期簡明綜合權益變動表
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+截至2023年6月30日止六個月
+For the six months ended 30 June 2023
+母公司擁有人應佔
+Attributable to owners of the parent
+受託人 股份支付 匯兌波動
+股本 資本儲備* 所持股份* 儲備* 法定儲備* 儲備* 保留盈利* 總計
+Shares Share-based Exchange
+Share Capital held by payment Statutory fluctuation Retained
+capital reserve* trustee* reserve* reserve* reserve* earnings* Total
+附註 人民幣千元 人民幣千元 人民幣千元 人民幣千元 人民幣千元 人民幣千元 人民幣千元 人民幣千元
+Notes RMB’000 RMB’000 RMB’000 RMB’000 RMB’000 RMB’000 RMB’000 RMB’000
+（附註14）
+(note 14)
+於2023年1月1日（經審核） At 1 January 2023 (audited) 1,124,647 8,429,611 (134,368) 45,328 562,323 2,156 14,054,379 24,084,076
+期內溢利 Profit for the period – – – – – – 5,775,421 5,775,421
+期內其他全面收益： Other comprehensive income
+for the period:
+換算海外業務產生的 Exchange differences on
+匯兌差額 translation of foreign
+operations – – – – – 773 – 773
+期內全面收益總額 Total comprehensive income
+for the period – – – – – 773 5,775,421 5,776,194
+已宣派2022年末期股息 Final 2022 dividend declared 7 – – 1,284 – – – (7,647,597) (7,646,313)
+沒收股份 Forfeit of shares 15 – – 9,746 – – – – 9,746
+確認股份支付 Recognition of share-based
+payment 15 – – – 15,202 – – – 15,202
+根據員工股權激勵計劃 Award shares vested under
+歸屬的激勵股份 employee share incentive scheme – (3,071) 58,407 (36,955) – – – 18,381
+於2023年6月30日（未經審核） At 30 June 2023 (unaudited) 1,124,647 8,426,540 (64,931) 23,575 562,323 2,929 12,182,203 22,257,286
+39
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 41 =====
+中期簡明綜合權益變動表（續） INTERIM CONDENSED CONSOLIDATED STATEMENT OF CHANGES IN EQUITY (continued)
+截至2023年6月30日止六個月
+For the six months ended 30 June 2023
+母公司擁有人應佔
+Attributable to owners of the parent
+受託人 股份支付 匯兌波動
+股本 資本儲備 所持股份 儲備 法定儲備 儲備 保留盈利 總計
+Shares Share-based Exchange
+Share Capital held by payment Statutory fluctuation Retained
+capital reserve trustee reserve reserve reserve earnings Total
+附註 人民幣千元 人民幣千元 人民幣千元 人民幣千元 人民幣千元 人民幣千元 人民幣千元 人民幣千元
+Notes RMB’000 RMB’000 RMB’000 RMB’000 RMB’000 RMB’000 RMB’000 RMB’000
+（附註14）
+(note 14)
+於2022年1月1日（經審核） At 1 January 2022 (audited) 1,124,647 8,434,304 – – 562,323 321 10,620,039 20,741,634
+期內溢利 Profit for the period – – – – – – 4,608,325 4,608,325
+期內其他全面收益： Other comprehensive income
+for the period:
+換算海外業務產生的 Exchange differences on
+匯兌差額 translation of foreign
+operations – – – – – 937 – 937
+期內全面收益總額 Total comprehensive income
+for the period – – – – – 937 4,608,325 4,609,262
+已宣派2021年末期股息 Final 2021 dividend declared 7 – – 1,792 – – – (5,060,910) (5,059,118)
+購回股份 Repurchase of shares 15 – – (225,401) – – – – (225,401)
+確認股份支付 Recognition of share-based
+payment 15 – – – 71,575 – – – 71,575
+根據員工股權激勵計劃 Award shares vested under
+歸屬的激勵股份 employee share incentive scheme – (4,693) 89,241 (56,465) – – – 28,083
+於2022年6月30日（未經審核） At 30 June 2022 (unaudited) 1,124,647 8,429,611 (134,368) 15,110 562,323 1,258 10,167,454 20,166,035
+* 該等儲備賬包括於2023 年6月30日中期 * These reserve accounts comprise the consolidated reserves of
+簡明綜合財務狀況表的綜合儲備人民幣 RMB21,132,639,000 in the interim condensed consolidated statements
+21,132,639,000元（2022年12月31日：人民幣 of financial position as at 30 June 2023 (31 December 2022:
+22,959,429,000元）。 RMB22,959,429,000).
+40
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 42 =====
+中期簡明綜合現金流量表
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS
+截至2023年6月30日止六個月
+For the six months ended 30 June 2023
+2023年 2022年
+2023 2022
+附註 人民幣千元 人民幣千元
+Notes RMB’000 RMB’000
+（未經審核） （未經審核）
+(Unaudited) (Unaudited)
+經營活動所得現金流量 CASH FLOWS FROM OPERATING ACTIVITIES
+除稅前溢利 Profit before tax 7,524,304 6,069,255
+就下列各項作出調整： Adjustments for:
+物業、廠房及設備折舊 Depreciation of property, plant and equipment 5 1,233,533 1,060,254
+使用權資產折舊 Depreciation of right-of-use assets 5 52,496 49,210
+無形資產攤銷 Amortisation of intangible assets 5 6,123 4,289
+出售物業、廠房及 Loss on disposal of items of property,
+設備項目的虧損 plant and equipment 5 2,140 4,597
+衍生工具公平值虧損 Fair value loss on derivative instruments – 1,106
+按公平值計入損益的 Fair value gain on financial assets at fair value
+金融資產公平值收益 through profit or loss 5 – (2,289)
+外匯收益 Foreign exchange gain (158,909) (212,081)
+利息收入 Interest income (439,223) (258,091)
+存貨撥備 Provision of inventories 5 3,702 18,093
+貿易應收款項減值 Impairment of trade receivables 5 7,714 7,043
+預付款項、其他應收款項 Impairment of financial assets included
+及其他資產中的 in prepayments, other receivables and
+金融資產減值 other assets 5 4,150 1,399
+於損益確認的遞延收益 Deferred income recognised in profit or loss (9,779) (11,328)
+財務費用 Finance costs 29,670 22,341
+股份支付開支 Share-based payment expenses 5 15,202 71,575
+8,271,123 6,825,373
+存貨（增加）╱減少 (Increase)/decrease in inventories (288,542) 68,648
+貿易應收款項增加 Increase in trade receivables (131,694) (176,149)
+預付款項、其他應收款項及 (Increase)/decrease in prepayments,
+其他資產（增加）╱減少 other receivables and other assets (163,202) 118,021
+質押存款（增加）╱減少 (Increase)/decrease in pledged deposits (289) 717
+貿易應付款項及應付票據增加 Increase in trade and bills payables 329,262 446,021
+其他應付款項及應計費用增加 Increase in other payables and accruals 1,888,725 932,622
+合約負債減少 Decrease in contract liabilities (117,944) (909,974)
+經營所得現金 Cash generated from operations 9,787,439 7,305,279
+已付所得稅 Income tax paid (1,878,414) (1,482,259)
+已收取利息 Interest received 112,741 177,062
+已付利息 Interest paid (29,625) (22,383)
+經營活動所得現金流量淨額 Net cash flows from operating activities 7,992,141 5,977,699
+41
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 43 =====
+中期簡明綜合現金流量表（續） INTERIM CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS (continued)
+截至2023年6月30日止六個月
+For the six months ended 30 June 2023
+2023年 2022年
+2023 2022
+附註 人民幣千元 人民幣千元
+Note RMB’000 RMB’000
+（未經審核） （未經審核）
+(Unaudited) (Unaudited)
+投資活動所得現金流量 CASH FLOWS FROM INVESTING ACTIVITIES
+購買物業、廠房及 Purchases of items of property,
+設備項目 plant and equipment (1,750,150) (1,885,467)
+出售物業、廠房及 Proceeds from disposal of items of property,
+設備項目所得款項 plant and equipment 5,734 3,511
+購買無形資產 Purchases of intangible assets (22,285) (1,368)
+購買使用權資產 Purchases of right-of-use assets (3,150) (64,428)
+於收購時原定到期日為 Increase in time deposits with original maturity of
+三個月以上的定期存款增加 more than three months when acquired (16,501,012) (8,715,454)
+提取於收購時原定到期日為 Withdrawal of time deposits with original maturity of
+三個月以上的定期存款 more than three months when acquired 5,624,092 2,706,746
+銷售按公平值計入損益的 Proceeds from sales of financial assets at fair value
+金融資產所得款項 through profit or loss – 207,043
+收取物業、廠房及設備的 Receipt of government grants for property,
+政府補助 plant and equipment 2,050 27,216
+投資活動所用現金流量淨額 Net cash flows used in investing activities (12,644,721) (7,722,201)
+融資活動所得現金流量 CASH FLOWS FROM FINANCING ACTIVITIES
+計息借貸所得款項 Proceeds from interest-bearing borrowings 5,919,500 2,586,550
+償還計息借貸 Repayment of interest-bearing borrowings (4,425,006) (2,250,000)
+租賃付款的本金部分 Principal portion of lease payments (44,503) (40,120)
+購回本公司股份 Repurchases of the Company’s shares – (225,401)
+根據員工股權激勵計劃 Proceeds from award of shares under the employee
+授予激勵股份所得款項 share incentive scheme – 71,408
+融資活動所得現金流量淨額 Net cash flows from financing activities 1,449,991 142,437
+現金及現金等價物減少淨額 NET DECREASE IN CASH AND CASH
+EQUIVALENTS (3,202,589) (1,602,065)
+期初現金及現金等價物 Cash and cash equivalents at beginning of period 7,821,114 10,187,896
+外匯匯率變動的影響 Effect of foreign exchange rate changes 1,190 45,403
+期末現金及 CASH AND CASH EQUIVALENTS
+現金等價物 AT END OF PERIOD 4,619,715 8,631,234
+現金及現金等 ANALYSIS OF BALANCES OF CASH AND
+價物結餘分析 CASH EQUIVALENTS
+銀行現金 Cash at bank 4,619,715 8,631,234
+短期銀行存款 Short-term bank deposits 20,025,954 10,081,145
+長期銀行存款 Long-term bank deposits 2,827,961 1,943,455
+於中期簡明綜合財務狀況表 Long-term bank deposits and cash and bank
+列賬的長期銀行存款以及 balances as stated in the interim condensed
+現金及銀行結餘 consolidated statement of financial position 10 27,473,630 20,655,834
+減：原定到期日為 Less: Bank deposits with original maturity of
+三個月以上的銀行存款 more than three months 22,853,915 12,024,600
+於中期簡明綜合現金流量表 Cash and cash equivalents as stated in the interim
+列賬的現金及現金等價物 condensed consolidated statement of cash flows 4,619,715 8,631,234
+42
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 44 =====
+中期簡明綜合財務資料附註
+NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+截至2023年6月30日止六個月
+For the six months ended 30 June 2023
+1. 公司及集團資料 1. CORPORATE AND GROUP INFORMATION
+農夫山泉股份有限公司於2001年6月 Nongfu Spring Co., Ltd. was incorporated and registered in
+27日在中華人民共和國（「中國」）註冊 the People’s Republic of China (“PRC”) on 27 June 2001. On
+成立及登記。於2020年9月8日，本公司 8 September 2020, the Company was listed on the Main
+於香港聯合交易所有限公司（「香港聯交 Board of the Stock Exchange of Hong Kong Limited (the
+所」）主板上市（股份代號：9633.HK）。 “HKSE”) (stock code: 9633.HK). The address of the registered
+註冊辦事處地址為浙江省杭州市西湖 office is No. 181, Geyazhuang Road, Xihu District, Hangzhou,
+區葛衙莊181號。 Zhejiang Province.
+本集團參與以下主要業務： The Group was involved in the following principal activities:
+－ 生產及銷售包裝飲用水及飲料 – Production and sale of packaged water and beverage
+－ 銷售農產品 – Sale of agricultural products
+管理層認為，本公司的控股公司及最 In the opinion of management, the holding company and the
+終控股公司為養生堂有限公司（「養生 ultimate holding company of the Company is Yangshengtang
+堂」），該公司於中國註冊成立。 Co., Ltd. (“Yangshengtang”), which is incorporated and
+registered in the PRC.
+2.1 編製基準 2.1 BASIS OF PREPARATION
+截至2023年6月30日止六個月的中期 The interim condensed consolidated financial information for
+簡明綜合財務資料乃根據國際會計準 the six months ended 30 June 2023 has been prepared in
+則第34號中期財務報告編製。除另有 accordance with IAS 34 Interim Financial Reporting. These
+註明者外，該等財務報表均以人民幣 financial statements are presented in Renminbi (“RMB”) and
+（「人民幣」）呈列，且所有數值均調整 all values are rounded to the nearest thousand except when
+至最近的千元單位。中期簡明綜合財 otherwise indicated. The interim condensed consolidated
+務資料並不包括規定須於年度財務報 financial information does not include all the information
+表列載的所有資料及披露，並應與本 and disclosures required in the annual financial statements,
+集團截至2022年12月31日止年度的年 and should be read in conjunction with the Group’s annual
+度綜合財務報表一併閱讀。 consolidated financial statements for the year ended 31
+December 2022.
+43
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 45 =====
+中期簡明綜合財務資料附註（續） NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION (continued)
+截至2023年6月30日止六個月
+For the six months ended 30 June 2023
+2.2 會計政策變動及披露 2.2 CHANGES IN ACCOUNTING POLICIES AND
+DISCLOSURES
+編製中期簡明綜合財務資料所採納的 The accounting policies adopted in the preparation of the
+會計政策與編製本集團截至2022年12 interim condensed consolidated financial information are
+月31日止年度的年度綜合財務報表所 consistent with those applied in the preparation of the Group’s
+應用者一致，惟於本期間財務資料中 annual consolidated financial statements for the year ended
+首次採納的下列新訂及經修訂國際財 31 December 2022, except for the adoption of the following
+務報告準則（「國際財務報告準則」）除 new and revised International Financial Reporting Standards
+外。 (“IFRSs”) for the first time for the current period’s financial
+information.
+國際財務報告準則 保險合約 IFRS 17 Insurance Contracts
+第17號
+國際財務報告準則 保險合約 Amendments to IFRS 17 Insurance Contracts
+第17號的修訂
+國際財務報告準則 初始應用國際財務報告 Amendment to IFRS 17 Initial Application of
+第17號的修訂 準則第17號及國際 IFRS 17 and IFRS 9 –
+財務報告準則第9號－ Comparative Information
+比較資料
+國際會計準則第1號 會計政策披露 Amendments to IAS 1 and Disclosure of Accounting
+及國際財務報告 IFRS Practice Statement 2 Policies
+準則實務報告
+第2號的修訂
+國際會計準則 會計估計的定義 Amendments to IAS 8 Definition of Accounting
+第8號的修訂 Estimates
+國際會計準則 有關來自單一交易的資產 Amendments to IAS 12 Deferred Tax related to
+第12號的修訂 及負債之遞延稅項 Assets and Liabilities
+arising from a Single
+Transaction
+國際會計準則 國際稅收改革－立柱 Amendments to IAS 12 International Tax Reform –
+第12號的修訂 二立法模板 Pillar Two Model Rules
+新訂及經修訂準則對該等財務報表並 The new and revised standards have had no significant
+無重大財務影響。 financial effect on these financial statements.
+3. 經營分部資料 3. OPERATING SEGMENT INFORMATION
+就管理而言，本集團按其服務劃分業 For management purposes, the Group is organized into
+務單位，設有以下五個可呈報經營分 business units based on their services and has five reportable
+部： operating segments as follows:
+－ 製造及銷售天然包裝飲用水的水 – the water products segment engages in manufacturing
+類產品分部； and sale of natural packaged drinking water;
+－ 製造及銷售即飲茶飲料的即飲茶 – the ready-to-drink tea products segment engages in
+類產品分部； manufacturing and sale of ready-to-drink tea beverages;
+－ 製造及銷售功能飲料的功能飲料 – the functional drinks products segment engages in
+產品分部； manufacturing and sale of functional beverages;
+－ 製造及銷售果汁飲料產品的果汁 – the juice beverage products segment engages in
+飲料產品分部；及 manufacturing and sale of juice beverage products; and
+44
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 46 =====
+中期簡明綜合財務資料附註（續） NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION (continued)
+截至2023年6月30日止六個月
+For the six months ended 30 June 2023
+3. 經營分部資料（續） 3. OPERATING SEGMENT INFORMATION
+(continued)
+－ 製造及銷售農產品及其他飲料的 – the other products segment engages in manufacturing
+其他產品分部。 and sale of agricultural products and other beverages.
+管理層個別監察本集團經營分部業 Management monitors the results of the Group’s operating
+績，以便作出資源分配決策及評估表 segments separately for the purpose of making decisions about
+現。分部表現乃基於經調整除稅前溢 resource allocation and performance assessment. Segment
+利而計量之可呈報分部溢利作出評 performance is evaluated based on reportable segment profit,
+估。除利息收入、財務費用、其他收 which is a measure of adjusted profit before tax. The adjusted
+入及收益以及總部和企業開支於該計 profit before tax is measured consistently with the Group’s
+量中剔除外，該經調整除稅前溢利之 profit before tax except that interest income, finance costs,
+計量方法與本集團除稅前溢利一致。 other income and gains, as well as head office and corporate
+由於管理層並非定期審閱該等資料以 expenses are excluded from such measurement. No analysis
+作資源分配及表現評估，故並無呈列 of segment assets and liabilities is presented as management
+分部資產及負債的分析。因此，僅呈 does not regularly review such information for the purposes of
+列分部收益及分部業績。 resource allocation and performance assessment. Therefore,
+only segment revenue and segment results are presented.
+水類產品 即飲茶類產品 功能飲料產品 果汁飲料產品 其他產品 總計
+Ready-to- Functional Juice
+截至2023年6月30日 Six months ended Water drink tea drinks beverage Other
+止六個月 30 June 2023 products products products products products Total
+人民幣千元 人民幣千元 人民幣千元 人民幣千元 人民幣千元 人民幣千元
+RMB’000 RMB’000 RMB’000 RMB’000 RMB’000 RMB’000
+（未經審核） （未經審核） （未經審核） （未經審核） （未經審核） （未經審核）
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited)
+分部收益（附註4） Segment revenue (note 4)
+向外部客戶銷售 Sales to external customers 10,442,008 5,286,470 2,457,528 1,685,600 590,819 20,462,425
+分部業績 Segment results 3,801,813 2,279,894 986,242 497,357 158,378 7,723,684
+對賬： Reconciliation:
+利息收入 Interest income 439,223
+其他未分配收入及 Other unallocated
+收益 income and gains 461,299
+企業及其他 Corporate and other
+未分配開支 unallocated expenses (1,070,232)
+財務費用 Finance costs (29,670)
+除稅前溢利 Profit before tax 7,524,304
+其他分部資料 Other segment information
+折舊及攤銷 Depreciation and amortization 491,105 274,652 132,744 105,285 38,786 1,042,572
+45
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 47 =====
+中期簡明綜合財務資料附註（續） NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION (continued)
+截至2023年6月30日止六個月
+For the six months ended 30 June 2023
+3. 經營分部資料（續） 3. OPERATING SEGMENT INFORMATION
+(continued)
+水類產品 即飲茶類產品 功能飲料產品 果汁飲料產品 其他產品 總計
+Ready-to- Functional Juice
+截至2022年6月30日 Six months ended Water drink tea drinks beverage Other
+止六個月 30 June 2022 products products products products products Total
+人民幣千元 人民幣千元 人民幣千元 人民幣千元 人民幣千元 人民幣千元
+RMB’000 RMB’000 RMB’000 RMB’000 RMB’000 RMB’000
+（未經審核） （未經審核） （未經審核） （未經審核） （未經審核） （未經審核）
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited)
+分部收益（附註4） Segment revenue (note 4)
+向外部客戶銷售 Sales to external customers 9,349,003 3,306,901 2,022,878 1,274,767 645,212 16,598,761
+分部業績 Segment results 3,646,290 1,456,289 849,197 328,312 81,857 6,361,945
+對賬： Reconciliation:
+利息收入 Interest income 258,091
+其他未分配收入及 Other unallocated
+收益 income and gains 493,277
+企業及其他 Corporate and other
+未分配開支 unallocated expenses (1,021,717)
+財務費用 Finance costs (22,341)
+除稅前溢利 Profit before tax 6,069,255
+其他分部資料 Other segment information
+折舊及攤銷 Depreciation and amortization 480,570 182,922 117,816 90,518 54,206 926,032
+地區資料 Geographical information
+本集團逾99%的收益及經營溢利均來 Over 99% of the Group’s revenue and operating profits are
+自中國內地的客戶，而本集團逾99% derived from customers based in Mainland China and over
+的可識別資產和負債均位於中國內地。 99% of the Group’s identifiable assets and liabilities were in
+Mainland China.
+主要客戶資料 Information about major customers
+截至2023年及2022年6月30日止六個 No revenue from the Group’s sales to a single customer
+月，概無來自本集團單一客戶銷售的 amounted to 10% or more of the Group’s total revenue for
+收益佔本集團總收益的10%或以上。 each six months ended 30 June 2023 and 2022.
+46
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 48 =====
+中期簡明綜合財務資料附註（續） NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION (continued)
+截至2023年6月30日止六個月
+For the six months ended 30 June 2023
+4. 收益 4. REVENUE
+收益分析如下： An analysis of revenue is as follows:
+截至6月30日止六個月
+For the six months
+ended 30 June
+2023年 2022年
+2023 2022
+人民幣千元 人民幣千元
+RMB’000 RMB’000
+（未經審核） （未經審核）
+(Unaudited) (Unaudited)
+來自客戶合約的 Revenue from contracts
+收益 with customers
+銷售商品 Sales of goods 20,462,425 16,598,761
+上述收益確認的時間是在某個時間點 The timing of the above revenue recognition is when the
+履行銷售及交付商品的履約義務之時。 performance obligations of sales and delivery of goods are
+satisfied at a point in time.
+履約責任於交付貨品後完成及通常需 The performance obligation is satisfied upon delivery of
+要預先付款（惟享有信貸期的客戶除 goods and payment in advance is normally required, except
+外，其付款一般於30天內到期，對主 for customers with credit terms, where payment is generally
+要客戶可延長到90天），部分合約給予 due within 30 days, and extended up to 90 days for major
+客戶退貨權利及銷售獎勵折扣，從而 customers. Some contracts provide customers with a right
+導致可變對價的產生。 of return and volume rebates which give rise to variable
+consideration.
+本集團並無原有預期期限超過一年的 The Group has no revenue contract that has an original
+收益合約，因此管理層應用國際財務 expected duration of more than one year, thus management
+報告準則第15 號項下的實際權宜方 has applied the practical expedient under IFRS 15 and is not
+法，且無需披露分配至於報告期末未 required to disclose the aggregate amount of the transaction
+達成或部分達成的履約責任的交易價 prices allocated to the performance obligations that are
+格。 unsatisfied or partially satisfied as of the end of the reporting
+period.
+47
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 49 =====
+中期簡明綜合財務資料附註（續） NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION (continued)
+截至2023年6月30日止六個月
+For the six months ended 30 June 2023
+5. 除稅前溢利 5. PROFIT BEFORE TAX
+本集團除稅前溢利乃扣除╱（計入）下 The Group’s profit before tax is arrived at after charging/
+列各項後得出： (crediting):
+截至6月30日止六個月
+For the six months
+ended 30 June
+2023年 2022年
+2023 2022
+人民幣千元 人民幣千元
+RMB’000 RMB’000
+（未經審核） （未經審核）
+(Unaudited) (Unaudited)
+存貨銷售成本* Cost of inventories sold* 8,152,496 6,761,083
+物業、廠房及 Depreciation of property,
+設備折舊 plant and equipment 1,233,533 1,060,254
+使用權資產折舊 Depreciation of right-of-use assets 52,496 49,210
+無形資產攤銷** Amortisation of intangible assets** 6,123 4,289
+出售物業、廠房及 Loss on disposal of items of property,
+設備的虧損 plant and equipment 2,140 4,597
+員工福利開支 Employee benefit expenses (including
+（包括董事及 directors’ and chief executive’s
+主要行政人員薪酬）： remuneration):
+工資及薪金 Wages and salaries 1,600,359 1,259,321
+退休金計劃供款、 Pension scheme contributions, social
+社會福利及其他福利*** welfare and other welfare*** 234,732 221,473
+以股權結算的 Equity-settled share-based payment
+股份支付開支 expenses 15,202 71,575
+研發成本**** Research and development costs**** 127,082 107,863
+與短期租賃及低價值資產租賃 Expenses relating to short-term leases
+有關的費用 and leases of low-value assets 73,583 64,840
+存貨撥備 Provision of inventories 3,702 18,093
+貿易應收款項減值 Impairment of trade receivables 7,714 7,043
+預付款項、其他應收款項及 Impairment of financial assets included
+其他資產中的 in prepayments, other receivables and
+金融資產減值 other assets 4,150 1,399
+按公平值計入損益的 Fair value gains on financial assets at fair
+金融資產公平值收益 value through profit or loss – (2,289)
+衍生金融工具公平值虧損 Fair value loss on derivative financial
+instruments – 1,437
+48
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 50 =====
+中期簡明綜合財務資料附註（續） NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION (continued)
+截至2023年6月30日止六個月
+For the six months ended 30 June 2023
+5. 除稅前溢利（續） 5. PROFIT BEFORE TAX (continued)
+* 存貨銷售成本包括與物業、廠房及設備 * Cost of inventories sold include expenses relating to depreciation
+折舊、使用權資產折舊及員工成本相關 of property, plant and equipment, depreciation of right-of-use
+的開支，其亦包括在上述各類開支分別 assets and staff costs, which are also included in the respective
+披露的總額中。 total amounts disclosed separately above for each of these types of
+expenses.
+** 報告期間的無形資產攤銷計入中期簡明 ** The amortisation of intangible assets for the reporting periods
+綜合損益表的行政開支。 is included in administrative expenses in the interim condensed
+consolidated statement of profit or loss.
+*** 本集團無僱主可用作減低現有供款水平 *** There are no forfeited contributions that may be used by the Group as
+之沒收供款。 the employer to reduce the existing level of contributions.
+**** 研發成本包括與物業、廠房及設備折 **** Research and development costs include expenses relating to
+舊、使用權資產折舊及員工成本相關的 depreciation of property, plant and equipment, depreciation of
+開支，其亦包括在上述各類開支分別披 right-of-use assets and staff costs, which are also included in the
+露的總額中。 respective total amounts disclosed separately above for each of
+these types of expenses.
+6. 所得稅 6. INCOME TAX
+截至6月30日止六個月
+For the six months
+ended 30 June
+2023年 2022年
+2023 2022
+人民幣千元 人民幣千元
+RMB’000 RMB’000
+（未經審核） （未經審核）
+(Unaudited) (Unaudited)
+即期－中華人民共和國 Current – the People’s Republic of
+（「中國」） China (the “PRC”)
+期內費用 Charge for the period 2,180,135 1,606,306
+過往期間撥備不足 Under-provision in prior periods 1,303 243
+遞延 Deferred (432,555) (145,619)
+總計 Total 1,748,883 1,460,930
+本集團須按實體基準就產生於或來自 The Group is subject to income tax on an entity basis on profits
+本集團成員公司註冊及經營所在司法 arising in or derived from the jurisdictions in which members of
+權區的溢利繳納所得稅。 the Group are domiciled and operate.
+49
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 51 =====
+中期簡明綜合財務資料附註（續） NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION (continued)
+截至2023年6月30日止六個月
+For the six months ended 30 June 2023
+6. 所得稅（續） 6. INCOME TAX (continued)
+中國企業所得稅 PRC corporate income tax
+根據《中華人民共和國企業所得稅法》 Under the Law of the PRC on Enterprise Income Tax (the “EIT
+（「企業所得稅法」）及企業所得稅法實 Law”) and Implementation Regulation of the EIT Law, the EIT
+施條例，本集團中國附屬公司的企業 rate of the Group’s PRC subsidiaries is 25% unless subject to
+所得稅稅率為25%，除非符合以下免 tax exemption set out below.
+稅規定。
+期內，中國附屬公司的法定中國企業 The statutory PRC enterprise income tax for the PRC
+所得稅稅率為25%。根據財政部及國 subsidiaries is 25% for the period. According to the Tax Relief
+家稅務總局聯合發佈的《關於深入實施 Notice (Cai Shui [2020] no. 23) on the Grand Development of
+西部大開發戰略有關稅收政策問題的 Western Region jointly issued by the Ministry of Finance and
+通知》（財稅[2020]23號），位於中國西 the State Administration of Taxation, enterprises located in
+部地區的企業，其鼓勵類產業主營業 the western region of the PRC with over 60% of the principal
+務收入佔企業收入總額60%以上的， revenue generated from the encouraged business activities
+於2021年1月1日至2030年12月31日 were entitled to a preferential income tax rate of 15% for 10
+10年期間，有權享有15%的優惠所 years from 1 January 2021 to 31 December 2030. Accordingly,
+得稅稅率。因此，若干位於中國西部 certain subsidiaries located in the western region of the PRC
+地區的附屬公司於報告期間有權享有 are entitled to an income tax rate of 15% for the reporting
+15%的所得稅稅率。 periods.
+於報告期間，本集團若干中國附屬公 Certain of the Group’s PRC subsidiaries are accredited as “High
+司獲認可為「高新技術企業」，並因此 and New Technology Enterprise” and were therefore entitled
+有權享有15%的優惠所得稅稅率。有 to a preferential income tax rate of 15% during the reporting
+關資格由中國相關稅務機關每三年審 periods. Such qualifications are subject to review by the
+閱一次。 relevant tax authority in the PRC for every three years.
+本集團若干中國附屬公司從事農牧 Certain of the Group’s PRC subsidiaries are engaged in
+業，並有權享有農產品免稅。 agriculture and entitled to the tax exemption on agricultural
+products.
+香港利得稅 Hong Kong profits tax
+於報告期間，於香港產生的估計應課 The statutory rate of Hong Kong profits tax was 16.5% for the
+稅溢利須按16.5%的法定稅率繳納香 reporting periods on the estimated assessable profits arising in
+港利得稅。由於本集團在本期間並無 Hong Kong. No provision for Hong Kong profits tax was made
+於香港產生任何應課稅溢利，故並無 as the Group had no assessable profits arising in Hong Kong
+就香港利得稅計提撥備。 during the period.
+50
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 52 =====
+中期簡明綜合財務資料附註（續） NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION (continued)
+截至2023年6月30日止六個月
+For the six months ended 30 June 2023
+7. 股息 7. DIVIDENDS
+截至6月30日止六個月
+For the six months
+ended 30 June
+2023年 2022年
+2023 2022
+人民幣千元 人民幣千元
+RMB’000 RMB’000
+（未經審核） （未經審核）
+(Unaudited) (Unaudited)
+本公司宣派的股息 Dividends declared by the Company 7,647,597 5,060,910
+於2023年5月16日，本公司股東批准 On 16 May 2023, the Company’s shareholders approved
+就本公司11,246,466,400股股份派發 2022 final dividend of RMB0.68 for every share of the
+2022年末期股息每股人民幣0.68 元 Company’s 11,246,466,400 shares, in an aggregate
+（合共人民幣7,647,597,000 元），其 amount of RMB7,647,597,000, of which amounting to
+中人民幣7,646,313,000 元及人民幣 RMB7,646,313,000 was included in “other payables and
+1,284,000元分別計入「其他應付款項 accruals” and RMB1,284,000 in “reserves”, respectively.
+及應計費用」及「儲備」。除受託人就員 Except for dividend attributable to the shares held by the
+工股權激勵計劃所持股份應佔的股息 trustee in relation to employee share incentive scheme that
+將在不早於相關歸屬日由受託人支付 would be paid by the trustee to the relevant employees no
+予有關員工外，其餘股息將於2023年 earlier than the relevant vesting date, the rest of the dividend
+8月支付。 will be paid in August 2023.
+於2022年6月14日，本公司股東批准 On 14 June 2022, the Company’s shareholders approved
+就本公司11,246,466,400股股份派發 2021 final dividend of RMB0.45 for every share of the
+2021年末期股息每股人民幣0.45元（合 Company’s 11,246,466,400 shares, in an aggregate amount
+共人民幣5,060,910,000元）。除受託 of RMB5,060,910,000. Except for dividend attributable to
+人就員工股權激勵計劃所持激勵股份 the award shares held by the trustee in relation to employee
+應佔的股息將在不早於相關歸屬日支 share incentive scheme that would be paid no earlier than the
+付外，其餘股息其後已於2022年7月 relevant vesting date, the rest of the dividend was subsequently
+支付。 paid in July 2022.
+本公司董事已決定不會就本中期期間 The directors of the Company have determined that no
+建議股息。 dividend will be proposed in respect of the current interim
+period.
+51
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 53 =====
+中期簡明綜合財務資料附註（續） NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION (continued)
+截至2023年6月30日止六個月
+For the six months ended 30 June 2023
+8. 母公司普通權益持有人應佔每 8. EARNINGS PER SHARE ATTRIBUTABLE TO
+股盈利 ORDINARY EQUITY HOLDERS OF THE PARENT
+每股基本盈利金額乃基於母公司普通 The calculation of the basic earnings per share amounts is
+權益持有人應佔期內溢利及普通股加 based on the profit for the period attributable to ordinary
+權平均數11,243,168,674股（2022年6 equity holders of the parent, and the weighted average
+月30日：11,244,681,558股）計算。 number of ordinary shares of 11,243,168,674 (30 June 2022:
+11,244,681,558).
+於計算截至2023年及2022年6月30日 The impact of shares granted to employees in relation to
+止期間每股攤薄盈利時，已計入就員 employee share incentive scheme was included in the
+工股權激勵計劃而授予員工的股份的 computation of dilutive earnings per share for the period ended
+影響。按認購權之貨幣價值計算，以 30 June 2023 and 2022. A calculation was done to determine
+釐定可按公平值（定為本公司股份期內 the number of shares that could have been acquired at fair
+之平均股份市價）購入之股份數目。 value (determined as the average market share price of the
+Company’s shares during the period) based on the monetary
+value of the subscription rights.
+9. 物業、廠房及設備 9. PROPERTY, PLANT AND EQUIPMENT
+於截至2023 年6月30日止六個月， During the six months ended 30 June 2023, the Group
+本集團收購資產的成本為人民幣 acquired assets at a cost of RMB1,922,398,000 (30 June
+1,922,398,000元（2022年6月30日： 2022: RMB2,063,203,000).
+人民幣2,063,203,000元）。
+本集團於截至2023年6月30日止六個 Assets with a net book value of RMB7,874,000 were disposed
+月出售賬面淨值為人民幣7,874,000 of by the Group during the six months ended 30 June 2023 (30
+元的資產（2022年6月30日：人民幣 June 2022: RMB8,108,000), resulting in a net loss on disposal
+8,108,000元），導致出售虧損淨額人 of RMB2,140,000 (30 June 2022: RMB4,597,000).
+民幣2,140,000元（2022年6月30日：
+人民幣4,597,000元）。
+52
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 54 =====
+中期簡明綜合財務資料附註（續） NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION (continued)
+截至2023年6月30日止六個月
+For the six months ended 30 June 2023
+10. 長期銀行定期存款、現金及銀 10. LONG-TERM BANK DEPOSITS, CASH AND
+行結餘以及質押存款 BANK BALANCES AND PLEDGED DEPOSITS
+2023年 2022年
+6月30日 12月31日
+30 June 31 December
+2023 2022
+人民幣千元 人民幣千元
+RMB’000 RMB’000
+（未經審核） （經審核）
+(Unaudited) (Audited)
+長期銀行定期存款 Long-term bank deposits 2,827,961 4,101,670
+銀行現金 Cash at bank 4,619,715 7,821,114
+短期銀行存款 Short-term bank deposits 20,025,954 7,390,042
+現金及銀行結餘 Cash and bank balances 24,645,669 15,211,156
+質押存款 Pledged deposits 3,348 3,059
+長期銀行定期存款及現金及銀行結餘 The long-term bank deposits and cash and bank balances and
+以及質押存款以下列貨幣計值： pledged deposits are denominated in the following currencies:
+2023年 2022年
+6月30日 12月31日
+30 June 31 December
+2023 2022
+人民幣千元 人民幣千元
+RMB’000 RMB’000
+（未經審核） （經審核）
+(Unaudited) (Audited)
+長期銀行定期存款 Long-term bank deposits
+人民幣 RMB 2,827,961 4,101,670
+現金及銀行結餘 Cash and bank balances and
+以及質押存款 pledged deposits
+人民幣 RMB 19,950,796 10,745,716
+美元 USD 3,307,460 3,136,056
+港元 HKD 1,390,475 1,331,879
+其他 Others 286 564
+合計 Total 27,476,978 19,315,885
+53
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 55 =====
+中期簡明綜合財務資料附註（續） NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION (continued)
+截至2023年6月30日止六個月
+For the six months ended 30 June 2023
+10. 長期銀行定期存款、現金及銀 10. LONG-TERM BANK DEPOSITS, CASH AND
+行結餘以及質押存款（續） BANK BALANCES AND PLEDGED DEPOSITS
+(continued)
+現金及銀行結餘根據每日銀行存款利 Cash and bank balances earn interest at floating rates
+率按浮動利率賺取利息。視乎本集團 based on daily bank deposit rates. Bank deposits are made
+的現金管理，銀行存款的存款期介乎 for varying periods of between one month and three years
+一個月至三年，並按各自銀行存款利 depending on the cash management of the Group, and
+率賺取利息。銀行結餘及存款存放於 earn interest at the respective bank deposit rates. The bank
+信譽良好且無近期拖欠款項記錄的銀 balances and deposits are deposited with creditworthy banks
+行。現金及現金結餘的賬面值與其公 with no recent history of default. The carrying amounts of the
+平值相若。 cash and cash balances approximate to their fair values.
+於2023年6月30日，質押存款人民幣 As at 30 June 2023, the pledged deposits of RMB3,348,000
+3,348,000元（2022年12月31日：人民 (31 December 2022: RMB3,059,000) represented deposits for
+幣3,059,000元）指信用證保證金，此 letters of credit which are non-interest-bearing cash deposits
+為就購買設備向商業銀行支付的不計 paid to commercial banks for purchasing equipment and will
+息現金存款，將於有關活動完成時退 be returned upon the completion of such activities.
+還。
+11. 貿易應收款項及應收票據 11. TRADE AND BILLS RECEIVABLES
+於報告期末基於發票日期及扣除虧損 An ageing analysis of the trade and bills receivables as at the
+撥備的貿易應收款項及應收票據賬齡 end of the reporting period, based on the invoice date and net
+分析如下： of loss allowance, is as follows:
+2023年 2022年
+6月30日 12月31日
+30 June 31 December
+2023 2022
+人民幣千元 人民幣千元
+RMB’000 RMB’000
+（未經審核） （經審核）
+(Unaudited) (Audited)
+90日內 Within 90 days 547,592 440,293
+91至180日 91 to 180 days 28,608 17,890
+181至365日 181 to 365 days 26,367 20,404
+602,567 478,587
+54
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 56 =====
+中期簡明綜合財務資料附註（續） NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION (continued)
+截至2023年6月30日止六個月
+For the six months ended 30 June 2023
+12. 貿易應付款項及應付票據 12. TRADE AND BILLS PAYABLES
+貿易應付款項及應付票據為不計息， Trade and bills payables are non-interest-bearing and normally
+且一般須於90日內結清。 settled on terms of within 90 days.
+於報告期末基於發票日期的貿易應付 An ageing analysis of the trade and bills payables as at the
+款項及應付票據賬齡分析如下： end of the reporting period, based on the invoice date, is as
+follows:
+2023年 2022年
+6月30日 12月31日
+30 June 31 December
+2023 2022
+人民幣千元 人民幣千元
+RMB’000 RMB’000
+（未經審核） （經審核）
+(Unaudited) (Audited)
+90日內 Within 90 days 1,695,154 1,355,022
+91至180日 91-180 days 20,462 39,266
+181至365日 181-365 days 27,574 11,055
+一年以上 Over 1 year 11,141 19,726
+1,754,331 1,425,069
+13. 計息借貸 13. INTEREST-BEARING BORROWINGS
+2023年6月30日 2022年12月31日
+30 June 2023 31 December 2022
+人民幣千元 人民幣千元
+RMB’000 RMB’000
+（未經審核） （經審核）
+(Unaudited) (Audited)
+利率(%) 到期時間 人民幣千元 利率(%) 到期時間 人民幣千元
+Interest Interest
+rate (%) Maturity RMB’000 rate (%) Maturity RMB’000
+銀行貸款－無質押 Bank loans-unsecured 3.10 2024 100,132 3.10 2023 100,087
+其他借貸－無質押 Other borrowings-unsecured 0.90-2.98 2023-2024 3,819,500 0.90-2.75 2023 2,325,006
+3,919,632 2,425,093
+所有計息借貸均以人民幣計值及須於 All interest-bearing borrowings are denominated in Renminbi
+一年內償還。 and repayable within one year.
+55
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 57 =====
+中期簡明綜合財務資料附註（續） NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION (continued)
+截至2023年6月30日止六個月
+For the six months ended 30 June 2023
+14. 股本 14. SHARE CAPITAL
+2023年 2022年
+6月30日 12月31日
+30 June 31 December
+2023 2022
+人民幣千元 人民幣千元
+RMB’000 RMB’000
+（未經審核） （經審核）
+(Unaudited) (Audited)
+已發行及已繳足 Issued and fully paid
+11,246,466,400股 11,246,466,400
+（2022年12月31日： (31 December 2022:
+11,246,466,400股）普通股 11,246,466,400) ordinary shares 1,124,647 1,124,647
+15. 員工股權激勵計劃 15. EMPLOYEE SHARE INCENTIVE SCHEME
+經2022年1月14日召開的臨時股東大 As approved in the extraordinary general meeting held on 14
+會審議通過，本公司已採納員工股權 January 2022, the Company has adopted the Employee Share
+激勵計劃（「該計劃」），以激勵對本集 Incentive Scheme (the “Scheme”) to incentivize management
+團經營業績和未來發展發揮重要作用 personnel and core technical experts, including (i) the
+的管理人員和核心技術專家，包括(i) Directors, Supervisors and employees of the Group; and (ii)
+本集團的董事、監事和員工；以及(ii) certain number of employees of Yangshengtang Group who
+在雙方的項目和合作中對本集團做出 make significant contributions to the Group in the projects
+重大貢獻的養生堂集團一定數量的員 and co-operations between the Group and Yangshengtang
+工。該計劃將自採納日期起十年期間 Group, who play an important role in the Group’s business
+有效。 performance and future development. The Scheme will be
+effective for ten years from the adoption date.
+為實施該計劃，本公司委託合資格信 In order to operate the Scheme, the Company entrusted
+託管理人（為獨立第三方）作為受託 a qualified agent, an independent third party, to act as the
+人，由其按現行市價通過場內交易購 trustee with the H Shares of the Company it acquired through
+買的本公司H股作為激勵股份來源。 on-market transactions at the prevailing market price as the
+source of award shares.
+56
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 58 =====
+中期簡明綜合財務資料附註（續） NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION (continued)
+截至2023年6月30日止六個月
+For the six months ended 30 June 2023
+15. 員工股權激勵計劃（續） 15. EMPLOYEE SHARE INCENTIVE SCHEME
+(continued)
+根據該計劃的規則，本公司董事會審 Pursuant to the rules of the Scheme, the Board of the
+議通過了《農夫山泉股份有限公司第 Company approved the “Administrative Measures for the First
+一期員工股權激勵計劃管理辦法》及 Tranche of the Employee Share Incentive Scheme of Nongfu
+《農夫山泉股份有限公司第一期員工股 Spring Co., Ltd.” and the “Grant Proposal for the First Tranche
+權激勵計劃授予方案》，6,636,400個 of the Employee Share Incentive Scheme of Nongfu Spring
+受限制H股單位（「受限制股份單位」） Co., Ltd.”, 6,636,400 restricted H share units (the “RSUs”)
+其後於2022年3月29日（「授予日」）被 were then granted to a total of 108 scheme participants on 29
+授予合共108名計劃參與者，當中包 March 2022 (the “Grant Date”), including two current directors
+括兩名本公司現任董事（彼等各自獲 of the Company (108,000 and 90,800 RSUs to each of them),
+授108,000及90,800個受限制股份單 two supervisors of the Company (99,000 RSUs to each of
+位）、兩名本公司監事（彼等各自獲授 them), one employee of Yangshengtang Group (the employee
+99,000個受限制股份單位）、一名當時 had joined the Group since January 2023) (39,600 RSUs) and
+的養生堂集團員工（該員工已於2023 103 employees of the Group (the remaining 6,398,800 RSUs).
+年1月加入本集團）（39,600個受限制
+股份單位）及103名本集團員工（其餘
+6,398,800個受限制股份單位）。
+授予價格為授予日前120個香港交易 The grant price was 30% of the average closing price of the
+日本公司H 股收盤價均值的30% 。 Company’s H Shares in the 120 Hong Kong trading days
+因此，該108名計劃參與者其後按每 immediately prior to the Grant Date. Thus, the 108 scheme
+個受限制股份單位13.22港元就授予 participants then paid for the grant of 6,636,400 RSUs based
+6,636,400個受限制股份單位作出支 on HKD13.22 per RSU.
+付。
+根據該計劃授予的受限制股份單位應 The granted RSUs under the Scheme shall be vested, subject
+根據個人及本公司的表現按以下時間 to the performance of the individual and the Company,
+表歸屬： according to the following schedule:
+歸屬安排 歸屬日期 歸屬百分比
+Vesting
+Vesting arrangement Vesting date percentage
+第一期歸屬 於2022年4月最後一個交易日 40%
+First tranche vesting Last trading day in April 2022
+第二期歸屬 於2023年4月最後一個交易日 30%
+Second tranche vesting Last trading day in April 2023
+第三期歸屬 於2024年4月最後一個交易日 30%
+Third tranche vesting Last trading day in April 2024
+57
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 59 =====
+中期簡明綜合財務資料附註（續） NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION (continued)
+截至2023年6月30日止六個月
+For the six months ended 30 June 2023
+15. 員工股權激勵計劃（續） 15. EMPLOYEE SHARE INCENTIVE SCHEME
+(continued)
+期內根據該計劃發行在外的股份如下： The following shares were outstanding under the Scheme
+during the period:
+受託人所持股份數目
+Number of shares held by Trustee
+於授予日 於2023年 於2023年
+授予日 的股價 行使價 1月1日 期內歸屬 期內沒收 6月30日
+Share price
+as at the As at Vested Forfeited As at
+date of Exercise 1 January during during 30 June
+Date of grant grant price 2023 the period the period 2023
+港元 港元
+HKD HKD
+2022年3月29日
+29 March 2022 39.8 13.22 3,982,216 (1,708,200) (385,292) 1,888,724
+截 至2023 年 6 月 30 日 止 六 個 月 ， During the six months ended 30 June 2023, the
+本集團確認股份支付開支人民幣 Group recognised share-based payment expenses of
+15,202,000元（2022年6月30日：人 RMB15,202,000 (30 June 2022: RMB71,575,000), including
+民幣71,575,000 元），當中包括與 expenses of RMB1,945,000 (30 June 2022: RMB2,164,000) in
+兩名本公司監事相關的開支人民幣 relation to two supervisors of the Company.
+1,945,000元（2022年6月30日：人民
+幣2,164,000元）。
+16. 承諾 16. COMMITMENTS
+本集團於報告期末擁有下列資本承諾： The Group had the following capital commitments at the end
+of the reporting period:
+2023年 2022年
+6月30日 12月31日
+30 June 31 December
+2023 2022
+人民幣千元 人民幣千元
+RMB’000 RMB’000
+（未經審核） （經審核）
+(Unaudited) (Audited)
+就物業、廠房及設備已訂約 Contracted, but not provided for
+但尚未撥備 property, plant and equipment 1,788,177 1,541,928
+58
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 60 =====
+中期簡明綜合財務資料附註（續） NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION (continued)
+截至2023年6月30日止六個月
+For the six months ended 30 June 2023
+17. 關聯方交易 17. RELATED PARTY TRANSACTIONS
+本集團於期內與關聯方進行的重大交 The Group had the following material transactions with related
+易如下： parties during the period:
+(a) 與關聯方進行的交易： (a) Transactions with related parties:
+截至6月30日止六個月
+For the six months
+ended 30 June
+2023年 2022年
+2023 2022
+附註 人民幣千元 人民幣千元
+Notes RMB’000 RMB’000
+（未經審核） （未經審核）
+(Unaudited) (Unaudited)
+向關聯方作出的銷售 Sales to related parties
+最終控股公司： The ultimate holding company:
+銷售產品 Sales of products (i) 881 695
+提供服務 Providing services 2,415 1,493
+同系附屬公司： Fellow subsidiaries:
+銷售產品 Sales of products (i) 5,589 11,147
+提供服務 Providing services 4,817 8,356
+13,702 21,691
+向關聯方付款 Payments to related parties
+最終控股公司： The ultimate holding company:
+接受服務* Receiving services* (ii) 20,115 17,778
+其他 Others (iii) 165 –
+同系附屬公司： Fellow subsidiaries:
+購買產品* Purchase of products* (i) 134,580 122,992
+接受服務* Receiving services* (ii) 42,924 100,740
+其他 Others (iii) 30,419 –
+228,203 241,510
+附註： Notes:
+(i) 與關聯方的買賣乃根據與最終 (i) The sales to and purchases from related parties were
+控股公司及同系附屬公司之間 made according to the prevailing market price agreed in
+合約中協定的現行市價進行。 the contracts with the ultimate holding company and fellow
+subsidiaries.
+根據採購框架協議，本集團於 Pursuant to the purchasing framework agreement, the Group
+截至2023年6月30日止六個月 purchased from fellow subsidiaries bottle caps and other
+內自同系附屬公司購買瓶蓋及 products for vending machine of RMB131,954,000 (30 June
+其他自動販賣機產品人民幣 2022: RMB119,980,000) during the six months ended 30
+131,954,000元（2022年6月30 June 2023.
+日：人民幣119,980,000元）。
+59
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 61 =====
+中期簡明綜合財務資料附註（續） NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION (continued)
+截至2023年6月30日止六個月
+For the six months ended 30 June 2023
+17. 關聯方交易（續） 17. RELATED PARTY TRANSACTIONS (continued)
+(a) 與關聯方進行的交易：（續） (a) Transactions with related parties: (continued)
+附註：（續） Notes: (continued)
+(ii) 截至2023 年6月30日止六個 (ii) Pursuant to the advertising agency service framework
+月，根據廣告代理服務框架協 agreement, expenses of RMB2,278,000 (30 June 2022:
+議，就媒體廣告向最終控股公 RMB4,238,000) were paid to the ultimate holding company
+司支付費用人民幣2,278,000 for media advertisements during the six months ended 30
+元（2022年6月30日：人民幣 June 2023. The charge was determined with reference to the
+4,238,000元）。費用參照當前市 prevailing market price.
+價釐定。
+截至2023年6月30日止六個月， Pursuant to the comprehensive service framework
+根據綜合服務框架協議，提供 agreement, management fees of RMB12,124,000 (30 June
+工程項目管理服務、人事管理 2022: RMB10,238,000) for providing engineering project
+服務及其他服務的管理費人民 management service, personnel management service and
+幣12,124,000元（2022年6月30 other services were paid to the ultimate holding company
+日：人民幣10,238,000元）已支 during the six months ended 30 June 2023. The charge was
+付予最終控股公司。費用使用 determined using the cost plus method.
+成本加成方法釐定。
+截至2023年6月30日止六個月， Pursuant to the IT cooperation framework agreement,
+根據IT合作框架協議，已向最 licensing fees of RMB1,250,000 (30 June 2022:
+終控股公司支付許可費人民幣 RMB3,302,000) were paid to the ultimate holding company
+1,250,000元（2022年6月30日： during the six months ended 30 June 2023, determined with
+人民幣3,302,000元），參照基 reference to actual costs calculated based on the number of
+於本集團各軟件用戶數計算的 the Group’s users of each software. IT products and service
+實際成本釐定。已向最終控股 fees of RMB4,463,000(30 June 2022: Nil) and RMB8,398,000
+公司及同系附屬公司分別支付IT (30 June 2022: Nil) were paid to ultimate holding company
+產品及服務費人民幣4,463,000 and fellow subsidiaries, respectively. Service fees of
+元（2022年6月30日：零）及人 RMB1,578,000 (30 June 2022: RMB42,568,000) were
+民幣8,398,000 元（2022年6月 paid to the fellow subsidiaries during the six months ended
+30日：零）。截至2023年6月30 30 June 2023.The IT products and services charge were
+日止六個月，已向同系附屬公 determined with reference to the prevailing market price.
+司支付服務費人民幣1,578,000
+元（2022年6月30日：人民幣
+42,568,000元）。IT產品及服務
+的收費乃參照當時市價釐定。
+截至2023年6月30日止六個月， Pursuant to the basic research and development (“R&D”)
+根據基礎研發及檢測服務框架 and test service framework agreement, expenses of
+協議，已就與飲料相關的基礎 RMB34,526,000 (30 June 2022: RMB58,172,000) were paid
+研發及原材料與產品測試服務 to fellow subsidiaries for the basic beverage R&D services
+向同系附屬公司支付費用人民 and raw material and product test service during the six
+幣34,526,000元（2022年6月30 months ended 30 June 2023. The charge was determined
+日：人民幣58,172,000元）。費 using the cost plus method.
+用使用成本加成方法釐定。
+(iii) 根據資產轉讓協議，截至2023 (iii) Pursuant to the asset transfer agreement, the Group
+年6月30日止六個月，本集團自 purchased from the ultimate holding company and fellow
+最終控股公司及同系附屬公司 subsidiaries property, plant and equipment and Intangible
+購買人民幣30,584,000元（2022 assets of RMB30,584,000 (30 June 2022: Nil) during the six
+年6月30日：零）的物業、廠房 months ended 30 June 2023.
+及設備以及無形資產
+* 上述若干關聯方交易亦構成上 * Certain of the above related party transactions also constitute
+市規則第十四A章所界定之關連 connected transactions or continuing connected transactions
+交易或持續關連交易。 as defined in Chapter 14A of the Listing Rules.
+60
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 62 =====
+中期簡明綜合財務資料附註（續） NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION (continued)
+截至2023年6月30日止六個月
+For the six months ended 30 June 2023
+17. 關聯方交易（續） 17. RELATED PARTY TRANSACTIONS (continued)
+(b) 本集團主要管理人員薪酬 (b) Compensation of key management personnel of
+the Group
+截至6月30日止六個月
+For the six months
+ended 30 June
+2023年 2022年
+2023 2022
+人民幣千元 人民幣千元
+RMB’000 RMB’000
+（未經審核） （未經審核）
+(Unaudited) (Unaudited)
+薪金 Salaries 6,221 4,567
+基於績效的花紅 Performance-related bonuses 8,128 9,537
+退休金計劃供款 Pension scheme contributions 271 211
+以股權結算的股份 Equity-settled share-based
+支付開支 payment expense 707 –
+支付予主要管理人員的 Total compensation paid to key
+薪酬總額 management personnel 15,327 14,315
+61
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 63 =====
+中期簡明綜合財務資料附註（續） NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION (continued)
+截至2023年6月30日止六個月
+For the six months ended 30 June 2023
+17. 關聯方交易（續） 17. RELATED PARTY TRANSACTIONS (continued)
+(c) Outstanding balances with related parties
+(c) 尚未清償的關聯方結餘
+The Group has the following significant balances with
+於2023年6月30日及2022年12
+its related parties as at 30 June 2023 and 31 December
+月31日，本集團與關聯方的重大 2022:
+結餘如下：
+2023年 2022年
+6月30日 12月31日
+30 June 31 December
+2023 2022
+人民幣千元 人民幣千元
+RMB’000 RMB’000
+（未經審核） （經審核）
+(Unaudited) (Audited)
+應收關聯方結餘： Balances due from related
+parties:
+貿易應收款項及應收票據 Trade and bills receivables
+最終控股公司 The ultimate holding company 930 101
+同系附屬公司 Fellow subsidiaries 938 3,039
+1,868 3,140
+預付款項、其他應收款項及 Prepayments, other receivables
+其他資產 and other assets
+最終控股公司 The ultimate holding company 320 327
+同系附屬公司 Fellow subsidiaries 595 1,859
+915 2,186
+2,783 5,326
+應付關聯方結餘： Balances due to related parties:
+租賃負債 Lease liabilities
+最終控股公司 The ultimate holding company 10,386 –
+貿易應付款項及應付票據 Trade and bills payables
+最終控股公司 The ultimate holding company – 2,853
+同系附屬公司 Fellow subsidiaries 64,241 13,624
+64,241 16,477
+其他應付款項及應計費用 Other payables and accruals
+同系附屬公司 Fellow subsidiaries 5,372 7,002
+79,999 23,479
+於2023年6月30日，應收關聯方 As at 30 June 2023, amounts due from related parties
+were unsecured, interest-free and repayable on credit
+款項為無抵押、免息及按信貸期
+terms. Except for lease liabilities, amounts due to related
+償還。除租賃負債外，應付關連
+parties were unsecured, interest-free and repayable
+方款項為無抵押、免息及於90日 within 90 days to 1 year.
+至一年內償還。
+62
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 64 =====
+中期簡明綜合財務資料附註（續） NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION (continued)
+截至2023年6月30日止六個月
+For the six months ended 30 June 2023
+18. 金融工具的公平值及公平值等 18. FAIR VALUE AND FAIR VALUE HIERARCHY OF
+級 FINANCIAL INSTRUMENTS
+本集團金融工具的賬面值與其公平值 The carrying amounts of the Group’s financial instruments
+相若。 approximate to their fair values.
+管理層已評估，現金及現金等價物、 Management has assessed that the fair values of cash and
+質押存款、貿易應收款項及應收票 cash equivalents, pledged deposits, trade and bills receivables,
+據、計入預付款項、其他應收款項及 financial assets included in prepayments, other receivables
+其他資產的金融資產、計息借貸、貿 and other assets, interest-bearing borrowings, trade and bills
+易應付款項及應付票據、計入其他應 payables, financial liabilities included in other payables and
+付款項及應計費用的金融負債的公平 accruals approximate to their carrying amounts largely due to
+值與其賬面值相若，主要由於該等工 the short-term maturities of these instruments.
+具乃於短期內到期。
+本集團的企業融資團隊負責制定金融 The Group’s corporate finance team is responsible for
+工具公平值管理的政策及程序。企業 determining the policies and procedures for the fair value
+融資團隊直接向財務總監及董事會匯 management of financial instruments. The corporate finance
+報。於各報告期末，企業融資團隊會 team reports directly to the chief financial officer and the board
+分析金融工具價值的變動及釐定估值 of directors. At the end of each reporting period, the corporate
+所用的主要輸入數據。財務總監已審 finance team analyses the movements in the values of financial
+閱並批准估值。 instruments and determines the major inputs applied in the
+valuation. The valuation is reviewed and approved by the chief
+financial officer.
+金融資產及負債的公平值按當前交易 The fair values of the financial assets and liabilities are included
+（強制或清算出售除外）中雙方自願進 at the amount at which the instrument could be exchanged
+行工具交換的金額入賬。以下為用於 in a current transaction between willing parties, other than
+估計該等按公平值計量的金融資產及 in a forced or liquidation sale. The following methods and
+負債之公平值的方法及假設： assumptions were used to estimate the fair values of those
+financial assets and liabilities measured at fair value:
+就按公平值計入損益的債務投資之公 For the fair value of the debt investments at fair value through
+平值而言，管理層已基於條款及風險 profit or loss, management has estimated the fair values by
+相似的工具之市場利率使用折現現金 using a discounted cash flow valuation model based on the
+流量估值模型估計公平值。 market interest rates of instruments with similar terms and
+risks.
+本集團訂立衍生金融工具，其為採用 The Group enters into derivative financial instruments, which
+與以現值計算遠期定價相似的估值技 are forward currency contracts measured using valuation
+術計量的遠期外匯合約。 techniques similar to forward pricing, using present value
+calculations.
+63
+中期報告 2023 Interim Report 農夫山泉股份有限公司 NONGFU SPRING CO., LTD.
+
+===== PDF_PAGE 65 =====
+中期簡明綜合財務資料附註（續） NOTES TO INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION (continued)
+截至2023年6月30日止六個月
+For the six months ended 30 June 2023
+18. 金融工具的公平值及公平值等 18. FAIR VALUE AND FAIR VALUE HIERARCHY OF
+級（續） FINANCIAL INSTRUMENTS (continued)
+公平值等級 Fair value hierarchy
+於2023年6月30日及2022 年12月31 The Group did not have any financial assets and financial
+日，本集團並無任何按公平值計量的 liabilities measured at fair value as at 30 June 2023 and 31
+金融資產及金融負債。 December 2022.
+於截至2023年6月30日止六個月，金 During the six months ended 30 June 2023, there were no
+融負債概無任何公平值計量第一級與 transfers of fair value measurements between Level 1 and
+第二級之間的轉撥，亦無從第三級轉 Level 2 and no transfers into or out of Level 3 for financial
+入或轉出（2022年6月30日：無）。 liabilities (30 June 2022: Nil).
+19. 或有負債 19. CONTINGENT LIABILITIES
+截至2023年6月30日，本集團無任何 As of 30 June 2023, the Group did not have any significant
+重大或有負債。 contingent liabilities.
+20. 報告期後事件 20. EVENTS AFTER THE REPORTING PERIODS
+於報告期後直至未經審核中期簡明綜 The Group had no significant events after the reporting
+合財務報表批准日期，本集團並無發 period up to the date of the approval of the unaudited interim
+生重大事件。 condensed consolidated financial statements.
+21. 批准中期簡明財務資料 21. APPROVAL OF THE INTERIM CONDENSED
+FINANCIAL INFORMATION
+中期簡明財務資料由董事會於2023年 The interim condensed financial information was approved and
+8月29日批准及授權刊發。 authorised for issue by the board of directors on 29 August
+2023.
+64
+農夫山泉股份有限公司 NONGFU SPRING CO., LTD. 中期報告 2023 Interim Report
+
+===== PDF_PAGE 66 =====
+農夫山泉股份有限公司
+NONGFU
+SPRING
+CO.,
+LTD.
+ZZ::\\0099.. IIRR\\115555442200--0022NN NNoonnggffuu IIRR\\ccoovveerr\\NNoonnggffuu IIRR2233 ccoovveerr
