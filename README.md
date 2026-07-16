@@ -103,6 +103,7 @@ investment/
 │   └── index-valuation/
 └── references/                       # 参考资料
     ├── 投资分析框架.md
+    ├── 指数基金分析与选择框架.md
     └── ...
 ```
 
