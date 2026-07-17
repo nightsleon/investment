@@ -1,0 +1,18 @@
+类别,资料,日期或期间,来源,URL或本地文件
+公司公告,珀莱雅2020年年度报告,2020,巨潮资讯,https://static.cninfo.com.cn/finalpage/2021-04-23/1209769531.PDF
+公司公告,珀莱雅2021年年度报告,2021,巨潮资讯,https://static.cninfo.com.cn/finalpage/2022-04-22/1213016210.PDF
+公司公告,珀莱雅2022年年度报告,2022,巨潮资讯,https://static.cninfo.com.cn/finalpage/2023-04-21/1216488038.PDF
+公司公告,珀莱雅2023年年度报告,2023,巨潮资讯,https://static.cninfo.com.cn/finalpage/2024-04-19/1219664274.PDF
+公司公告,珀莱雅2024年年度报告,2024,巨潮资讯,https://static.cninfo.com.cn/finalpage/2025-04-25/1223280349.PDF
+公司公告,珀莱雅2025年年度报告,2025,巨潮资讯,https://static.cninfo.com.cn/finalpage/2026-04-22/1225138279.PDF
+公司公告,珀莱雅2026年第一季度报告,2026Q1,巨潮资讯,https://static.cninfo.com.cn/finalpage/2026-04-22/1225138299.PDF
+公司公告,2026年员工持股计划草案,2026-04-22,巨潮资讯,https://static.cninfo.com.cn/finalpage/2026-04-22/1225138337.PDF
+公司公告,发行H股并上市进展,2026-05-06,巨潮资讯,https://static.cninfo.com.cn/finalpage/2026-05-06/1225277824.PDF
+公司公告,收购花知晓12.5479%股权,2026-05-22,巨潮资讯,https://static.cninfo.com.cn/finalpage/2026-05-22/1225322125.PDF
+公司公告,花知晓收购事项工作函回复（预计商誉约11亿元）,2026-06-13,巨潮资讯,https://static.cninfo.com.cn/finalpage/2026-06-13/1225368798.PDF
+公司公告,2025年度权益分派实施公告,2026-07-16,巨潮资讯,https://static.cninfo.com.cn/finalpage/2026-07-16/1225426435.PDF
+财务数据,同花顺年度主要指标,2015-2025,同花顺导出,data/603605_main_year.xls
+季度数据,同花顺单季度主要指标,2017Q1-2026Q1,同花顺导出,data/603605_main_simple.xls
+行情估值,珀莱雅及A股同行最新行情和估值历史,截至2026-07-17,东方财富API,data/valuation_history.csv; data/market_snapshot.json; data/peer_snapshot.csv
+历史股价,珀莱雅季度末前复权与不复权收盘价,截至2026Q1,Yahoo Finance 603605.SS,data/603605_季度数据.csv
+行业数据,2025年化妆品类零售额4653亿元同比5.1%,2025,国家统计局（公司年报转引）,2025年年度报告第11页
