@@ -1,0 +1,15 @@
+{
+  "trade_date": "2026-07-16",
+  "close": 26.03,
+  "market_cap_yi": 1646.4913816201001,
+  "total_shares_yi": 63.25360667,
+  "pe_ttm": 13.62345198,
+  "pb_mrq": 2.76312029,
+  "pe_10y_percentile": 5.120772946859904,
+  "pe_10y_min": 11.12114883,
+  "pe_10y_median": 24.296562899999998,
+  "pe_10y_max": 42.90866577,
+  "dividend_per_share_2025": 1.38,
+  "dividend_yield_2025_pct": 5.301575105647329,
+  "financial_cutoff": "2026Q1"
+}
