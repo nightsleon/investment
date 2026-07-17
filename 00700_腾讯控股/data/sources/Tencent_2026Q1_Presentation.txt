@@ -1,0 +1,1073 @@
+
+This presentation may contain forward-looking statements relating to the forecasts, targets, outlook, estimates of financial performance, opportunities, 
+challenges, business developments, business plans and growth strategies of Tencent Holdings Limited (the “Company” or “Tencent”) and its group 
+companies. These forward-looking statements are based on information currently available to Tencent and are stated here on the basis of the outlook at 
+the time that this presentation was produced. The Company undertakes no obligation to publicly update any forward- looking statement, whether written 
+or oral, that may be made from time to time, whether as a result of new information, future developments or otherwise. The forward-looking statements 
+are based on certain expectations, assumptions and premises, some of which are subjective or beyond our control. The forward-looking statements may 
+prove to be incorrect and may not be realised in the future. Underlying the forward-looking statements are a large number of risks and 
+uncertainties. Therefore you should not rely on any of these forward-looking statements. Please see our various other public disclosure documents for a 
+detailed discussion of those risks and uncertainties.
+This presentation also contains some unaudited non-IFRS financial measures which should be considered in addition to, but not as a substitute for, 
+measures of the Company's financial performance prepared in accordance with IFRS. In addition, these non-IFRS financial measures may be defined 
+differently from similar terms used by other companies. The Company's management believes that the non-IFRS financial measures provide investors 
+with useful supplementary information to assess the performance of the Company’s core operations by excluding certain non-cash items and certain 
+impact of acquisitions. For further explanation of our non-IFRS measures and reconciliations between our IFRS and non-IFRS results, please refer to our 
+earnings announcement.
+In addition, information relating to other companies and the market in general presented in these materials has been obtained from publicly available 
+information and other sources. The accuracy and appropriateness of that information has not been verified by Tencent and cannot be guaranteed. All 
+materials contained within this presentation are protected by copyright law and may not be reproduced, distributed, transmitted, displayed, published or 
+broadcast without the prior, express written consent of Tencent. 
+The reporting currency of the company is Renminbi. For the purpose of this presentation, all figures quoted in US dollars are based on the exchange rate 
+of US$1 to RMB6.9194 for 1Q2026.
+2
+Cautionary Note
+
+3
+
+In billion RMB 
+1Q2026
+1Q2025
+YoY
+4Q2025
+QoQ
+Total Revenue
+196.5
+180.0
++9%
+194.4
++1%
+Value-added Services
+96.1
+92.1
++4%
+89.9
++7%
+Social Networks
+31.9
+32.6
+-2%
+30.6
++4%
+Domestic Games1
+45.4
+42.9
++6%
+38.2
++19%
+International Games
+18.8
+16.6
++13%
+21.1
+-11%
+Marketing Services
+38.2
+31.9
++20%
+41.1
+-7%
+FinTech and Business Services
+59.9
+54.9
++9%
+60.8
+-2%
+Others
+2.3
+1.1
++103%
+2.6
+-9%
+Gross Profit 
+111.3
+100.5
++11%
+108.3
++3%
+Non-IFRS
+Operating Profit excl. New AI Products2
+84.4
+71.9
++17%
+76.5
++10%
+Operating Profit
+75.6
+69.3
++9%
+69.5
++9%
+Operating Margin
+38.5%
+38.5%
+stable
+35.8%
++2.7ppt
+Net Profit Attributable to Equity Holders
+67.9
+61.3
++11%
+64.7
++5%
+Financial Highlights
+1.
+Domestic Games refers to our games business in the PRC excluding the Hong Kong Special Administrative Region, the Macao Special Administrative Region and Taiwan
+2.
+Excludes revenues, costs and expenses for new AI products (Hy, Yuanbao, CodeBuddy, WorkBuddy, and QClaw)
+4
+
+Weixin & WeChat
+• #1 mobile community
+• MAU at 1,432m
+QQ
+• Mobile device MAU at
+516m
+Mobile Payment
+• #1 by MAU & DAU
+Mobile Browser 
+• #1 by MAU
+Language Input
+• #1 by MAU
+Key Services Update 
+Games
+Communications
+ & Social Networks
+Utilities
+5
+1.
+All rankings above refer to China market, unless otherwise stated. Company data and QuestMobile, 1Q26
+2.
+IDC Quarterly Public Cloud Services Tracker, 4Q25
+IaaS
+• Large scale, high-performance 
+IaaS network
+PaaS
+• #2 by revenue2
+SaaS
+• #1 productivity office software 
+applications by total user time 
+spent
+China
+• #1 by users and revenue
+Global
+• #1 by revenue
+Video
+• #1 by paid subscriptions
+Music
+• #1 by paid subscriptions
+Literature 
+• #1 by users’ paid revenue
+FinTech
+Cloud
+Digital 
+Content
+
+
++11%
++11%
++10%
++7%
++6%
++8%
++8%
++11%
++13%
++15%
++15%
++13%
++9%
+Revenue
+7
+21%
+20%
+19%
+18%
+19%
+19%
+18%
+17%
+18%
+18%
+17%
+16%
+16%
+23%
+21%
+21%
+18%
+22%
+21%
+22%
+20%
+24%
+22%
+22%
+20%
+23%
+9%
+9%
+9%
+9%
+8%
+9%
+9%
+9%
+9%
+10%
+11%
+11%
+10%
+14%
+17%
+16%
+19%
+17%
+19%
+18%
+20%
+18%
+19%
+19%
+21%
+19%
+32%
+32%
+34%
+35%
+33%
+31%
+32%
+33%
+30%
+30%
+30%
+31%
+31%
+1%
+1%
+1%
+1%
+1%
+1%
+1%
+1%
+1%
+1%
+1%
+1%
+1%
+150.0
+149.2
+154.6
+155.2
+159.5
+161.1
+167.2
+172.4
+180.0
+184.5
+192.9
+194.4
+196.5
+1Q23
+2Q23
+3Q23
+4Q23
+1Q24
+2Q24
+3Q24
+4Q24
+1Q25
+2Q25
+3Q25
+4Q25
+1Q26
+Revenue Growth (YoY %)
+Revenue by Segment (billion RMB)
+
++19%
++22%
++23%
++25%
++23%
++21%
++16%
++17%
++20%
++22%
++22%
++19%
++11%
+63%
+57%
+55%
+48%
+54%
+52%
+53%
+49%
+55%
+53%
+54%
+49%
+54%
+13%
+17%
+18%
+22%
+17%
+19%
+18%
+22%
+18%
+20%
+19%
+23%
+19%
+25%
+26%
+28%
+31%
+28%
+28%
+29%
+29%
+27%
+28%
+27%
+28%
+28%
+68.2 
+70.8 
+76.5 
+77.6 
+83.9 
+85.9 
+88.8 
+90.7 
+100.5 
+105.0 
+108.8 
+108.3 
+111.3 
+1Q23
+2Q23
+3Q23
+4Q23
+1Q24
+2Q24
+3Q24
+4Q24
+1Q25
+2Q25
+3Q25
+4Q25
+1Q26
+Gross Profit 
+8
+Gross Profit Growth (YoY %)
+Gross Profit by Segment (billion RMB)
+
+Hy LLM: significant progress but just the first step
+Comprehensively revamped system for building models
+•
+Completely rebuilt foundation model team with LLM-native researchers and engineers over last 6 months; new team is young, energetic, 
+and cohesive
+•
+Comprehensively re-engineered system and process for pre-training and reinforcement learning: 
+➢Infrastructure: re-architected infra to support robustness, scalability and efficiency across pre-training, data and reinforcement 
+learning
+➢Data: dramatically expanded data set, recruited experts in data collection, cleansing and synthesis, focusing on quality
+➢Training: upgraded pre-training process, simplified overly-complex SFT and scaled reinforcement learning
+➢Evaluation: refocused eval from widely-gamed benchmarks to real world use cases, and to out-of-distribution tests
+Hy3 preview: a leading model in its size, with practical utility and cost efficiency
+•
+Purpose: build a cost-efficient and solid model for diverse applications, and de-risk scaling toward larger models
+•
+Core design principles: comprehensive intelligence across reasoning, long-context understanding, instruction following, dialogue, coding 
+and tool use; optimise for real world use cases, and for delivering cost efficiency through co-designing inference with model
+•
+Already a leading reasoning model in China: 1) top ranked in math, science, logic, instruct following, long context, and general coding 
+categories; 2) strong performance on unseen PhD qualifying exams (Tsinghua and Princeton PhD exams)
+•
+Effective in real-world software engineering and other productivity agentic tasks (human ratings from CodeBuddy and WorkBuddy 
+scenarios; task resolution rate for in-house software engineering)
+•
+Internally, already deployed across 131 widely-used internal products (Yuanbao, QQ, WorkBuddy, ima, Tencent News, etc.), providing 
+valuable feedback and iterative improvement via co-design process
+9
+
+Hy LLM: significant progress but just the first step
+Hy3 preview topped token usage ranking on OpenRouter 
+Next steps: scale up to larger models
+•
+LLM team now focusing on producing larger parameter model, leveraging infra and learnings from Hy3
+•
+Aggregating bigger and better datasets, and scaling more powerful RL, to strengthen contextual understanding, enhance agentic 
+capabilities in areas including coding, and increase the model’s general intelligence
+•
+Together with other Tencent product teams, optimising dataset selection and focusing RL for high value use cases, via co-design processes
+10
+Source: OpenRouter, cumulative token usage (sum of prompt and completion tokens) from 23 April to 12 May 2026; token usage since 9 May in dark blue
+Top 10 AI Models by Token Usage
+(in trillion)
+Hy3 preview
+Kimi K2.6
+Claude Sonnet
+4.6
+Claude Opus 4.7
+Gemini 3 Flash
+Preview
+DeepSeek V3.2
+DeepSeek V4
+Flash
+MiniMax M2.7
+Grok 4.1 Fast
+Step 3.5 Flash
+7.7
+5.0
+4.0
+3.4
+3.0
+2.7
+2.4
+2.1
+1.9
+1.9
+
+•
+Agentic AI represents a breakout use case after AI chatbot and is more valuable as it lifts productivity
+•
+Agentic AI creating code for programmers is important initial use case, now broadening to support wide range of workloads and occupations
+•
+Breakthrough made possible by more powerful models, harness that unlocks potential of models through linking right models to right tools, 
+and interfaces that enable users to efficiently manage agents
+•
+Benefits of using AI agents on Tencent platform: Users can control via WeCom, Weixin, QQ, Yuanbao, QQ Browser, and third-party apps; 
+users can choose tokens from range of model providers including Hy, based on their price / performance / use case needs; in future, AI 
+agents can access Mini Programs ecosystem, use Mini Programs code as AI Skills (pre-built, context aware tools)
+•
+Tencent has early lead in agentic AI deployment, as measured by DAU for WorkBuddy versus competitive products in China
+•
+While early in adoption cycle, CodeBuddy and WorkBuddy are achieving strong organic growth and high retention rates
+➢
+60%+ retention rate among active users
+➢
+80%+ retention rate among paying users
+•
+Early adopters’ high time spent and high frequency interaction with AI agents acts as a virtuous feedback loop to Tencent, whereby 
+increased AI agent usage enables us to identify and provide complementary software and services, which in turn increase AI agents’ usage 
+among a broader enterprise and prosumer user base. As users utilise more AI agents for more complex tasks, paying user conversion 
+increases, resulting in rapid growth in token usage on Tencent Cloud in recent weeks
+CodeBuddy, Claws and WorkBuddy
+CodeBuddy
+AI creating code
+Open 
+sourced 
+AI 
+engaging 
+in 
+general computer use, including 
+interacting with world wide web and 
+real-world infrastructure
+Claws
+AI operating productivity software; 
+more secure and controllable than 
+claws
+WorkBuddy
+11
+
+Value-added Services
+In billion RMB
+12
+Social Networks
+32.6 
+31.9 
+30.6 
+31.9 
+42.9 
+45.4 
+38.2 
+45.4 
+16.6 
+18.8 
+21.1 
+18.8 
+92.1 
+96.1 
+89.9 
+96.1 
+1Q25
+1Q26
+4Q25
+1Q26
+Domestic Games
+International Games
++4%  
+YoY
++7%  
+QoQ
++6%
+-2%
++19%
++4%
++13%
+-11%
+Social Networks
+•
+Revenue was down 2% YoY, reflecting decreased revenue from app-based 
+games item sales arising from late Spring Festival
+•
+Long-form video subscription revenue decreased 2% YoY due to fewer 
+scheduled releases of exclusive top-tier drama series. We cemented 
+leadership in animated series, with eight of our self-commissioned titles 
+ranked among top 10 industry-wide1 in 1Q26. Music subscription revenue 
+increased 7% YoY, driven by growth in ARPU and subscribers
+Domestic Games
+•
+Gross receipts grew at teens % rate YoY due primarily to Delta Force, 
+Peacekeeper Elite, HoK and VALORANT MOBILE 
+•
+However, revenue growth of 6% YoY lagged gross receipt growth, as later 
+timing of 2026 Spring Festival shifted more revenue recognition to future 
+periods
+International Games
+•
+Revenue increased 13% YoY, mainly driven by Clash Royale, Wuthering 
+Waves, and VALORANT PC
+1.
+Source: Enlightent, by video views across all long-form video platforms in China for 1Q26
+
+Communications & Social Networks 
+13
+•
+Branded products – Introduced brand incentives including preferential take rates, product subsidies, and prioritised 
+recommendations. Brand merchants' GMV more than tripled YoY in 1Q26, particularly in key categories such as FMCG and beauty
+•
+Coupon Sharing – Introduced “Coupon Sharing” feature, allowing frequent buyers to share discount coupons with friends via chats, 
+and driving higher sales conversion
+•
+Creator matchmaking tool – Upgraded matchmaking mechanism to facilitate more efficient direct creator-to-merchant outreach for 
+promoting relevant Mini Shops’ products in Video Accounts and Official Accounts
+•
+Control AI agents – Enabled Weixin and QQ to act as communication interfaces to orchestrate AI agents from mobile for 
+complicated task execution on PC and cloud
+•
+Video Accounts – Scaled up parameters and enhanced algorithm for content recommendation model, enabling deeper 
+understanding of users’ interests to recommend more personalised and relevant content. Total time spent on Video Accounts grew 
+over 20% YoY in 1Q26
+•
+Mini Programs – Upgraded developer toolkit architecture, so users can better leverage AI plug-ins (e.g., CodeBuddy) to create and 
+debug mini programs more efficiently. Over time, mini program code can evolve into tools for AI agents to use within Weixin
+•
+Weixin Search – Total query volume increased over 25% YoY, benefitting from LLM-powered ranking and broader AI search 
+coverage
+Increasingly vibrant Mini Shops transaction ecosystem
+Strengthened AI capabilities
+
+Domestic Games
+14
+14
+14
+Evergreen games set new records
+•
+HoK – gross receipts achieved lifetime high in 1Q26 fueled by 1) top-tier outfits inspired by 
+Chinese ink-paintings and by culture of ancient Silk Road; 2) targeted marketing programs to 
+address various player segments
+•
+Peacekeeper Elite – peak DAU achieved lifetime high of 90 million and gross receipts 
+increased by over 30% YoY in 1Q26 due to 1) expansion of gameplay including new class-
+based extraction mode and ever-evolving UGC platform; 2) successful IP collaborations with 
+Ferrari and Douluo Continent
+•
+Delta Force – average DAU and gross receipts achieved lifetime highs in 1Q26, benefitting 
+from 1) Vyron’s Cosmic Guardian skin; 2) Morphosis season featuring revamped Space City 
+map; 3) cross-over promotions with celebrities and brands for Spring Festival
+New games achieved breakout success
+•
+VALORANT MOBILE – consistently ranked among top 10 mobile games industry-wide since 
+launch1; released distinctive high-quality weapon items
+•
+Roco Kingdom: World – creature-collecting open world RPG built on our classic web game 
+IP, featuring hundreds of unique creatures and rich social interactions. In its first month, the 
+game sustained over 13 million average DAU across PC and mobile, and ranked among top 
+10 mobile games by gross receipts2
+Peacekeeper Elite
+HoK
+Roco Kingdom: World
+1.
+Source: by monthly gross receipts according to Sensor Tower; launched in Aug 2025
+2.
+Source: according to Sensor Tower, for March 26 - April 26, 2026
+We are leveraging AI to accelerate 3D asset production and animation, enrich player 
+experiences with smarter NPCs, and deliver better graphics via advanced rendering techniques
+
+International Games
+15
+Gross receipts grew YoY in 
+1Q26, benefitting from Eastern 
+mythology-themed outfits, brand 
+collaborations and anniversary 
+events
+PUBG MOBILE
+Revamped 
+team 
+and 
+faster 
+velocity 
+of 
+change 
+drive 
+innovations such as For Demacia 
+season, ARAM: Mayhem mode, 
+and Exalted Viego skin, resulting 
+in resurgence in DAU and gross 
+receipts in 1Q26
+League of Legends
+Wuthering Waves
+DAU and gross receipts grew 
+rapidly YoY in March, benefitting 
+from new character power-up 
+system Buffies, upgraded Brawl 
+Pass, 
+and 
+improved 
+Trophy 
+system
+Brawl Stars
+Gross receipts maintained strong 
+YoY growth in 1Q26, driven by 
+compelling 
+characters 
+and 
+resonant narratives of For You 
+Who Walk In Snow version
+
+Marketing Services
+In billion RMB
+31.9 
+38.2 
+41.1 
+38.2 
+1Q25
+1Q26
+4Q25
+1Q26
++20%  
+YoY
+-7%  
+QoQ
+16
+Overall
+•
+Revenue grew 20% YoY, with notable growth from Internet services, 
+eCommerce and games categories. Revenue growth improved from 17% 
+YoY in 4Q25 as we deepened collaboration with eCommerce platforms and 
+as demand picked up in response to increased inventory in Video Accounts
+•
+Our automated campaign management solution, AIM+, powered ~30% of 
+total marketing services spending from advertisers in 1Q26, and gained 
+traction among mini game, mini drama and mini shop advertisers
+•
+Upgraded architecture of our runtime ad recommendation models, which 
+provide deeper understanding of user context and intent, while balancing 
+model complexity with system efficiency
+Weixin
+•
+Video Accounts’ ad impressions grew rapidly YoY due to increased total 
+time spent, video views and ad load. We released more inventory of 
+rewarded ads which delivered high click-throughs for advertisers
+•
+Mini Programs’ vibrant content consumption attracted marketing spending 
+from mini game and mini drama studios. New instant-play ad format enables 
+native gameplay inside the ad without redirections, enhancing user 
+conversion for mini game developers
+Mobile Ad Network
+•
+Made more rewarded ad formats available to third party app developers, 
+resulting in higher growth in eCPM and thus revenue
+
+FinTech and Business Services
+In billion RMB
+54.9 
+59.9 
+60.8 
+59.9 
+1Q25
+1Q26
+4Q25
+1Q26
++9%
+YoY
+-2%  
+QoQ
+17
+FinTech Services
+•
+YoY revenue growth primarily driven by commercial payment volume and 
+wealth management services
+•
+For commercial payment volume, YoY growth was faster than 4Q25, 
+benefiting from ongoing increase in number of transactions and higher value 
+per transaction in categories such as retail and dining services
+•
+Wealth management average assets per user and number of users increased 
+YoY. We upgraded LiCaiTong membership benefits to attract more high-net-
+worth individuals, and leveraged AI to enhance user experience in financial 
+product discovery and investment process
+Business Services
+•
+Revenue grew 20% YoY, benefitting from increased demand and better 
+pricing environment for cloud services, and fees collected on Mini Shops 
+eCommerce transactions
+•
+AI-related demand contributed to increased revenue YoY for Tencent Cloud 
+across GPU, CPU and storage. Upgraded Tencent Cloud full-stack AI agent 
+solutions so that customers can integrate our security infrastructure, skillhubs 
+and Weixin/QQ/WeCom control interfaces into their choice of models and 
+agents
+•
+Tencent Cloud’s international business grew revenue over 40% YoY as we 
+expanded global footprint to 65 Availability Zones, and captured rising 
+demand for our PaaS solutions
+
+
+Income Statement
+In billion RMB
+1Q2026
+1Q2025
+YoY
+4Q2025
+QoQ
+Revenue
+196.5
+180.0
++9%
+194.4
++1%
+Gross profit
+111.3
+100.5
++11%
+108.3
++3%
+Operating expenses
+(45.2)
+(41.5)
++9%
+(49.3)
+-8%
+Other gains (losses), net
+1.3
+(1.4)
+NA
+1.3
+-5%
+Operating profit
+67.4
+57.6
++17%
+60.3
++12%
+Net gains from investments and others
+1.9
+1.4
++37%
+3.3
+-42%
+Interest income
+4.0
+3.7
++7%
+4.8
+-16%
+Finance costs
+(3.0)
+(3.9)
+-23%
+(3.6)
+-17%
+Share of profit of associates & JVs, net
+3.6
+4.6
+-21%
+6.8
+-47%
+Income tax expense
+(14.5)
+(13.7)
++6%
+(12.5)
++16%
+Net profit
+59.4
+49.7
++19%
+59.1
++0.5%
+Net profit attributable to equity holders
+58.1
+47.8
++21%
+58.3
+-0.3%
+Diluted EPS in RMB
+6.302
+5.129
++23%
+6.276
++0.4%
+ Non-IFRS
+Operating Profit excl. New AI Products1
+84.4
+71.9
++17%
+76.5
++10%
+Operating profit
+75.6
+69.3
++9%
+69.5
++9%
+Net profit attributable to equity holders
+67.9
+61.3
++11%
+64.7
++5%
+Diluted EPS in RMB
+7.364
+6.583
++12%
+6.966
++6%
+19
+1.
+Excludes revenues, costs and expenses for new AI products (Hy, Yuanbao, CodeBuddy, WorkBuddy, and QClaw)
+
+41.7 
+48.9 
+52.3 
+56.8 
+54.8 
+55.6 
+53.0 
+57.7 
+55.5 
+57.6 
+56.7 
+59.7 
+55.0 
+Marketing Services (%)
+53.9 
+54.0 
+55.5 
+53.7 
+57.3 
+57.0 
+57.5 
+55.9 
+59.6 
+60.4 
+61.2 
+59.5 
+62.6 
+Value-added Services (%)
+Gross Margins
+34.5 
+38.4 
+40.9 
+43.9 
+45.6 
+47.6 
+47.8 
+47.1 
+50.3 
+52.1 
+50.2 
+50.7 
+52.1 
+1Q23
+2Q23
+3Q23
+4Q23
+1Q24
+2Q24
+3Q24
+4Q24
+1Q25
+2Q25
+3Q25
+4Q25
+1Q26
+FinTech and Business Services (%)
+20
+45.5 
+47.5 
+49.5 
+50.0 
+52.6 
+53.3 
+53.1 
+52.6 
+55.8 
+56.9 
+56.4 
+55.7 
+56.6 
+Overall Gross Margin (%)
+
+14.7 
+11.3 
+12.5 
+11.3 
+1Q25
+1Q26
+4Q25
+1Q26
+S&M
+in billion RMB
+Operating Expenses
+21
+R&D
+in billion RMB
+G&A (excl. R&D)
+in billion RMB
+18.9 
+22.6 
+23.8 
+22.6 
+1Q25
+1Q26
+4Q25
+1Q26
+Non-IFRS
+Non-IFRS
+Non-IFRS
+7.9 
+11.3 
+13.0 
+11.3 
+1Q25
+1Q26
+4Q25
+1Q26
++44%  
+YoY
+-13%  
+QoQ
+1Q26 S&M grew by 47% YoY and decreased by 13% 
+QoQ
++19%  
+YoY
+-5%  
+QoQ
+1Q26 R&D grew by 20% YoY and decreased by 4% 
+QoQ
+1Q26 G&A (excl. R&D) grew by 5% YoY and decreased 
+11% QoQ
+-24%  
+YoY
+-10%  
+QoQ
+
+30.0 
+30.9 
+33.4 
+31.7 
+36.8 
+36.3 
+36.6 
+34.5 
+38.5 
+37.5 
+37.6 
+35.8 
+38.5 
+39.9 
+39.2 
+40.2 
+39.3 
+43.0 
+1Q23
+2Q23
+3Q23
+4Q23
+1Q24
+2Q24
+3Q24
+4Q24
+1Q25
+2Q25
+3Q25
+4Q25
+1Q26
+Non-IFRS Operating Margin
+excl. New AI Products¹
+(%)
+Non-IFRS Operating Margin
+22
+1.
+Excludes revenues, costs and expenses for new AI products (Hy, Yuanbao, CodeBuddy, WorkBuddy, and QClaw)
+
+In billion RMB
+1Q2026
+1Q2025
+YoY
+4Q2025
+QoQ
+Operating CAPEX
+31.2
+26.4
++18%
+16.9
++84%
+Non-operating CAPEX
+0.7
+1.1
+-30%
+2.7
+-72%
+Total CAPEX
+31.9
+27.5
++16%
+19.6
++63%
+Free Cash Flow 
+56.7
+47.1
++20%
+34.0
++67%
+Total Cash
+533.7
+476.0
++12%
+494.8
++8%
+Less: Total Debt
+(386.8)
+(385.8)
++0.3%
+(387.7)
+-0.2%
+Net Cash
+146.9
+90.2
++63%
+107.1
++37%
+CAPEX, FCF and Cash Position
+23
+•
+Repurchased ~13 million shares for a consideration of ~RMB6.7 billion during 1Q26
+•
+As at 31 Mar 2026, the fair value of our shareholdings1 in listed investee companies (excluding subsidiaries) was ~RMB547 
+billion (USD79 billion) and the carrying book value of our shareholdings in unlisted investee companies (excluding 
+subsidiaries) was ~RMB365 billion (USD53 billion)
+1. Including those held via special purpose vehicles, on an attributable basis.
+
+

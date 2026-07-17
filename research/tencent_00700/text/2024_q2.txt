@@ -1,0 +1,506 @@
+--- PAGE 1 ---
+For Immediate Release
+
+         TENCENT ANNOUNCES 2024 SECOND QUARTER RESULTS
+
+Hong Kong, August 14, 2024 – Tencent Holdings Limited (HKEX: 00700 (HKD Counter) and 80700 (RMB
+Counter), “Tencent” or the “Company”), a world-leading Internet and technology company in China, today
+announced the unaudited consolidated results for the second quarter (“2Q2024”) ended Jun 30, 2024.
+
+Mr. Ma Huateng, Chairman and CEO of Tencent, said, “Our second quarter 2024 results demonstrated the
+strengths of our platform plus content strategy. Our Domestic Games revenue resumed growth, and our
+International Games revenue accelerated growth, due to increased user engagement at several of our
+evergreen  titles, and the successful launches of certain new games. Tencent Video achieved notable
+audience and subscriber growth with drama series developed from China Literature IP and produced
+internally. Looking forward, we continue to invest in our platforms and technologies including AI, enabling us
+to create new business value and better serve user needs.”
+
+2Q2024 Financial Highlights
+Revenues: +8% YoY; gross profit: +21% YoY; non-IFRS1 operating profit*: +27% YoY
+
+▪   Total revenues were RMB161.1 billion (USD22.6 billion2), up 8% over the second quarter of 2023 (“YoY”).
+▪  Gross profit was RMB85.9 billion (USD12.1 billion), up 21% YoY.
+▪  On a non-IFRS basis, which is intended to reflect core earnings by excluding certain one-time and/or
+   non-cash items:
+          -   Operating  profit* was RMB58.4  billion (USD8.2  billion), up 27% YoY. Operating margin*
+           increased to 36% from 31% last year.
+          -    Profit for the period was RMB58.4 billion (USD8.2 billion), up 51% YoY.
+          -    Profit attributable to equity holders of the Company for the quarter was RMB57.3 billion
+         (USD8.0 billion), up 53% YoY.
+          -   Basic earnings per share were RMB6.151. Diluted earnings per share were RMB6.014.
+▪  On an IFRS basis:
+          -   Operating profit* was RMB50.7 billion (USD7.1 billion), up 40% YoY. Operating margin* increased
+            to 31% from 24% last year.
+          -    Profit for the period was RMB48.4 billion (USD6.8 billion), up 79% YoY.
+          -    Profit attributable to equity holders of the Company for the quarter was RMB47.6 billion (USD6.7
+               billion), up 82% YoY.
+          -   Basic earnings per share were RMB5.112. Diluted earnings per share were RMB4.994.
+▪   Total cash was RMB415.2 billion (USD58.3 billion) and free cash flow was RMB40.4 billion (USD5.7
+     billion), +35% YoY. Net cash position totalled RMB71.8 billion (USD10.1 billion).
+▪   Fair value of our shareholdings3 in listed investee companies (excluding subsidiaries) totalled RMB564.5
+     billion (USD79.2 billion) and the carrying book value of our unlisted investments was RMB327.4 billion
+   (USD45.9 billion).
+▪  During the second quarter of 2024, the Company repurchased approximately 103.7 million shares on the
+   Hong Kong Stock Exchange for a consideration of approximately HKD37.5 billion. In addition, the
+
+
+1  Non-IFRS adjustments excludes share-based compensation, M&A related impact such as net (gains)/losses from investee
+   companies, amortisation of intangible assets, impairment provisions/(reversals), SSV & CPP, income tax effects and others
+2   Figures stated in USD are based on USD1 to RMB7.1268
+3   Including those held via special purpose vehicles, on an attributable basis
+*  Since the fourth quarter of 2023, certain items have been reclassified from above to below the operating profit line. Historical
+   comparative figures have been restated accordingly. Please refer to the earnings announcement for details.
+
+                                                                          Page 1 of 9
+
+--- PAGE 2 ---
+   Company paid approximately HKD31.7 billion for the final dividend in respect of the year ended 31
+   December 2023.
+
+2Q24 Business Review and Outlook
+
+   Video Accounts’  total user time spent  substantially increased  year-on-year, as we enhanced
+    recommendation algorithms and provided more local content. We are strengthening our transaction
+     capabilities in a systematic way, in order to deliver seamless shopping experiences to users and drive
+    sales for merchants.
+
+   Mini Programs’ total user time spent increased over 20% year-on-year, benefitting from their robust
+   commerce and content ecosystem. GMV facilitated by Mini Programs grew at a double-digit percentage
+     rate year-on-year. Total gross receipts of Mini Games increased over 30% year-on-year.
+
+  We upgraded and rebranded Tencent Channels, a community-based platform which grew out of QQ,
+    enabling moderators to manage their channels via customisable tools, and users to interact via text,
+    image and live streaming. Users can now join Tencent Channels from Weixin and from game apps, as
+     well as from QQ.
+
+   Tencent Video released several popular drama series, driving long-form video subscriptions growth of
+   13% year-on-year to 117 million4. For example, “Joy of Life 2” (慶餘年第二季) and “The Legend of Shen
+     Li” (與鳳行) were the first and second most watched drama series on China online video platforms during
+    the first half of 20245. Both drama series were based on China Literature’s web novel IPs, produced by
+   New Classics Media, and broadcast on Tencent Video.
+
+   Tencent Music strengthened cooperation with labels and artists, released original soundtracks for
+    Tencent Video popular drama series, and provided live music experiences through offline events and
+    concert tours. Music subscriptions increased 18% year-on-year to 117 million6.
+
+  We revitalised our flagship Domestic Games, Honour of Kings and Peacekeeper Elite, which each
+    resumed year-on-year growth in gross receipts in the second quarter of 2024. Naruto Mobile reached a
+   new milestone of 10 million monthly average DAU in May 2024. DnF Mobile, a newly released game,
+    reactivated millions of IP fans and is retaining players well, positioning it to become our next evergreen
+    major hit.
+
+   Brawl Stars achieved a historical high quarterly average DAU and ranked third internationally among all
+    mobile games measured by DAU7, benefitting from frequent content updates and social features. The
+    game’s gross receipts grew more than tenfold year-on-year.
+
+  We upgraded our advertising technology platform to analyse user interests over a longer time horizon
+    and process signals more frequently, enabling us to gain deeper user insights and provide more relevant
+     advertising recommendations.
+
+
+
+
+
+4   The average daily number of subscriptions for the second quarter of 2024; year-on-year growth rate was calculated based on
+     restated comparative figure
+5   By video views across all online platforms in China for the first half of 2024, according to Enlightent
+6   The average number of subscriptions as of the last day of each month during the second quarter of 2024
+7   By average DAU in the second quarter of 2024, according to Sensor Tower
+                                                                          Page 2 of 9
+
+--- PAGE 3 ---
+   Leveraging our top-tier foundation model, Tencent Hunyuan, we released our AI assistant application,
+    Yuanbao,  to  the  public. Yuanbao possesses  competitive  strengths  including  accurate image
+    understanding, advanced natural language processing, and AI search enhanced by our unique content
+    ecosystem.
+
+Operating Metrics
+
+                            As at          As at          Year-         As at   Quarter-on-
+                              30 June        30 June       on-year      31 March        quarter
+                                 2024          2023       change         2024      change
+                                                                     (in millions, unless specified)
+
+ Combined MAU of Weixin
+   and WeChat                    1,371          1,327       3%         1,359       0.9%
+
+ Mobile device MAU of QQ           571           571         stable          553       3%
+
+ Fee-based VAS registered
+   subscriptions #                   263           234       12%          260       1%
+
+#    Adjusted as the average daily number of subscriptions during the quarter, since the first quarter of 2024
+
+
+
+2Q24 Management Discussion and Analysis
+
+Revenues from VAS increased by 6% year-on-year to RMB78.8 billion for the second quarter of 2024.
+International Games revenues were RMB13.9 billion, up by 9% in both reported and constant currency terms,
+primarily driven by a strong performance from PUBG Mobile and enhanced popularity for Supercell’s games.
+Gross receipts for International Games grew at a substantially faster rate than revenues. Domestic Games
+revenues resumed year-on-year growth, up by 9% to RMB34.6 billion, driven by increased revenue from
+VALORANT and the successful launch of DnF Mobile. Gross receipts growth for Domestic Games outpaced
+revenue growth. Social Networks revenues were RMB30.3 billion, up 2% year-on-year, supported by growth
+in music and long-form video subscription revenues, Mini Games platform service fees and app-based game
+virtual item sales, partially offset by a decline in music-related and games-related live streaming revenues.
+
+Revenues from Online Advertising were RMB29.9 billion for the second quarter of 2024, up 19% year-on-
+year, primarily driven by increased revenues from Video Accounts and long-form video. Revenue from our
+mobile ad network declined year-on-year, due to reduced advertising budgets from certain Internet services
+companies.
+
+Revenues from FinTech and Business Services increased by 4% year-on-year to RMB50.4 billion for the
+second quarter of 2024. FinTech Services revenue growth decelerated to a low single-digit percentage rate,
+impacted by further moderation in commercial payment revenue growth that reflected slow consumption
+spending, alongside a decline in consumer loan services revenue due to stronger risk control measures, while
+wealth management services revenues experienced double-digit percentage growth. Business Services
+revenues achieved a teens growth rate, driven by a rise in cloud services revenues, which included improved
+monetisation of WeCom, as well as higher eCommerce technology service fees within Video Accounts.
+
+
+
+
+
+                                                                          Page 3 of 9
+
+--- PAGE 4 ---
+For other detailed disclosure, please refer to our website https://www.tencent.com/en-us/investors.html, or follow
+
+us via Weixin Official Account (Weixin ID: Tencent_IR):
+
+
+
+
+
+                                           # # #
+
+
+About Tencent
+Tencent uses technology to enrich the lives of Internet users.
+
+Our communication and social services, Weixin and QQ, connect users with each other and with digital
+content and services, both online and offline, making their lives more convenient. Our targeted advertising
+service helps advertisers reach out to hundreds of millions of consumers in China. Our FinTech and business
+services support our partners’ business growth and assist their digital upgrade.
+
+Tencent invests heavily in talent and technological innovation, actively promoting the development of the
+Internet industry. Tencent was founded in Shenzhen, China, in 1998. Tencent has been listed on the Main
+Board of the Stock Exchange of Hong Kong since 2004.
+
+Investor contact: IR@tencent.com
+Media contact: GC@tencent.com
+
+Non-IFRS Financial Measures
+To supplement the consolidated results of the Group prepared in accordance with IFRS, certain additional non-IFRS
+financial measures (in terms of operating profit, operating margin, profit for the period, profit attributable to equity holders
+of the Company, basic EPS and diluted EPS) have been presented in this press release. These unaudited non-IFRS
+financial measures should be considered in addition to, not as a substitute for, measures of the Group’s financial
+performance prepared in accordance with IFRS. In addition, these non-IFRS financial measures may be defined
+differently from similar terms used by other companies.
+
+The Company’s management  believes  that  the non-IFRS  financial measures  provide  investors  with  useful
+supplementary information to assess the performance of the Group’s core operations by excluding certain non-cash
+items and certain impact of investment-related transactions. In addition, non-IFRS adjustments include relevant non-
+IFRS adjustments for the Group’s major associates based on available published financials of the relevant major
+associates, or estimates made by the Company’s management based on available information, certain expectations,
+assumptions and premises.
+
+Forward-Looking Statements
+This press release contains forward-looking statements relating to the business outlook, estimates of financial
+performance, forecast business plans and growth strategies of the Company. These forward-looking statements are
+based on information currently available to the Company and are stated herein on the basis of the outlook at the time of
+this press release. They are based on certain expectations, assumptions and premises, some of which are subjective
+or beyond our control. These forward-looking statements may prove to be incorrect and may not be realised in the future.
+Underlying these forward-looking statements are a lot of risks and uncertainties. In light of the risks and uncertainties,
+the inclusion of forward-looking statements in this press release should not be regarded as representations by the Board
+or the Company that the plans and objectives will be achieved, and investors should not place undue reliance on such
+statements.
+
+
+                                                                          Page 4 of 9
+
+--- PAGE 5 ---
+CONDENSED CONSOLIDATED INCOME STATEMENT
+RMB in millions, unless specified
+
+
+                                            Unaudited                        Unaudited
+                                     2Q2024       2Q2023            2Q2024       1Q2024
+                                                            Restated*
+ Revenues                                 161,117        149,208              161,117        159,501
+   VAS                                    78,822          74,211               78,822         78,629
+    Online Advertising                        29,871         25,003               29,871         26,506
+    FinTech and Business Services             50,440         48,635               50,440         52,302
+    Others                                    1,984           1,359                1,984          2,064
+ Cost of revenues                             (75,222)         (78,368)               (75,222)         (75,631)
+ Gross profit                                85,895         70,840               85,895         83,870
+                    Gross margin         53%         47%             53%         53%
+ Selling and marketing expenses                 (9,156)          (8,310)                 (9,156)          (7,536)
+ General and administrative expenses           (27,491)         (25,419)               (27,491)         (24,809)
+ Other gains/(losses), net                        1,484           (828)*                1,484          1,031
+ Operating profit                             50,732         36,283*               50,732         52,556
+                 Operating margin          31%         24%*             31%         33%
+ Net  gains/(losses)  from  investments
+  and others                                      (654)           598*                  (654)           656
+ Interest income                                3,850          3,419*                3,850          4,248
+ Finance costs                                    (3,112)          (3,291)                 (3,112)          (2,826)
+ Share of profit/(loss) of associates and
+   joint ventures, net                             7,718           1,159                7,718          2,186
+ Profit before income tax                     58,534         38,168               58,534         56,820
+ Income tax expense                           (10,168)         (11,145)               (10,168)         (14,169)
+ Profit for the period                         48,366         27,023               48,366         42,651
+
+ Attributable to:
+      Equity holders of the Company             47,630          26,171               47,630         41,889
+      Non-controlling interests                   736           852                736           762
+
+ Non-IFRS operating profit                    58,443         46,055*               58,443         58,619
+ Non-IFRS  profit attributable to equity
+  holders of the Company                      57,313          37,548               57,313         50,265
+
+ Earnings per share for profit
+   attributable to equity holders of
+   the Company
+    (in RMB per share)
+     - basic                                       5.112           2.761                 5.112          4.479
+     - diluted                                    4.994           2.695                4.994          4.386
+
+
+
+
+
+*  Since the fourth quarter of 2023, certain items have been reclassified from above to below the operating profit line. Historical
+  comparative figures have been restated accordingly. Please refer to the earnings announcement for details.
+                                                                          Page 5 of 9
+
+--- PAGE 6 ---
+CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+RMB in millions, unless specified
+
+
+                                                                                Unaudited
+                                                                       2Q2024     2Q2023
+ Profit for the period                                                                 48,366      27,023
+ Other comprehensive income, net of tax:
+   Items that may be subsequently reclassified to profit or loss
+     Share of other comprehensive income of associates and joint ventures                  139        424
+      Transfer of share of other comprehensive income to profit or loss upon disposal
+      and deemed disposal of associates and joint ventures                                17          (23)
+      Transfer to profit or loss upon disposal of financial assets at fair value through
+       other comprehensive income                                                                                       -            (3)
+      Net gains from changes in fair value of financial assets at fair value through other
+       comprehensive income                                                        12         17
+      Currency translation differences                                                        (242)      17,560
+      Net movement in reserves for cash flow hedges                                         (921)         31
+   Items that will not be subsequently reclassified to profit or loss
+     Share of other comprehensive income of associates and joint ventures                    (379)        (743)
+      Net gains/(losses) from changes in fair value of financial assets at fair value
+       through other comprehensive income                                             25,905     (20,673)
+      Currency translation differences                                                 151       2,742
+                                                                                     24,682        (668)
+ Total comprehensive income for the period                                          73,048      26,355
+ Attributable to:
+      Equity holders of the Company                                                     71,703      24,416
+      Non-controlling interests                                                             1,345       1,939
+
+OTHER FINANCIAL INFORMATION
+RMB in millions, unless specified
+
+                                            Unaudited
+
+                                 2Q2024    1Q2024    2Q2023
+
+  EBITDA (a)                            62,902      65,094      51,918
+
+  Adjusted EBITDA (a)                    68,518      69,259      56,848
+
+  Adjusted EBITDA margin (b)            43%      43%      38%
+
+  Interest and related expenses             2,918       3,044       3,009
+
+  Net cash/(debt) (c)                      71,757      92,534      17,717
+
+  Capital expenditures (d)                  8,729      14,359       3,953
+
+
+Note:
+(a)  EBITDA is calculated as operating profit minus other gains/(losses), net, and adding back depreciation of property, plant and equipment, investment
+     properties as well as right-of-use assets, and amortisation of intangible assets and land use rights. Adjusted EBITDA is calculated as EBITDA plus equity-
+      settled share-based compensation expenses.
+(b)  Adjusted EBITDA margin is calculated by dividing Adjusted EBITDA by revenues.
+(c)  Net cash/(debt) represents period end balance and is calculated as cash and cash equivalents, plus term deposits and others, minus borrowings and
+     notes payable.
+(d)   Capital expenditures consist of additions (excluding business combinations) to property, plant and equipment, construction in progress, investment
+      properties, land use rights and intangible assets (excluding long-form video and music content, game licences and other content).
+
+
+
+                                                                          Page 6 of 9
+
+--- PAGE 7 ---
+CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+RMB in millions, unless specified
+                                                                Unaudited                    Audited
+                                                         As at                  As at
+                                                         June 30, 2024       December 31, 2023
+ASSETS
+Non-current assets
+   Property, plant and equipment                                           57,195                   53,232
+  Land use rights                                                        23,479                   17,179
+   Right-of-use assets                                                    18,800                   20,464
+  Construction in progress                                                13,463                   13,583
+  Investment properties                                                 659                    570
+   Intangible assets                                                     177,621                  177,727
+  Investments in associates                                             262,961                  253,696
+  Investments in joint ventures                                              7,221                     7,969
+   Financial assets at fair value through profit or loss                         206,848                  211,145
+   Financial assets at fair value through other
+   comprehensive income                                               253,436                  213,951
+  Prepayments, deposits and other assets                                  27,746                   28,439
+  Other financial assets                                                    1,144                     2,527
+  Deferred income tax assets                                             31,266                   29,017
+  Term deposits                                                         51,490                   29,301
+
+
+                                                                       1,133,329                 1,058,800
+
+
+Current assets
+
+   Inventories                                                              4,387                    456
+  Accounts receivable                                                    52,250                   46,606
+  Prepayments, deposits and other assets                                  92,844                    88,411
+  Other financial assets                                                    5,437                     5,949
+   Financial assets at fair value through profit or loss                            8,864                   14,903
+   Financial assets at fair value through other
+   comprehensive income                                               850                                      -
+  Term deposits                                                       200,090                  185,983
+   Restricted cash                                                          3,408                     3,818
+  Cash and cash equivalents                                             153,511                  172,320
+
+
+                                                                      521,641                  518,446
+
+
+Total assets                                                           1,654,970                 1,577,246
+
+
+
+
+
+                                                                          Page 7 of 9
+
+--- PAGE 8 ---
+CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION (continued)
+RMB in millions, unless specified
+                                                              Unaudited                     Audited
+                                                         As at                   As at
+                                                       June 30, 2024        December 31, 2023
+EQUITY
+Equity attributable to equity holders of the Company
+  Share capital                                                                                               -                                        -
+  Share premium                                                       32,957                    37,989
+  Treasury shares                                                             (3,664)                       (4,740)
+  Shares held for share award schemes                                       (3,705)                       (5,350)
+  Other reserves                                                              (6,955)                     (33,219)
+  Retained earnings                                                   842,048                    813,911
+                                                                    860,681                   808,591
+
+Non-controlling interests                                               66,916                    65,090
+
+
+Total equity                                                         927,597                   873,681
+
+LIABILITIES
+Non-current liabilities
+  Borrowings                                                         152,946                   155,819
+  Notes payable                                                      131,575                   137,101
+  Long-term payables                                                   13,315                    12,169
+  Other financial liabilities                                                  7,684                      8,781
+  Deferred income tax liabilities                                           14,223                    17,635
+  Lease liabilities                                                       14,979                    16,468
+  Deferred revenue                                                       4,825                      3,435
+
+                                                                    339,547                   351,408
+
+Current liabilities
+  Accounts payable                                                   121,230                   100,948
+  Other payables and accruals                                           69,693                    76,595
+  Borrowings                                                          52,462                    41,537
+  Notes payable                                                          6,410                    14,161
+  Current income tax liabilities                                            17,046                    17,664
+  Other tax liabilities                                                      4,258                      4,372
+  Other financial liabilities                                                  3,784                      4,558
+  Lease liabilities                                                         5,999                      6,154
+  Deferred revenue                                                   106,944                    86,168
+
+                                                                    387,826                   352,157
+
+Total liabilities                                                       727,373                   703,565
+
+Total equity and liabilities                                             1,654,970                  1,577,246
+
+
+
+
+
+                                                                          Page 8 of 9
+
+--- PAGE 9 ---
+RECONCILIATIONS OF THE GROUP’S NON-IFRS FINANCIAL MEASURES TO THE NEAREST MEASURES PREPARED IN ACCORDANCE WITH IFRS
+                                                                              Adjustments
+                                 As     Share-based              Net                              Impairment                              Income
+                                                                            (gains)/losses       Amortisation of                  SSV & CPP     Others                 Non-IFRS
+                                    reported    compensation                                                    provisions/                                  tax effects
+ RMB in millions,                                                   from investee   intangible assets (c)                                   (e)                     (f)
+                                                                                (a)                                                    (reversals) (d)                                               (g)
+ unless specified                                                 companies (b)
+                                                                                     Unaudited three months ended 30 June 2024
+
+ Operating profit                           50,732             6,213               –                 1,305                  –          190         3              –         58,443
+ Share of profit/(loss) of associates
+  and joint ventures, net                     7,718             926                (91)                 1,313                 20            –         –              –          9,886
+
+  Profit for the period                       48,366             7,139             (3,672)                 2,618                3,526          1,025         3             (561)         58,444
+  Profit attributable to
+  equity holders                           47,630             6,981             (3,726)                 2,418                3,492          1,025         3             (510)         57,313
+
+ Operating margin                     31%                                                                                                   36%
+                                                                                            Unaudited three months ended 31 March 2024
+
+ Operating profit                            52,556             4,694               –                 1,249                  –          120         –              –         58,619
+ Share of profit/(loss) of associates and
+   joint ventures, net                           2,186             1,509              (459)                 1,556                699            –         –              –          5,491
+
+  Profit for the period                         42,651             6,203             (1,476)                 2,805                1,562          132         –             (535)         51,342
+  Profit attributable to
+   equity holders                             41,889             6,035             (1,449)                 2,589                1,541          132         –             (472)         50,265
+
+ Operating margin                      33%                                                                                                   37%
+                                                                                            Unaudited three months ended 30 June 2023
+
+ Operating profit (Restated) *                  36,283             5,551               –                 1,023                  –          195      3,003              –         46,055
+ Share of profit/(loss) of associates and
+   joint ventures, net                           1,159             1,308                (81)                 1,349                128            –          (1)              –          3,862
+
+  Profit for the period                         27,023             6,859              (287)                 2,372                210          369      3,002             (929)         38,619
+  Profit attributable to
+   equity holders                             26,171             6,661              (162)                 2,187                193          369      3,002             (873)         37,548
+
+ Operating margin (Restated) *              24%                                                                                                   31%
+
+Note:
+   (a)  Including put options granted to employees of investee companies on their shares and shares to be issued under investee companies’ share-based incentive plans which can be acquired by the Group, and other incentives
+   (b)  Including net (gains)/losses on deemed disposals/disposals of investee companies, fair value changes arising from investee companies, and other expenses in relation to equity transactions of investee companies
+   (c)  Amortisation of intangible assets resulting from acquisitions
+   (d)  Mainly including impairment provisions/(reversals) for associates, joint ventures, goodwill and other intangible assets arising from acquisitions
+   (e)  Mainly including donations and expenses incurred for the Group’s Sustainable Social Value and Common Prosperity Programme ("SSV & CPP”) initiatives
+   (f)   Primarily non-recurring compliance-related costs and expenses incurred for certain litigation settlements of the Group and/or arising from investee companies
+   (g)  Income tax effects of non-IFRS adjustments
+
+
+
+* Since the fourth quarter of 2023, certain items have been reclassified from above to below the operating profit line. Historical comparative figures have been restated accordingly. Please refer
+  to the earnings announcement for details.
+                                                                                                                  Page 9 of 9

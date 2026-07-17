@@ -1,0 +1,125 @@
+{
+  "retrieved_at": "2026-07-16T09:03:24.102167+00:00",
+  "items": {
+    "0700.HK": {
+      "fast_info": {
+        "currency": "HKD",
+        "last_price": null,
+        "market_cap": null,
+        "shares": 9001629075,
+        "last_volume": null,
+        "timezone": "Asia/Hong_Kong",
+        "exchange": "HKG"
+      },
+      "info": {
+        "currency": "HKD",
+        "currentPrice": 484.0,
+        "regularMarketPrice": 484.0,
+        "marketCap": 4356788191232,
+        "trailingPE": 17.366343,
+        "forwardPE": 12.809468,
+        "trailingEps": 27.87,
+        "sharesOutstanding": 9001629075,
+        "regularMarketTime": 1784189312,
+        "exchange": "HKG",
+        "shortName": "TENCENT"
+      }
+    },
+    "NTES": {
+      "fast_info": {
+        "currency": "USD",
+        "last_price": null,
+        "market_cap": null,
+        "shares": 640250196,
+        "last_volume": null,
+        "timezone": "America/New_York",
+        "exchange": "NMS"
+      },
+      "info": {
+        "currency": "USD",
+        "currentPrice": 129.76,
+        "regularMarketPrice": 129.76,
+        "marketCap": 83078856704,
+        "trailingPE": 16.508905,
+        "forwardPE": 12.250524,
+        "trailingEps": 7.86,
+        "sharesOutstanding": 640250196,
+        "regularMarketTime": 1784145600,
+        "exchange": "NMS",
+        "shortName": "NetEase, Inc."
+      }
+    },
+    "BABA": {
+      "fast_info": {
+        "currency": "USD",
+        "last_price": null,
+        "market_cap": null,
+        "shares": 2396872232,
+        "last_volume": null,
+        "timezone": "America/New_York",
+        "exchange": "NYQ"
+      },
+      "info": {
+        "currency": "USD",
+        "currentPrice": 117.69,
+        "regularMarketPrice": 117.69,
+        "marketCap": 282087882752,
+        "trailingPE": 17.358406,
+        "forwardPE": 12.926441,
+        "trailingEps": 6.78,
+        "sharesOutstanding": 2396872232,
+        "regularMarketTime": 1784145788,
+        "exchange": "NYQ",
+        "shortName": "Alibaba Group Holding Limited"
+      }
+    },
+    "BIDU": {
+      "fast_info": {
+        "currency": "USD",
+        "last_price": null,
+        "market_cap": null,
+        "shares": 340252659,
+        "last_volume": null,
+        "timezone": "America/New_York",
+        "exchange": "NMS"
+      },
+      "info": {
+        "currency": "USD",
+        "currentPrice": 111.48,
+        "regularMarketPrice": 111.48,
+        "marketCap": 37931368448,
+        "trailingPE": null,
+        "forwardPE": 12.496568,
+        "trailingEps": -0.15,
+        "sharesOutstanding": 274750119,
+        "regularMarketTime": 1784145601,
+        "exchange": "NMS",
+        "shortName": "Baidu, Inc."
+      }
+    },
+    "META": {
+      "fast_info": {
+        "currency": "USD",
+        "last_price": null,
+        "market_cap": null,
+        "shares": 2538423304,
+        "last_volume": null,
+        "timezone": "America/New_York",
+        "exchange": "NMS"
+      },
+      "info": {
+        "currency": "USD",
+        "currentPrice": 681.31,
+        "regularMarketPrice": 681.31,
+        "marketCap": 1729453228032,
+        "trailingPE": 24.040579,
+        "forwardPE": 18.753908,
+        "trailingEps": 28.34,
+        "sharesOutstanding": 2196045588,
+        "regularMarketTime": 1784145601,
+        "exchange": "NMS",
+        "shortName": "Meta Platforms, Inc."
+      }
+    }
+  }
+}

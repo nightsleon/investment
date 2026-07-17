@@ -1,0 +1,665 @@
+--- PAGE 1 ---
+For Immediate Release
+
+
+    TENCENT ANNOUNCES 2022 FOURTH QUARTER AND ANNUAL RESULTS
+
+Hong Kong, March 22, 2023 – Tencent Holdings Limited (“Tencent” or the “Company”, 00700.HK), a leading
+provider of Internet value-added services in China, today announced the unaudited consolidated results for
+the fourth quarter (“4Q2022”) and the audited consolidated results for the year ended December 31, 2022
+(“FY2022”).
+
+4Q2022 Key Highlights
+Revenues: +0.5% YoY, non-IFRS1 profit attributable to equity holders of the Company: +19% YoY
+
+▪   Total revenues were RMB145.0 billion (USD20.8 billion2), an increase of 0.5% over the fourth quarter of
+   2021 (“YoY”).
+▪  On a non-IFRS basis, which is intended to reflect core earnings by excluding certain one-time and/or
+   non-cash items:
+          -   Operating profit was RMB39.4 billion (USD5.7 billion), an increase of 19% YoY. Operating
+          margin increased to 27% from 23% last year.
+          -    Profit for the period was RMB30.6 billion (USD4.4 billion), an increase of 19% YoY. Net margin
+           increased to 21% from 18% last year.
+          -    Profit attributable to equity holders of the Company for the quarter was RMB29.7 billion
+         (USD4.3 billion), an increase of 19% YoY.
+          -   Basic earnings per share were RMB3.124. Diluted earnings per share were RMB3.042.
+▪  On an IFRS basis:
+          -   Operating profit was RMB116.8 billion (USD16.8 billion), an increase of 6% YoY. Operating margin
+          increased to 81% from 76% last year.
+          -   Profit for the period was RMB106.9 billion (USD15.3 billion), an increase of 12% YoY. Net margin
+          increased to 74% from 66% last year.
+          -   Profit attributable to equity holders of the Company for the quarter was RMB106.3 billion (USD15.3
+              billion), an increase of 12% YoY.
+          -   Basic earnings per share were RMB11.173. Diluted earnings per share were RMB10.977.
+▪   Total cash were RMB319.6 billion (USD45.9 billion) at the end of the period.
+
+FY2022 Key Highlights
+Revenues: -1% YoY, non-IFRS profit attributable to equity holders of the Company: -7% YoY
+
+▪   Total revenues were RMB554.6 billion (USD79.6 billion), a decrease of 1% over 2021.
+▪  On a non-IFRS basis, which is intended to reflect core earnings by excluding certain one-time and/or
+   non-cash items:
+          -   Operating profit was RMB153.5 billion (USD22.0 billion), a decrease of 4% YoY. Operating
+          margin was stable at 28%.
+
+
+1 Non-IFRS adjustments excludes share-based compensation, M&A related impact such as net (gains)/losses from investee
+  companies, amortisation of intangible assets and impairment provision/(reversals), SSV & CPP, income tax effects and others
+2 Figures stated in USD are based on USD1 to RMB6.9646
+                                                                        Page 1 of 13
+
+--- PAGE 2 ---
+          -    Profit for the year was RMB119.2 billion (USD17.1 billion), a decrease of 7% YoY. Net margin
+          decreased to 21% from 23% last year.
+          -    Profit attributable to equity holders of the Company for the year was RMB115.6 billion
+         (USD16.6 billion), a decrease of 7% YoY.
+          -   Basic earnings per share were RMB12.138. Diluted earnings per share were RMB11.835.
+▪  On an IFRS basis:
+          -   Operating profit was RMB235.7 billion (USD33.8 billion), a decrease of 13% YoY. Operating
+          margin decreased to 43% from 48% last year.
+          -    Profit for the year was RMB188.7 billion (USD27.1 billion), a decrease of 17% YoY. Net margin
+          decreased to 34% from 41% last year.
+          -    Profit attributable to equity holders of the Company for the year was RMB188.2 billion (USD27.0
+               billion), a decrease of 16% YoY.
+          -   Basic earnings per share were RMB19.757. Diluted earnings per share were RMB19.341.
+▪  On 16 November 2022, the Board resolved to declare a special interim dividend in the form of a
+    distribution in specie of approximately 948 million Class B ordinary shares of Meituan indirectly held by
+    the Company, on the basis of 1 Class B ordinary share of Meituan for every 10 Shares held by the
+    Qualifying Shareholders3.
+▪  The Board has recommended the payment of a final dividend of HKD2.40 per share for FY2022 (2021:
+   HKD1.60 per share), subject to the approval of the shareholders at the 2023 Annual General Meeting.
+
+Mr. Ma Huateng, Chairman and CEO of Tencent, said, “During 2022, we increased our business efficiency,
+sharpened our focus on core activities, and developed new services and revenue lines including Video
+Accounts and international games. These changes position us to benefit from, and contribute to, a rebound
+in China economic growth which our users’ activity suggests is now underway. We are investing in our AI
+capabilities and cloud infrastructure to embrace foundation models, which we believe will enhance the
+experience of our existing products and services and allow us to explore introducing new products. Looking
+forward, we will continue to seek creating user value, commercial value and social value via technology and
+innovation.”
+
+4Q2022 Financial Review
+
+Revenues from VAS4 decreased by 2% to RMB70.4 billion for the fourth quarter of 2022 on a year-on-year
+basis. International Games revenues increased by 5% to RMB13.9 billion, or up 11% excluding currency
+impact and the Supercell-related true-up adjustment made in the fourth quarter of 2021. Revenue growth was
+driven by key franchises VALORANT and League of Legends, as well as successful launches of GODDESS
+OF VICTORY: NIKKE and Warhammer 40,000: Darktide. Domestic Games revenues decreased by 6% to
+RMB27.9 billion due to year-on-year lower gross cash receipts in the previous quarters. Social Networks
+revenues decreased by 2% to RMB28.6 billion, reflecting decreased revenues from music- and games-
+related live streaming services, versus increased revenues from the Video Accounts live streaming service
+and our music subscription service.
+
+Revenues from Online Advertising increased by 15% to RMB24.7 billion for the fourth quarter of 2022 on a
+year-on-year basis. Ad spend from eCommerce platforms, FMCG and games advertisers increased notably
+year-on-year. Social and Others Advertising revenues increased by 17% to RMB21.4 billion, underpinned by
+
+
+3 Please refer to the official announcement for details.
+4 Mobile games VAS revenues (including mobile games revenues attributable to our Social Networks business) decreased by 2%
+  year-on-year to RMB39.2 billion, while PC client games revenues increased by 8% year-on-year to RMB11.5 billion, for the fourth
+  quarter of 2022.
+                                                                        Page 2 of 13
+
+--- PAGE 3 ---
+robust demand for Video Accounts and Mini Programs ads, as well as the recovery of our mobile ad network.
+Media Advertising revenues increased by 4% to RMB3.3 billion, reflecting increased monetisation for ad-
+supported music content.
+
+Revenues from FinTech and Business Services decreased by 1% to RMB47.2 billion for the fourth quarter of
+2022 on a year-on-year basis. FinTech Services revenue growth was slower than the previous quarter due to
+COVID-19 outbreaks temporarily suppressing payment activity. Business Services revenues decreased year-
+on-year as we scaled back loss-making activities.
+
+Other Key Financial Information for 4Q2022
+
+EBITDA was RMB44.0 billion, up 20% YoY. Adjusted EBITDA was RMB49.6 billion, up 17% YoY.
+Capital expenditures were RMB5.7 billion, down 52% YoY.
+Free cash flow was RMB23.1 billion, down 31% YoY.
+
+As at December 31, 2022, net debt position totalled RMB14.8 billion. Fair value of our shareholdings5 in listed
+investee companies (excluding subsidiaries) totalled RMB585.1 billion (USD84.0 billion) and the carrying
+value of unlisted investee companies was RMB333.4 billion (USD47.9 billion). During the fourth quarter, the
+Company repurchased approximately 45.6 million shares on the Hong Kong Stock Exchange for an
+aggregate consideration of approximately RMB12.0 billion.
+
+
+
+Operating Metrics
+
+                           As at           As at          Year-         As at   Quarter-on-
+                        31 December    31 December        on-year  30 September        quarter
+                               2022           2021       change         2022      change
+                                                                     (in millions, unless specified)
+
+ Combined MAU of
+  Weixin and WeChat             1,313.2          1,268.2        3.5%        1,308.9       0.3%
+
+ Mobile device MAU of QQ         572.1           552.1        3.6%         574.4       -0.4%
+
+ Fee-based VAS registered
+  subscriptions                   233.8           236.3        -1.1%         228.7       2.2%
+
+
+Strategic Progress and Outlook
+
+During 2022, we increased our business efficiency, sharpened our focus on core activities, and developed
+new services and revenue lines, better positioning us for a new sustainable growth model in the future. Below
+are some highlights from our key products and business lines during the reporting period:
+
+
+Communication and Social
+
+
+Aggregate time spent on Weixin continued to increase throughout 2022, driven by growth in both chat and
+
+
+
+5 Including those held via special purpose vehicles, on an attributable basis
+                                                                        Page 3 of 13
+
+--- PAGE 4 ---
+non-chat use cases. Among non-chat use cases, time spent on Moments was broadly stable year-on-year in
+the fourth quarter of 2022, while time spent on Mini Programs and Video Accounts doubled and tripled year-
+on-year respectively, each exceeding time spent on Moments. Mini Programs has become a leading
+transaction platform  in China, generating several  trillions renminbi of transaction value  in 2022 and
+contributing to the development of the real economy. Video Accounts gained user mindshare in live events,
+with 190 million users watching the 2023 CCTV Spring Festival Gala via live streaming on Video Accounts.
+
+
+For QQ, we enlivened the video chat experience by adding Super QQ Show avatars and utilising motion
+capture technology to mirror users’ facial expressions and gestures in real time. We enriched the anime,
+comics and games content for Mini World, the short-video service within QQ, and launched AI-powered
+creation tools, increasing DAU and time spent per user significantly.
+
+
+Digital Content
+
+
+Our fee-based VAS subscriptions decreased 1% year-on-year to 234 million. Video subscriptions revenue
+increased as we adjusted pricing, though subscriptions decreased slightly to 119 million because of content
+scheduling delays. In January 2023, our self-commissioned drama series Three-Body became the highest-
+rated domestic science fiction series released in China in the past five years6. For music, we offered attractive
+membership privileges and we enhanced user engagement in various music genres, driving growth in paying
+users and ARPU.
+
+
+Domestic Games
+
+
+In 2022, we significantly reduced Minor time spent through the implementation of our industry-leading Minor
+protection program. However, we have sustained our market leadership, with Honour of Kings resuming year-
+on-year growth in DAU in the fourth quarter of 2022 and achieving record-high gross receipts during the
+Chinese New Year holiday in 2023. In February 2023, we tapped into the Survival-Open World-Crafting game
+genre, through the release of our self-developed game Undawn.
+
+
+International Games
+
+
+The fourth quarter is a seasonally strong period for our international games business, which contributed 33%
+of our games revenue in the fourth quarter of 2022, compared to 28% in the fourth quarter of 20217. Despite
+the releases of several competing games, VALORANT’s MAU and gross receipts grew year-on-year during
+the fourth quarter of 2022, as players responded favorably to its new agent and “best of 9” game mode. Call
+of Duty Mobile’s gross receipts increased year-on-year in the fourth quarter of 2022, benefitting from its third
+anniversary promotions and World-Cup themed content. We released GODDESS OF VICTORY: NIKKE on
+mobile devices, and Warhammer 40,000: Darktide on PC, in the fourth quarter of 2022.
+
+
+Online Advertising
+
+We returned to year-on-year revenue growth in the fourth quarter of 2022 as we released more inventory on
+services including Video Accounts, and as advertiser demand improved. We strengthened the transaction-
+
+
+6 Source: Douban, a leading review aggregation website in China; as of March 21, 2023
+7 Excluding Supercell’s true-up revenue adjustment made in 4Q2021
+                                                                        Page 4 of 13
+
+--- PAGE 5 ---
+driven capability of our advertising ecosystem, with click-to-message and click-to-purchase advertisements
+accounting for over one-third of Weixin’s advertising revenue in the fourth quarter of 2022. Our improved
+machine-learning infrastructure enhanced conversion rates and returns on investments for advertisers, while
+enabling us to achieve greater training efficiency.
+
+
+FinTech
+
+During the fourth quarter of 2022, our commercial payment business was temporarily impacted by COVID-
+19 outbreaks, resulting in a significant slowdown in volume growth. As consumption recovered in China, our
+daily average commercial payment volume rebounded to a double-digit year-on-year growth rate, quarter to
+date, in the first quarter of 2023, against a high base period in the first quarter of 2022. Our payment business
+benefitted from the vibrancy of the Mini Programs commerce ecosystem, which contributed a high-teens
+percentage of our commercial payment volume in the fourth quarter of 2022. We are expanding our wealth
+management user base through investor education, better services and a broadening product line. We are
+also exploring opportunities in consumer loans and online insurance services through closer collaboration
+with licensed financial institutions, under a new regulatory framework.
+
+
+Cloud and Other Business Services
+
+
+We further reduced loss-making activities and optimised costs, while focusing on healthier-margin self-
+developed PaaS solutions, such as video cloud and database. We are helping automakers to enhance their
+IT infrastructure and product offerings in areas such as customised smart cockpit solution, digital map and
+data management.
+
+
+Technology Development
+
+
+We are investing in our AI capabilities and cloud infrastructure to embrace foundation models, which we
+believe will enhance the experience of our existing products and services and allow us to explore introducing
+new products.
+
+
+
+
+
+                                                                        Page 5 of 13
+
+--- PAGE 6 ---
+Environment, Social and Governance (“ESG”) Initiatives
+
+
+We seek to create sustainable value for users, shareholders and the society, fulfilling our vision of “Value for
+Users, Tech for Good”.
+
+Environment
+
+Based on our commitment to carbon neutrality, we have refined targets of our decarbonisation pathway, and
+set greenhouse emission absolute reduction targets which are aligned with the Paris Agreement. In
+December 2022, we published our  Biodiversity Statement,  outlining our commitment  to developing
+businesses in an eco-friendly way, utilising technology to promote sustainable use and protection of natural
+resources, and harnessing Internet technologies to raise public awareness.
+
+Social
+
+To promote basic research, we pledged to provide RMB10 billion over the next ten years to support 200 to
+300 outstanding scientists through the New Cornerstone Investigator Program. We upgraded our digital
+philanthropy platform. During our 99 Giving Day series of charitable events, we raised donations for more
+than 25,000 charitable projects and further deepened user engagement with the total number of participants
+exceeding 100 million. We recently published our Diversity, Equity, and Inclusion Statement, demonstrating
+our commitment to providing a congenial, creative and collaborative workplace.
+
+Governance
+
+We appointed Professor Zhang Xiulan to Tencent’s Board in August 2022. She became our second female
+independent non-executive director (“INED”), enhancing our Board’s areas of expertise and gender diversity.
+To further segregate the responsibilities of the Board and management team, Mr Martin Lau will rotate off the
+Board at the 2023 AGM, but will continue to contribute as the Company’s President and the Chairman of the
+Investment Committee. Upon Professor Zhang’s appointment, and Mr Lau’s rotation at the 2023 AGM, INED
+representation in our Board will increase from 50% to 63%, and female representation from 13% to 25%.
+
+
+
+
+
+                                                                        Page 6 of 13
+
+--- PAGE 7 ---
+For other detailed disclosure, please refer to our website https://www.tencent.com/en-us/investors.html, or follow
+
+us via Weixin Official Account (Weixin ID: Tencent_IR):
+
+
+
+
+
+                                           # # #
+
+
+About Tencent
+Tencent uses technology to enrich the lives of Internet users.
+
+Our communication and social services, Weixin and QQ, connect users with each other and with digital
+content and services, both online and offline, making their lives more convenient. Our targeted advertising
+service helps advertisers reach out to hundreds of millions of consumers in China. Our FinTech and business
+services support our partners’ business growth and assist their digital upgrade.
+
+Tencent invests heavily in talent and technological innovation, actively promoting the development of the
+Internet industry. Tencent was founded in Shenzhen, China, in 1998. Shares of Tencent (00700.HK) are
+listed on the Main Board of the Stock Exchange of Hong Kong.
+
+Investor contact: IR@tencent.com
+Media contact: GC@tencent.com
+
+Non-IFRS Financial Measures
+To supplement the consolidated results of the Group prepared in accordance with IFRS, certain additional non-IFRS
+financial measures (in terms of operating profit, operating margin, profit for the period, net margin, profit attributable to
+equity holders of the Company, basic EPS and diluted EPS), have been presented in this press release. These unaudited
+non-IFRS financial measures should be considered in addition to, not as a substitute for, measures of the Group’s
+financial performance prepared in accordance with IFRS. In addition, these non-IFRS financial measures may be defined
+differently from similar terms used by other companies.
+
+The Company’s management  believes  that  the non-IFRS  financial measures  provide  investors  with  useful
+supplementary information to assess the performance of the Group’s core operations by excluding certain non-cash
+items and certain impact of investment-related transactions. In addition, non-IFRS adjustments include relevant non-
+IFRS adjustments for the Group’s major associates based on available published financials of the relevant major
+associates, or estimates made by the Company’s management based on available information, certain expectations,
+assumptions and premises.
+
+Forward-Looking Statements
+This press release contains forward-looking statements relating to the business outlook, estimates of financial
+performance, forecast business plans and growth strategies of the Company. These forward-looking statements are
+based on information currently available to the Company and are stated herein on the basis of the outlook at the time of
+this press release. They are based on certain expectations, assumptions and premises, some of which are subjective
+or beyond our control. These forward-looking statements may prove to be incorrect and may not be realised in the future.
+Underlying these forward-looking statements are a lot of risks and uncertainties. In light of the risks and uncertainties,
+the inclusion of forward-looking statements in this press release should not be regarded as representations by the Board
+or the Company that the plans and objectives will be achieved, and investors should not place undue reliance on such
+statements.
+                                                                        Page 7 of 13
+
+--- PAGE 8 ---
+CONSOLIDATED INCOME STATEMENT
+RMB in millions, unless specified
+
+
+                                            Unaudited                          Audited
+                                     4Q2022       4Q2021               2022          2021
+ Revenues                                 144,954        144,188              554,552         560,118
+   VAS                                    70,417          71,913              287,565        291,572
+    Online Advertising                        24,660          21,518               82,729         88,666
+    FinTech and Business Services             47,244          47,958              177,064        172,195
+    Others                                    2,633           2,799                7,194           7,685
+ Cost of revenues                             (83,132)         (86,371)             (315,806)        (314,174)
+ Gross profit                                61,822          57,817              238,746        245,944
+                    Gross margin         43%         40%             43%         44%
+ Interest income                                2,582           1,703                8,592           6,650
+ Other gains/(losses), net                      85,854          86,199              124,293        149,467
+ Selling and marketing expenses                  (6,115)          (11,616)               (29,229)         (40,594)
+ General and administrative expenses           (27,314)         (24,380)             (106,696)         (89,847)
+ Operating profit                            116,829        109,723              235,706        271,620
+                  Operating margin         81%         76%             43%         48%
+ Finance costs, net                               (3,658)           (1,863)                 (9,352)           (7,114)
+ Share of profit/(loss) of associates and
+    joint ventures, net                               (1,692)           (8,267)               (16,129)         (16,444)
+ Profit before income tax                    111,479          99,593              210,225        248,062
+ Income tax expense                             (4,575)           (3,888)               (21,516)         (20,252)
+ Profit for the period                        106,904          95,705              188,709        227,810
+                        Net margin         74%         66%             34%         41%
+ Attributable to:
+      Equity holders of the Company           106,268          94,958              188,243        224,822
+      Non-controlling interests                   636            747                466           2,988
+
+ Non-IFRS profit attributable to equity
+   holders of the Company                      29,711         24,880              115,649        123,788
+
+ Earnings per share for profit
+   attributable to equity holders of
+   the Company
+    (in RMB per share)
+     - basic                                     11.173           9.957               19.757         23.597
+     - diluted                                   10.977           9.788               19.341         23.164
+
+
+
+
+
+                                                                        Page 8 of 13
+
+--- PAGE 9 ---
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+RMB in millions, unless specified
+
+
+                                                                                   Audited
+                                                                              2022       2021
+ Profit for the year                                                                188,709     227,810
+ Other comprehensive income, net of tax:
+   Items that may be subsequently reclassified to profit or loss
+     Share of other comprehensive income of associates and joint ventures                  1,479         125
+      Transfer of share of other comprehensive income to profit or loss upon disposal
+      and deemed disposal of associates and joint ventures                                   (129)           8
+      Transfer to profit or loss upon disposal of financial assets at fair value through
+       other comprehensive income                                                   13                  -
+      Net losses from changes in fair value of financial assets at fair value through
+       other comprehensive income                                                              (52)                  -
+      Currency translation differences                                                  18,732      (19,392)
+      Other fair value gains, net                                                          5,457        2,796
+   Items that will not be subsequently reclassified to profit or loss
+     Share of other comprehensive income of associates and joint ventures                  937         387
+      Net (losses)/gains from changes in fair value of assets held for distribution               (6,102)        5,380
+      Net losses from changes in fair value of financial assets at fair value through
+        other comprehensive income                                                    (148,686)      (16,166)
+      Currency translation differences                                                        (794)         (558)
+                                                                                       (129,145)      (27,420)
+ Total comprehensive income for the year                                            59,564     200,390
+ Attributable to:
+      Equity holders of the Company                                                    60,699     200,323
+      Non-controlling interests                                                                 (1,135)          67
+
+OTHER FINANCIAL INFORMATION
+RMB in millions, unless specified
+
+                                      Unaudited                  Audited
+
+                                 4Q2022    4Q2021          2022      2021
+
+  EBITDA (a)                            44,002      36,568        164,037    173,173
+
+  Adjusted EBITDA (a)                    49,606      42,267        188,986    194,798
+
+  Adjusted EBITDA margin (b)            34%      29%        34%      35%
+
+  Interest and related expenses             2,826       2,188          9,985      7,918
+
+  Net (debt)/cash (c)                      (14,832)     (20,243)        (14,832)    (20,243)
+
+  Capital expenditures (d)                  5,651      11,661         18,014     33,392
+
+
+Note:
+(a)  EBITDA is calculated as operating profit minus interest income and other gains/(losses), net, and adding back depreciation of property, plant and equipment,
+     investment properties as well as right-of-use assets, and amortisation of intangible assets and land use rights. Adjusted EBITDA is calculated as EBITDA
+     plus equity-settled share-based compensation expenses.
+(b)  Adjusted EBITDA margin is calculated by dividing Adjusted EBITDA by revenues.
+(c)  Net (debt)/cash represents period end balance and is calculated as cash and cash equivalents, plus term deposits and others, minus borrowings and
+     notes payable.
+(d)   Capital expenditures consist of additions (excluding business combinations) to property, plant and equipment, construction in progress, investment
+      properties, land use rights and intangible assets (excluding video and music content, game licences and other content).
+
+                                                                        Page 9 of 13
+
+--- PAGE 10 ---
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+RMB in millions, unless specified
+                                                                         Audited
+
+                                                         As at December 31
+
+                                                                   2022                   2021
+
+ASSETS
+Non-current assets
+   Property, plant and equipment                                           53,978                    61,914
+  Land use rights                                                        18,046                    17,728
+   Right-of-use assets                                                    22,524                    20,468
+  Construction in progress                                                  9,229                     5,923
+  Investment properties                                                 559                     517
+   Intangible assets                                                     161,802                  171,376
+  Investments in associates                                             246,043                  316,574
+  Investments in joint ventures                                              6,672                     6,614
+   Financial assets at fair value through profit or loss                         206,085                  192,184
+
+   Financial assets at fair value through other
+   comprehensive income                                               185,247                  250,257
+  Prepayments, deposits and other assets                                  36,752                    37,177
+  Other financial assets                                                    6,987                     1,261
+  Deferred income tax assets                                             29,882                    26,068
+  Term deposits                                                         28,336                    19,491
+
+
+                                                                       1,012,142                  1,127,552
+
+
+Current assets
+
+   Inventories                                                              2,333                     1,063
+  Accounts receivable                                                    45,467                    49,331
+  Prepayments, deposits and other assets                                  76,685                    65,390
+  Other financial assets                                                    1,278                     1,749
+   Financial assets at fair value through profit or loss                          27,963                    10,573
+  Term deposits                                                       104,776                    83,813
+   Restricted cash                                                          2,783                     2,476
+  Cash and cash equivalents                                            156,739                  167,966
+  Assets held for distribution                                             147,965                  102,451
+
+
+                                                                      565,989                  484,812
+
+
+Total assets                                                           1,578,131                 1,612,364
+
+
+
+
+                                                                       Page 10 of 13
+
+--- PAGE 11 ---
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION (continued)
+RMB in millions, unless specified
+                                                                         Audited
+                                                         As at December 31
+                                                                 2022                     2021
+EQUITY
+Equity attributable to equity holders of the Company
+  Share capital                                                                                              -                                         -
+  Share premium                                                      62,418                      67,330
+  Treasury shares                                                            (1,868)                                         -
+  Shares held for share award schemes                                       (4,226)                        (4,843)
+  Other reserves                                                          (40,914)                      73,901
+  Retained earnings                                                  705,981                     669,911
+
+                                                                    721,391                    806,299
+
+Non-controlling interests                                              61,469                      70,394
+
+                                                                    782,860                    876,693Total equity
+
+LIABILITIES
+Non-current liabilities
+  Borrowings                                                        163,668                    136,936
+  Notes payable                                                     148,669                    145,590
+  Long-term payables                                                    9,067                       9,966
+  Other financial liabilities                                                 5,574                       5,912
+  Deferred income tax liabilities                                          12,162                      13,142
+  Lease liabilities                                                      18,424                      16,501
+  Deferred revenue                                                      3,503                       4,526
+
+                                                                    361,067                    332,573
+
+Current liabilities
+  Accounts payable                                                    92,381                    109,470
+  Other payables and accruals                                          61,139                      60,582
+  Borrowings                                                           11,580                      19,003
+  Notes payable                                                       10,446                                         -
+  Current income tax liabilities                                           13,488                      12,506
+  Other tax liabilities                                                     4,698                       2,240
+  Other financial liabilities                                                 3,937                       3,554
+  Lease liabilities                                                        6,354                       5,446
+  Deferred revenue                                                    82,216                      87,846
+  Dividends payable for distribution in specie                             147,965                    102,451
+
+                                                                    434,204                    403,098
+
+Total liabilities                                                      795,271                    735,671
+
+Total equity and liabilities                                            1,578,131                    1,612,364
+
+
+
+
+                                                                       Page 11 of 13
+
+--- PAGE 12 ---
+RECONCILIATIONS OF IFRS TO NON-IFRS RESULTS
+                                                                                 Adjustments
+                            As     Share-based     Net (gains)/losses     Amortisation of        Impairment                           Income
+                                                                                          SSV &                             Non-IFRS
+ RMB in millions,              reported   compensation         from investee    intangible assets        provisions/             Others (f)     tax effects
+                                                                                       CPP (e)
+ unless specified                                             (a)        companies (b)                     (c)      (reversals) (d)                                          (g)
+                                                                           Year ended December 31, 2022
+
+ Operating profit              235,706           26,248               (164,384)               5,197             44,803      5,763       205             –      153,538
+ Profit for the year            188,709           33,311               (164,698)             11,818             48,004      5,763       2,125          (5,839)      119,193
+ Profit attributable to
+                             188,243           32,651               (164,840)             10,880             46,326      5,763       2,125          (5,499)      115,649
+  equity holders
+ Operating margin            43%                                                                                               28%
+ Net margin                34%                                                                                               21%
+                                                                           Year ended December 31, 2021
+ Operating profit               271,620           22,222               (165,632)               4,651             25,028       674       976             –      159,539
+  Profit for the year             227,810           30,816               (167,471)             12,272             25,541       674       1,568          (3,291)      127,919
+  Profit attributable to
+                             224,822           30,070               (166,661)             10,848             25,534       674       1,567          (3,066)      123,788
+  equity holders
+ Operating margin             48%                                                                                              28%
+ Net margin                 41%                                                                                              23%
+
+
+Note:
+   (a)  Including put options granted to employees of investee companies on their shares and shares to be issued under investee companies’ share-based incentive plans which can be acquired by the Group, and other incentives
+   (b)  Including net (gains)/losses on deemed disposals/disposals of investee companies, fair value changes arising from investee companies, and other expenses in relation to equity transactions of investee companies
+   (c)  Amortisation of intangible assets arising from acquisitions
+   (d)  Mainly including impairment provisions/(reversals) for associates, joint ventures, goodwill and other intangible assets arising from acquisitions
+   (e)  Mainly including donations and expenses incurred for the Group’s Sustainable Social Value and Common Prosperity Programme ("SSV & CPP”) initiatives
+    (f)   Mainly including expenses incurred for non-recurring compliance-related costs and certain litigation settlements of the Group and/or arising from investee companies
+   (g)  Income tax effects of non-IFRS adjustments
+
+
+
+
+
+                                                                                                               Page 12 of 13
+
+--- PAGE 13 ---
+RECONCILIATIONS OF IFRS TO NON-IFRS RESULTS
+                                                                                 Adjustments
+                            As     Share-based     Net (gains)/losses     Amortisation of        Impairment                           Income
+                                                                                          SSV &                             Non-IFRS
+ RMB in millions,              reported   compensation         from investee    intangible assets        provisions/             Others (f)     tax effects
+                                                                                       CPP (e)
+ unless specified                                             (a)        companies (b)                     (c)      (reversals) (d)                                          (g)
+                                                                  Unaudited three months ended December 31, 2022
+
+ Operating profit              116,829            5,680               (107,945)               1,241             22,007      1,600        14             –       39,426
+ Profit for the period          106,904            7,217               (107,955)               2,601             23,700      1,600       206          (3,717)       30,556
+ Profit attributable to
+                             106,268            7,124               (107,928)               2,420             23,693      1,600       206          (3,672)       29,711
+  equity holders
+ Operating margin            81%                                                                                               27%
+ Net margin                74%                                                                                               21%
+                                                                  Unaudited three months ended September 30, 2022
+ Operating profit                51,593            5,925                (32,341)               1,313             12,962      1,445        10             –       40,907
+  Profit for the period             38,842            8,020                (32,106)               3,065             13,283      1,445       1,738           (933)       33,354
+  Profit attributable to
+                               39,943            7,818                (32,402)               2,836             11,617      1,445       1,738           (741)       32,254
+  equity holders
+ Operating margin             37%                                                                                              29%
+ Net margin                 28%                                                                                              24%
+                                                                  Unaudited three months ended December 31, 2021
+ Operating profit               109,723            5,664               (100,349)               1,316             15,217       604       976             –       33,151
+  Profit for the period             95,705            7,880                (98,046)               3,340             15,573       604       1,568           (866)       25,758
+  Profit attributable to
+                               94,958            7,776                (97,804)               3,010             15,573       604       1,567           (804)       24,880
+  equity holders
+ Operating margin             76%                                                                                              23%
+ Net margin                 66%                                                                                              18%
+
+
+Note:
+   (a)  Including put options granted to employees of investee companies on their shares and shares to be issued under investee companies’ share-based incentive plans which can be acquired by the Group, and other incentives
+   (b)  Including net (gains)/losses on deemed disposals/disposals of investee companies, fair value changes arising from investee companies, and other expenses in relation to equity transactions of investee companies
+   (c)  Amortisation of intangible assets arising from acquisitions
+   (d)  Mainly including impairment provisions/(reversals) for associates, joint ventures, goodwill and other intangible assets arising from acquisitions
+   (e)  Mainly including donations and expenses incurred for the Group’s Sustainable Social Value and Common Prosperity Programme ("SSV & CPP”) initiatives
+   (f)   Mainly including expenses incurred for non-recurring compliance-related costs and certain litigation settlements of the Group and/or arising from investee companies
+   (g)  Income tax effects of non-IFRS adjustments
+
+
+
+
+                                                                                                               Page 13 of 13

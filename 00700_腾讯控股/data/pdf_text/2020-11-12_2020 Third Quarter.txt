@@ -1,0 +1,1165 @@
+ 
+Page 1 of 11 
+ 
+For Immediate Release 
+ 
+ 
+TENCENT ANNOUNCES 2020 THIRD QUARTER RESULTS 
+ 
+Hong Kong, November 12, 2020 – Tencent Holdings Limited (“Tencent” or the “Company”, 00700.HK), a 
+leading provider of Internet value added services in China, today announced the unaudited consolidated 
+results for the third quarter (“3Q2020”) ended September 30, 2020. 
+ 
+3Q2020 Key Highlights 
+Revenues: +29% YoY, non-IFRS1 profit attributable to equity holders of the Company: +32% YoY 
+ 
+ 
+Total revenues were RMB125,447 million (USD18,421 million2), an increase of 29% over the third quarter 
+of 2019 (“YoY”). 
+ 
+On a non-IFRS basis, which is intended to reflect core earnings by excluding certain one-time and/or 
+non-cash items: 
+- 
+Operating profit was RMB38,116 million (USD5,597 million), an increase of 34% YoY. Operating 
+margin increased to 30% from 29% last year. 
+- 
+Profit for the period was RMB33,325 million (USD4,893 million), an increase of 33% YoY. Net 
+margin increased to 27% from 26% last year. 
+- 
+Profit attributable to equity holders of the Company for the quarter was RMB32,303 million 
+(USD4,743 million), an increase of 32% YoY. 
+- 
+Basic earnings per share were RMB3.402. Diluted earnings per share were RMB3.314. 
+ 
+On an IFRS basis: 
+- 
+Operating profit was RMB43,953 million (USD6,454 million), an increase of 70% YoY. Operating 
+margin increased to 35% from 27% last year.  
+- 
+Profit for the period was RMB38,899 million (USD5,712 million), an increase of 85% YoY. Net 
+margin increased to 31% from 22% last year.  
+- 
+Profit attributable to equity holders of the Company for the quarter was RMB38,542 million 
+(USD5,660 million), an increase of 89% YoY. 
+- 
+Basic earnings per share were RMB4.059. Diluted earnings per share were RMB3.964. 
+ 
+Total cash were RMB265,892 million (USD39,044 million) at the end of the quarter. 
+ 
+Mr. Ma Huateng, Chairman and CEO of Tencent, said, "This quarter marked the second anniversary of our 
+strategic organisation upgrade, which was intended to enhance our strength in Consumer Internet and extend 
+our presence to Industrial Internet. While the upgrade was designed to bear fruit over the longer run, we are 
+already seeing initial benefits in areas such as consolidating our advertising services, rejuvenating our product 
+and content platforms, growing our cloud and SaaS businesses and building an internal open source code 
+base. In the face of public health, macroeconomic, and geopolitical challenges, we will seek to sharpen our 
+focus, innovate, and collaborate with our partners in order to better serve our users, customers and the society 
+at large. " 
+ 
+3Q2020 Financial Review 
+ 
+Revenues from VAS increased by 38% to RMB69,802 million for the third quarter of 2020 on a year-on-year 
+                                                 
+1 Non-IFRS adjustments (formerly referred as non-GAAP) excludes share-based compensation, M&A related impact such as net 
+(gains)/losses from investee companies, amortisation of intangible assets and impairment provision/(reversals), as well as income 
+tax effects. 
+2 Figures stated in USD are based on USD1 to RMB6.8101 
+
+
+ 
+Page 2 of 11 
+basis. Online games revenues grew by 45% to RMB41,422 million. The increase was primarily due to revenue 
+growth of our smart phone games, including domestic titles such as Peacekeeper Elite and Honour of Kings, 
+as well as overseas titles. Total smart phone games revenues (including smart phone games revenues 
+attributable to our social networks business) were RMB39,173 million and PC client games revenues were 
+RMB11,631 million for the third quarter of 2020. Social networks revenues increased by 29% to RMB28,380 
+million. The increase reflected contributions from digital content services including HUYA’s live streaming 
+service, our video subscription service, and our music subscription service, as well as from in-game virtual 
+item sales.  
+ 
+Revenues from Online Advertising increased by 16% to RMB21,351 million for the third quarter of 2020 on a 
+year-on-year basis, benefitting from wider adoption of our algorithmic advertisement buying solutions, as well 
+as rapid demand growth from categories such as education, Internet services and eCommerce platforms, and 
+recovered demand from sectors such as real estate and automobiles. Social and others advertising revenues 
+grew by 21% to RMB17,752 million. The increase was primarily driven by higher revenues flowing from Weixin 
+Moments due to increased inventories and eCPMs, and our mobile advertising network revenue growth on 
+higher eCPMs as advertisers responded favorably to our video ad formats. Media advertising revenues 
+decreased 1% to RMB3,599 million. The slower decline versus prior quarters benefitted from key Tencent 
+Video content releases, as well as inventory and impression growth from our music platforms. 
+ 
+Revenues from FinTech and Business Services increased by 24% to RMB33,255 million for the third quarter 
+of 2020 on a year-on-year basis. The increase was mainly due to higher revenues from commercial payment 
+and wealth management, while our Business Services revenue growth slowed down due to lingering impact 
+from the pandemic on project development and new contract sign-ups, as well as non-recurring adjustments 
+to certain IaaS contracts. 
+ 
+Other Key Financial Information for 3Q2020 
+ 
+EBITDA was RMB45,055 million, up 27% YoY. Adjusted EBITDA was RMB47,849 million, up 26% YoY. 
+Capital expenditures were RMB8,684 million, up 31% YoY. 
+Free cash flow* was RMB28,127 million, stable YoY. 
+ 
+As at September 30, 2020, net cash position totalled RMB6,363 million. Fair value of our stakes in listed 
+investee companies (excluding subsidiaries) totalled RMB890,730 million, compared to RMB726,244 million 
+as at June 30, 2020. 
+ 
+* Starting from 2020, free cash flow was adjusted by subtracting payments for media content and lease liabilities, in addition to subtracting payments 
+for capital expenditure from the operating cash flow. Restated free cash flow was RMB16.8 billion in 1Q2019, RMB12.6 billion in 2Q2019, RMB28.1 
+billion in 3Q2019, and RMB31.3 billion in 4Q2019, respectively. 
+ 
+Operating Metrics 
+ 
+ 
+As at  
+30 September 
+2020 
+As at  
+30 September 
+2019 
+Year-  
+on-year 
+change 
+As at 
+30 June 
+2020 
+Quarter-on-
+quarter 
+change 
+ 
+(in millions, unless specified) 
+Combined MAU of Weixin and  
+WeChat 
+1,212.8 
+1,151.0 
+5.4% 
+1,206.1 
+0.6% 
+ 
+ 
+ 
+ 
+ 
+ 
+Smart device MAU of QQ       
+617.4 
+653.4 
+-5.5% 
+647.6 
+-4.7% 
+ 
+ 
+ 
+ 
+ 
+ 
+Fee-based VAS registered 
+subscriptions 
+213.4 
+170.6 
+25.1% 
+203.4 
+4.9% 
+ 
+
+
+ 
+Page 3 of 11 
+ 
+Business Review and Outlook 
+ 
+Communication and Social 
+ 
+For Weixin, we are facilitating more convenient access to high frequency services within the Weixin Pay 
+interface by regrouping such services into four verticals, namely Financial Services, Daily Services, Travel & 
+Transportation, and Shopping & Entertainment. For the Travel & Transportation vertical, we connect 
+automobile owners with a range of car services, such as car wash and car insurance, as well as general users 
+with public transportation services, such as transit codes and bus schedules. We have now extended these 
+mobility services to ten provinces and municipalities in China. We are also enhancing the efficiency of content 
+and service discovery via cross-referencing within Weixin properties, so that users can press-to-search words 
+and phrases that appear in chat boxes and find content and services from Mini Programs, Official Accounts 
+and Moments. In Moments, contributors can create hashtags in posts, and their friends can click these 
+hashtags and access deep-linked search results from Official Accounts, video feeds and H5 pages.  
+ 
+In QQ chats and groups, we enabled users to watch Tencent Video together while they are making video calls, 
+to compete with friends via battle-mode Mini Games, and to co-edit classwork via our online collaborative tool, 
+Tencent Docs. The launch of QQ’s Mini World video and image feed service has increased QQ’s appeal 
+among the younger audience. Through Mini World, we encourage contributors to create videos and images, 
+and share them beyond their existing friend circle. We recommend attractive content in Mini World to QQ 
+users based on their interest graphs, enabling users to explore more content and communities. These 
+initiatives, along with the growing demand for real-time video chatting since the onset of the pandemic, drove 
+daily time spent per QQ user up by a teens percentage year-on-year. 
+ 
+Online Games 
+ 
+Our online game revenue increased year-on-year, driven by healthy growth in paying users in China and 
+international markets. For smart phone games, we celebrated the fifth anniversary for Honour of Kings, which 
+exceeded 100 million average DAU for the first ten months of 2020. Since we first released the game in 2015, 
+we have expanded the user base of Honour of Kings through constant innovation and user-centric operations, 
+backed up by our robust technology infrastructure. We aim to unleash the potential of this IP by rolling out two 
+new games, an animated series and a live action drama series based on the Honour of Kings’ world. While 
+our best-known games such as Honour of Kings attract the most attention, lesser-known games also 
+contribute to our game business’ stable growth. For example, Naruto Mobile, an internally developed game 
+based on the popular anime IP, has recently become one of the top fighting games in China with all-time high 
+DAU and revenue, despite being first released over four years ago. This speaks to our team’s success in 
+making ongoing game enhancements, such as refining a highly popular PvP game mode. As for new games, 
+we believe that our Moonlight Blade Mobile represents 2020’s most successful launch of a new MMO role 
+playing game in China, and our battle arena game League of Legends Wild Rift is currently among the most-
+downloaded mobile games across its available markets, according to AppAnnie.  
+ 
+We have a constructive view on PC game opportunities as the IP and influence of our major franchises remain 
+notably robust. League of Legends released a major thematic event, “Spirit Blossom Festival”, coordinating 
+the release of new champions, new skins, and new event passes. The recent League of Legends World 
+Championship in Shanghai attracted a sizeable audience globally. Tencent Video aired a highly-rated drama 
+series based on our CrossFire game during the quarter, which tied into a new in-game mode and skins, 
+reviving the game’s popularity and monetisation. Valorant became a breakout hit in the tactical shooter genre 
+and was widely watched on Twitch. 
+ 
+Digital Content 
+
+
+ 
+Page 4 of 11 
+ 
+Our fee-based VAS subscriptions increased 25% year-on-year to 213 million, primarily driven by video and 
+music content subscriptions. Video subscriptions expanded 20% year-on-year to 120 million. Our self-
+commissioned drama and animated series such as Nothing But Thirty (《三十而已》), The Song of Glory (《錦
+繡南歌》) and The Land of Warriors Season 3 (《斗羅大陸第三季》) have attracted additional subscribers for 
+Tencent Video. We successfully converted trial users acquired during summer promotions to regular video 
+subscribers. Music subscriptions grew 46% year-on-year to 52 million, due to an expanded paid content library 
+and a higher retention rate. 
+ 
+Online Advertising 
+ 
+Following the COVID-19 outbreak, overall China advertising activity appears to have largely returned to 
+normal conditions, albeit with a few industry exceptions lagging (for example, the travel industry), and with 
+substantial changes in advertiser behavior (for example, toward retargeting and toward video format 
+advertisements). We believe these changes, along with our own initiatives, have contributed to our increasing 
+presence and relevance in China’s advertising market. By category, advertising spending from sectors such 
+as education, Internet services and eCommerce platforms experienced rapid secular growth through the 
+pandemic, and sustained robust year-on-year growth during the quarter. Advertising spending from cyclical 
+categories, such as automobiles and real estate, picked up year-on-year. Advertising spending from 
+categories which dipped during the pandemic, such as financial services and consumer staples, were flattish 
+year-on-year. Internally, we upgraded our algorithmic advertising buying solutions, delivering higher 
+conversion rates for advertisers and attracting increased share of budgets towards our services. We also 
+provided incremental advertising inventories in casual game apps, eSports events and live streaming 
+platforms. 
+ 
+For social and others advertising, Weixin properties achieved solid revenue growth year-on-year, driven by 
+higher impressions and eCPM. Our mobile advertising network revenue grew rapidly year-on-year as 
+advertisers responded favorably to our video formats, such as rewarded video advertisements.  
+ 
+For media advertising, the rate of revenue decrease moderated to minus 1% year-on-year. We captured 
+sponsorship advertising demand via self-commissioned variety shows such as The Coming One Season 4 
+(《明日之子第四季》) and drama series such as Nothing But Thirty (《三十而已》).    
+ 
+FinTech 
+ 
+Our FinTech revenue grew healthily at a similar rate to prior quarters, led by the continued expansion of our 
+commercial payment and wealth management businesses, while our social payment and micro lending 
+businesses grew at moderate rates. Our TPV increased over 30% year-on-year as commercial payment DAU 
+and transaction value per user grew robustly year-on-year, mainly driven by our deeper penetration in offline 
+transactions and expansion of our Mini Programs transactions in retail categories such as grocery and apparel.  
+ 
+The number of our wealth management customers increased over 50% year-on-year, and our aggregated 
+customer assets expanded at a similar rate. We believe that LiCaiTong’s penetration rate among our payment 
+users is still quite low, and we are seeking to further grow our wealth management customer base at a 
+measured rate via long-term initiatives such as investor education programs and an expanded product offering. 
+ 
+Cloud and Other Business Services 
+ 
+During the quarter, cloud and other business services revenue were affected by the lingering impact from 
+pandemic, causing delays in project deployment and new contract sign-ups, as well as by non-recurring 
+
+
+ 
+Page 5 of 11 
+adjustments to certain IaaS contracts. The year-on-year revenue growth rate was therefore lower than 
+previous quarters, which we expect to be temporary in nature.  
+ 
+We saw rising demand for PaaS solutions, in particular security PaaS, from financial, healthcare and Internet 
+services clients. We also upgraded our SaaS enterprise productivity toolkit which consists of three signature 
+products, namely WeCom (the enterprise version of Weixin), Tencent Meeting, and Tencent Docs. Customers 
+are increasingly adopting WeCom for workplace communication, and its DAU grew over 100% year-on-year. 
+More than 100 million users have registered for our video communication solution Tencent Meeting. In 
+September, we released an enterprise version for Tencent Meeting, with enhanced features such as webinars, 
+simultaneous interpretation, and connection with enterprises’ existing conference room systems. We further 
+integrated Tencent Docs, our cloud-based document processing tool, with other Tencent products, including 
+QQ, QQ Browser and our CRM SaaS products. 
+ 
+ 
+For other detailed disclosure, please refer to our website http://www.tencent.com/en-us/investors.html, or follow 
+us via Weixin Official Account (Weixin ID: Tencent_IR):  
+ 
+ 
+# # # 
+ 
+ 
+ 
+ 
+
+
+ 
+Page 6 of 11 
+About Tencent 
+Tencent uses technology to enrich the lives of Internet users.  
+  
+Our communication and social platforms, Weixin and QQ, connect users with each other and with digital 
+content and services, both online and offline, making their lives more convenient. Our targeted advertising 
+platform helps advertisers reach out to hundreds of millions of consumers in China. Our FinTech and business 
+services support our partners’ business growth and assist their digital upgrade.  
+  
+Tencent invests heavily in talent and technological innovation, actively promoting the development of the 
+Internet industry. Tencent was founded in Shenzhen, China, in 1998. Shares of Tencent (00700.HK) are listed 
+on the Main Board of the Stock Exchange of Hong Kong. 
+ 
+For investor and media enquiries, please contact: IR#tencent.com 
+Catherine Chan 
+Tel: (86) 755 86013388 / (852) 3148 5100 ext. 888369 Email: cchan#tencent.com 
+Wendy Huang 
+Tel: (86) 755 86013388 / (852) 3148 5100 ext. 850839 Email: wendyyhuang#tencent.com 
+Jane Yip 
+Tel: (86) 755 86013388 / (852) 3148 5100 ext. 868961 Email: janeyip#tencent.com 
+PH Cheung 
+Tel: (86) 755 86013388 / (852) 3148 5100 ext. 868919 Email: phcheung#tencent.com 
+ 
+Non-IFRS Financial Measures 
+To supplement the consolidated results of the Group prepared in accordance with IFRS, certain additional non-IFRS 
+financial measures (in terms of operating profit, operating margin, profit for the period, net margin, profit attributable to 
+equity holders of the Company, basic EPS and diluted EPS), have been presented in this press release. These unaudited 
+non-IFRS financial measures should be considered in addition to, not as a substitute for, measures of the Group’s 
+financial performance prepared in accordance with IFRS. In addition, these non-IFRS financial measures may be defined 
+differently from similar terms used by other companies. 
+ 
+The Company’s management believes that the non-IFRS financial measures provide investors with useful supplementary 
+information to assess the performance of the Group’s core operations by excluding certain non-cash items and certain 
+impact of M&A transactions. In addition, non-IFRS adjustments include relevant non-IFRS adjustments for the Group’s 
+major associates based on available published financials of the relevant major associates, or estimates made by the 
+Company’s management based on available information, certain expectations, assumptions and premises. 
+ 
+Forward-Looking Statements 
+This press release contains forward-looking statements relating to the business outlook, forecast business plans and 
+growth strategies of the Company. These forward-looking statements are based on information currently available to 
+the Company and are stated herein on the basis of the outlook at the time of this press release. They are based on 
+certain expectations, assumptions and premises, some of which are subjective or beyond our control. These forward-
+looking statements may prove to be incorrect and may not be realised in future. Underlying the forward-looking 
+statements is a lot of risks and uncertainties. Further information regarding these risks and uncertainties is included in 
+our other public disclosure documents on our corporate website. 
+ 
+
+
+ 
+Page 7 of 11 
+CONSOLIDATED INCOME STATEMENT 
+RMB in million, unless specified 
+ 
+ 
+Unaudited 
+ 
+Unaudited 
+ 
+3Q2020 
+3Q2019 
+ 
+3Q2020 
+2Q2020 
+Revenues 
+125,447 
+97,236 
+ 
+125,447 
+114,883 
+VAS  
+69,802 
+50,629 
+ 
+69,802 
+65,002 
+FinTech and Business Services 
+33,255 
+26,758 
+ 
+33,255 
+29,862 
+Online Advertising  
+21,351 
+18,366 
+ 
+21,351 
+18,552 
+Others 
+1,039 
+1,483 
+ 
+1,039 
+1,467 
+Cost of revenues 
+(68,800) 
+(54,757) 
+ 
+(68,800) 
+(61,673) 
+Gross profit 
+56,647 
+42,479 
+ 
+56,647 
+53,210 
+Gross margin 
+45% 
+44% 
+ 
+45% 
+46% 
+Interest income 
+1,864 
+1,674 
+ 
+1,864 
+1,749 
+Other gains, net 
+11,551 
+932 
+ 
+11,551 
+8,607 
+Selling and marketing expenses 
+(8,920) 
+(5,722) 
+ 
+(8,920) 
+(7,756) 
+General and administrative expenses 
+(17,189) 
+(13,536) 
+ 
+(17,189) 
+(16,499) 
+Operating profit 
+43,953 
+25,827 
+ 
+43,953 
+39,311 
+Operating margin 
+35% 
+27% 
+ 
+35% 
+34% 
+Finance costs, net 
+(1,945) 
+(1,747) 
+ 
+(1,945) 
+(2,005) 
+Share of profit/(loss) of associates and joint ventures 
+2,630 
+234 
+ 
+2,630 
+(295) 
+Profit before income tax 
+44,638 
+24,314 
+ 
+44,638 
+37,011 
+Income tax expense 
+(5,739) 
+(3,338) 
+ 
+(5,739) 
+(4,557) 
+Profit for the period 
+38,899 
+20,976 
+ 
+38,899 
+32,454 
+Net margin 
+31% 
+22% 
+ 
+31% 
+28% 
+Attributable to: 
+ 
+ 
+ 
+ 
+ 
+    Equity holders of the Company 
+38,542 
+20,382 
+ 
+38,542 
+33,107 
+    Non-controlling interests 
+357 
+594 
+ 
+357 
+(653) 
+ 
+ 
+ 
+ 
+ 
+ 
+Non-IFRS profit 
+attributable to equity holders of the Company 
+32,303 
+24,412 
+ 
+32,303 
+30,153 
+ 
+ 
+ 
+ 
+ 
+ 
+Earnings per share for profit attributable to 
+equity holders of the Company  
+(in RMB per share) 
+ 
+ 
+ 
+ 
+ 
+- basic 
+4.059 
+2.151 
+ 
+4.059 
+3.491 
+- diluted  
+3.964 
+2.127 
+ 
+3.964 
+3.437 
+ 
+ 
+ 
+ 
+
+
+ 
+Page 8 of 11 
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME 
+RMB in millions, unless specified 
+ 
+ 
+Unaudited 
+ 
+ 
+3Q2020 
+3Q2019 
+ 
+Profit for the period 
+38,899 
+20,976 
+ 
+Other comprehensive income, net of tax: 
+ 
+ 
+ 
+Items that may be subsequently reclassified to profit or loss 
+ 
+ 
+ 
+Share of other comprehensive income/(loss) of associates and joint 
+ventures 
+192 
+(21) 
+ 
+Transfer of share of other comprehensive income to profit or loss upon 
+deemed disposal of associates 
+- 
+(3) 
+ 
+Currency translation differences 
+(5,731) 
+2,069 
+ 
+Other fair value gains/(losses) 
+169 
+(475) 
+ 
+Items that will not be subsequently reclassified to profit or loss 
+ 
+ 
+ 
+Net gains/(losses) from changes in fair value of financial assets at fair 
+value through other comprehensive income 
+9,535 
+(3,213) 
+ 
+Other fair value gains/(losses) 
+202 
+(96) 
+ 
+ 
+4,367 
+(1,739) 
+ 
+Total comprehensive income for the period 
+43,266 
+19,237 
+ 
+Attributable to: 
+ 
+ 
+ 
+    Equity holders of the Company 
+43,082 
+18,885 
+ 
+    Non-controlling interests 
+184 
+352 
+ 
+ 
+OTHER FINANCIAL INFORMATION 
+RMB in millions, unless specified 
+ 
+ 
+Unaudited 
+ 
+3Q2020 
+2Q2020 
+3Q2019 
+EBITDA (a) 
+45,055 
+40,525 
+35,378 
+Adjusted EBITDA (a) 
+47,849 
+43,742 
+38,123 
+Adjusted EBITDA margin (b) 
+38% 
+38% 
+39% 
+Interest and related expenses 
+1,855 
+1,822 
+2,086 
+Net cash/(debt) (c) 
+6,363 
+7,212 
+(7,173) 
+Capital expenditures (d) 
+8,684 
+9,466 
+6,632 
+ 
+Note: 
+(a) 
+EBITDA is calculated as operating profit minus interest income and other gains/losses, net, and adding back depreciation of property, plant and equipment, 
+investment properties as well as right-of-use assets, and amortisation of intangible assets. Adjusted EBITDA is calculated as EBITDA plus equity-settled 
+share-based compensation expenses. 
+(b) 
+Adjusted EBITDA margin is calculated by dividing Adjusted EBITDA by revenues. 
+(c) 
+Net cash/(debt) represents period end balance and is calculated as cash and cash equivalents, plus term deposits and others, minus borrowings and notes 
+payable. 
+(d) 
+Capital expenditures consist of additions (excluding business combinations) to property, plant and equipment, construction in progress, investment 
+properties, land use rights and intangible assets (excluding video and music content, game licences and other content). 
+ 
+ 
+ 
+ 
+
+
+ 
+Page 9 of 11 
+ 
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION 
+RMB in millions, unless specified 
+ 
+Unaudited 
+Audited 
+ 
+As at 
+September 30, 2020 
+ 
+As at  
+December 31, 2019 
+ASSETS 
+ 
+ 
+ 
+Non-current assets  
+ 
+ 
+ 
+  Property, plant and equipment 
+56,153 
+ 46,824 
+  Land use rights  
+15,801 
+  15,609 
+  Right-of-use assets  
+10,646 
+ 
+ 10,847 
+  Construction in progress 
+4,318 
+ 
+ 3,935 
+  Investment properties 
+628 
+ 855 
+  Intangible assets 
+137,135 
+  128,860 
+  Investments in associates 
+247,985 
+  213,614 
+  Investments in joint ventures 
+7,119 
+ 
+ 8,280 
+  Financial assets at fair value through profit or loss 
+168,926 
+ 
+128,822 
+  Financial assets at fair value through other 
+   comprehensive income 
+143,935 
+ 
+  81,721 
+  Prepayments, deposits and other assets 
+23,423 
+ 
+23,442 
+  Deferred income tax assets 
+22,981 
+ 18,209 
+  Term deposits 
+31,664 
+ 19,000 
+ 
+ 
+ 
+ 
+ 
+870,714 
+ 
+700,018 
+ 
+ 
+ 
+ 
+Current assets 
+ 
+ 
+ 
+  Inventories  
+1,164 
+ 
+ 718 
+  Accounts receivable  
+41,696 
+ 
+  35,839 
+  Prepayments, deposits and other assets 
+38,237 
+ 
+ 27,840 
+  Other financial assets 
+1,650 
+ 
+ 375 
+  Financial assets at fair value through profit or loss 
+6,135 
+ 
+  7,114 
+  Term deposits 
+75,692 
+ 
+ 46,911 
+  Restricted cash 
+2,250 
+ 
+ 2,180 
+  Cash and cash equivalents  
+152,491 
+ 
+132,991 
+ 
+ 
+ 
+ 
+ 
+319,315 
+ 
+253,968 
+ 
+ 
+ 
+ 
+Total assets 
+1,190,029 
+ 
+953,986 
+
+
+ 
+Page 10 of 11 
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION (continued) 
+RMB in millions, unless specified 
+ 
+ 
+ 
+ 
+Unaudited 
+Audited 
+ 
+ 
+As at 
+September 30, 2020 
+ 
+As at  
+December 31, 2019 
+EQUITY 
+ 
+ 
+ 
+ 
+Equity attributable to equity holders of the Company 
+  Share capital 
+ 
+- 
+ - 
+  Share premium 
+ 
+44,804 
+ 35,271 
+  Shares held for share award schemes 
+ 
+(4,351) 
+ (4,002) 
+  Other reserves 
+ 
+60,763 
+ 16,786 
+  Retained earnings 
+ 
+475,887 
+ 384,651 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+577,103 
+432,706 
+ 
+ 
+Non-controlling interests 
+ 
+69,394 
+56,118 
+ 
+ 
+Total equity 
+ 
+646,497 
+488,824 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LIABILITIES 
+ 
+ 
+ 
+ 
+Non-current liabilities 
+ 
+ 
+ 
+ 
+  Borrowings 
+ 
+118,037 
+ 104,257 
+  Notes payable 
+ 
+127,375 
+ 83,327 
+  Long-term payables  
+ 
+3,057 
+  3,577 
+  Other financial liabilities 
+ 
+6,846 
+ 5,242 
+  Deferred income tax liabilities 
+ 
+14,488 
+ 12,841 
+  Lease liabilities 
+ 
+8,105 
+ 
+ 8,428 
+  Deferred revenue 
+ 
+6,304 
+ 7,334 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+284,212 
+225,006 
+ 
+ 
+ 
+ 
+ 
+Current liabilities 
+ 
+ 
+ 
+ 
+  Accounts payable 
+ 
+87,008 
+ 80,690 
+  Other payables and accruals 
+ 
+48,738 
+    45,174 
+  Borrowings 
+ 
+14,117 
+ 22,695 
+  Notes payable 
+ 
+- 
+ 10,534 
+  Current income tax liabilities 
+ 
+13,470 
+ 9,733 
+  Other tax liabilities 
+ 
+1,941 
+ 
+ 1,245 
+  Other financial liabilities 
+ 
+4,165 
+5,857 
+  Lease liabilitiess 
+ 
+3,454 
+ 
+ 3,279 
+  Deferred revenue 
+ 
+86,427 
+ 
+60,949 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+259,320 
+240,156 
+ 
+ 
+ 
+ 
+Total liabilities 
+ 
+543,532 
+465,162 
+ 
+ 
+ 
+ 
+Total equity and liabilities 
+ 
+1,190,029 
+953,986 
+
+
+ 
+Page 11 of 11 
+RECONCILIATIONS OF IFRS TO NON-IFRS RESULTS 
+ 
+As 
+reported 
+Adjustments 
+Non-IFRS 
+ 
+RMB in millions, 
+unless specified 
+Share-based 
+compensation (a) 
+Net (gains)/losses from 
+investee companies (b) 
+Amortisation of 
+intangible assets (c) 
+Impairment 
+Provisions/(reversals) (d) 
+Income  
+tax effects (e) 
+ 
+Unaudited three months ended September 30, 2020 
+Operating profit 
+43,953 
+3,059 
+(8,703) 
+905 
+(1,098) 
+– 
+38,116 
+Profit for the period 
+38,899 
+3,770 
+(10,099) 
+2,005 
+(973) 
+(277) 
+33,325 
+Profit attributable to equity  
+holders 
+38,542 
+3,517 
+(10,133) 
+1,620 
+(1,026) 
+(217) 
+32,303 
+Operating margin 
+35% 
+ 
+ 
+ 
+ 
+ 
+30% 
+Net margin 
+31% 
+ 
+ 
+ 
+ 
+ 
+27% 
+ 
+Unaudited three months ended June 30, 2020 
+Operating profit 
+39,311 
+3,507 
+(14,672) 
+870 
+8,613 
+– 
+37,629 
+Profit for the period 
+32,454 
+4,225 
+(16,108) 
+1,886 
+9,268 
+(505) 
+31,220 
+Profit attributable to equity  
+holders 
+33,107 
+4,019 
+(15,436) 
+1,503 
+7,310 
+(350) 
+30,153 
+Operating margin 
+34% 
+ 
+ 
+ 
+ 
+ 
+33% 
+Net margin 
+28% 
+ 
+ 
+ 
+ 
+ 
+27% 
+ 
+Unaudited three months ended September 30, 2019 
+Operating profit 
+25,827 
+2,745 
+(1,814) 
+118 
+1,668 
+– 
+28,544 
+Profit for the period 
+20,976 
+3,568 
+(2,509) 
+1,544 
+1,981 
+(474) 
+25,086 
+Profit attributable to equity  
+holders 
+20,382 
+3,475 
+(2,444) 
+1,491 
+1,971 
+(463) 
+24,412 
+Operating margin 
+27% 
+ 
+ 
+ 
+ 
+ 
+29% 
+Net margin 
+22% 
+ 
+ 
+ 
+ 
+ 
+26% 
+ 
+Note: 
+(a) Including put options granted to employees of investee companies on their shares and shares to be issued under investee companies’ share-based incentive plans which can be acquired by the Group, and other incentives 
+(b) Including net (gains)/losses on deemed disposals/disposals of investee companies, fair value changes arising from investee companies, and other expenses in relation to equity transactions of investee companies 
+(c) Amortisation of intangible assets resulting from acquisitions 
+(d) Impairment provisions/(reversals) for associates, joint ventures, goodwill and intangible assets arising from acquisitions 
+(e) Income tax effects of non-IFRS adjustments 
+ 

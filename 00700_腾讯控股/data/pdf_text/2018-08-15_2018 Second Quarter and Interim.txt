@@ -1,0 +1,1218 @@
+ 
+ 
+ 
+ 
+ 
+             
+Page 1 of 13 
+For Immediate Release 
+ 
+ 
+TENCENT ANNOUNCES 2018 SECOND QUARTER AND INTERIM RESULTS 
+ 
+Hong Kong, August 15, 2018 – Tencent Holdings Limited (“Tencent” or the “Company”, 00700.HK), a leading 
+provider of Internet value added services in China, today announced the unaudited consolidated results for 
+the second quarter (“2Q2018”) and first half year of 2018 (“1H2018”) ended June 30, 2018. 
+ 
+1H2018 Key Highlights   
+Revenues: +39% YoY, non-GAAP Profit attributable to equity holders of the Company: +24% YoY 
+ 
+ 
+Total revenues were RMB147,203 million (USD22,248 million1), an increase of 39% over the first half of 
+2017 (“YoY”). 
+ 
+Operating profit was RMB52,499 million (USD7,934 million), an increase of 25% YoY. Operating margin 
+decreased to 36% from 39% last year.  
+ 
+Profit for the period was RMB42,553 million (USD6,431 million), an increase of 30% YoY. Net margin 
+decreased to 29% from 31% last year.  
+ 
+Profit attributable to equity holders of the Company for the period was RMB41,157 million (USD6,220 
+million), an increase of 26% YoY. 
+ 
+Basic earnings per share were RMB4.363. Diluted earnings per share were RMB4.303. 
+ 
+On a non-GAAP2 basis, which excludes certain non-cash items and certain impact of M&A transactions: 
+- 
+Operating profit was RMB47,530 million (USD7,183 million), an increase of 23% YoY. Operating 
+margin decreased to 32% from 36% last year. 
+- 
+Profit for the period was RMB39,629 million (USD5,989 million), an increase of 28% YoY. Net 
+margin decreased to 27% from 29% last year. 
+- 
+Profit attributable to equity holders of the Company for the period was RMB38,029 million 
+(USD5,748 million), an increase of 24% YoY. 
+- 
+Basic earnings per share were RMB4.031. Diluted earnings per share were RMB3.976. 
+ 
+2Q2018 Key Highlights   
+Revenues: +30% YoY, non-GAAP Profit attributable to equity holders of the Company: +20% YoY 
+ 
+ 
+Total revenues were RMB73,675 million (USD11,135 million), an increase of 30% over the second quarter 
+of 2017 (“YoY”). 
+ 
+Operating profit was RMB21,807 million (USD3,296 million), a decrease of 3% YoY. Operating margin 
+decreased to 30% from 40% last year.  
+ 
+Profit for the period was RMB18,580 million (USD2,808 million), an increase of 2% YoY. Net margin 
+decreased to 25% from 32% last year.  
+ 
+Profit attributable to equity holders of the Company for the quarter was RMB17,867 million (USD2,700 
+million), a decrease of 2% YoY. 
+ 
+Basic earnings per share were RMB1.893. Diluted earnings per share were RMB1.868. 
+                                                 
+1 Figures stated in USD are based on USD1 to RMB6.6166  
+2 Non-GAAP adjustments excludes share-based compensation and M&A related impact such as net (gains)/losses from investee companies, amortisation of intangible assets 
+and impairment provision 
+
+
+ 
+ 
+ 
+ 
+ 
+             
+Page 2 of 13 
+ 
+On a non-GAAP basis, which excludes certain non-cash items and certain impact of M&A transactions: 
+- 
+Operating profit was RMB22,258 million (USD3,364 million), an increase of 11% YoY. Operating 
+margin decreased to 30% from 35% last year. 
+- 
+Profit for the period was RMB20,499 million (USD3,098 million), an increase of 24% YoY. Net 
+margin decreased to 28% from 29% last year. 
+- 
+Profit attributable to equity holders of the Company for the quarter was RMB19,716 million 
+(USD2,980 million), an increase of 20% YoY. 
+- 
+Basic earnings per share were RMB2.089. Diluted earnings per share were RMB2.062. 
+ 
+Mr. Ma Huateng, Chairman and CEO of Tencent, said, “During the second quarter of 2018, we deepened user 
+engagement with increased daily active users and time spent across our social, games and media platforms. 
+On our Mini Program platform, which we view as complementary to native Apps, we have built up a sizable 
+developer ecosystem, a substantial user base, and a wide range of use cases, which increasingly contribute 
+to our payment, advertising, and cloud services. While our mobile game revenue was impacted by transient 
+factors, we saw healthy growth in the number of people playing our mobile games each day in China and 
+overseas. Our video subscription counts more than doubled year-on-year, maintaining our industry-leading 
+position in China. Looking forward, we remain committed to investing in new technologies and creating 
+innovative products to make our users’ lives simpler and better.”  
+ 
+2Q2018 Financial Review 
+ 
+Revenues increased by 30% year-on-year, driven primarily by payment related services, digital content 
+subscriptions and sales, social and others advertising, and smart phone games.  
+ 
+Revenues from our VAS business increased by 14% to RMB42,069 million for the second quarter of 2018 on 
+a year-on-year basis. Online games revenues increased by 6% to RMB25,202 million. The increase primarily 
+reflected growth in revenues from our smart phone games such as Honour of Kings and QQ Speed Mobile. 
+Social networks revenues grew by 30% to RMB16,867 million. The increase was mainly driven by higher 
+contributions from digital content services such as video streaming subscriptions and live broadcast services. 
+ 
+Revenues from our online advertising business increased by 39% to RMB14,110 million for the second quarter 
+of 2018 on a year-on-year basis. Social and others advertising revenues increased by 55% to RMB9,380 
+million. The increase was mainly driven by higher revenues derived from Weixin (primarily Weixin Moments 
+and Mini Programs), our mobile advertising network and QQ KanDian. Media advertising revenues grew by 
+16% to RMB4,730 million. The growth mainly reflected greater contributions from Tencent Video as a result of 
+its content portfolio and advertisers’ sponsorship campaigns. 
+ 
+Revenues from our other businesses increased by 81% to RMB17,496 million for the second quarter of 2018 
+on a year-on-year basis, primarily benefiting from growth at our payment related and cloud services. 
+ 
+Non-GAAP operating profit increased by 11% year-on-year.   
+ 
+Profit attributable to equity holders of the Company slightly decreased by 2% year-on-year, mainly due to 
+
+
+ 
+ 
+ 
+ 
+ 
+             
+Page 3 of 13 
+lower net other gains generated from investment related items compared to the same period last year. Non-
+GAAP profit attributable to equity holders increased by 20% year-on-year.   
+ 
+Other Key Financial Information for 2Q2018 
+ 
+Share-based compensation was RMB1,798 million, up 28% YoY.  
+EBITDA was RMB26,409 million, up 18% YoY. Adjusted EBITDA was RMB28,139 million, up 18% YoY. 
+Capital expenditure was RMB7,085 million, up 135% YoY.   
+Free cash flow was RMB15,374 million, down 12% YoY. 
+ 
+As at June 30, 2018, net debt position totalled RMB35,301 million. Fair value of our stakes in listed investee 
+companies (excluding subsidiaries) totalled RMB239.7 billion as at 30 June 2018.  
+ 
+Business Review and Outlook 
+ 
+Strategic Highlights  
+ 
+Key strategic initiatives in recent months include:  
+ 
+— 
+Expanding the capabilities and usage of Mini Programs by integrating them with other digital tools, such 
+as Weixin Pay, to provide customized solutions for a broader range of verticals.  As the company leading 
+Mini Programs innovation, we have built up a sizable developer ecosystem with a large and expanding 
+base of external developers and software integrators, as well as a consumer base of over 200 million 
+DAUs. We view Mini Programs as complementary to native mobile apps, and believe Mini Programs will 
+contribute materially to our user experience, to our enterprise relationships, and to the development of 
+our payment, advertising and cloud businesses.  
+ 
+— 
+Deepening user engagement on our social networks, content services, and utility apps by launching 
+innovative features and products appealing to users. For example, we have notably increased user time 
+spent on QQ KanDian, the news feed feature within our QQ app, and on Mobile QQ Browser, our mobile 
+browser product, via inclusion of short and mini video feeds. During the quarter, the total daily page views 
+of QQ KanDian and Mobile QQ Browser together increased 55% year-on-year, while the total daily short 
+video views of the two properties combined climbed over 3 times, year-on-year.    
+ 
+— 
+Reallocating capital to high priority projects. Recently we have invested aggressively in game live 
+broadcast services, which we view as supportive to our game platform, and in smart retail opportunities, 
+which we view as supportive to our payment and cloud services. We have partially funded these 
+investments by monetizing some existing investments, for example, exiting our positions in investee 
+companies Ele.me and Mobike.  
+ 
+Looking forward, we are seeking to reinvigorate our mobile game revenue growth, via initiatives including 
+deepening engagement with our existing major titles, monetizing the proven popularity of tactical tournament 
+
+
+ 
+ 
+ 
+ 
+ 
+             
+Page 4 of 13 
+games, launching a broader range of games in high-ARPU categories (such as the RPG genre), and 
+increasing contributions from publishing our China-developed games internationally. While we expect these 
+measures will require several months to take effect, we are encouraged by the ongoing growth in the number 
+of DAUs playing our mobile games, and in our belief that our monetization per DAU offers substantial upside 
+to match the levels already enjoyed by our industry peers. 
+ 
+Operating Information 
+ 
+－ 
+Monthly active user accounts (“MAU”) of QQ was 803.2 million, a decrease of 5.5% YoY.  
+－ 
+Smart device MAU of QQ was 708.6 million, an increase of 7.0% YoY.  
+－ 
+Combined MAU of Weixin and WeChat were 1,057.7 million, an increase of 9.9% YoY.  
+－ 
+MAU of Qzone was 548.3 million, a decrease of 9.5% YoY. 
+－ 
+Smart device MAU of Qzone was 542.7 million, a decrease of 7.3% YoY. 
+－ 
+Fee-based VAS registered subscriptions were 153.9 million, an increase of 30.3% YoY 
+ 
+Communication and Social 
+ 
+- 
+QQ: Smart device MAU increased by 7.0% year-on-year to 708.6 million. User activities benefited from 
+new entertainment-driven features and content appealing for young users. Smart device MAU and DAU 
+for users aged 21 years or below each achieved double-digit growth year-on-year. QQ KanDian, our news 
+feed service within QQ, enhanced its recommendation algorithm for short and mini videos, driving daily 
+video views to more than double quarter-on-quarter. 
+ 
+- 
+Weixin and WeChat: MAU reached 1,057.7 million, representing year-on-year growth of 9.9%. Riding on 
+the swift growth of Mini Programs and Weixin Pay use cases, DAU grew at a faster pace than MAU, 
+reflecting greater user engagement and stickiness. User activities in Weixin Mini Games and Moments 
+continued to increase, driving up time spent per user per day in those activities. 
+ 
+Online Games  
+ 
+Smart phone games revenues (including smart phone games revenues attributable to our social networks 
+business) grew 19% year-on-year and declined 19% sequentially to RMB17.6 billion, mainly due to non-
+monetization of popular tactical tournament games and timing of new game releases. In China, DAU for our 
+smart phone games grew at a double-digit rate year-on-year, but monetization per user declined as users 
+shifted time to non-monetized tactical tournament games. During the quarter, we focused on user engagement 
+of our existing titles, and particularly on winning the domestic competition amongst tactical tournament games 
+for users. Also, five of seven new games we released were published in the latter part of the quarter. Looking 
+forward, we are seeking to execute several initiatives to reinvigorate growth, including:  
+ Monetizing the proven popularity of tactical tournament games.  
+ Boosting engagement and ultimately monetization of existing games – for example, Honour of Kings 
+launched a new survival play mode.  
+ Launching new games in high ARPU categories – for example, MT4, a new game in the high ARPU 
+
+
+ 
+ 
+ 
+ 
+ 
+             
+Page 5 of 13 
+MMORPG category, has ranked among China’s top 3 game grossing chart in the iOS app store since 
+its July launch.  
+ Capturing suitable international monetization opportunities – for example, we view our internally 
+developed games Arena of Valor and PUBG MOBILE, as highly suitable for expansion to gamers 
+outside China. Arena of Valor has built up over 13 million DAUs and over USD30 million grossing per 
+month in the first half of the year outside China. PUBG MOBILE has attracted over 14 million DAUs 
+(excluding Japan and Korea) and generated over USD20 million grossing in July outside China.  
+ 
+PC Client games revenues were down by 5% year-on-year and down by 8% quarter-on-quarter to RMB12.9 
+billion. The year-on-year revenue decline was due to users’ time shift to mobile games while the sequential 
+revenue decline was due to weak seasonality. However, we believe our core users remained loyal to key titles. 
+For instance, DnF introduced marketing activities celebrating the 10th anniversary of its China launch in June, 
+driving year-on-year growth in paying users and ARPU for the quarter. LoL’s DAU in China increased quarter-
+on-quarter, benefiting from the popularity of its mid-season invitational (MSI) event in Paris, which was won 
+by a Chinese team.   
+ 
+Digital Content 
+ 
+Our total fee-based VAS subscriptions were up by 30% year-on-year to 154 million subscriptions, primarily 
+driven by strong uptake of video subscription services. Digital content revenues grew substantially year-on-
+year and at a high single digit percentage rate quarter-on-quarter, benefiting from take-up of our market 
+leading video and music subscription services, as well as from healthy usage of, and monetization on, our live 
+broadcasting and online literature products. Our video services reached 74 million subscriptions, up 121% 
+year-on-year and maintaining our industry-leading position in China. We attribute this success primarily to our 
+exclusive content in key video genres. For instance, an exclusive drama series, Legend of Fuyao, which was 
+sourced from an IP developed with our listed subsidiary China Literature, was ranked the number one 
+exclusive drama series by video views industry-wide in the first half of the year. Our self-commissioned variety 
+show, Produce 101, was ranked the number one online variety show by video views industry-wide. Additionally, 
+our Chinese anime traffic more than doubled on a year-on-year basis, leading the industry in terms of video 
+views, thanks to our strong IPs and proven production capabilities.  
+ 
+Our mini video sharing app, WeiShi, added innovative features, such as AI-based beautifying tools, and online 
+voting functionality to deepen celebrity-fans interaction. We saw robust daily video views growth for mini 
+videos across several of our apps, including Mobile QQ, Mobile QQ Browser and the Weishi app itself.  
+ 
+Online Advertising 
+ 
+Our online advertising business achieved 39% year-on-year and 32% quarter-on-quarter growth in revenues.  
+ 
+For media advertising, revenues grew by 16% year-on-year and 43% quarter-on-quarter. Our video 
+advertising revenues benefited from advertising sponsorships of our strengthening content portfolio, such as 
+
+
+ 
+ 
+ 
+ 
+ 
+             
+Page 6 of 13 
+our variety show Produce 101, and from positive seasonality on a quarter-on-quarter basis. Our news 
+advertising revenues recorded a single-digit year-on-year decline due to a reduction in monetization that we 
+undertook starting in the third quarter of 2017, but achieved quarter-on-quarter growth rate as we stepped up 
+the advertising load for our news feed products after completion of our advertising system revamp, as well as 
+benefiting from positive seasonality.  
+ 
+For social and others advertising, the 55% year-on-year and 27% quarter-on-quarter increase in revenues 
+benefited from factors including more advertising inventories in Weixin Moments, new advertising inventories 
+in Mini Programs, higher impressions and eCPMs for our Mobile Ad Network, and enhanced traffic and 
+monetization for our QQ KanDian news feed. The sequential increase in revenues was mainly due to the 
+features above, as well as positive seasonality.  
+ 
+Others 
+ 
+We recorded 81% year-on-year and 10% quarter-on-quarter revenue growth for our other businesses, mainly 
+contributed by our payment and related financial services, and by our cloud services.   
+ 
+We continued to expand the user base of our payment business with MAU surpassing 800 million at the end 
+of June this year. The average daily transaction volume increased by over 40% year-on-year.  Benefiting 
+from our initiatives on smart retail and high-frequency low-value payment use cases solutions, our offline 
+commercial payment volume maintained rapid growth, up 280% year-on-year. Commercial payment volume 
+accounted for over half of our total transaction volume for the first time. Our payment service revenues and, 
+to a greater extent, gross margins continue to be adversely affected by the People’s Bank of China 
+progressively increasing its centralized deposit ratio requirement for third party online payment services 
+providers, which reduces the overnight cash balances on which payment service providers previously received 
+interest income. This centralized deposit ratio has increased to 42% in April 2018, and to 52% in July 2018, 
+and is reported to ultimately increase to 100% in the near future. We are currently approximately mid-way 
+through this transition, and are seeking to mitigate the impact through various monetization initiatives 
+elsewhere in our payment and related financial services.   
+ 
+Our cloud services revenues doubled year-on-year. We continued to deepen our penetration in key sectors 
+including finance, smart retail and municipal services by signing up key accounts within each sector. Apart 
+from utilizing our advanced data analytics and AI technologies to better serve specific industry needs, we 
+invested in, and formed strategic partnerships with, certain system integrators in order to offer more 
+customized cloud services and speed up our expansion in offline industries. We further expanded our global 
+cloud infrastructure footprint in tandem with the overseas development of our external clients and internal 
+businesses - Tencent Cloud now operates in 45 availability zones worldwide compared to 34 availability zones 
+a year ago. We will continue to grow our cloud business via organic growth as well as collaboration and 
+investment opportunities, seeking to build a vibrant cloud ecosystem.  
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+             
+Page 7 of 13 
+For other detailed disclosure, please refer to our website www.tencent.com/ir, or follow us via Weixin Official 
+Account (Weixin ID: Tencent_IR):  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+# # # 
+ 
+About Tencent 
+Tencent uses technology to enrich the lives of Internet users. Our social products Weixin and QQ link our 
+users to a rich digital content catalogue including games, video, music and books. Our proprietary targeting 
+technology helps advertisers reach out to hundreds of millions of consumers in China.  Our infrastructure 
+services including payment, security, cloud and artificial intelligence create differentiated offerings and support 
+our partners’ business growth.  Tencent invests heavily in people and innovation, enabling us to evolve with 
+the Internet.    
+ 
+Tencent was founded in Shenzhen, China, in 1998.  Shares of Tencent (00700.HK) are traded on the Main 
+Board of the Stock Exchange of Hong Kong.  
+ 
+For investor and media enquiries, please contact:  
+Catherine Chan 
+Tel: (86) 755 86013388 ext. 88369/ (852) 3148 5100 Email: cchan#tencent.com 
+Jane Yip  
+ 
+Tel: (86) 755 86013388 ext. 68961/ (852) 3148 5100 Email: janeyip#tencent.com 
+Stella Lui        
+Tel: (86) 755 86013388 ext. 68870/ (852) 3148 5100 Email: stellalui#tencent.com 
+Kennis Lau        Tel: (86) 755 86013388 ext. 68958/ (852) 3148 5100 Email: kennislau#tencent.com 
+PH Cheung 
+ 
+Tel: (86) 755 86013388 ext. 68919/ (852) 3148 5100 Email: phcheung#tencent.com 
+ 
+Non-GAAP Financial Measures 
+To supplement the consolidated results of the Group prepared in accordance with IFRS, certain additional 
+non-GAAP financial measures (in terms of, operating profit, operating margin, profit for the period, net margin, 
+profit attributable to equity holders of the Company, basic EPS and diluted EPS), have been presented in this 
+press release. These unaudited non-GAAP financial measures should be considered in addition to, not as a 
+substitute for, measures of the Group’s financial performance prepared in accordance with IFRS. In addition, 
+these non-GAAP financial measures may be defined differently from similar terms used by other companies. 
+ 
+The Company’s management believes that the non-GAAP financial measures provide investors with useful 
+supplementary information to assess the performance of the Group’s core operations by excluding certain 
+non-cash items and certain impacts of M&A transactions. In addition, non-GAAP adjustments include relevant 
+non-GAAP adjustments for the Group’s material associates based on available published financials of the 
+relevant material associates, or estimates made by the Company’s management based on available 
+information, certain expectations, assumptions and premises. 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+             
+Page 8 of 13 
+Forward-Looking Statements 
+This press release contains forward-looking statements relating to the business outlook, forecast business 
+plans and growth strategies of the Company. These forward-looking statements are based on information 
+currently available to the Company and are stated herein on the basis of the outlook at the time of this press 
+release. They are based on certain expectations, assumptions and premises, some of which are subjective 
+or beyond our control.  These forward-looking statements may prove to be incorrect and may not be realised 
+in future. Underlying the forward-looking statements is a large number of risks and uncertainties. Further 
+information regarding these risks and uncertainties is included in our other public disclosure documents on 
+our corporate website. 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+             
+Page 9 of 13 
+CONSOLIDATED INCOME STATEMENT 
+RMB in million, unless specified 
+ 
+ 
+Unaudited 
+ 
+Unaudited 
+ 
+2Q2018 
+2Q2017 
+ 
+2Q2018 
+1Q2018 
+Revenues 
+73,675 
+56,606 
+ 
+73,675 
+73,528 
+    VAS  
+42,069 
+36,804 
+ 
+42,069 
+46,877 
+   Online advertising  
+14,110 
+10,148 
+ 
+14,110 
+10,689 
+    Others 
+17,496 
+9,654 
+ 
+17,496 
+15,962 
+Cost of revenues 
+(39,229) 
+(28,300) 
+ 
+(39,229) 
+(36,486) 
+Gross profit 
+34,446 
+28,306 
+ 
+34,446 
+37,042 
+Gross margin 
+47% 
+50% 
+ 
+47% 
+50% 
+Interest income 
+1,072 
+959 
+ 
+1,072 
+1,065 
+Other gains, net 
+2,506 
+5,125 
+ 
+2,506 
+7,585 
+Selling and marketing expenses 
+(6,360) 
+(3,660) 
+ 
+(6,360) 
+(5,570) 
+General and administrative expenses 
+(9,857) 
+(8,170) 
+ 
+(9,857) 
+(9,430) 
+Operating profit 
+21,807 
+22,560 
+ 
+21,807 
+30,692 
+Operating margin 
+30% 
+40% 
+ 
+30% 
+42% 
+Finance costs, net 
+(1,151) 
+(834) 
+ 
+(1,151) 
+(654) 
+Share of profit/(loss) of associates and joint ventures 
+1,526 
+498 
+ 
+1,526 
+(319) 
+Profit before income tax 
+22,182 
+22,224 
+ 
+22,182 
+29,719 
+Income tax expense 
+(3,602) 
+(3,970) 
+ 
+(3,602) 
+(5,746) 
+Profit for the period 
+18,580 
+18,254 
+ 
+18,580 
+23,973 
+Net margin 
+25% 
+32% 
+ 
+25% 
+33% 
+Attributable to: 
+ 
+ 
+ 
+ 
+ 
+    Equity holders of the Company 
+17,867 
+18,231 
+ 
+17,867 
+23,290 
+    Non-controlling interests 
+713 
+23 
+ 
+713 
+683 
+ 
+ 
+ 
+ 
+ 
+ 
+Non-GAAP profit attributable to equity holders of the 
+Company 
+19,716 
+16,391 
+ 
+19,716 
+18,313 
+ 
+ 
+ 
+ 
+ 
+ 
+Earnings per share for profit attributable to 
+equity holders of the Company  
+(in RMB per share) 
+ 
+ 
+ 
+ 
+ 
+- basic 
+1.893 
+1.939 
+ 
+1.893 
+2.470 
+- diluted  
+1.868 
+1.914 
+ 
+1.868 
+2.435 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+             
+Page 10 of 13 
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME 
+RMB in million, unless specified 
+ 
+Unaudited 
+ 
+ 
+2Q2018 
+2Q2017 
+ 
+Profit for the period 
+18,580 
+18,254 
+ 
+Other comprehensive income, net of tax: 
+ 
+ 
+ 
+Items that may be subsequently reclassified to profit or loss 
+ 
+ 
+ 
+Share of other comprehensive (loss)/ income of associates and joint ventures 
+(123) 
+66 
+ 
+Net gains from changes in fair value of available-for-sale financial assets 
+- 
+10,190 
+ 
+Transfer to profit or loss upon disposal of available-for-sale financial assets 
+- 
+- 
+ 
+Currency translation differences 
+5,579 
+(3,232) 
+ 
+Other fair value gains/ (losses) 
+332 
+(162) 
+ 
+ 
+ 
+ 
+ 
+Items that may not be subsequently reclassified to profit or loss 
+Net (losses)/ gains from changes in fair value of financial assets at fair value through 
+comprehensive income  
+Other fair value losses 
+ 
+(535) 
+(72) 
+ 
+-  
+(47) 
+ 
+ 
+5,181 
+6,815 
+ 
+Total comprehensive income for the period 
+23,761 
+25,069 
+ 
+Attributable to: 
+ 
+ 
+ 
+    Equity holders of the Company 
+22,636 
+25,063 
+ 
+    Non-controlling interests 
+1,125 
+6 
+ 
+ 
+OTHER FINANCIAL INFORMATION 
+RMB in million, unless specified 
+ 
+ 
+Unaudited 
+ 
+2Q2018 
+1Q2018 
+2Q2017 
+EBITDA (a) 
+26,409 
+29,247 
+22,427 
+Adjusted EBITDA (a) 
+28,139 
+30,856 
+23,802 
+Adjusted EBITDA margin (b) 
+38% 
+42% 
+42% 
+Interest expense 
+1,188 
+1,067 
+760 
+Net (debt)/ cash (c) 
+(35,301) 
+(14,533) 
+21,267 
+Capital expenditures (d) 
+7,085 
+6,318 
+3,010 
+ 
+Note: 
+(a) 
+EBITDA consists of operating profit less interest income and other gains/losses, net, and plus depreciation of property, plant and equipment as well 
+as investment properties, and amortisation of intangible assets. Adjusted EBITDA consists of EBITDA plus equity-settled share-based compensation 
+expenses. 
+(b) 
+Adjusted EBITDA margin is calculated by dividing adjusted EBITDA by revenues. 
+(c) 
+Net (debt)/ cash represents period end balance and is calculated as cash and cash equivalents, plus term deposits and others, minus borrowings 
+and notes payable. 
+(d) 
+Capital expenditures consist of additions (excluding business combinations) to property, plant and equipment, construction in progress, investment 
+properties, land use rights and intangible assets (excluding media contents, game licenses and other contents). 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+             
+Page 11 of 13 
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION 
+RMB in million, unless specified 
+ 
+ 
+ 
+ 
+Unaudited   
+Audited 
+30-Jun-18 
+ 
+31-Dec-17 
+ 
+ 
+ASSETS 
+ 
+ 
+ 
+Non-current assets  
+ 
+ 
+ 
+Property, plant and equipment   
+30,814 
+ 
+23,597 
+Construction in progress 
+3,740 
+ 
+3,163 
+Investment properties 
+756 
+ 
+800 
+Land use rights 
+6,846 
+ 
+5,111 
+Intangible assets 
+46,729 
+ 
+40,266 
+Investments in associates 
+152,802 
+ 
+113,779 
+Investments in redeemable instruments of associates  
+- 
+ 
+22,976 
+Investments in joint ventures 
+6,618 
+ 
+7,826 
+Financial assets at fair value through profit or loss 
+121,655 
+ 
+- 
+Financial assets at fair value through other 
+comprehensive income 
+66,956 
+ 
+- 
+Available-for-sale financial assets 
+- 
+ 
+127,218 
+Prepayments, deposits and other assets  
+14,301 
+ 
+11,173 
+Other financial assets 
+2,568 
+ 
+5,159 
+Deferred income tax assets 
+11,172 
+ 
+9,793 
+Term deposits 
+- 
+ 
+5,365 
+   
+ 
+  
+ 
+464,957 
+ 
+376,226 
+  
+ 
+ 
+Current assets 
+ 
+ 
+ 
+Inventories 
+306 
+ 
+295 
+Accounts receivable 
+21,558 
+ 
+16,549 
+Prepayments, deposits and other assets 
+23,499 
+ 
+17,110 
+Other financial assets 
+394 
+ 
+465 
+Financial assets at fair value through profit or loss 
+5,782 
+ 
+- 
+Term deposits 
+23,638 
+ 
+36,724 
+Restricted cash 
+2,051 
+ 
+1,606 
+Cash and cash equivalents  
+104,623 
+ 
+105,697 
+   
+ 
+  
+ 
+181,851 
+ 
+178,446 
+ 
+  
+ 
+Total assets 
+646,808 
+ 
+554,672 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+             
+Page 12 of 13 
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION (continued) 
+RMB in million, unless specified 
+ 
+ 
+ 
+ 
+Unaudited  
+ 
+Audited 
+30-Jun-18 
+ 
+31-Dec-17 
+ 
+ 
+EQUITY 
+ 
+ 
+ 
+Equity attributable to equity holders of the Company 
+ 
+ 
+  Share capital 
+- 
+ 
+- 
+  Share premium 
+25,215 
+ 
+22,204 
+  Shares held for share award schemes 
+(4,184) 
+ 
+(3,970) 
+  Other reserves 
+17,204 
+ 
+35,158 
+  Retained earnings 
+256,551 
+ 
+202,682 
+  
+ 
+ 
+ 
+294,786 
+ 
+256,074 
+  
+ 
+ 
+Non-controlling interests 
+25,956 
+ 
+21,019 
+  
+ 
+ 
+Total equity 
+320,742 
+ 
+277,093 
+  
+ 
+ 
+LIABILITIES 
+ 
+ 
+ 
+Non-current liabilities 
+ 
+ 
+ 
+  Borrowings 
+77,876 
+ 
+82,094 
+  Notes payable 
+49,433 
+ 
+29,363 
+  Long-term payables 
+5,843 
+ 
+3,862 
+  Other financial liabilities 
+1,618 
+ 
+2,154 
+  Deferred income tax liabilities 
+9,097 
+ 
+5,975 
+  Deferred revenue 
+3,325 
+ 
+2,391 
+  
+  
+ 
+147,192 
+ 
+125,839 
+  
+  
+Current liabilities 
+ 
+  
+  Accounts payable 
+60,838 
+ 
+50,085 
+  Other payables and accruals 
+26,731 
+ 
+29,433 
+  Borrowings 
+28,109 
+ 
+15,696 
+  Notes payable 
+14,059 
+ 
+4,752 
+  Current income tax liabilities 
+7,485 
+ 
+8,708 
+  Other tax liabilities 
+825 
+ 
+934 
+  Deferred revenue 
+40,827 
+ 
+42,132 
+  
+  
+ 
+178,874 
+ 
+151,740 
+  
+  
+Total liabilities 
+326,066 
+ 
+277,579 
+  
+  
+Total equity and liabilities 
+646,808 
+ 
+554,672 
+
+
+ 
+13 
+RECONCILIATIONS OF IFRS TO NON-GAAP RESULTS 
+ 
+As  
+reported 
+Adjustments 
+Non-GAAP 
+ 
+RMB in million, 
+unless specified 
+Share-based  
+compensation (a) 
+Net (gains)/losses from  
+investee companies (b) 
+Amortisation of  
+intangible assets (c) 
+Impairment  
+provision (d) 
+ 
+                                            Unaudited three months ended June 30, 2018 
+Operating profit 
+21,807 
+ 
+1,798 
+(4,010) 
+99 
+2,564 
+22,258 
+Profit for the period 
+18,580 
+ 
+2,562 
+(4,033) 
+813 
+2,577 
+20,499 
+Profit attributable to equity holders 
+17,867 
+ 
+2,478 
+(3,986) 
+779 
+2,578 
+19,716 
+Operating margin 
+30% 
+  
+  
+  
+  
+  
+30% 
+Net margin 
+25% 
+  
+  
+  
+  
+  
+28% 
+ 
+                                           Unaudited three months ended March 31, 2018 
+Operating profit 
+30,692 
+ 
+1,632 
+(7,788) 
+100 
+636 
+25,272 
+Profit for the period 
+23,973 
+ 
+1,682 
+(7,765) 
+531 
+709 
+19,130 
+Profit attributable to equity holders 
+23,290 
+ 
+1,585 
+(7,766) 
+495 
+709 
+18,313 
+Operating margin 
+42% 
+  
+  
+  
+  
+  
+34% 
+Net margin 
+33% 
+  
+  
+  
+  
+  
+26% 
+ 
+                                           Unaudited three months ended June 30, 2017 
+Operating profit 
+22,560 
+ 
+1,408 
+(5,619) 
+115 
+1,572 
+20,036 
+Profit for the period 
+18,254 
+ 
+1,553 
+(5,691) 
+472 
+1,899 
+16,487 
+Profit attributable to equity holders 
+18,231 
+ 
+1,492 
+(5,670) 
+439 
+1,899 
+16,391 
+Operating margin 
+40% 
+  
+  
+  
+  
+  
+35% 
+Net margin 
+32% 
+  
+  
+  
+  
+  
+29% 
+ 
+Note: 
+(a) Including put options granted to employees of investee companies on their shares and shares to be issued under investee companies’ share-based incentive plans which can be acquired by the Group, and other incentives 
+(b) Including net (gains)/losses on deemed disposals, disposals of investee companies and businesses, and fair value changes arising from investments 
+(c) Amortisation of intangible assets resulting from acquisitions, net of related deferred tax 
+(d) Impairment provision for associates, joint ventures, AFS and intangible assets arising from acquisitions 
+  

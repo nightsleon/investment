@@ -1,0 +1,1109 @@
+ 
+ 
+ 
+1 
+ 
+For Immediate Release 
+ 
+ 
+TENCENT ANNOUNCES 2016 THIRD QUARTER RESULTS 
+ 
+Hong Kong, November 16, 2016 – Tencent Holdings Limited (“Tencent” or the “Company”, SEHK 00700), a 
+leading provider of Internet value added services in China, today announced the unaudited consolidated results 
+for the third quarter (“3Q2016”) ended September 30, 2016. 
+ 
+3Q2016 Key Highlights: 
+ 
+ 
+Total revenues were RMB40,388 million (USD6,048 million1), an increase of 52% over the third quarter of 
+2015 (“YoY”). 
+ 
+Operating profit was RMB14,460 million (USD2,165 million), an increase of 40% YoY. Operating margin 
+decreased to 36% from 39% last year. 
+ 
+Profit for the period was RMB10,776 million (USD1,614 million), an increase of 42% YoY. Net margin 
+decreased to 27% from 29% last year.  
+ 
+Profit attributable to equity holders of the Company for the period was RMB10,646 million (USD1,594 million), 
+an increase of 43% YoY. 
+ 
+Basic earnings per share were RMB1.134. Diluted earnings per share were RMB1.121. 
+ 
+On a non-GAAP basis, excluding share-based compensation, net (gains)/losses from investee companies, 
+amortization of intangible assets and impairment provision: 
+- 
+Operating profit was RMB15,037 million (USD2,252 million), an increase of 43% YoY. Operating 
+margin decreased to 37% from 40% last year. 
+- 
+Profit for the period was RMB11,929 million (USD1,786 million), an increase of 41% YoY. Net 
+margin decreased to 30% from 32% last year. 
+- 
+Profit attributable to equity holders of the Company for the period was RMB11,737 million 
+(USD1,758 million), an increase of 42% YoY. 
+- 
+Basic earnings per share were RMB1.251. Diluted earnings per share were RMB1.236. 
+ 
+“During the third quarter of 2016, we delivered strong financial performance for our core businesses.  In 
+particular, our smart phone games and social performance advertising businesses reported above-industry YoY 
+revenue growth rates and continued to generate healthy margins. Meanwhile, our ecosystem infrastructure 
+services such as online payment and cloud-based services saw significant progress in adoption and usage,” 
+said Ma Huateng, Chairman and CEO of Tencent. 
+ 
+“In addition, this month marks a significant milestone for Tencent as we celebrated the 18th anniversary of our 
+company founding on November 11. Looking back eighteen years, Tencent began by connecting people via its 
+first messaging platform.  Since then, we have sought to enrich the lives of our users through technology, 
+prompting us to expand from communications to social networking, digital media, digital entertainment, and a 
+world-leading technology and payments infrastructure. This journey was made possible by the support of our 
+users, our business partners, and in particular, our colleagues. Tencent is profoundly grateful to them for turning 
+our vision into the company we are today, and consequently has just announced a new programme granting 
+                                                 
+1 Figures stated in USD are based on USD1 to RMB6.6778. 
+
+
+ 
+ 
+ 
+2 
+ 
+stock to all Tencent employees so they can more directly share in the benefits of their contributions. We look 
+forward to continue enhancing our user experiences, improving our ecosystem, and investing in our 
+employees.” 
+ 
+3Q2016 Financial Review 
+ 
+Value Added Services (“VAS”). Revenues from our VAS business increased by 36% YoY to RMB27,975 million for 
+3Q2016. Online games revenues increased by 27% YoY to RMB18,166 million. The increase primarily reflected 
+contributions from our major player versus player (“PvP”) and RPG genre smart phone games, as well as revenue 
+growth from our major PC titles. Social networks revenues grew by 58% YoY to RMB9,809 million. The increase 
+was mainly driven by higher revenues from digital content subscription services and from virtual item sales. 
+ 
+Online advertising. Revenues from our online advertising business increased by 51% YoY to RMB7,449 million 
+for 3Q2016. Performance-based advertising revenues increased by 83% YoY to RMB4,368 million, primarily due 
+to higher contributions from advertising revenues derived from Weixin Moments, our mobile news app, and 
+Weixin Official Accounts. Brand display advertising revenues grew by 21% YoY to RMB3,081 million, mainly 
+reflecting growth in revenues from our mobile platforms such as Tencent News, and the positive impact of the Rio 
+Olympic Games, partly offset by our re-allocating some news feed inventory from brand to performance formats. 
+ 
+Others. Revenues from our others businesses increased by 348% YoY to RMB4,964 million for 3Q2016. The 
+increase primarily reflected revenue growth from our payment related and cloud services. 
+ 
+Other Key Financial Information for 3Q2016 
+ 
+Share-based compensation was RMB1,132 million, up 45% YoY.  
+EBITDA was RMB15,865 million, up 47% YoY. Adjusted EBITDA was RMB16,963 million, up 47% YoY. 
+ 
+Capital expenditure was RMB3,651 million, up 121% YoY.   
+Free cash flow was RMB14,121 million, up 113% YoY. 
+ 
+As at September 30, 2016, the Company had net cash of RMB8,368 million. Fair value of our stakes in listed 
+investee companies (both associates and available-for-sale financial assets) totalled RMB94 billion as at 
+September 30, 2016. 
+ 
+Company Strategic Highlights 
+ 
+In 3Q2016, we continued to execute our “Connection” strategy by strengthening our social platforms and 
+leveraging our social traffic to grow our key business models.  
+ 
+- 
+Online games: For smart phone games, we sought to expand our game portfolio, particularly into 
+both high-user game types such as board games and PvP games, and high-revenue game types 
+such as role playing games. For PC games, given the increased popularity of PvP titles in which 
+users alternate high-engagement competitive sessions with low-intensity practice and review 
+sessions, we are shifting our engagement focus away from maximising user time spent in-game 
+
+
+ 
+ 
+ 
+3 
+ 
+and toward broadening overall user engagement via game-related activities such as eSports, game 
+video streams, and game interest tribes. Partially reflecting this shift, our PC game revenue 
+increased despite our PC game average concurrent user metrics (which quantify time spent inside 
+game client software) declining. We believe this broader engagement model will result in healthier 
+and more sustainable gamer relationships with key titles. 
+ 
+- 
+Advertising: For social and performance advertising, we added more interactive advertising formats 
+to drive user engagement; sharpened advertiser tools to provide better advertising performance 
+measurement and to deliver deeper data insight; and improved our targeting technology to enable 
+regional and long-tail advertisers to enhance click-through rates and results. 
+ 
+- 
+Digital content: We integrated the management teams of QQ Music and CMC, in order to improve 
+the digital music industry’s structure and sustainability. We invested aggressively in content for our 
+video platform, where we saw substantial growth in subscriptions. Due partly to a healthier 
+copyright control environment, more users paid for content on our digital literature platform. 
+ 
+- 
+Payment related services: We made significant progress in driving merchant adoption and usage. 
+Our Weixin Pay promotion “Cash-Free Day” on August 8, 2016 was well received by merchants and 
+users, with almost 700,000 merchants participating, up over seven times YoY. We introduced a 
+Weixin Checkout feature that allows merchants to speed up adoption of Weixin Pay by simplifying 
+the onboarding procedures and minimising payment integration work. 
+ 
+- 
+Cloud services: We strengthened our cloud services technical capabilities, enhanced 
+industry-specific solutions, and supported our customers in fulfilling their “Internet-Plus” related 
+initiatives. Our cloud services revenue more than tripled YoY as the number of enterprise accounts 
+and usage by key accounts increased, particularly in sectors such as online games, online video 
+and O2O services. 
+ 
+Our improving security capabilities escorted our “Connection” strategy by safeguarding our users, extending 
+protection shields to our business partners, and providing a secure environment for our key business engines: 
+ 
+- 
+For users: Our security applications provide robust protection to user accounts, passwords, 
+personal information and virtual property, and boost performance of PC and mobile devices. We 
+provide users with a safe environment for payment transactions and wealth management products. 
+We protect users from fraudulent and harassing incoming calls or messages by maintaining a 
+comprehensive and dynamic anti-fraudulent phone number library.  
+ 
+- 
+For partners: Our security scanning service is widely adopted by most smart phone manufacturers 
+and android application stores in China through pre-installation of our security applications or 
+integration of our security modules. Our Android application store helps developers strengthen their 
+application package against potential hijacking and counterfeiting threats. Tencent Cloud provides a 
+rich portfolio of security functionalities to safeguard the IT systems of our enterprise clients.  
+ 
+During 2016, we strengthened our mobile security leadership in areas such as virus scanning, phony 
+
+
+ 
+ 
+ 
+4 
+ 
+base-station detection, anti-fraudulent phone number library, phone memory optimisation, and speed boosting. 
+QuestMobile and TalkingData, two well-regarded industry monitoring organisations, ranked our mobile security 
+application first in the China mobile security industry in terms of monthly active users. 
+ 
+Business Review and Outlook 
+ 
+Operating information 
+- 
+Monthly active user accounts (“MAU”) of QQ was 877 million, an increase of 2% YoY. 
+- 
+Smart device MAU of QQ was 647 million, an increase of 1% YoY. 
+- 
+Peak concurrent user accounts of QQ (for the quarter) was 250 million, an increase of 5% YoY. 
+- 
+Combined MAU of Weixin and WeChat were 846 million, an increase of 30% YoY. 
+- 
+MAU of Qzone was 632 million, a decrease of 3% YoY. 
+- 
+Smart device MAU of Qzone was 584 million, an increase of 1% YoY. 
+- 
+Fee-based VAS registered subscriptions were 105 million, an increase of 19% YoY. 
+ 
+Key Platforms 
+- 
+For QQ, smart device MAU increased by 1% YoY to 647 million. User activity benefited from new 
+features such as cmShow, a mobile QQ product that provides users with animated personal avatars, 
+with which users can interact with friends inside chat or collect items from friends to unlock new 
+features. During the Rio Olympic Games, we attracted over 100 million QQ users to participate in 
+the virtual torch relay campaign by building augmented reality into the phone-to-phone interactions. 
+- 
+For Qzone, smart device MAU increased by 1% YoY to 584 million. User activity benefited from 
+upgraded functionalities such as an immersive display that enables users to streamline autoplay 
+videos and discover more personalised recommendations.  
+ 
+- 
+For Weixin and WeChat together, MAU reached 846 million, representing YoY growth of 30%. We 
+are beta-testing “mini programs” in Weixin that will provide native app-like experiences without 
+leaving the Weixin interface, enhancing user convenience for low frequency interactions, freeing up 
+memory space on smart phones, and enabling convenient social sharing. 
+ 
+VAS 
+In the third quarter of 2016, our social networks business sustained strong revenue growth as we generated 
+more game-related virtual item sales and digital content sales. 
+ 
+- 
+For PC client games, we generated 10% YoY revenue growth, with increased contributions from 
+existing titles in genres such as MOBA, action, RPG, music, and sports. ARPU in key titles 
+increased as new content and seasonal promotions were well received by our core users.  
+ 
+- 
+For smart phone games, we achieved approximately RMB9.9 billion revenue 1  in 3Q2016, 
+representing 87% YoY revenue growth, mainly driven by portfolio expansion and strong operating 
+                                                 
+1 Including smart phone games revenue attributable to our social networks business 
+
+
+ 
+ 
+ 
+5 
+ 
+performance of our major PvP and RPG titles. At the end of September 2016, Honour of Kings 
+surpassed 40 million daily active users, a new record among non-casual smart phone games on our 
+platforms.   
+ 
+- 
+For digital content services, we sustained healthy growth as users became increasingly willing to 
+pay for digital content, and as we escalated efforts in combatting piracy. 
+ 
+Online Advertising 
+During 3Q2016, our advertising business delivered robust expansion, with Weixin and mobile news app being 
+the key contributors to YoY growth.  
+ 
+Our initiatives featuring the Rio Olympic Games attracted about 700 million unique visitors across our news and 
+video platforms, reinforcing our position as the online sports media leader by traffic and revenue. 
+Neighbourhood LBS advertising in Weixin Moments is gaining popularity among local advertisers from 
+industries such as real estate, wedding services, and auto dealerships. During the quarter, we introduced 
+Weixin Moments canvas, a full-screen and instantaneous loading advertisement format that enables creative 
+storytelling with flexible combinations of images and videos. 
+ 
+For other detailed disclosure, please refer to our website www.tencent.com/ir, or follow us via Weixin Official 
+Account (Weixin ID: Tencent_IR):  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+# # # 
+ 
+
+
+ 
+ 
+ 
+6 
+ 
+About Tencent 
+Tencent uses technology to enrich the lives of Internet users. Every day, hundreds of millions of people 
+communicate, share experiences, consume information and seek entertainment through our integrated platforms. 
+Tencent’s diversified services include QQ, Weixin/ WeChat for communications; Qzone for social networking; QQ 
+Game Platform for online games; QQ.com and Tencent News for information and Tencent Video for video 
+content. 
+ 
+Tencent was founded in Shenzhen in 1998 and went public on the Main Board of the Hong Kong Stock Exchange in 
+2004. The Company is one of the constituent stocks of the Hang Seng Index. Tencent seeks to evolve with the 
+Internet by investing in innovation, providing a mutually beneficial environment for partners, and staying close to users. 
+ 
+For enquiries, please contact:  
+Investor: 
+Catherine Chan 
+Tel: (86) 755 86013388 ext 88369/ (852) 3148 5100 Email: cchan#tencent.com 
+Tracy Huang 
+Tel: (86) 755 86013388 ext 83731/ (852) 3148 5100 Email: tracyqhuang#tencent.com 
+ 
+Media: 
+Canny Lo 
+Tel: (86) 755 86013388 ext 66630/ (852) 3148 5100 Email: cannylo#tencent.com  
+Limin Chen 
+Tel: (86) 755 86013388 ext 56011 Email: liminchen#tencent.com  
+ 
+Non-GAAP Financial Measures 
+To supplement the consolidated results of the Group prepared in accordance with IFRS, certain non-GAAP 
+financial measures, including non-GAAP operating profit, non-GAAP operating margin, non-GAAP profit for the 
+period, non-GAAP net margin, non-GAAP profit attributable to equity holders of the Company, non-GAAP basic 
+EPS and non-GAAP diluted EPS, have been presented in this announcement. These unaudited non-GAAP 
+financial measures should be considered in addition to, not as a substitute for, measures of the Group’s financial 
+performance prepared in accordance with IFRS. In addition, these non-GAAP financial measures may be defined 
+differently from similar terms used by other companies. 
+ 
+The Company’s management believes that the non-GAAP financial measures provide investors with useful 
+supplementary information to assess the performance of the Group’s core operations by excluding certain 
+non-cash items and certain impact of M&A transactions. In addition, non-GAAP adjustments include relevant 
+non-GAAP adjustments for the Group’s material associates based on available published financials of the 
+relevant material associates, or estimates made by the Company’s management based on available information, 
+certain expectations, assumptions and premises. 
+ 
+Forward-Looking Statements 
+This press release contains forward-looking statements relating to the business outlook, forecast business plans 
+and growth strategies of the Company. These forward-looking statements are based on information currently 
+available to the Company and are stated herein on the basis of the outlook at the time of this press release. They 
+are based on certain expectations, assumptions and premises, some of which are subjective or beyond our control. 
+These forward-looking statements may prove to be incorrect and may not be realized in future. Underlying the 
+forward-looking statements is a large number of risks and uncertainties. Further information regarding these risks 
+and uncertainties is included in our other public disclosure documents on our corporate website. 
+
+
+ 
+ 
+ 
+7 
+ 
+CONSOLIDATED INCOME STATEMENT 
+RMB in millions, unless specified 
+ 
+ 
+Unaudited 
+ 
+Unaudited 
+ 
+3Q2016 
+3Q2015 
+ 
+3Q2016 
+2Q2016 
+Revenues 
+40,388 
+26,594 
+ 
+40,388 
+35,691 
+    VAS  
+27,975 
+20,547 
+ 
+27,975 
+25,680 
+   Online advertising  
+7,449 
+4,938 
+ 
+7,449 
+6,532 
+    Others 
+4,964 
+1,109 
+ 
+4,964 
+3,479 
+Cost of revenues 
+(18,560) 
+(11,014) 
+ 
+(18,560) 
+(15,235) 
+Gross profit 
+21,828 
+15,580 
+ 
+21,828 
+20,456 
+Gross margin 
+54% 
+59% 
+ 
+54% 
+57% 
+Interest income 
+637 
+559 
+ 
+637 
+626 
+Other gains, net 
+1,155 
+614 
+ 
+1,155 
+911 
+Selling and marketing expenses 
+(3,277) 
+(2,042) 
+ 
+(3,277) 
+(2,365) 
+General and administrative expenses 
+(5,883) 
+(4,380) 
+ 
+(5,883) 
+(5,299) 
+Operating profit 
+14,460 
+10,331 
+ 
+14,460 
+14,329 
+Operating margin 
+36% 
+39% 
+ 
+36% 
+40% 
+Finance costs, net 
+(604) 
+(481) 
+ 
+(604) 
+(377) 
+Share of losses of associates and joint 
+ventures 
+(619) 
+(702) 
+ 
+(619) 
+(292) 
+Profit before income tax 
+13,237 
+9,148 
+ 
+13,237 
+13,660 
+Income tax expense 
+(2,461) 
+(1,564) 
+ 
+(2,461) 
+(2,780) 
+Profit for the period 
+10,776 
+7,584 
+ 
+10,776 
+10,880 
+Net margin 
+27% 
+29% 
+ 
+27% 
+30% 
+Attributable to: 
+ 
+ 
+ 
+ 
+ 
+    Equity holders of the Company 
+10,646 
+7,445 
+ 
+10,646 
+10,737 
+    Non-controlling interests 
+130 
+139 
+ 
+130 
+143 
+ 
+ 
+ 
+ 
+ 
+ 
+Non-GAAP profit attributable to equity 
+holders of the Company 
+11,737 
+8,280 
+ 
+11,737 
+11,319 
+ 
+ 
+ 
+ 
+ 
+ 
+Earnings per share for profit attributable 
+to equity holders of the Company  
+(in RMB per share) 
+ 
+ 
+ 
+ 
+ 
+- basic 
+1.134 
+0.800 
+ 
+1.134 
+1.146 
+- diluted  
+1.121 
+0.792 
+ 
+1.121 
+1.133 
+ 
+ 
+
+
+ 
+ 
+ 
+8 
+ 
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME 
+RMB in millions, unless specified 
+ 
+ 
+Unaudited 
+ 
+Unaudited 
+ 
+3Q2016 
+3Q2015 
+ 
+3Q2016 
+2Q2016 
+Profit for the period 
+10,776 
+7,584 
+ 
+10,776 
+10,880 
+Other comprehensive income, net of tax: 
+ 
+ 
+ 
+ 
+ 
+Items that may be subsequently reclassified to profit or loss 
+ 
+ 
+ 
+ 
+ 
+Share of other comprehensive income of associates 
+214 
+287 
+ 
+214 
+277 
+Net gains from changes in fair value of available-for-sale 
+financial assets 
+1,042 
+1,298 
+ 
+1,042 
+4,979 
+Transfer 
+to 
+profit 
+or 
+loss 
+upon 
+disposal 
+of 
+available-for-sale financial assets 
+- 
+- 
+ 
+- 
+79 
+Currency translation differences 
+688 
+1,303 
+ 
+688 
+1,308 
+Other fair value gains/ (losses) 
+149 
+- 
+ 
+149 
+(182) 
+Items that may not be subsequently reclassified to profit or 
+loss 
+ 
+ 
+ 
+ 
+ 
+Other fair value gains/(losses) 
+225 
+- 
+ 
+225 
+(66) 
+Total comprehensive income for the period 
+13,094 
+10,472 
+ 
+13,094 
+17,275 
+Attributable to: 
+ 
+ 
+ 
+ 
+ 
+    Equity holders of the Company 
+12,953 
+10,316 
+ 
+12,953 
+17,116 
+    Non-controlling interests 
+141 
+156 
+ 
+141 
+159 
+ 
+OTHER FINANCIAL INFORMATION 
+RMB in millions, unless specified 
+ 
+ 
+Unaudited 
+ 
+3Q2016 
+3Q2015 
+2Q2016 
+ 
+EBITDA (a) 
+15,865 
+10,806 
+15,581 
+ 
+Adjusted EBITDA (a) 
+16,963 
+11,569 
+16,401 
+ 
+Adjusted EBITDA margin (b) 
+42% 
+44% 
+46% 
+ 
+Interest expense 
+585 
+373 
+494 
+ 
+Net cash (c) 
+8,368 
+21,239 
+24,037 
+ 
+Capital expenditures (d) 
+3,651 
+1,653 
+1,505 
+ 
+Note: 
+(a) EBITDA consists of operating profit less interest income and other gains/losses, net, and plus depreciation of fixed assets and 
+investment properties and amortisation of intangible assets. Adjusted EBITDA consists of EBITDA plus equity-settled 
+share-based compensation expenses. 
+(b) Adjusted EBITDA margin is calculated by dividing Adjusted EBITDA by revenues. 
+(c) Net cash represents period end balance and is calculated as cash and cash equivalents, term deposits, minus borrowings and 
+notes payable. 
+(d) Capital expenditures consist of additions (excluding business combinations) to fixed assets, construction in progress, land use 
+rights and intangible assets (excluding online game and other content licenses). 
+
+
+ 
+ 
+ 
+9 
+ 
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION 
+RMB in millions, unless specified 
+ 
+ 
+ 
+ 
+ 
+Unaudited   
+Unaudited 
+ 
+ September 30 2016 
+ 
+June 30 2016 
+ASSETS 
+ 
+ 
+ 
+Non-current assets  
+ 
+ 
+ 
+Fixed assets   
+12,519 
+11,469 
+Construction in progress 
+4,449 
+4,066 
+Investment properties 
+685 
+710 
+Land use rights 
+5,201 
+4,066 
+Intangible assets 
+33,193 
+ 
+14,190 
+Investments in associates 
+66,613 
+ 
+64,092 
+Investments in redeemable instruments of associates  
+9,124 
+ 
+8,203 
+Investments in joint ventures 
+606 
+ 
+573 
+Available-for-sale financial assets 
+56,211 
+ 
+54,827 
+Prepayments, deposits and other assets 
+32,122 
+ 
+7,049 
+Deferred income tax assets 
+6,410 
+ 
+4,739 
+Term deposits 
+5,414 
+ 
+9,034 
+ 
+ 
+ 
+ 
+ 
+232,547 
+ 
+183,018 
+Current assets 
+ 
+ 
+ 
+Inventories  
+231 
+216 
+Accounts receivable  
+9,507 
+8,810 
+Prepayments, deposits and other assets 
+12,981 
+11,908 
+Other financial assets 
+1,765 
+1,537 
+Term deposits 
+42,505 
+35,774 
+Restricted cash 
+809 
+125,490 
+Cash and cash equivalents 
+52,417 
+64,206 
+ 
+ 
+ 
+ 
+120,215 
+247,941 
+ 
+ 
+ 
+Total assets 
+352,762 
+430,959 
+ 
+ 
+
+
+ 
+ 
+ 
+10 
+ 
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION (continued) 
+RMB in millions, unless specified 
+ 
+ 
+ 
+ 
+  
+Unaudited 
+Unaudited 
+ 
+September 30 2016 
+ 
+ June 30 2016 
+EQUITY 
+ 
+ 
+ 
+Equity attributable to equity holders of the Company 
+ 
+ 
+ 
+Share capital 
+- 
+- 
+Share premium 
+15,554 
+14,619 
+Shares held for share award schemes 
+(2,918) 
+(2,425) 
+Other reserves 
+24,307 
+12,884 
+Retained earnings 
+126,855 
+116,192 
+ 
+ 
+ 
+ 
+163,798 
+141,270 
+ 
+ 
+ 
+Non-controlling interests 
+10,151 
+2,851 
+ 
+ 
+ 
+Total equity 
+173,949 
+144,121 
+ 
+ 
+ 
+ 
+LIABILITIES 
+ 
+ 
+ 
+Non-current liabilities 
+ 
+ 
+ 
+Borrowings 
+37,235 
+33,030 
+Notes payable 
+34,840 
+34,585 
+Long-term payables  
+3,737 
+3,936 
+Deferred income tax liabilities 
+4,406 
+3,920 
+Deferred revenue 
+2,546 
+2,365 
+ 
+ 
+ 
+ 
+82,764 
+77,836 
+ 
+ 
+ 
+Current liabilities 
+ 
+ 
+Accounts payable 
+23,900 
+21,168 
+Other payables and accruals 
+17,832 
+138,759 
+Borrowings 
+12,555 
+10,080 
+Notes payable 
+7,338 
+7,282 
+Current income tax liabilities 
+5,196 
+3,555 
+Other tax liabilities 
+110 
+384 
+Deferred revenue 
+29,118 
+27,774 
+ 
+ 
+ 
+ 
+96,049 
+209,002 
+ 
+ 
+ 
+Total liabilities 
+178,813 
+286,838 
+ 
+ 
+ 
+Total equity and liabilities 
+352,762 
+430,959 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+11 
+ 
+ 
+RECONCILIATIONS OF IFRS TO NON-GAAP RESULTS  
+  
+As 
+reported 
+Adjustments 
+ 
+RMB in millions, 
+unless specified 
+Equity-settled 
+share-based 
+compensation 
+Cash-settled 
+share-based 
+compensation (a) 
+Net 
+(gains)/losses 
+from investee 
+companies (b) 
+Amortisation of 
+intangible 
+assets (c) 
+Impairment 
+provision (d) 
+Non-GAAP 
+Unaudited three months ended September 30, 2016 
+Operating profit 
+14,460 
+1,098 
+34 
+(2,404) 
+139 
+1,710 
+15,037 
+Profit for the period  
+10,776 
+1,259 
+34 
+(2,309) 
+426 
+1,743 
+11,929 
+Profit attributable 
+to equity holders  
+10,646 
+1,224 
+33 
+(2,297) 
+389 
+1,742 
+11,737 
+Operating margin  
+36% 
+ 
+ 
+ 
+ 
+ 
+37% 
+Net margin 
+27% 
+ 
+ 
+ 
+ 
+ 
+30% 
+Unaudited three months ended June 30, 2016 
+Operating profit 
+14,329 
+820 
+42 
+(2,990) 
+49 
+      2,437 
+14,687 
+Profit for the period  
+10,880 
+1,014 
+42 
+(3,251) 
+328 
+      2,483 
+11,496 
+Profit attributable 
+to equity holders  
+10,737 
+995 
+42 
+(3,247) 
+317 
+      2,475 
+11,319 
+Operating margin  
+40% 
+ 
+ 
+ 
+ 
+ 
+41% 
+Net margin 
+30% 
+ 
+ 
+ 
+ 
+ 
+32% 
+Unaudited three months ended September 30, 2015 
+Operating profit 
+10,331 
+763 
+17 
+(1,020) 
+46 
+379 
+10,516 
+Profit for the period 
+7,584 
+981 
+18 
+(783) 
+275 
+375 
+8,450 
+Profit attributable 
+to equity holders 
+7,445 
+959 
+17 
+(783) 
+267 
+375 
+8,280 
+Operating margin 
+39% 
+ 
+ 
+ 
+ 
+ 
+40% 
+Net margin 
+29% 
+ 
+ 
+ 
+ 
+ 
+32% 
+ 
+Note: 
+(a) Including put options granted to employees of investee companies on their shares and shares to be issued under investee companies’ share-based incentive plans which can be acquired by the 
+Group, and other incentives 
+(b) Including net (gains)/losses on deemed disposals, disposals of investee companies and businesses, and fair value changes on options we own in investee companies 
+(c) Amortisation of intangible assets resulting from acquisitions, net of related deferred tax 
+(d) Impairment provision for associates, available-for-sale financial assets, and intangible assets arising from acquisitions 

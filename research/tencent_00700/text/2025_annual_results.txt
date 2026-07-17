@@ -1,0 +1,534 @@
+--- PAGE 1 ---
+For Immediate Release
+
+    TENCENT ANNOUNCES 2025 ANNUAL AND FOURTH QUARTER RESULTS
+                    Healthy Core Business Growth Reinforced by AI
+                  Increasing AI Investments to Unlock New Opportunities
+
+Hong Kong, 18 March 2026 – Tencent Holdings Limited (HKEX: 00700 (HKD Counter) and 80700 (RMB
+Counter), “Tencent” or “the Company”), a world-leading Internet and technology company in China, today
+announced the audited consolidated results for the year ended 31 December 2025 (“FY2025”) and the
+unaudited consolidated results for the quarter ended 31 December 2025 (“4Q2025”).
+
+Mr. Ma Huateng, Chairman and CEO of Tencent, said, “We sustained healthy growth rates in 2025, as AI
+capabilities improved our ad targeting and supported more engagement with our games, and as our cloud
+business delivered improving revenue growth and profit at scale. Our highly resilient and cash generative core
+businesses provide us with the resources to fund our increasing investments in AI, including recruiting top-tier
+AI talent and upgrading our AI infrastructure. The increasing intelligence of our HY 3.0 large language model,
+and the utility of our AI products such as Yuanbao, WorkBuddy, and QClaw, are encouraging early signs that
+these investments will unlock new opportunities. People enjoy consuming and being entertained, and derive
+satisfaction from creating and being productive, and it is Tencent’s privilege to provide AI services that can
+enhance our users’ capabilities across these dimensions.”
+
+FY2025 Financial Highlights
+Revenues: +14% YoY, gross profit: +21% YoY, non-IFRS1 operating profit: +18% YoY
+   Total revenues were RMB751.8 billion, up 14% over 2024 (“YoY”).
+  Gross profit was RMB422.6 billion, up 21% YoY.
+  On a non-IFRS basis, which is intended to reflect core earnings by excluding certain one-time and/or
+   non-cash items:
+          -   Operating profit was RMB280.7 billion, up 18% YoY. Operating margin increased to 37% from
+        36% last year.
+          -   Net profit was RMB 267.0 billion, up 18% YoY.
+          -   Net profit attributable to equity holders of the Company was RMB259.6 billion, up 17% YoY.
+          -   Basic earnings per share were RMB28.577. Diluted earnings per share were RMB27.877.
+  On an IFRS basis:
+          -   Operating profit was RMB241.6  billion, up 16% YoY. Operating margin was stable at 32%
+         compared to 2024.
+          -   Net profit was RMB229.8 billion, up 17% YoY.
+          -   Net profit attributable to equity holders of the Company was RMB224.8 billion, up 16% YoY.
+          -   Basic earnings per share were RMB24.749. Diluted earnings per share were RMB24.153.
+  Capital expenditure was RMB79.2 billion, up 3% YoY.
+   Total cash was RMB494.9 billion, up 19%. Free cash flow was RMB182.6 billion, up 18% YoY. Net cash
+   position totalled RMB107.1 billion, up 40%.
+  The  fair value of our shareholdings 2  in listed investee companies (excluding subsidiaries) totalled
+   RMB672.7 billion as at 31 December 2025, compared with RMB800.8 billion as at 30 September 2025.
+   The carrying book value of our shareholdings in unlisted investee companies (excluding subsidiaries) was
+   RMB363.1 billion as at 31 December 2025, compared with RMB345.2 billion as at 30 September 2025.
+  During FY2025, the Company repurchased approximately 153.4 million shares on the Hong Kong Stock
+   Exchange for an aggregate consideration of approximately HKD80.0 billion.
+
+
+1 Non-IFRS adjustments excludes share-based compensation, M&A related impact such as net (gains)/losses from investee
+ companies, amortisation of intangible assets, impairment provisions/(reversals), SSV & CPP, income tax effects and others
+2 Including those held via special purpose vehicles, on an attributable basis
+                                                                               Page 1 of 11
+
+--- PAGE 2 ---
+FY2025 Management Discussion and Analysis
+
+Revenues from VAS increased by 16% year-on-year to RMB369.3 billion for the year ended 31 December 2025.
+Domestic Games revenues were RMB164.2 billion, up 18% year-on-year, underpinned by robust performance of
+recently released Delta Force, as well as higher revenues from evergreen games3 such as Honour of Kings and
+Peacekeeper Elite, and from VALORANT franchise (PC and mobile). International Games revenues were
+RMB77.4 billion, up 33% year-on-year (32% on a constant-currency basis), reflecting higher revenues from
+Supercell’s games and PUBG MOBILE, as well as incremental revenue contribution from Wuthering Waves.
+Social Networks revenues rose by 5% year-on-year to RMB127.7 billion, due to growth in Video Accounts live
+streaming revenue, music subscription revenue and app-based game virtual item sales.
+
+Revenues from Marketing Services increased by 19% year-on-year to RMB145.0 billion for the year ended
+31 December 2025, primarily driven by growth in pricing and ad impressions. Pricing benefitted from AI-
+powered ad targeting, advertisers using AI to create more ads, and an increasing proportion of closed-loop
+ads (where the user clicks through to native transactional experiences, such as Mini Programs, Mini Shops,
+or Mini Games). Impression growth benefitted primarily from greater user engagement with products including
+Video Accounts and Weixin Search, and modest increases in ad load. Advertising spending grew across most
+major industry categories during the year.
+
+Revenues from FinTech and Business Services grew by 8% year-on-year to RMB229.4 billion for the year
+ended 31 December 2025. FinTech Services revenues increased at a high single-digit rate year-on-year, due
+to higher revenues from wealth management services, consumer loan services, and commercial payment
+activities. Business Services revenues rose by a high-teens rate year-on-year, reflecting increased domestic
+and international demand for cloud services, including demand for AI-related services, as well as higher
+eCommerce technology service fees, underpinned by growth in Mini Shops GMV.
+
+Operating Metrics
+                            As at         As at       Year-         As at     Quarter-
+                         31 December   31 December     on-year  30 September   on-quarter
+                                2025          2024     change          2025     change
+                                                                  (in millions, unless specified)
+
+ Combined MAU of Weixin
+   and WeChat                     1,418          1,385      2%          1,414       0.3%
+
+ Mobile device MAU of QQ            508           524       -3%           517       -2%
+
+ Fee-based VAS
+ subscriptions4                     267           262      2%           265       0.8%
+
+FY2025 Business Review and Outlook
+
+  We expanded our evergreen games portfolio with the breakout success of Delta Force, and reinforced
+   our existing evergreen games, such as Honour of Kings and Peacekeeper Elite.
+  Our International Games revenue surpassed USD10 billion in the year, driven by the sustained growth
+    of our evergreen games and rapid expansion of our content-driven games.
+  By deploying AI in games, we accelerated our content production, improved the user experience and
+   enhanced our marketing efficiency.
+  We upgraded our adtech foundation model and introduced automated campaign solution AIM+, delivering
+   above-industry revenue growth in Marketing Services, while our ad load remained at a much lower level
+   than peers’.
+
+
+
+
+3 Evergreen games refer to domestic and international games surpassing average quarterly DAU of 5 million for mobile or 2 million
+  for PC, and generating over RMB4 billion annual gross receipts
+4 Average daily number of subscriptions during the quarter
+                                                                               Page 2 of 11
+
+--- PAGE 3 ---
+  Video Accounts’ total user time spent increased over 20% year-on-year, benefitting from upgraded
+   content recommendation algorithms and enriched content ecosystem.
+  We grew user engagement with Mini Shops, Mini Games and other content-related Mini Programs at rapid
+   year-on-year rates’, by strengthening Weixin’s commerce experience and content ecosystem.
+  Tencent Video maintained its leading position in China’s long-form video market with year-on-year growth
+    in video subscribers. Tencent Music extended its leading position in China’s music streaming market with
+   year-on-year growth in ARPU and subscribers.
+  Tencent Cloud achieved profit at scale due to increased enterprise demand for AI workloads, higher
+    contributions from market-leading PaaS and SaaS products, and optimsed supply chain.
+  Through deepened cooperation with licensed financial institutions and prudent risk management, we
+   sustained healthy revenue growth in FinTech.
+  Leveraging our proprietary data and abundant use cases, our HY foundation models became industry
+   leaders in multimodal capabilities including 3D, text-to-image and World model.
+  We upgraded our team with top AI talent, built processes for improving foundation model intelligence in a
+   systematic way, and deployed new AI capabilities in services including Yuanbao and Weixin.
+
+FY2025 Sustainability Initiatives Highlights
+
+  Our Giving for Good campaign promoted charity as part of everyday life, by leveraging our social network,
+    digital tools and offline partners, users engaged in over 530 million philanthropic acts.
+  Through our XPLORER PRIZE and New Cornerstone Investor Program, which aim at helping scientists
+    to pursue original breakthroughs in fundamental research, we have supported over 430 outstanding
+    scientists.
+  By improving energy efficiency, advancing our transition to green electricity and implementing supply chain
+   decarbonisation initiatives, we are well on track to reach our carbon neutrality target by 2030.
+  Our  efforts  in  sustainability development were recognised  with  inclusion  in major ESG  indices,
+   improvements in ESG ratings such as an MSCI rating upgrade from BBB to A, and ESG awards.
+
+4Q2025 Financial Highlights
+
+Revenues: +13% YoY, gross profit: +19% YoY, non-IFRS operating profit: +17% YoY
+   Total revenues were RMB194.4 billion, up 13% over the fourth quarter of 2024.
+  Gross profit was RMB108.3 billion, up 19% YoY.
+  On a non-IFRS basis, which is intended to reflect core earnings by excluding certain one-time and/or
+   non-cash items:
+          -   Operating profit was RMB69.5 billion, up 17% YoY. Operating margin increased to 36% from 34%
+             last year.
+          -   Net profit was RMB 66.7 billion, up 18% YoY.
+          -   Net profit attributable to equity holders of the Company was RMB64.7 billion, up 17% YoY.
+          -   Basic earnings per share were RMB7.144. Diluted earnings per share were RMB6.966.
+  On an IFRS basis:
+          -   Operating profit was RMB60.3 billion, up 17% YoY. Operating margin increased to 31% from 30%
+             last year.
+          -   Net profit was RMB59.1 billion, up 15% YoY.
+          -   Net profit attributable to equity holders of the Company was RMB58.3 billion, up 14% YoY.
+          -   Basic earnings per share were RMB6.433. Diluted earnings per share were RMB6.276.
+  Capital expenditure was RMB19.6 billion, down 46% YoY.
+
+
+
+
+
+                                                                               Page 3 of 11
+
+--- PAGE 4 ---
+4Q2025 Management Discussion and Analysis
+
+Revenues from VAS increased by 14% year-on-year to RMB89.9 billion for the fourth quarter of 2025. Domestic
+Games revenues were RMB38.2 billion, up 15% year-on-year, driven by Delta Force, increased revenues from
+VALORANT franchise (PC and mobile), as well as incremental revenue contribution from Wuthering Waves.
+International Games revenues were RMB21.1 billion, up 32% year-on-year (31% on a constant-currency basis),
+primarily due to higher revenues from Supercell’s games and PUBG MOBILE, alongside incremental revenue
+contribution from Wuthering Waves. Social Networks revenues grew by 3% year-on-year to RMB30.6 billion,
+reflecting growth in Video Accounts live streaming revenue and music subscription revenue.
+
+Revenues from Marketing Services were RMB41.1 billion for the fourth quarter of 2025, up 17% year-on-year.
+Enhancements to AI-powered ad targeting and expansion of closed-loop marketing capabilities within the
+Weixin ecosystem boosted ad performance and pricing, and represented the main drivers of growth. Ad
+impressions increased slightly, due to greater user engagement and modest increases in ad load.
+
+Revenues from FinTech and Business Services increased by 8% year-on-year to RMB60.8 billion for the fourth
+quarter of 2025. FinTech Services revenue growth was mainly due to higher revenues from wealth
+management services and commercial payment activities. Business Services revenue growth accelerated to
+22% year-on-year, reflecting higher cloud services revenues across domestic and international markets,
+including revenues for AI-related services, as well as higher eCommerce technology service fees, mainly
+arising from growth in Mini Shops GMV.
+
+
+
+For other detailed disclosure, please refer to our website https://www.tencent.com/en-us/investors.html, or follow
+
+us via Weixin Official Account (Weixin ID: TencentGlobal):
+
+
+
+
+
+                                           # # #
+
+
+
+
+
+                                                                               Page 4 of 11
+
+--- PAGE 5 ---
+About Tencent
+Tencent uses technology to enrich the lives of Internet users.
+
+Our communication and social services, Weixin and QQ, connect users with each other and with digital content
+and services, both online and offline, making their lives more convenient. Our targeted marketing services
+helps advertisers reach out to hundreds of millions of consumers in China. Our FinTech and business services
+support partners’ business growth and assist their digital upgrade.
+
+Tencent invests heavily in talent and technological innovation, actively promoting the development of the
+Internet industry. Tencent was founded in Shenzhen, China, in 1998. Tencent has been listed on the Main
+Board of the Stock Exchange of Hong Kong since 2004.
+
+Investor contact: IR@tencent.com
+Media contact: GC@tencent.com
+
+Non-IFRS Financial Measures
+To supplement the consolidated results of the Group (“the Company and  its subsidiaries”) prepared in
+accordance with IFRS, certain additional non-IFRS financial measures (in terms of operating profit, operating
+margin, profit for the period, profit attributable to equity holders of the Company, basic EPS and diluted EPS)
+have been presented in this press release. These unaudited non-IFRS financial measures should be
+considered in addition to, not as a substitute for, measures of the Group’s financial performance prepared in
+accordance with IFRS. In addition, these non-IFRS financial measures may be defined differently from similar
+terms used by other companies.
+
+The Company’s management believes that the non-IFRS financial measures provide investors with useful
+supplementary information to assess the performance of the Group’s core operations by excluding certain
+non-cash items and certain impact of investment-related transactions. In addition, non-IFRS adjustments
+include relevant non-IFRS adjustments for the Group’s major associates based on available published
+financials of the relevant major associates, or estimates made by the Company’s management based on
+available information, certain expectations, assumptions and premises.
+
+Forward-Looking Statements
+This press release contains forward-looking statements relating to the business outlook, estimates of financial
+performance, forecast business plans and growth strategies of the Group. These forward-looking statements
+are based on information currently available to the Group and are stated herein on the basis of the outlook at
+the time of this press release. They are based on certain expectations, assumptions and premises, some of
+which are subjective or beyond our control. These forward-looking statements may prove to be incorrect and
+may not be realised in the future. Underlying these forward-looking statements are a  lot of risks and
+uncertainties. In light of the risks and uncertainties, the inclusion of forward-looking statements in this press
+release should not be regarded as representations by the Board or the Company that the plans and objectives
+will be achieved, and investors should not place undue reliance on such statements.
+
+
+
+
+
+                                                                               Page 5 of 11
+
+--- PAGE 6 ---
+CONDENSED CONSOLIDATED INCOME STATEMENT
+RMB in millions, unless specified
+
+
+
+                                            Unaudited                          Audited
+                                      4Q2025       4Q2024               2025          2024
+ Revenues                                 194,371        172,446              751,766        660,257
+   VAS                                     89,920         79,022              369,281        319,168
+    Marketing Services                        41,116         35,004              144,973        121,374
+    FinTech and Business Services             60,818         56,125              229,435        211,956
+    Others                                    2,517           2,295                8,077          7,759
+ Cost of revenues                             (86,082)         (81,793)              (329,173)       (311,011)
+ Gross profit                               108,289         90,653              422,593        349,246
+                    Gross margin         56%         53%             56%         53%
+ Selling and marketing expenses                (12,983)         (10,285)               (41,727)         (36,388)
+ General and administrative expenses           (36,283)         (31,403)              (136,127)        (112,761)
+ Other gains/(losses), net                        1,315           2,513                 (3,177)          8,002
+ Operating profit                             60,338         51,478              241,562        208,099
+                  Operating margin         31%         30%             32%         32%
+ Net  gains/(losses)  from  investments
+  and others                                   3,303           1,119               10,168          4,187
+ Interest income                                4,784           3,910               16,909         16,004
+ Finance costs                                   (3,573)          (2,512)               (15,130)         (11,981)
+ Share of profit/(losses) of associates
+  and joint ventures, net                         6,832           9,253               23,740         25,176
+ Profit before income tax                     71,684         63,248              277,249        241,485
+ Income tax expense                           (12,595)         (11,781)               (47,448)         (45,018)
+ Profit for the period                         59,089         51,467              229,801        196,467
+
+ Attributable to:
+     Equity holders of the Company             58,260         51,324              224,842        194,073
+      Non-controlling interests                   829           143                4,959          2,394
+
+ Non-IFRS operating profit                    69,518         59,475              280,656        237,811
+ Non-IFRS profit attributable to equity
+  holders of the Company                    64,694         55,312              259,626        222,703
+
+ Earnings per share for profit
+   attributable to equity holders of
+   the Company
+    (in RMB per share)
+     - basic                                      6.433           5.597               24.749         20.938
+     - diluted                                    6.276           5.485               24.153         20.486
+
+
+
+
+
+                                                                               Page 6 of 11
+
+--- PAGE 7 ---
+CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+RMB in millions, unless specified
+
+
+                                                                                   Audited
+                                                                              2025       2024
+ Profit for the year                                                                229,801     196,467
+ Other comprehensive income, net of tax:
+   Items that may be subsequently reclassified to profit or loss
+     Share of other comprehensive income of associates and joint ventures                    (217)        (492)
+      Transfer of share of other comprehensive income to profit or loss upon disposal
+      and deemed disposal of associates and joint ventures                                      (96)          (13)
+      Net gains from changes in fair value of financial assets at fair value through other
+       comprehensive income                                                        6         23
+      Transfer to profit or loss upon disposal of financial assets at fair value through
+       other comprehensive income                                                                      (9)          1
+      Currency translation differences                                                        (6,060)       (2,746)
+      Net movement in reserves for hedges                                                   (177)       (2,618)
+   Items that will not be subsequently reclassified to profit or loss
+     Share of other comprehensive income of associates and joint ventures                  477         (711)
+      Net gains from changes in fair value of financial assets at fair value through
+        other comprehensive income                                                   53,734      94,249
+      Currency translation differences                                                         (2,042)          111
+      Net movement in reserves for hedges                                                       (66)         71
+                                                                                   45,550      87,875
+ Total comprehensive income for the year                                          275,351     284,342
+ Attributable to:
+     Equity holders of the Company                                                  267,794     279,009
+      Non-controlling interests                                                           7,557       5,333
+
+OTHER FINANCIAL INFORMATION
+RMB in millions, unless specified
+
+
+
+                                            Unaudited                             Audited
+
+                               4Q2025     4Q2024     3Q2025            2025       2024
+
+  EBITDA (a)                        77,126       63,917       80,357            310,767     256,310
+
+  Adjusted EBITDA (a)                83,048       69,579       86,698            336,427     277,012
+
+  Adjusted EBITDA margin (b)        43%       40%       45%            45%       42%
+
+  Interest and related expenses         3,323        3,340        3,206              13,456      12,447
+
+  Net cash (c)                       107,145      76,798      102,422            107,145      76,798
+
+  Capital expenditures (d)              19,632       36,578       12,983             79,198      76,760
+
+
+Note:
+(a) EBITDA is calculated as operating profit minus other gains/(losses), net, and adding back depreciation of property, plant and
+    equipment, investment properties as well as right-of-use assets, and amortisation of intangible assets and land use rights.
+    Adjusted EBITDA is calculated as EBITDA plus equity-settled share-based compensation expenses
+(b)  Adjusted EBITDA margin is calculated by dividing Adjusted EBITDA by revenues
+(c)  Net cash represents period end balance and is calculated as cash and cash equivalents, plus term deposits and others, including
+     highly liquid investment products held for treasury purposes, minus borrowings and notes payable
+(d)  Capital expenditures primarily consist of investments in IT infrastructure (including computer equipment, components, and
+     software), data centres, land use rights, office premises and intellectual properties (excluding media content)
+                                                                               Page 7 of 11
+
+--- PAGE 8 ---
+CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+RMB in millions, unless specified
+                                                                    Audited                    Audited
+                                                         As at                  As at
+                                                       31 December, 2025       31 December, 2024
+ASSETS
+Non-current assets
+   Property, plant and equipment                                          149,905                   80,185
+  Land use rights                                                        22,339                    23,117
+  Right-of-use assets                                                     17,367                   17,679
+  Construction in progress                                                  9,670                   12,302
+  Investment properties                                                 950                    801
+   Intangible assets                                                     205,999                  196,127
+  Investments in associates                                             342,409                  290,343
+  Investments in joint ventures                                               6,303                     7,072
+   Financial assets at fair value through profit or loss                         207,157                  204,999
+   Financial assets at fair value through other
+   comprehensive income                                               356,640                  302,360
+  Prepayments, deposits and other assets                                   24,540                   42,828
+  Other financial assets                                                     1,327                     1,076
+  Deferred income tax assets                                              28,618                   28,325
+  Term deposits                                                         70,302                   77,601
+
+
+                                                                       1,443,526                 1,284,815
+
+
+Current assets
+
+   Inventories                                                         530                    440
+  Accounts receivable                                                    49,930                   48,203
+  Prepayments, deposits and other assets                                  111,270                  101,044
+  Other financial assets                                                     4,201                     4,750
+   Financial assets at fair value through profit or loss                          35,929                     9,568
+   Financial assets at fair value through other
+   comprehensive income                                                  8,781                     3,345
+  Term deposits                                                       236,801                  192,977
+   Restricted cash                                                          6,977                     3,334
+  Cash and cash equivalents                                            141,041                  132,519
+
+
+                                                                      595,460                  496,180
+
+
+Total assets                                                           2,038,986                 1,780,995
+
+
+
+
+
+                                                                               Page 8 of 11
+
+--- PAGE 9 ---
+CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION (continued)
+RMB in millions, unless specified
+                                                                  Audited                     Audited
+                                                         As at                   As at
+                                                      31 December, 2025        31 December, 2024
+EQUITY
+Equity attributable to equity holders of the Company
+  Share capital                                                                                               -                                        -
+  Share premium                                                       63,796                    43,079
+  Treasury shares                                                             (3,450)                       (3,597)
+  Shares held for share award schemes                                        (7,124)                       (5,093)
+  Other reserves                                                       90,494                    47,129
+  Retained earnings                                                   1,010,436                   892,030
+                                                                      1,154,152                   973,548
+
+Non-controlling interests                                               86,913                    80,348
+
+
+Total equity                                                          1,241,065                  1,053,896
+
+LIABILITIES
+Non-current liabilities
+  Borrowings                                                         208,369                   146,521
+  Notes payable                                                      126,204                   130,586
+  Long-term payables                                                   10,544                    10,201
+  Other financial liabilities                                                  2,879                      4,203
+  Deferred income tax liabilities                                           21,684                    18,546
+  Lease liabilities                                                       13,280                    13,897
+  Deferred revenue                                                       2,210                      6,236
+
+                                                                    385,170                   330,190
+
+Current liabilities
+  Accounts payable                                                   121,127                    118,712
+  Other payables and accruals                                           96,496                    84,032
+  Borrowings                                                          42,618                    52,885
+  Notes payable                                                        10,542                      8,623
+  Current income tax liabilities                                            18,558                    16,586
+  Other tax liabilities                                                      3,723                      4,038
+  Other financial liabilities                                                  3,992                      6,336
+  Lease liabilities                                                         5,386                      5,600
+  Deferred revenue                                                    110,309                   100,097
+
+                                                                    412,751                   396,909
+
+Total liabilities                                                       797,921                   727,099
+
+Total equity and liabilities                                             2,038,986                  1,780,995
+
+
+
+
+
+                                                                               Page 9 of 11
+
+--- PAGE 10 ---
+                                                                                                                                                                                                                     other                   11
+                                                                                         ofIFRS                                                                                                                                and                                                                                                                                                                                                                                                                                                                                                                                                                      companies                10                                                     69,518      9,147   66,711       64,694 36%             59,475       7,749    56,477    55,312  34%             72,570        10,322    72,796    70,551  38%WITH                    Non-IFRS                                                                                                                                                                                                                                Group,                                                                                                                                                                                                                                                                                                                                                                         investee                               Page                                                                                                                                the
+         – –        – –       – –
+                                                                                     by
+                      Income effects (g)                               (953)      (896)                                       (706)   (657)                                                       (1,207)     (1,096)             of
+               tax                                                                                                                                                                                                                                                                                                                                                      acquired                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             transactions
+                                                                                     be
+
+                     – – – –    –ACCORDANCE            (f)   – – – –                                                                                                                                can                                                                                                       360 360   360                                       equity
+IN                                                                                       to                          Others                                                                                                                                                                                                                     which
+                                                                                                                                                                                                                                                                                                                                                                         relation                                                                                                                                                                                                                     plans
+                                                                                          in
+                                 2025                           376 –                        2024  441 –                      2025  206 –  321  321             CPP (e)                                                                                                                               1,109   1,109                                                                                                                                                                                                                                                                                                                                                                                                incentivePREPARED   &                                      1,338      1,338                                                                                                                                                                                                                                                                                                                                                                         expenses                                  companies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       initiatives             SSV
+                                                                                                                                                                                                                                 other                                                                  December                                                                                   December                                                                                      September                                                                                                                                                                                                                                                   CPP”)                31 –                                                                                                                                                                                                                                                                                                                                                                                                               investee                                                                                                                                       and                                                 &                  (d)                      46            31 –    116           30 –    (1)                                                                                 share-based                                                                                                                               1,760   1,037                                                              3,617      2,812                                                                                                                                                                                                       from                                                                                                                                                                                                                                                            (4,798)     (4,805)MEASURES                                  ended                                                                                                  ended                                                                                                                                                       ended                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         acquisitions ("SSV                                     Impairment  provisions/                                                                                                                                                                                              from          arising                                                                   (reversals)                                                                                                                                                                                                                                                                                                                                                                    companies’              companies,
+                                                                                                                                                                                                                                                                                                           and/or                                                                                                                                                                                                                                                                                                                                            arising  ProgrammeNEAREST                                         monthsthree                                                               monthsthree                                                         monthsthree                                                                                            investee           investee                 Adjustments       of    (c)                                                                                                                                                        from        assets       GroupTHE                                                                                                           1,416       1,176   2,592   2,396                                                                                                                                                                1,622       1,755   3,377   3,003                    under                                                                                                                                                     the                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Prosperity                              assets                  1,594      1,522  3,116      2,793                   Unaudited                                                                                                                                                                                                                                                                                UnauditedTO                                                              Unaudited                                                                                                                                                                                                                                                           arising       of                                                                                                                                                                                                                                                                issued                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          intangible
+                                                                                     be                                             Amortisation                                                                                                                                                                                                                                                                       Common                                                 intangible                                                                         to          changes       other                                                                                                                                                  and  settlements
+                                                                                                                                              and         –          –          –                                                           shares       valueMEASURES     Net                                                                                                                                                                                                                                                   Value  litigation                    (b)                 (26)                                                                                                        (555)   1,703   1,730            and      fair                                            investee                                              (7,479)        (7,515)                                            (3,799)     (6,888)     (6,931)                                                                                                                                                           goodwill Social                                                                                                                                                                                                                                                                shares                                           certain                                                             (gains)/losses from  companies                                                                                                                              for                                                                                                                                                                                                                                                                                                                                                                                                                                                                   companies,                                                                                                                                                                                                                     their                                  ventures,FINANCIAL                                                                                   on                                                                                                                                                                                                                                             joint  Sustainable                  (a)                                                                                                                                                                                                                                                                                                                                                     incurred                                 773                                                              909                                                                              investee
+                                                                                          of                                            7,210             7,983      7,902                   6,140       1,003   7,143   7,034                   7,188               8,097   7,905                                     companies
+                                                                                                                                                  the                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          associates,                                                                                                                                                                                                                                                                                                                                                                                                               expensesNON-IFRS                          Share-based  compensation                                                                                                                                                                                                                                                                                                           Group’s                                                                                                                                                  for                                                                                                                                              for                                                                                                                                                     and                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           acquisitions                                                                                                                                                                                                                                                                                                                                                      investee
+                                                                                                                                                                                                                                                         costs                                                                                                                                                                                         from           incurred                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        disposals/disposals       As                             60,338      6,832   59,089       58,260 31%             51,478       9,253    51,467    51,324  30%             63,554       7,854    64,943    63,133  33%     of                                       reportedGROUP’S                                                                                                                                                                                                                                                                                                                                                                                                employees                                                                                                                                                                                                                                                                                                                                                                                                                                resulting           expenses               adjustments                                                                                                                                                                                                                                                                              deemed
+                                                                                     toTHE                                                                                       on                              provisions/(reversals) and                                                                                                                                                                                                                                                                                      assetsOF                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        compliance-related                                                                                                                                                                                             holders                                                                   holders                            granted                                                           non-IFRS                                                                                                                 associates                                                                                                                                                                                                                                 associates                                                                                                                                                                                                                                                                                                                                           associates                                                                                                      of                       of net                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          impairment  donations                                             of net              equity                                                                  of net              equity                                                                            intangible                               to                                                      to                   to                            options                   (gains)/losses of                                                                                                                                                                                                                                                                                                                                                                     effects                                                                                     period                                                                                   put    net                                                 non-recurring                                                                                                                                                        period                                                                                                                                                                                                                        period                                                                                                                                                                                                                                                                                                                                                                                                                                           including  including    tax                                                             profit                                                                                                                 ventures,                                                                                                             margin             profit                                                                                                                                                                                                profit                                                                                                                                                                                                                      ventures,                                                                                                                                                                                                                                                                                                                     ventures,                                           the                                                                                                                                                   profit/(loss)                                                                                                                                                                                                                                                                                                     profit/(loss)                                                                                                                                                                                                                                                                                                                                                                                                                                              profit/(loss)                                                                            the                                                                                                            the                                                                                                                    holders                                                  millions,                                                            specified                       of                                             of                                                                  of                                           for  attributable                                                                            for        attributable    margin                                                                                                            for        attributable    margin                                                               joint           in                                                                                                                       joint                                                                                                                                                                           joint                                                                                                                                                                                                                                                                                                                                                                                                Including  incentives  Including  Amortisation Mainly Mainly  Primarily Income
+                                                                                                   equity                 RMB unless                      Operating Share                                      and    Profit Profit                                                                                                                                                                    Operating                    Operating Share                                                                       and    Profit    Profit      Operating                    Operating Share                                                                                                       and    Profit    Profit      Operating       (a)    (b) (c) (d) (e) (f) (g)RECONCILIATIONS                                                                                                                                                                                                         Note:
+
+--- PAGE 11 ---
+                                                                                                                                                                  other                                    11
+                                                                                         ofIFRS                                                                                                                                                                                                                                                                                                                         companies                                11                                                                   33,457            37%               237,811        31,635     227,194     222,703  36%       andWITH                    Non-IFRS                             280,656                    266,965        259,626                                                                                        Group,                                                                                                 the           investee                                                                Page
+                                                                      of
+                                                                 by
+                      Income effects (g)   – –   (3,612)        (3,342)    – –     (2,455)     (2,233)
+               tax                                                                                                                                                                                                                                                                   acquired                                                                                                                                                                                                                                                                                                                                                                                                                                  transactions                                                                 be
+
+
+                      3 – 3 3                                                                                                 canACCORDANCE            (f)   –                                  360 360   360                                                                                                      equity
+IN                                                                   to                          Others                                                                                                                                                                  which
+                                                                                                                                                                  plans           relation
+                                                                      in
+             CPPPREPARED                 (e)         890 –  2,570      2,570           991 –   2,570   2,570                                     incentive    &                                                                                                                                                                                                                                                                                      expenses                                  companies                                                                                                                                                                                                                                                                                                                                                                                                                                      initiatives             SSV                                 2025                                           2024                                                                     other                                                                                                                                                                                                CPP”)                                                                                                                                                                                                                                                                                                                             investee
+                                      &                                                                                                                                                                                                                                                                                                                                                                     share-based    and                  (d)   –    538        –    847                                                                                                                                                          10,636   9,836                                             fromMEASURES                                                       December                                (2,242)        (3,117)                 December                                                                                                                                                                                                   acquisitions ("SSV                                     Impairment  provisions/     31                     31                                                                                                                                                                                                                                                                                     arising                                                                   (reversals)                                                                                                                                                                                                                                                             companies’              companies,      from
+                                         ended                                                      ended                                                                                                                                                                                                                                             and/or                                                                                                                                                                                                                                                                    arising  ProgrammeNEAREST                                 Year                                           Year                                                                                            investee           investee                 Adjustments       of    (c)                                                                                                               from        assets       GroupTHE                                                                                                                                                           under                                                                                                                       the                                                                                                                                                                                                                                                                                                                                                                                                Prosperity                              assets                  6,345       6,534   12,879       11,498                   5,294       5,478    10,772   9,994TO                                                                                                                                                                                                                                          arising        of                                                                                                                                                                                                   issued                                                                                                                                                                                                                                                                                                                                                                                    intangible
+                                                                 be                                             Amortisation                                                       to                              Common                                                 intangible                                                                                                                                                                                                          changes       other                                                                                                                   and  settlements
+                                                                                                                and         –           –                                                           shares       value
+                    (b)MEASURES     Net                                                                                                 and     fair                                                                                                                                                                                                Value  litigation                                            investee                                      (1,268)   (8,203)        (7,896)                                           (4,289)     (18,646)     (18,770)                                                                       goodwill Social                                                                                                                                                                                                   shares                                           certain                                                             (gains)/losses from  companies                                                                                                for                                                                                                                                                                  their              companies,            ventures,
+                                                                 onFINANCIAL                                                                                                                                                                                          joint  Sustainable                  (a)                                                                                                                                                                                                                                                                    incurred                                                                                                                                                                                                                                                                                      investee
+                                                                      of                                                     31,859       3,553   35,412       34,711                       23,424       4,423    27,847    27,230                                                                                                                                                                                                                                                                             Group’s                                                                                                                                                                                                                                                                                                    companies
+                                                                                                                   the                                                                                                                                                                                                                                                                                                                                                                                                                         associates,                                                                                                                                                                                                                                                                                                                             expensesNON-IFRS                          Share-based  compensation                                                                                                                   for                                                                                                                for                                                                                                                       and                                                                                                                                                                                                                                                                   investee                               acquisitions
+                                                                                                                                                                                                      costs       As                                    32%                             32%     of          from           incurred                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     disposals/disposals                                                                   23,740                                                       208,099        25,176     196,467     194,073                                       reported                          241,562                    229,801        224,842GROUP’S                                                                                                                                                                                                                                                                                                    employees                                                                                                                                                                                                                                                                                                                                    resulting           expenses               adjustments                                                                 to        deemedTHE                                                                   on                              provisions/(reversals) and                                                                                                                                                                                                                        assetsOF                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               compliance-related                                                                                                                                                                                                holders                            granted                                                                                                                    associates                                                                                                                                                                                                                                 non-IFRS                                                                                                                                                                                                                                     associates                                                                                 of                       of net                                                                                                                                                                                                                                                                                                                                                                                    impairment  donations                                                                                                                                                                                                                                                                                                                                                                        intangible                               to                                              of net              equity                            options                                                       to                                                                                          (gains)/losses of                                                                                                                                                                                                                                                                                             effects                                                          year                                                   put    net                                                 non-recurring                                                                                                       year                                                                                                                                                                                                                                                                                                                                               including  including    tax                                                             profit                                                                                                                   ventures,                                                                                                               margin             profit                                                                                                                                                                                                                        ventures,                                           the                                                                                                                                                       profit/(loss)                                                                             the                                                                                                                                                                                                                                                                                                         profit/(loss)                                                                                                                      holders                                                  millions,                                                            specified                       of                                              of                                           for  attributable                                                                joint           in                                                                             for        attributable    margin                      Including  incentives                                                                                                                        joint                                                                                                                                                                                                                                                                                                                         Including  Amortisation Mainly Mainly  Primarily Income
+                                                                                                     equity                 RMB unless                      Operating  Share                                      and    Profit Profit                                                                                                                                                                      Operating                    Operating Share                                                                        and    Profit    Profit      Operating       (a)    (b) (c) (d) (e) (f) (g)RECONCILIATIONS                                                                                                                                                     Note:

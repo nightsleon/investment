@@ -1,0 +1,1251 @@
+ 
+ 
+Page 1 of 10 
+ 
+For Immediate Release 
+ 
+ 
+TENCENT ANNOUNCES 2023 FIRST QUARTER RESULTS 
+ 
+Hong Kong, May 17, 2023 – Tencent Holdings Limited (“Tencent” or the “Company”, 00700.HK), a leading 
+provider of Internet value-added services in China, today announced the unaudited consolidated results for 
+the first quarter (“1Q2023”) ended Mar 31, 2023. 
+ 
+1Q2023 Key Highlights  
+Revenues: +11% YoY, non-IFRS1 profit attributable to equity holders of the Company: +27% YoY 
+ 
+▪ 
+Total revenues were RMB150 billion (USD21.8 billion2), an increase of 11% over the first quarter of 2022 
+(“YoY”). 
+▪ 
+On a non-IFRS basis, which is intended to reflect core earnings by excluding certain one-time and/or 
+non-cash items: 
+- 
+Operating profit was RMB48.4 billion (USD7 billion), an increase of 32% YoY. Operating margin 
+increased to 32% from 27% last year. 
+- 
+Profit for the period was RMB33.4 billion (USD4.9 billion), an increase of 27% YoY. Net margin 
+increased to 22% from 19% last year. 
+- 
+Profit attributable to equity holders of the Company for the quarter was RMB32.5 billion 
+(USD4.7 billion), an increase of 27% YoY. 
+- 
+Basic earnings per share were RMB3.431. Diluted earnings per share were RMB3.353. 
+▪ 
+On an IFRS basis: 
+- 
+Operating profit was RMB40.4 billion (USD5.9 billion), an increase of 9% YoY. Operating margin 
+was stable at 27%. 
+- 
+Profit for the period was RMB26.4 billion (USD3.8 billion), an increase of 11% YoY. Net margin 
+was stable at 18%.  
+- 
+Profit attributable to equity holders of the Company for the quarter was RMB25.8 billion (USD3.8 
+billion), an increase of 10% YoY. 
+- 
+Basic earnings per share were RMB2.725. Diluted earnings per share were RMB2.639. 
+▪ 
+Total cash were RMB370.5 billion (USD53.9 billion) at the end of the period. 
+ 
+Mr. Ma Huateng, Chairman and CEO of Tencent, said, “During the first quarter of 2023, we achieved solid 
+revenue growth as our payment volumes benefitted from, and facilitated, domestic consumption recovery, 
+our games revenue improved, and our advertising revenue sustained rapid growth. Our non-IFRS net profit 
+increased at a faster pace, reflecting a positive revenue mix shift, operational efficiencies, and an easy base 
+period. We are investing in our AI capabilities and cloud infrastructure to embrace the opportunities brought 
+by foundation models, and expect AI to be a growth multiplier that enables us to better serve our users, 
+customers, and society at large.” 
+ 
+1Q2023 Financial Review  
+ 
+Revenues from VAS increased by 9% to RMB79.3 billion for the first quarter of 2023 on a year-on-year basis. 
+ 
+1 Non-IFRS adjustments excludes share-based compensation, M&A related impact such as net (gains)/losses from investee 
+companies, amortisation of intangible assets and impairment provision/(reversals), SSV & CPP, income tax effects and others 
+2 Figures stated in USD are based on USD1 to RMB6.8717 
+
+
+ 
+ 
+Page 2 of 10 
+International Games revenues increased by 25% to RMB13.2 billion, or up 18% excluding the impact of 
+currency fluctuations, driven by the strong performance of recently launched GODDESS OF VICTORY: 
+NIKKE and Triple Match 3D, as well as the robust growth of VALORANT. Domestic Games revenues grew 
+by 6% to RMB35.1 billion, with increased revenues from established titles such as Honour of Kings, Dungeon 
+and Fighter and CrossFire Mobile, as well as recently launched title Arena Breakout. Social Networks 
+revenues increased by 6% to RMB31 billion, driven by in-game virtual item sales and our music subscription 
+service. 
+ 
+Revenues from Online Advertising increased by 17% to RMB21 billion for the first quarter of 2023 on a year-
+on-year basis, driven by the addition of Video Accounts as a new advertising revenue stream, growth in 
+advertising activities within Mini Programs and the recovery of our mobile ad network. Most industry 
+categories experienced year-on-year growth in ad spend, which we attribute to the consumption recovery in 
+China, amplified by our enhanced advertising infrastructure. Large eCommerce platforms increasingly 
+recognised our services as a key user acquisition channel and increased their ad spend with us. 
+ 
+Revenues from FinTech and Business Services increased by 14% year-on-year to RMB48.7 billion for the 
+first quarter of 2023. FinTech Services year-on-year growth accelerated versus the fourth quarter of 2022, 
+primarily driven by the recovery of commercial payment activities due to a consumption rebound in China. 
+Business Services revenues returned to positive year-on-year growth during this period, due to increased 
+sales of certain cloud services, as well as initial revenues generated via technology support fee related to live 
+streaming eCommerce transactions within Video Accounts. 
+ 
+Other Key Financial Information for 1Q2023  
+ 
+EBITDA was RMB52.7 billion, up 38% YoY. Adjusted EBITDA was RMB57.8 billion, up 25% YoY. 
+Capital expenditures were RMB4.4 billion, down 37% YoY. 
+Free cash flow was RMB51.8 billion, up 240% YoY. 
+ 
+As at March 31, 2023, net cash position totalled RMB31.5 billion. Fair value of our shareholdings3 in listed 
+investee companies (excluding subsidiaries) totalled RMB472.8 billion (USD68.8 billion) and the carrying 
+value of unlisted investee companies was RMB332.5 billion (USD48.4 billion). During the first quarter, the 
+Company repurchased approximately 12.5 million shares on the Hong Kong Stock Exchange for an 
+aggregate consideration of approximately RMB4 billion. 
+ 
+Operating Metrics  
+ 
+ 
+As at 
+31 March 
+ 2023 
+As at  
+31 March 
+ 2022 
+Year-  
+on-year 
+change 
+As at  
+31 December 
+2022 
+Quarter-on-
+quarter 
+change 
+ 
+(in millions, unless specified) 
+ 
+ 
+ 
+ 
+ 
+ 
+Combined MAU of  
+ Weixin and WeChat 
+1,319 
+1,288 
+2% 
+1,313 
+stable 
+ 
+ 
+ 
+ 
+ 
+ 
+Mobile device MAU of QQ     
+597 
+564 
+6% 
+572 
+4% 
+ 
+ 
+ 
+ 
+ 
+ 
+Fee-based VAS registered 
+ subscriptions 
+226 
+239 
+-5% 
+234 
+-3% 
+ 
+ 
+3 Including those held via special purpose vehicles, on an attributable basis 
+
+
+ 
+ 
+Page 3 of 10 
+Business Progress and Outlook  
+ 
+Communications and Social Networks 
+ 
+Within Weixin, Video Accounts consumption continued to grow with rapid increases in time spent and video 
+views. We are nurturing the creator community for Video Accounts by upgrading onboarding support with 
+greater traffic incentives, wider creator coverage and more effective content creator tools. In addition, we 
+have enhanced the eCommerce infrastructure, enabling creators to benefit from sales commissions 
+associated with eCommerce transactions. The Video Accounts creator community is increasingly vibrant: the 
+number of daily active creators and daily video uploads more than doubled year-on-year while the number of 
+creators with over 10,000 followers more than tripled year-on-year. 
+ 
+For QQ, we deployed a new architecture to optimise development efficiency, strengthen security and improve 
+graphical experience. This new architecture will significantly enhance future product deployments of QQ 
+across multiple platforms. 
+ 
+Digital Content 
+ 
+Long-form video subscriptions decreased 9% year-on-year to 113 million while subscription revenue 
+decreased 6% year-on-year, primarily due to delayed content releases. We are enhancing our content to 
+cater to evolving user demands. In April 2023, we released a self-commissioned drama series, The Long 
+Season, which became the highest-rated domestic drama series in the past five years, according to the 
+Douban review aggregation website4. We are extending our collaboration with short-form video services to 
+expand our long-form content popularity and capture more monetisation opportunities. Music subscription 
+revenue grew 30% year-on-year as we upgraded the listening experience and strengthened cooperation with 
+labels and artists, enhancing user engagement and paying propensity. 
+ 
+Domestic Games 
+ 
+As a result of our continued and dedicated Minor protection program, Minors contributed 0.4% of total time 
+spent and 0.7% of total gross receipts for our domestic games during the first quarter of 2023, down by 96% 
+and 90% respectively from the same period three years ago. 
+ 
+We resumed revenue growth as several of our most popular games delivered robust performances. Honour 
+of Kings released ShanHaiJing-themed outfits with targeted marketing programs, generating record-high 
+gross receipts in the first quarter of 2023. CrossFire PC, a game we operated since 2008, attracted returning 
+players with promotions targeting Internet cafes. CrossFire Mobile, which we released in 2015, added popular 
+content based on a virtual idol group created for the game. Both CrossFire PC and CrossFire Mobile achieved 
+record-high gross receipts in the first quarter of 2023.  
+ 
+Our recently launched game titles in high potential genres also reached new milestones. Fight of the Golden 
+Spatula, an auto-battler game we released in 2021, increased gross receipts by more than 30% year-on-year 
+in the first quarter of 2023, and achieved a record-high average DAU of over 10 million in April 2023. Arena 
+Breakout, an extraction shooter game we released in July 2022, grew and attained record-high DAU and 
+gross receipts in the first quarter of 2023. 
+ 
+International Games 
+ 
+4 As of May 16, 2023 
+
+
+ 
+ 
+Page 4 of 10 
+ 
+VALORANT increased MAU year-on-year with the release of a new map and a new agent. The game’s gross 
+receipts increased by more than 30% year-on-year in the first quarter of 2023, driven by popular Japan-
+themed and alien-themed weapon items. 
+ 
+PUBG Mobile resumed sequential growth in DAU, benefitting from new combat features and enhanced 
+player-versus-player gameplay. We introduced a map editing tool to facilitate user-generated content, 
+enhancing user engagement and longevity. 
+ 
+Our subsidiary Miniclip launched Triple Match 3D in April 2022, which became a breakout success in the 
+highly competitive match game genre. Leveraging creative gameplay and effective user acquisition, Triple 
+Match 3D is the only title released within the last two years that is ranked among the top 10 games in the 
+genre5. 
+ 
+Online Advertising 
+ 
+We upgraded our machine learning advertising platform to incorporate our deep-learning model and 
+standard product unit (SPU) database, delivering better targeting and higher conversions for advertisers.  
+ 
+Video Accounts attracted new advertisers and incremental spending from existing advertisers. Video 
+Accounts’ average eCPM sustained at a premium level versus those of other short-form video platforms, 
+reflecting advertisers’ recognition of our capability to route video views to Mini Program transactions within 
+the Weixin app.  
+ 
+For our mobile ad network, on the supply side, we increased advertising inventory in high-conversion-rate 
+properties, such as smart phone manufacturers’ apps, while on the demand side, we attracted higher 
+spending from ROI-focused advertisers, such as eCommerce platforms. 
+ 
+FinTech 
+ 
+Growth in commercial payment activities improved significantly. Offline commercial payment activities 
+rebounded more sharply than online commercial payment, benefitting from people going out-and-about. 
+ 
+Cloud and Other Business Services 
+ 
+Business Services year-on-year revenue growth turned positive with notable increase in gross margin in the 
+first quarter of 2023. Our Smart Transportation solutions are assisting the digitalisation of large-scale 
+transportation projects. For example, we leveraged our expertise in areas such as cloud infrastructure, digital 
+map and 3D rendering technologies for smart highway projects in Sichuan and metro systems in Guangzhou. 
+The initial monetisation of technology support fee for live streaming eCommerce transactions also contributed 
+to the revenue growth.  
+ 
+ 
+For other detailed disclosure, please refer to our website https://www.tencent.com/en-us/investors.html, or follow 
+us via Weixin Official Account (Weixin ID: Tencent_IR):  
+ 
+5 Source: Top 10 match games by gross receipts in 1Q2023, according to data.ai 
+
+
+ 
+ 
+Page 5 of 10 
+ 
+# # # 
+ 
+About Tencent 
+Tencent uses technology to enrich the lives of Internet users.  
+ 
+Our communication and social services, Weixin and QQ, connect users with each other and with digital 
+content and services, both online and offline, making their lives more convenient. Our targeted advertising 
+service helps advertisers reach out to hundreds of millions of consumers in China. Our FinTech and business 
+services support our partners’ business growth and assist their digital upgrade.  
+ 
+Tencent invests heavily in talent and technological innovation, actively promoting the development of the 
+Internet industry. Tencent was founded in Shenzhen, China, in 1998. Shares of Tencent (00700.HK) are 
+listed on the Main Board of the Stock Exchange of Hong Kong.  
+ 
+Investor contact: IR@tencent.com 
+Media contact: GC@tencent.com  
+ 
+Non-IFRS Financial Measures 
+To supplement the consolidated results of the Group prepared in accordance with IFRS, certain additional non-IFRS 
+financial measures (in terms of operating profit, operating margin, profit for the period, net margin, profit attributable to 
+equity holders of the Company, basic EPS and diluted EPS), have been presented in this press release. These unaudited 
+non-IFRS financial measures should be considered in addition to, not as a substitute for, measures of the Group’s 
+financial performance prepared in accordance with IFRS. In addition, these non-IFRS financial measures may be defined 
+differently from similar terms used by other companies. 
+ 
+The Company’s management believes that the non-IFRS financial measures provide investors with useful 
+supplementary information to assess the performance of the Group’s core operations by excluding certain non-cash 
+items and certain impact of investment-related transactions. In addition, non-IFRS adjustments include relevant non-
+IFRS adjustments for the Group’s major associates based on available published financials of the relevant major 
+associates, or estimates made by the Company’s management based on available information, certain expectations, 
+assumptions and premises. 
+ 
+Forward-Looking Statements 
+This press release contains forward-looking statements relating to the business outlook, estimates of financial 
+performance, forecast business plans and growth strategies of the Company. These forward-looking statements are 
+based on information currently available to the Company and are stated herein on the basis of the outlook at the time of 
+this press release. They are based on certain expectations, assumptions and premises, some of which are subjective 
+or beyond our control. These forward-looking statements may prove to be incorrect and may not be realised in the future. 
+Underlying these forward-looking statements are a lot of risks and uncertainties. In light of the risks and uncertainties, 
+the inclusion of forward-looking statements in this press release should not be regarded as representations by the Board 
+or the Company that the plans and objectives will be achieved, and investors should not place undue reliance on such 
+statements.  
+ 
+
+
+ 
+ 
+Page 6 of 10 
+CONSOLIDATED INCOME STATEMENT  
+RMB in millions, unless specified 
+ 
+ 
+Unaudited 
+ 
+Unaudited 
+ 
+1Q2023 
+1Q2022 
+ 
+1Q2023 
+4Q2022 
+Revenues 
+149,986 
+135,471 
+ 
+149,986 
+144,954 
+VAS  
+79,337 
+72,738 
+ 
+79,337 
+70,417 
+Online Advertising 
+20,964 
+17,988 
+ 
+20,964 
+24,660 
+FinTech and Business Services  
+48,701 
+42,768 
+ 
+48,701 
+47,244 
+Others 
+984 
+1,977 
+ 
+984 
+2,633 
+Cost of revenues 
+(81,804) 
+(78,397) 
+ 
+(81,804) 
+(83,132) 
+Gross profit 
+68,182 
+57,074 
+ 
+68,182 
+61,822 
+Gross margin 
+45% 
+42% 
+ 
+45% 
+43% 
+Interest income 
+2,963 
+1,737 
+ 
+2,963 
+2,582 
+Other gains/(losses), net 
+944 
+13,133 
+ 
+944 
+85,854 
+Selling and marketing expenses 
+(7,018) 
+(8,058) 
+ 
+(7,018) 
+(6,115) 
+General and administrative expenses 
+(24,642) 
+(26,669) 
+ 
+(24,642) 
+(27,314) 
+Operating profit 
+40,429 
+37,217 
+ 
+40,429 
+116,829 
+Operating margin 
+27% 
+27% 
+ 
+27% 
+81% 
+Finance costs, net 
+(2,650) 
+(1,935) 
+ 
+(2,650) 
+(3,658) 
+Share of profit/(loss) of associates and  
+  joint ventures, net 
+ 
+80 
+ 
+(6,280) 
+ 
+ 
+80 
+ 
+(1,692) 
+Profit before income tax 
+37,859 
+29,002 
+ 
+37,859 
+111,479 
+Income tax expense 
+(11,465) 
+(5,269) 
+ 
+(11,465) 
+(4,575) 
+Profit for the period 
+26,394 
+23,733 
+ 
+26,394 
+106,904 
+Net margin 
+18% 
+18% 
+ 
+18% 
+74% 
+Attributable to: 
+ 
+ 
+ 
+ 
+ 
+    Equity holders of the Company 
+25,838 
+23,413 
+ 
+25,838 
+106,268 
+    Non-controlling interests 
+556 
+320 
+ 
+556 
+636 
+ 
+ 
+ 
+ 
+ 
+ 
+Non-IFRS profit attributable to equity 
+holders of the Company 
+ 
+32,538 
+ 
+25,545 
+ 
+ 
+32,538 
+ 
+29,711 
+ 
+ 
+ 
+ 
+ 
+ 
+Earnings per share for profit 
+attributable to equity holders of 
+the Company  
+(in RMB per share) 
+ 
+ 
+ 
+ 
+ 
+- basic 
+2.725 
+2.455 
+ 
+2.725 
+11.173 
+- diluted  
+2.639 
+2.404 
+ 
+2.639 
+10.977 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+Page 7 of 10 
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME  
+RMB in millions, unless specified 
+ 
+Unaudited 
+ 
+1Q2023 
+1Q2022 
+Profit for the period 
+26,394 
+23,733 
+Other comprehensive income, net of tax: 
+ 
+ 
+Items that may be subsequently reclassified to profit or loss 
+ 
+ 
+Share of other comprehensive income of associates and joint ventures 
+(662) 
+(50) 
+Transfer of share of other comprehensive income to profit or loss upon disposal 
+and deemed disposal of associates and joint ventures 
+ 
+14 
+ 
+- 
+Transfer to profit or loss upon disposal of financial assets at fair value through 
+other comprehensive income 
+ 
+1 
+ 
+- 
+Net gains/(losses) from changes in fair value of financial assets at fair value 
+through other comprehensive income 
+ 
+22 
+ 
+(16) 
+Currency translation differences 
+(1,200) 
+(4,461) 
+Other fair value (losses)/gains, net 
+(1,151) 
+3,217 
+ 
+ 
+ 
+Items that will not be subsequently reclassified to profit or loss 
+ 
+ 
+Share of other comprehensive income of associates and joint ventures 
+(154) 
+187 
+Loss from changes in fair value of assets held for distribution 
+(29,991) 
+(17,130) 
+Net gains/(losses) from changes in fair value of financial assets at fair value 
+through other comprehensive income 
+34,362 
+ 
+(58,850) 
+Currency translation differences 
+(2,846) 
+(142) 
+ 
+(1,605) 
+(77,245) 
+Total comprehensive income for the period 
+24,789 
+(53,512) 
+Attributable to: 
+ 
+ 
+    Equity holders of the Company 
+23,612 
+(52,277) 
+    Non-controlling interests 
+1,177 
+(1,235) 
+ 
+OTHER FINANCIAL INFORMATION  
+RMB in millions, unless specified 
+Unaudited 
+1Q2023 
+4Q2022 
+1Q2022 
+EBITDA (a) 
+52,656 
+44,002 
+38,283 
+Adjusted EBITDA (a) 
+57,811 
+49,606 
+46,102 
+Adjusted EBITDA margin (b) 
+39% 
+34% 
+34% 
+Interest and related expenses 
+2,800 
+2,826 
+2,103 
+Net cash/(debt) (c) 
+31,508 
+(14,832) 
+(11,035) 
+Capital expenditures (d) 
+4,411 
+5,651 
+6,971 
+ 
+Note: 
+(a) 
+EBITDA is calculated as operating profit minus interest income and other gains/(losses), net, and adding back depreciation of property, plant and equipment, 
+investment properties as well as right-of-use assets, and amortisation of intangible assets and land use rights. Adjusted EBITDA is calculated as EBITDA 
+plus equity-settled share-based compensation expenses. 
+(b) 
+Adjusted EBITDA margin is calculated by dividing Adjusted EBITDA by revenues. 
+(c) 
+Net cash/(debt) represents period end balance and is calculated as cash and cash equivalents, plus term deposits and others, minus borrowings and 
+notes payable. 
+(d) 
+Capital expenditures consist of additions (excluding business combinations) to property, plant and equipment, construction in progress, investment 
+properties, land use rights and intangible assets (excluding video and music content, game licences and other content). 
+ 
+
+
+ 
+ 
+Page 8 of 10 
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION  
+RMB in millions, unless specified 
+ 
+Unaudited 
+Audited 
+ 
+As at 
+March 31, 2023 
+ 
+As at 
+December 31, 2022 
+ASSETS 
+ 
+ 
+ 
+Non-current assets  
+ 
+ 
+ 
+  Property, plant and equipment 
+50,134 
+ 
+53,978 
+  Land use rights  
+17,905 
+ 
+18,046 
+  Right-of-use assets  
+20,529 
+ 
+22,524 
+  Construction in progress 
+12,196 
+ 
+9,229 
+  Investment properties 
+555 
+ 
+559 
+  Intangible assets 
+162,230 
+ 
+161,802 
+  Investments in associates 
+245,659 
+ 
+246,043 
+  Investments in joint ventures 
+6,702 
+ 
+6,672 
+  Financial assets at fair value through profit or loss 
+202,670 
+ 
+206,085 
+  Financial assets at fair value through other 
+   comprehensive income 
+224,187 
+ 
+ 
+185,247 
+  Prepayments, deposits and other assets 
+34,259 
+ 
+36,752 
+  Other financial assets 
+5,313 
+ 
+6,987 
+  Deferred income tax assets 
+29,618 
+ 
+29,882 
+  Term deposits 
+31,070 
+ 
+28,336 
+ 
+ 
+ 
+ 
+ 
+1,043,027 
+ 
+1,012,142 
+ 
+ 
+ 
+ 
+Current assets 
+ 
+ 
+ 
+  Inventories  
+2,015 
+ 
+2,333 
+  Accounts receivable  
+45,410 
+ 
+45,467 
+  Prepayments, deposits and other assets 
+83,597 
+ 
+76,685 
+  Other financial assets 
+871 
+ 
+1,278 
+  Financial assets at fair value through profit or loss 
+33,941 
+ 
+27,963 
+  Term deposits 
+151,143 
+ 
+104,776 
+  Restricted cash 
+3,874 
+ 
+2,783 
+  Cash and cash equivalents  
+153,328 
+ 
+156,739 
+  Assets held for distribution 
+- 
+ 
+147,965 
+ 
+ 
+ 
+ 
+ 
+474,179 
+ 
+565,989 
+ 
+ 
+ 
+ 
+Total assets 
+1,517,206 
+ 
+1,578,131 
+
+
+ 
+ 
+Page 9 of 10 
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION (continued) 
+RMB in millions, unless specified 
+ 
+ 
+ 
+ 
+Unaudited 
+Audited 
+ 
+ 
+As at 
+March 31, 2023 
+ 
+As at 
+December 31, 2022 
+EQUITY 
+ 
+Equity attributable to equity holders of the Company 
+  Share capital 
+ 
+- 
+ 
+- 
+  Share premium 
+ 
+62,425 
+ 
+62,418 
+  Treasury shares 
+ 
+(1,541) 
+ 
+(1,868) 
+  Shares held for share award schemes 
+ 
+(4,412) 
+ 
+(4,226) 
+  Other reserves 
+ 
+(22,201) 
+ 
+(40,914) 
+  Retained earnings 
+ 
+744,212 
+ 
+705,981 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+778,483 
+ 
+721,391 
+ 
+ 
+ 
+ 
+ 
+Non-controlling interests 
+ 
+62,890 
+ 
+61,469 
+ 
+ 
+ 
+Total equity 
+841,373 
+ 
+782,860  
+ 
+ 
+ 
+ 
+ 
+LIABILITIES 
+ 
+ 
+ 
+ 
+Non-current liabilities 
+ 
+ 
+ 
+ 
+  Borrowings 
+ 
+166,408 
+ 
+163,668 
+  Notes payable 
+ 
+146,704 
+ 
+148,669 
+  Long-term payables  
+ 
+12,232 
+ 
+9,067 
+  Other financial liabilities 
+ 
+5,711 
+ 
+5,574 
+  Deferred income tax liabilities 
+ 
+13,927 
+ 
+12,162 
+  Lease liabilities 
+ 
+16,926 
+ 
+18,424 
+  Deferred revenue 
+ 
+3,529 
+ 
+3,503 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+365,437 
+ 
+361,067  
+ 
+ 
+ 
+ 
+ 
+Current liabilities 
+ 
+ 
+ 
+ 
+  Accounts payable 
+ 
+102,317 
+ 
+92,381 
+  Other payables and accruals 
+ 
+53,705 
+ 
+61,139 
+  Borrowings 
+ 
+25,921 
+ 
+11,580 
+  Notes payable 
+ 
+- 
+ 
+10,446 
+  Current income tax liabilities 
+ 
+16,639 
+ 
+13,488 
+  Other tax liabilities 
+ 
+4,518 
+ 
+4,698 
+  Other financial liabilities 
+ 
+4,024 
+ 
+3,937 
+  Lease liabilities 
+ 
+6,127 
+ 
+6,354 
+  Deferred revenue 
+ 
+97,145 
+ 
+82,216 
+  Dividends payable for distribution in specie 
+ 
+- 
+ 
+147,965 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+310,396 
+ 
+434,204  
+ 
+ 
+ 
+ 
+ 
+Total liabilities 
+ 
+675,833 
+ 
+795,271 
+ 
+ 
+ 
+ 
+ 
+Total equity and liabilities 
+ 
+1,517,206 
+ 
+1,578,131  
+
+
+ 
+Page 10 of 10 
+RECONCILIATIONS OF IFRS TO NON-IFRS RESULTS  
+ 
+As 
+reported 
+ 
+Adjustments 
+ 
+Non-IFRS 
+ 
+RMB in millions, 
+unless specified 
+Share-based 
+compensation 
+(a) 
+Net (gains)/losses 
+from investee 
+companies (b) 
+Amortisation of 
+intangible assets 
+(c) 
+Impairment 
+provisions/ 
+(reversals) (d) 
+SSV & 
+CPP (e) 
+Others (f) 
+Income 
+tax effects 
+(g) 
+ 
+Unaudited three months ended March 31, 2023 
+Operating profit 
+ 40,429  
+ 5,844  
+(658) 
+ 998  
+241  
+1,526  
+9  
+–  
+48,389  
+Profit for the period 
+ 26,394  
+ 7,313  
+(5,224) 
+2,271  
+1,862  
+1,526  
+9  
+(706) 
+33,445  
+Profit attributable to 
+ equity holders 
+25,838 
+7,094 
+(5,224) 
+2,098 
+1,852 
+1,526 
+9 
+(655) 
+32,538 
+Operating margin 
+27% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+32% 
+Net margin 
+18% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22% 
+ 
+Unaudited three months ended December 31, 2022 
+Operating profit 
+116,829 
+5,680 
+(107,945) 
+1,241 
+22,007 
+1,600 
+14 
+– 
+39,426 
+Profit for the period 
+106,904 
+7,217 
+(107,955) 
+2,601 
+23,700 
+1,600 
+206 
+(3,717) 
+30,556 
+Profit attributable to 
+ equity holders 
+106,268 
+7,124 
+(107,928) 
+2,420 
+23,693 
+1,600 
+206 
+(3,672) 
+29,711 
+Operating margin 
+81% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27% 
+Net margin 
+74% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21% 
+ 
+Unaudited three months ended March 31, 2022 
+Operating profit 
+37,217 
+8,136 
+(18,559) 
+1,388 
+7,003 
+1,348 
+5 
+– 
+36,538 
+Profit for the period 
+23,733 
+9,635 
+(18,552) 
+3,163 
+7,832 
+1,348 
+5 
+(868) 
+26,296 
+Profit attributable to 
+ equity holders 
+ 
+23,413 
+ 
+9,452 
+ 
+(18,542) 
+ 
+2,857 
+ 
+7,827 
+ 
+1,348 
+ 
+5 
+ 
+(815) 
+ 
+25,545 
+Operating margin 
+27% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27% 
+Net margin 
+18% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19% 
+ 
+Note: 
+(a) Including put options granted to employees of investee companies on their shares and shares to be issued under investee companies’ share-based incentive plans which can be acquired by the Group, and other incentives 
+(b) Including net (gains)/losses on deemed disposals/disposals of investee companies, fair value changes arising from investee companies, and other expenses in relation to equity transactions of investee companies 
+(c) Amortisation of intangible assets arising from acquisitions 
+(d) Mainly including impairment provisions/(reversals) for associates, joint ventures, goodwill and other intangible assets arising from acquisitions 
+(e) Mainly including donations and expenses incurred for the Group’s Sustainable Social Value and Common Prosperity Programme ("SSV & CPP”) initiatives   
+(f) 
+Mainly including non-recurring compliance-related costs and expenses incurred for certain litigation settlements of the Group and/or arising from investee companies 
+(g) Income tax effects of non-IFRS adjustments 
+ 
+ 
+ 

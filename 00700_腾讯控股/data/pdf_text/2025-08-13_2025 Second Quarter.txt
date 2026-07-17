@@ -1,0 +1,1192 @@
+ 
+Page 1 of 9 
+ 
+For Immediate Release 
+ 
+TENCENT ANNOUNCES 2025 SECOND QUARTER RESULTS 
+Revenue and Non-IFRS Operating Profit Increased Double Digit YoY  
+Utilising AI in Games and Marketing Services  
+ 
+Hong Kong, August 13, 2025 – Tencent Holdings Limited (HKEX: 00700 (HKD Counter) and 80700 (RMB 
+Counter), “Tencent” or “the Company”), a world-leading Internet and technology company in China, today 
+announced the unaudited consolidated results for the quarter ended 30 June 2025 (“2Q2025”). 
+ 
+Mr. Ma Huateng, Chairman and CEO of Tencent, said, “During the second quarter of 2025, we delivered 
+double-digit revenue and non-IFRS operating profit growth on a year-on-year basis, as we invested in, and 
+also benefitted from, utilising AI. Our games performed well in terms of users and revenue as evergreen 
+games such as Honour of Kings and Peacekeeper Elite evolve into platforms while increasing their usage of 
+AI, and as new games such as Delta Force broke out. Our marketing services revenue sustained rapid growth 
+as we upgraded our advertising foundation model, leading to better performance of advertisements across 
+our traffic platforms. We are striving to bring further benefits of AI to consumers and enterprises through 
+powering more use cases within Weixin, driving usage of our AI native app Yuanbao, and upgrading the 
+capabilities of our HunYuan foundation models.” 
+ 
+2Q2025 Financial Highlights 
+Revenues: +15% YoY, gross profit: +22% YoY, non-IFRS1 operating profit: +18% YoY 
+ 
+▪ 
+Total revenues were RMB184.5 billion, up 15% over the second quarter of 2024.  
+▪ 
+Gross profit was RMB105.0 billion, up 22% YoY. 
+▪ 
+On a non-IFRS basis, which is intended to reflect core earnings by excluding certain one-time and/or 
+non-cash items: 
+- 
+Operating profit was RMB69.2 billion, up 18% YoY. Operating margin increased to 38% from 36% 
+last year. 
+- 
+Net profit was RMB 64.8 billion, up 11% YoY.  
+- 
+Net profit attributable to equity holders of the Company for the period was RMB63.1 billion, 
+up 10% YoY. Excluding non-IFRS share of profits of associates and joint ventures in both the 
+current quarter and the same quarter last year, non-IFRS profit attributable to equity holders of the 
+Company would have increased by 20% year-on-year to RMB56.8 billion. 
+- 
+Basic earnings per share were RMB6.931. Diluted earnings per share were RMB6.793. 
+▪ 
+On an IFRS basis: 
+- 
+Operating profit was RMB60.1 billion, up 18% YoY. Operating margin increased to 33% from 31% 
+last year. 
+- 
+Net profit was RMB56.0 billion, up 16% YoY.  
+- 
+Net profit attributable to equity holders of the Company for the quarter was RMB55.6 billion, up 
+17% YoY. 
+- 
+Basic earnings per share were RMB6.115. Diluted earnings per share were RMB5.996. 
+▪ 
+Capital expenditure was RMB19.1 billion, up 119% YoY. 
+▪ 
+Total cash was RMB468.4 billion and free cash flow was RMB43.0 billion, up 7% YoY. Net cash position 
+totalled RMB74.6 billion.  
+▪ 
+The fair value of our shareholdings 2  in listed investee companies (excluding subsidiaries) totalled 
+RMB714.3 billion as at 30 June 2025, compared to RMB653.4 billion as at 31 March 2025. The carrying 
+ 
+1 Non-IFRS adjustments excludes share-based compensation, M&A related impact such as net (gains)/losses from investee 
+companies, amortisation of intangible assets, impairment provisions/(reversals), SSV & CPP, income tax effects and others 
+2 Including those held via special purpose vehicles, on an attributable basis  
+
+
+ 
+Page 2 of 9 
+ 
+book value of our shareholdings in unlisted investee companies (excluding subsidiaries) was RMB342.3 
+billion as at 30 Jun 2025, compared to RMB337.9 billion as at 31 March 2025.  
+▪ 
+During the second quarter of 2025, the Company repurchased approximately 38.9 million shares on the 
+Hong Kong Stock Exchange for an aggregate consideration of approximately HKD19.4 billion. 
+ 
+ 
+2Q2025 Business Review and Outlook  
+ 
+ 
+We enriched AI features in Weixin, providing AI-powered citations in content, intelligent responses to 
+customer enquiries for Mini Shops merchants, and automated text summaries for Video Accounts video 
+clips.  
+ 
+ 
+We deployed AI tools in games to accelerate content production, introduced AI-powered features 
+enabling more realistic virtual teammates and non-player characters, used AI-powered marketing 
+activities to increase user acquisition and engagement, contributing to the popularity and revenue growth 
+of our Domestic and International Games. 
+ 
+ 
+We upgraded Mini Games’ technology infrastructure with expanded game engine compatibility, 
+enhanced graphics rendering, and reduced load time, which facilitated developers in porting complex 
+app-based games to Mini Games. Total gross receipts of Mini Games increased 20% year-on-year in the 
+second quarter of 2025.  
+ 
+ 
+Domestically, Delta Force, a first-person shooter that we released on mobile and PC in September 2024, 
+exceeded 20 million monthly average DAU, ranking it among the top 5 games by DAU, and the top 3 
+games by gross receipts, industry-wide in July 20253. 
+ 
+ 
+Internationally, Supercell released more frequent content updates, optimised the reward system and 
+hosted more community events for Clash Royale, boosting the game’s DAU, and lifting its monthly gross 
+receipts to a seven-year high in June 2025. 
+ 
+ 
+We expanded AI capabilities in advertisement creation, placement, recommendation and performance 
+analysis, enhancing advertising click-through rates and conversions, returns on investment for advertisers, 
+and growing marketing services revenue on our platforms.  
+ 
+ 
+Tencent Video maintained its leading position in China’s long-form video market with 114 million4 video 
+subscribers. Tencent Music sustained its leading position in the music streaming market with 124 million5 
+music subscribers. 
+ 
+ 
+Benefitting from improved consumption activity, commercial payment volume growth turned positive year-
+on-year in the second quarter of 2025, contributing to higher revenue growth for FinTech Services. 
+ 
+ 
+For HunYuan, we enhanced our data quality and diversity through data augmentation and synthesis, and 
+implemented more effective pre-training and post-training scaling, bolstering the model’s foundational 
+capabilities. Our HunYuan 3D model ranked first6 on Hugging Face for its industry-leading geometric 
+precision, texture fidelity and prompt-3D alignment capabilities. Game developers, 3D printing enterprises, 
+and design professionals are increasingly adopting HunYuan 3D model to generate digital assets.  
+ 
+3 Company data, QuestMobile, Sensor Tower 
+4 The average daily number of paying users for the second quarter of 2025 
+5 The average number of paying users as of the last day of each month during the second quarter of 2025 
+6 Published on https://huggingface.co/spaces/3DTopia/3DGen-Leaderboard, August 2025 
+ 
+
+
+ 
+Page 3 of 9 
+ 
+Operating Metrics  
+ 
+As at 
+30 June 
+2025 
+As at  
+30 June 
+2024 
+Year- 
+on-year 
+change 
+As at  
+31 March 
+2025 
+Quarter-
+on-quarter 
+change 
+ 
+(in millions, unless specified) 
+ 
+ 
+ 
+ 
+ 
+ 
+Combined MAU of Weixin    
+  and WeChat 
+1,411 
+1,371 
+3% 
+1,402 
+0.6% 
+ 
+ 
+ 
+ 
+ 
+ 
+Mobile device MAU of QQ    
+532 
+571 
+-7% 
+534 
+-0.4% 
+ 
+ 
+ 
+ 
+ 
+ 
+Fee-based VAS paying 
+  users 
+264 
+263 
+0.4% 
+268 
+-1% 
+ 
+2Q2025 Management Discussion and Analysis 
+ 
+Revenues from VAS increased by 16% year-on-year to RMB91.4 billion for the second quarter of 2025. 
+Domestic Games revenues were RMB40.4 billion, up 17% year-on-year, driven by the contribution from 
+recently released Delta Force and growth in revenues from evergreen games including Honour of Kings, 
+VALORANT, and Peacekeeper Elite. International Games revenues were RMB18.8 billion, reflecting a 35% 
+year-on-year increase, driven by growth in revenues from Supercell’s games and PUBG MOBILE, as well as 
+the contribution from newly released Dune: Awakening. Social Networks revenues rose by 6% year-on-year 
+to RMB32.2 billion, driven by growth in app-based game virtual item sales, Video Accounts live streaming 
+revenue and music subscription revenue. 
+ 
+Revenues from Marketing Services7 were RMB35.8 billion for the second quarter of 2025, up 20% year-on-
+year. This growth was primarily due to AI-driven improvements to our advertising platform and enhancements 
+to the Weixin transaction ecosystem, which resulted in robust advertiser demand across Video Accounts, Mini 
+Programs and Weixin Search. Marketing Services revenues increased across most major industry categories 
+during the quarter. 
+ 
+Revenues from FinTech and Business Services rose by 10% year-on-year to RMB55.5 billion for the second 
+quarter of 2025. FinTech Services revenue growth was driven by higher revenues from consumer loan 
+services, commercial payment activities and wealth management services. Increased enterprise customer 
+demand for AI-related services, including GPU rental and API token usage, along with increased eCommerce 
+technology service fees, resulted in Business Services revenue growth accelerating versus prior quarters. 
+ 
+ 
+For other detailed disclosure, please refer to our website https://www.tencent.com/en-us/investors.html, or follow 
+us via Weixin Official Account (Weixin ID: TencentGlobal):  
+ 
+# # # 
+ 
+ 
+ 
+7 Starting third quarter of 2024, we have renamed this revenue segment from “Online Advertising” to “Marketing Services” to better 
+represent the breadth of our marketing solutions and accompanying technology services across our online marketing properties 
+
+
+ 
+Page 4 of 9 
+ 
+About Tencent 
+Tencent uses technology to enrich the lives of Internet users.  
+ 
+Our communication and social services, Weixin and QQ, connect users with each other and with digital content 
+and services, both online and offline, making their lives more convenient. Our targeted marketing services 
+helps advertisers reach out to hundreds of millions of consumers in China. Our FinTech and business services 
+support partners’ business growth and assist their digital upgrade.  
+ 
+Tencent invests heavily in talent and technological innovation, actively promoting the development of the 
+Internet industry. Tencent was founded in Shenzhen, China, in 1998. Tencent has been listed on the Main 
+Board of the Stock Exchange of Hong Kong since 2004.  
+ 
+Investor contact: IR@tencent.com 
+Media contact: GC@tencent.com  
+ 
+Non-IFRS Financial Measures 
+To supplement the consolidated results of the Group (“the Company and its subsidiaries”) prepared in 
+accordance with IFRS, certain additional non-IFRS financial measures (in terms of operating profit, operating 
+margin, profit for the period, profit attributable to equity holders of the Company, basic EPS and diluted EPS) 
+have been presented in this press release. These unaudited non-IFRS financial measures should be 
+considered in addition to, not as a substitute for, measures of the Group’s financial performance prepared in 
+accordance with IFRS. In addition, these non-IFRS financial measures may be defined differently from similar 
+terms used by other companies. 
+ 
+The Company’s management believes that the non-IFRS financial measures provide investors with useful 
+supplementary information to assess the performance of the Group’s core operations by excluding certain 
+non-cash items and certain impact of investment-related transactions. In addition, non-IFRS adjustments 
+include relevant non-IFRS adjustments for the Group’s major associates based on available published 
+financials of the relevant major associates, or estimates made by the Company’s management based on 
+available information, certain expectations, assumptions and premises. 
+ 
+Forward-Looking Statements 
+This press release contains forward-looking statements relating to the business outlook, estimates of financial 
+performance, forecast business plans and growth strategies of the Group. These forward-looking statements 
+are based on information currently available to the Group and are stated herein on the basis of the outlook at 
+the time of this press release. They are based on certain expectations, assumptions and premises, some of 
+which are subjective or beyond our control. These forward-looking statements may prove to be incorrect and 
+may not be realised in the future. Underlying these forward-looking statements are a lot of risks and 
+uncertainties. In light of the risks and uncertainties, the inclusion of forward-looking statements in this press 
+release should not be regarded as representations by the Board or the Company that the plans and objectives 
+will be achieved, and investors should not place undue reliance on such statements.  
+ 
+ 
+
+
+ 
+Page 5 of 9 
+ 
+CONDENSED CONSOLIDATED INCOME STATEMENT  
+RMB in millions, unless specified 
+ 
+ 
+ 
+Unaudited 
+ 
+Unaudited 
+ 
+2Q2025 
+ 
+2Q2024 
+ 
+ 
+2Q2025 
+ 
+1Q2025 
+ 
+Revenues 
+184,504 
+161,117 
+ 
+184,504 
+180,022 
+VAS  
+91,368 
+78,822 
+ 
+91,368 
+92,133 
+Marketing Services 
+35,762 
+29,871 
+ 
+35,762 
+31,853 
+FinTech and Business Services  
+55,536 
+50,440 
+ 
+55,536 
+54,907 
+Others 
+1,838 
+1,984 
+ 
+1,838 
+1,129 
+Cost of revenues 
+(79,491) 
+(75,222) 
+ 
+(79,491) 
+(79,529) 
+Gross profit 
+105,013 
+85,895 
+ 
+105,013 
+100,493 
+Gross margin 
+57% 
+53% 
+ 
+57% 
+56% 
+Selling and marketing expenses 
+(9,410) 
+(9,156) 
+ 
+(9,410) 
+(7,866) 
+General and administrative expenses 
+(31,921) 
+(27,491) 
+ 
+(31,921) 
+(33,664) 
+Other gains/(losses), net 
+(3,578) 
+1,484 
+ 
+(3,578) 
+(1,397) 
+Operating profit  
+60,104 
+50,732 
+ 
+60,104 
+57,566 
+  Operating margin 
+33% 
+31% 
+ 
+33% 
+32% 
+Net gains/(losses) from investments 
+and others 
+2,638 
+(654) 
+ 
+2,638 
+1,407 
+Interest income 
+4,121 
+3,850 
+ 
+4,121 
+3,748 
+Finance costs 
+(3,941) 
+(3,112) 
+ 
+(3,941) 
+(3,860) 
+Share of profit/(loss) of associates and 
+joint ventures, net 
+4,473 
+7,718 
+ 
+4,473 
+4,581 
+Profit before income tax 
+67,395 
+58,534 
+ 
+67,395 
+63,442 
+Income tax expense 
+(11,351) 
+(10,168) 
+ 
+(11,351) 
+(13,717) 
+Profit for the period 
+56,044 
+48,366 
+ 
+56,044 
+49,725 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attributable to: 
+ 
+    Equity holders of the Company 
+55,628 
+47,630 
+ 
+55,628 
+47,821 
+    Non-controlling interests 
+416 
+736 
+ 
+416 
+1,904 
+ 
+ 
+ 
+ 
+ 
+ 
+Non-IFRS operating profit 
+69,248 
+58,443 
+ 
+69,248 
+69,320 
+Non-IFRS profit attributable to equity 
+holders of the Company 
+63,052 
+57,313 
+ 
+63,052 
+61,329 
+ 
+ 
+ 
+ 
+ 
+ 
+Earnings per share for profit 
+attributable to equity holders of 
+the Company  
+(in RMB per share) 
+ 
+ 
+ 
+ 
+ 
+- basic 
+6.115 
+ 5.112 
+ 
+6.115 
+5.252 
+- diluted  
+5.996 
+4.994 
+ 
+5.996 
+5.129 
+ 
+
+
+ 
+Page 6 of 9 
+ 
+CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME  
+RMB in millions, unless specified 
+ 
+ 
+Unaudited 
+ 
+2Q2025 
+2Q2024 
+Profit for the period 
+56,044 
+48,366 
+Other comprehensive income, net of tax: 
+ 
+ 
+Items that may be subsequently reclassified to profit or loss 
+ 
+ 
+Share of other comprehensive income of associates and joint ventures 
+6 
+139 
+Transfer of share of other comprehensive income to profit or loss upon disposal 
+and deemed disposal of associates and joint ventures 
+(3) 
+17 
+Transfer to profit or loss upon disposal of financial assets at fair value through 
+other comprehensive income 
+- 
+- 
+Net (losses)/gains from changes in fair value of financial assets at fair value 
+through other comprehensive income 
+(85) 
+12 
+Currency translation differences 
+3,323 
+(242) 
+Net movement in reserves for hedges 
+(163) 
+(921) 
+Items that will not be subsequently reclassified to profit or loss 
+ 
+ 
+Share of other comprehensive income of associates and joint ventures 
+(31) 
+(379) 
+Net gains from changes in fair value of financial assets at fair value through 
+other comprehensive income 
+67,681 
+25,905 
+Currency translation differences 
+232 
+151 
+Net movement in reserves for hedges 
+(60) 
+- 
+ 
+70,900 
+24,682 
+Total comprehensive income for the period 
+126,944 
+73,048 
+Attributable to: 
+ 
+ 
+    Equity holders of the Company 
+122,756 
+71,703 
+    Non-controlling interests 
+4,188 
+1,345 
+ 
+OTHER FINANCIAL INFORMATION  
+RMB in millions, unless specified 
+ 
+Unaudited 
+2Q2025 
+2Q2024 
+1Q2025 
+EBITDA (a) 
+79,467 
+62,902 
+73,817 
+Adjusted EBITDA (a) 
+85,122 
+68,518 
+81,559 
+Adjusted EBITDA margin (b) 
+46% 
+43% 
+45% 
+Interest and related expenses 
+3,541 
+2,918 
+3,386 
+Net cash/(debt)(c) 
+74,592 
+71,757 
+90,229 
+Capital expenditures (d) 
+19,107 
+8,729 
+27,476 
+ 
+Note: 
+(a) EBITDA is calculated as operating profit minus other gains/(losses), net, and adding back depreciation of property, plant and equipment, 
+investment properties as well as right-of-use assets, and amortisation of intangible assets and land use rights. Adjusted EBITDA is calculated as 
+EBITDA plus equity-settled share-based compensation expenses 
+(b) Adjusted EBITDA margin is calculated by dividing Adjusted EBITDA by revenues 
+(c) Net cash/(debt) represents period end balance and is calculated as cash and cash equivalents, plus term deposits and others, including highly 
+liquid investment products held for treasury purposes, minus borrowings and notes payable 
+(d) Capital expenditures primarily consist of investments in IT infrastructure (including computer equipment, components, and software), data centres, 
+land use rights, office premises and intellectual properties (excluding media content) 
+ 
+ 
+
+
+ 
+Page 7 of 9 
+ 
+CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION  
+RMB in millions, unless specified 
+ 
+Unaudited 
+Audited 
+ 
+As at  
+30 June, 2025 
+As at  
+31 December, 2024 
+ASSETS 
+ 
+ 
+ 
+Non-current assets  
+ 
+ 
+ 
+  Property, plant and equipment 
+118,565 
+ 
+80,185 
+  Land use rights  
+22,693 
+ 
+23,117 
+  Right-of-use assets  
+16,952 
+ 
+17,679 
+  Construction in progress 
+14,438 
+ 
+12,302 
+  Investment properties 
+895 
+ 
+801 
+  Intangible assets 
+215,832 
+ 
+196,127 
+  Investments in associates 
+307,573 
+ 
+290,343 
+  Investments in joint ventures 
+6,831 
+ 
+7,072 
+  Financial assets at fair value through profit or loss 
+207,263 
+ 
+204,999 
+  Financial assets at fair value through other 
+   comprehensive income 
+401,756  
+302,360 
+  Prepayments, deposits and other assets 
+31,174 
+ 
+42,828 
+  Other financial assets 
+1,413 
+ 
+1,076 
+  Deferred income tax assets 
+30,004 
+ 
+28,325 
+  Term deposits 
+92,424 
+ 
+77,601 
+ 
+ 
+ 
+ 
+ 
+1,467,813 
+ 
+1,284,815 
+ 
+ 
+ 
+ 
+Current assets 
+ 
+ 
+ 
+  Inventories  
+435 
+ 
+440 
+  Accounts receivable  
+51,315 
+ 
+48,203 
+  Prepayments, deposits and other assets 
+109,410 
+ 
+101,044 
+  Other financial assets 
+4,125 
+ 
+4,750 
+  Financial assets at fair value through profit or loss 
+18,235 
+ 
+9,568 
+  Financial assets at fair value through other 
+   comprehensive income 
+6,604 
+ 
+3,345 
+  Term deposits 
+169,423 
+ 
+192,977 
+  Restricted cash 
+3,893 
+ 
+3,334 
+  Cash and cash equivalents  
+182,057 
+ 
+132,519 
+ 
+ 
+ 
+ 
+ 
+545,497 
+ 
+496,180 
+ 
+ 
+ 
+ 
+Total assets 
+2,013,310 
+ 
+1,780,995 
+
+
+ 
+Page 8 of 9 
+ 
+ 
+CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION (continued) 
+RMB in millions, unless specified 
+ 
+ 
+ 
+ 
+Unaudited 
+Audited 
+ 
+ 
+As at 
+30 June, 2025 
+As at 
+31 December, 2024 
+EQUITY 
+ 
+ 
+ 
+ 
+Equity attributable to equity holders of the Company 
+  Share capital 
+ 
+- 
+ 
+- 
+  Share premium 
+ 
+52,346 
+ 
+43,079 
+  Treasury shares 
+ 
+(2,288) 
+ 
+(3,597) 
+  Shares held for share award schemes 
+ 
+(4,491) 
+ 
+(5,093) 
+  Other reserves 
+ 
+148,880 
+ 
+47,129 
+  Retained earnings 
+ 
+920,192 
+ 
+892,030 
+ 
+ 
+1,114,639 
+ 
+973,548 
+ 
+ 
+ 
+ 
+ 
+Non-controlling interests 
+ 
+88,210 
+ 
+80,348 
+ 
+ 
+ 
+Total equity 
+1,202,849 
+ 
+1,053,896 
+ 
+ 
+ 
+ 
+ 
+LIABILITIES 
+ 
+ 
+ 
+ 
+Non-current liabilities 
+ 
+ 
+ 
+ 
+  Borrowings 
+ 
+202,966 
+ 
+146,521 
+  Notes payable 
+ 
+119,338 
+ 
+130,586 
+  Long-term payables  
+ 
+12,801 
+ 
+10,201 
+  Other financial liabilities 
+ 
+5,627 
+ 
+4,203 
+  Deferred income tax liabilities 
+ 
+16,888 
+ 
+18,546 
+  Lease liabilities 
+ 
+13,328 
+ 
+13,897 
+  Deferred revenue 
+ 
+4,402 
+ 
+6,236 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+375,350 
+ 
+330,190 
+ 
+ 
+ 
+ 
+ 
+Current liabilities 
+ 
+ 
+ 
+ 
+  Accounts payable 
+ 
+130,501 
+ 
+118,712 
+  Other payables and accruals 
+ 
+76,862 
+ 
+84,032 
+  Borrowings 
+ 
+58,631 
+ 
+52,885 
+  Notes payable 
+ 
+12,880 
+ 
+8,623 
+  Current income tax liabilities 
+ 
+19,561 
+ 
+16,586 
+  Other tax liabilities 
+ 
+4,127 
+ 
+4,038 
+  Other financial liabilities 
+ 
+6,298 
+ 
+6,336 
+  Lease liabilities 
+ 
+5,343 
+ 
+5,600 
+  Deferred revenue 
+ 
+120,908 
+ 
+100,097 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+435,111 
+ 
+396,909 
+ 
+ 
+ 
+ 
+ 
+Total liabilities 
+ 
+810,461 
+ 
+727,099 
+ 
+ 
+ 
+ 
+ 
+Total equity and liabilities 
+ 
+2,013,310 
+ 
+1,780,995 
+
+
+ 
+Page 9 of 9 
+ 
+RECONCILIATIONS OF THE GROUP’S NON-IFRS FINANCIAL MEASURES TO THE NEAREST MEASURES PREPARED IN ACCORDANCE WITH IFRS 
+ 
+As 
+reported 
+ 
+Adjustments 
+ 
+Non-IFRS 
+ 
+RMB in millions, 
+unless specified 
+Share-based 
+compensation 
+(a) 
+Net 
+(gains)/losses 
+from investee 
+companies (b) 
+Amortisation of 
+intangible assets 
+(c) 
+Impairment 
+provisions/ 
+(reversals) (d) 
+SSV & CPP 
+(e) 
+ 
+Others 
+ (f) 
+Income 
+tax effects 
+(g) 
+ 
+ 
+Unaudited three months ended 30 June 2025 
+Operating profit 
+ 60,104  
+ 7,361  
+– 
+ 1,614  
+– 
+169 
+– 
+– 
+69,248 
+Share of profit/(loss) of associates 
+and joint ventures, net 
+ 4,473  
+ 903  
+(798) 
+ 1,544  
+ 226  
+– 
+– 
+– 
+6,348 
+Profit for the period 
+ 56,044  
+8,264  
+(2,396) 
+3,158  
+(372)  
+751  
+– 
+(683) 
+64,766 
+Profit attributable to 
+ equity holders 
+ 55,628  
+ 8,071  
+(3,192) 
+2,848  
+(405)  
+751 
+– 
+(649) 
+63,052 
+Operating margin 
+33% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+38% 
+ 
+ 
+Unaudited three months ended 30 June 2024 
+Operating profit 
+50,732 
+6,213 
+–  
+1,305 
+– 
+190 
+3 
+– 
+58,443 
+Share of profit/(loss) of associates 
+and joint ventures, net 
+7,718 
+926 
+(91) 
+1,313 
+20 
+– 
+– 
+– 
+9,886 
+Profit for the period 
+48,366 
+7,139 
+(3,672) 
+2,618 
+3,526 
+1,025 
+3 
+(561) 
+58,444 
+Profit attributable to equity holders 
+47,630 
+6,981 
+(3,726) 
+2,418 
+3,492 
+1,025 
+3 
+(510) 
+57,313 
+Operating margin 
+31% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+36% 
+ 
+ 
+Unaudited three months ended 31 March 2025 
+Operating profit 
+ 57,566  
+ 10,100  
+– 
+ 1,515  
+– 
+139 
+– 
+– 
+69,320 
+Share of profit/(loss) of associates 
+and joint ventures, net 
+ 4,581  
+ 968  
+111 
+ 1,713  
+ 267  
+– 
+– 
+– 
+7,640 
+Profit for the period 
+ 49,725  
+11,068  
+(31) 
+3,228  
+(689)  
+160  
+– 
+(769) 
+62,692 
+Profit attributable to equity holders 
+ 47,821  
+ 10,833  
+1,081 
+2,854  
+(719)  
+160 
+– 
+(701) 
+61,329 
+Operating margin  
+32% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+39% 
+ 
+Note: 
+(a) Including put options granted to employees of investee companies on their shares and shares to be issued under investee companies’ share-based incentive plans which can be acquired by the Group, and other 
+incentives 
+(b) Including net (gains)/losses on deemed disposals/disposals of investee companies, fair value changes arising from investee companies, and other expenses in relation to equity transactions of investee companies 
+(c) Amortisation of intangible assets resulting from acquisitions 
+(d) Mainly including impairment provisions/(reversals) for associates, joint ventures, goodwill and other intangible assets arising from acquisitions 
+(e) Mainly including donations and expenses incurred for the Group’s Sustainable Social Value and Common Prosperity Programme ("SSV & CPP”) initiatives 
+(f) Primarily non-recurring compliance-related costs and expenses incurred for certain litigation settlements of the Group and/or arising from investee companies 
+(g) Income tax effects of non-IFRS adjustments 
