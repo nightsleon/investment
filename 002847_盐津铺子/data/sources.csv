@@ -1,0 +1,19 @@
+类别,资料,日期或期间,来源,URL或本地文件
+公司公告,盐津铺子2020年年度报告,2020,巨潮资讯,https://static.cninfo.com.cn/finalpage/2021-03-31/1209492236.PDF
+公司公告,盐津铺子2021年年度报告,2021,巨潮资讯,https://static.cninfo.com.cn/finalpage/2022-03-31/1212750970.PDF
+公司公告,盐津铺子2022年年度报告,2022,巨潮资讯,https://static.cninfo.com.cn/finalpage/2023-04-15/1216420073.PDF
+公司公告,盐津铺子2023年年度报告,2023,巨潮资讯,https://static.cninfo.com.cn/finalpage/2024-03-27/1219410233.PDF
+公司公告,盐津铺子2024年年度报告,2024,巨潮资讯,https://static.cninfo.com.cn/finalpage/2025-04-23/1223213811.PDF
+公司公告,盐津铺子2025年年度报告,2025,巨潮资讯,https://static.cninfo.com.cn/finalpage/2026-04-08/1225082462.PDF
+公司公告,盐津铺子2026年一季度报告,2026Q1,巨潮资讯,https://static.cninfo.com.cn/finalpage/2026-04-29/1225232838.PDF
+公司公告,2025年度权益分派实施公告,2026-06-22,巨潮资讯,https://static.cninfo.com.cn/finalpage/2026-06-22/1225378412.PDF
+公司公告,限制性股票回购注销完成公告,2026-06-22,巨潮资讯,https://static.cninfo.com.cn/finalpage/2026-06-22/1225377923.PDF
+公司公告,最新股东股份质押公告,2026-07-11,巨潮资讯,https://static.cninfo.com.cn/finalpage/2026-07-11/1225418642.PDF
+公司公告,股份回购实施完成公告,2026-01-16,巨潮资讯,https://static.cninfo.com.cn/finalpage/2026-01-16/1224935202.PDF
+公司公告,2025年限制性股票授予登记完成公告,2026-03-02,巨潮资讯,https://static.cninfo.com.cn/finalpage/2026-03-02/1224987522.PDF
+财务数据,同花顺年度主要指标,2015-2025,同花顺导出,data/002847_main_year.xls
+季度数据,同花顺单季度主要指标,2015Q4-2026Q1,同花顺导出,data/002847_main_simple.xls
+财务数据,利润表资产负债表现金流量表摘要,截至2026Q1,东方财富API,data/RPT_DMSK_FN_INCOME.json;data/RPT_DMSK_FN_BALANCE.json;data/RPT_DMSK_FN_CASHFLOW.json
+行情估值,盐津铺子及A股同行最新行情和估值历史,截至2026-07-17,东方财富API,data/valuation_history.csv;data/market_snapshot.json;data/peer_snapshot.csv
+历史股价,盐津铺子季度末前复权与不复权收盘价,截至2026Q1,Yahoo Finance 002847.SZ,data/002847_季度数据.csv
+行业与渠道,休闲食品行业与渠道变化,2025,公司年报转引/公司披露,2025年年度报告第18页起

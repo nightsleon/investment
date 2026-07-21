@@ -1,0 +1,21 @@
+{
+  "trade_date": "2026-07-17",
+  "close": 48.6,
+  "market_cap_yi": 131.311095354,
+  "total_shares_yi": 2.70187439,
+  "pe_ttm_parent": 16.39434642,
+  "pb_mrq": 6.05100482,
+  "pe_10y_percentile": 0.9657170449058425,
+  "pe_10y_min": 14.87297806,
+  "pe_10y_p10": 23.86941194,
+  "pe_10y_p25": 28.876572445,
+  "pe_10y_median": 45.95074874,
+  "pe_10y_max": 103.28020859,
+  "deduct_profit_ttm_yi": 7.6251074115,
+  "deduct_pe_ttm": 17.220884673173238,
+  "dividend_per_share_2025": 1.4,
+  "dividend_yield_2025_pct": 2.8806584362139915,
+  "cash_position_2026q1_yi": -1.1025777389999998,
+  "cash_position_per_share_2026q1": -0.40807882967497977,
+  "financial_cutoff": "2026Q1"
+}
