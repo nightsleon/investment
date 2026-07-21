@@ -1,0 +1,11 @@
+date,title,source_type,url,usage
+2026-03-31,中国神华2025年度报告,官方财报,https://static.cninfo.com.cn/finalpage/2026-03-31/1225064293.PDF,年度财务/业务/储量/分部/治理
+2026-04-25,中国神华2026年第一季度报告,官方财报,https://static.cninfo.com.cn/finalpage/2026-04-25/1225185746.PDF,Q1财务/运营/并购贷款/资本开支计划
+2026-02-13,发行股份及支付现金购买资产并募集配套资金暨关联交易报告书,官方交易文件,https://static.cninfo.com.cn/finalpage/2026-02-13/1224979750.PDF,交易对价/备考利润/资源量/负债率
+2026-03-18,重组实施情况暨新增股份上市公告书,官方交易文件,https://static.cninfo.com.cn/finalpage/2026-03-18/1225014657.PDF,资产过户/股份对价/新增股本
+2026-03-31,募集配套资金发行情况报告书,官方融资文件,https://static.cninfo.com.cn/finalpage/2026-03-31/1225064294.PDF,配套融资价格/股数/净额
+2025-11-04,2025年半年度权益分派实施公告,官方分红公告,https://static.cninfo.com.cn/finalpage/2025-11-04/1224784190.PDF,中期分红实施
+2026-07-06,2025年度权益分派实施公告,官方分红公告,https://static.cninfo.com.cn/finalpage/2026-07-06/1225410284.PDF,年度分红实施
+2026-07-20,2026年6月份主要运营数据公告,官方运营公告,https://static.cninfo.com.cn/finalpage/2026-07-20/1225431441.PDF,2026上半年运营数据
+2026-07-20,东方财富估值与财务API,行情与估值API,https://datacenter.eastmoney.com/securities/api/data/v1/get,行情/PE/PB/同业/财务交叉验证
+2026-07-20,Yahoo Finance,行情数据,https://finance.yahoo.com/,A股H股历史价格及汇率快照

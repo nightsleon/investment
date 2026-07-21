@@ -1,0 +1,21 @@
+{
+  "final_transaction_price_yi": 1335.98,
+  "share_consideration_yi": 400.795043,
+  "cash_consideration_yi": 935.188435,
+  "asset_issue_price": 29.4,
+  "asset_issue_shares": 1363248446,
+  "placement_issue_price": 43.7,
+  "placement_issue_shares": 457665903,
+  "placement_net_proceeds_yi": 199.674927,
+  "post_issue_total_shares": 21689434304,
+  "target_2024_revenue_yi": 1139.74,
+  "target_2024_deduct_profit_yi": 94.28,
+  "proforma_2024_revenue_yi": 4321.83,
+  "proforma_2024_deduct_profit_yi": 668.51,
+  "proforma_2025_1_7_revenue_yi": 2065.09,
+  "proforma_2025_1_7_deduct_profit_yi": 326.37,
+  "proforma_2024_debt_asset_ratio_pct": 43.6,
+  "resource_after_yi_ton": 684.9,
+  "recoverable_after_yi_ton": 345.0,
+  "source": "2026-02-13重组报告书、2026-03-18及2026-04-09实施公告"
+}
