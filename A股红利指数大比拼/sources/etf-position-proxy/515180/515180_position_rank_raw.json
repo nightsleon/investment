@@ -1,0 +1,2954 @@
+{
+  "status_code": 0,
+  "status_msg": "success",
+  "data": {
+    "pastYearRate": {
+      "20191231": {
+        "shareClassPosition": [],
+        "heavyStock": [],
+        "share_per": "",
+        "reportDate": "20191231"
+      },
+      "20200331": {
+        "shareClassPosition": [
+          {
+            "industry": "周期",
+            "rate": "51.47"
+          },
+          {
+            "industry": "科技",
+            "rate": "11.95"
+          },
+          {
+            "industry": "制造",
+            "rate": "20.47"
+          },
+          {
+            "industry": "基建",
+            "rate": "16.11"
+          }
+        ],
+        "heavyStock": [
+          {
+            "sec_name": "方大特钢",
+            "sec_code": "600507",
+            "type": "astock",
+            "thscode": "600507.SH",
+            "sec_code_quo": "600507",
+            "industry": "周期",
+            "marketValueRatio": "2.47"
+          },
+          {
+            "sec_name": "依顿电子",
+            "sec_code": "603328",
+            "type": "astock",
+            "thscode": "603328.SH",
+            "sec_code_quo": "603328",
+            "industry": "科技",
+            "marketValueRatio": "2.27"
+          },
+          {
+            "sec_name": "康力电梯",
+            "sec_code": "002367",
+            "type": "astock",
+            "thscode": "002367.SZ",
+            "sec_code_quo": "002367",
+            "industry": "制造",
+            "marketValueRatio": "2.12"
+          },
+          {
+            "sec_name": "三钢闽光",
+            "sec_code": "002110",
+            "type": "astock",
+            "thscode": "002110.SZ",
+            "sec_code_quo": "002110",
+            "industry": "周期",
+            "marketValueRatio": "2.09"
+          },
+          {
+            "sec_name": "龙佰集团",
+            "sec_code": "002601",
+            "type": "astock",
+            "thscode": "002601.SZ",
+            "sec_code_quo": "002601",
+            "industry": "周期",
+            "marketValueRatio": "2.06"
+          },
+          {
+            "sec_name": "九阳股份",
+            "sec_code": "002242",
+            "type": "astock",
+            "thscode": "002242.SZ",
+            "sec_code_quo": "002242",
+            "industry": "制造",
+            "marketValueRatio": "1.77"
+          },
+          {
+            "sec_name": "梅花生物",
+            "sec_code": "600873",
+            "type": "astock",
+            "thscode": "600873.SH",
+            "sec_code_quo": "600873",
+            "industry": "周期",
+            "marketValueRatio": "1.60"
+          },
+          {
+            "sec_name": "柳钢股份",
+            "sec_code": "601003",
+            "type": "astock",
+            "thscode": "601003.SH",
+            "sec_code_quo": "601003",
+            "industry": "周期",
+            "marketValueRatio": "1.56"
+          },
+          {
+            "sec_name": "旗滨集团",
+            "sec_code": "601636",
+            "type": "astock",
+            "thscode": "601636.SH",
+            "sec_code_quo": "601636",
+            "industry": "基建",
+            "marketValueRatio": "1.56"
+          },
+          {
+            "sec_name": "塔牌集团",
+            "sec_code": "002233",
+            "type": "astock",
+            "thscode": "002233.SZ",
+            "sec_code_quo": "002233",
+            "industry": "基建",
+            "marketValueRatio": "1.50"
+          }
+        ],
+        "share_per": "19.00",
+        "reportDate": "20200331"
+      },
+      "20200630": {
+        "shareClassPosition": [
+          {
+            "industry": "周期",
+            "rate": "31.54"
+          },
+          {
+            "industry": "制造",
+            "rate": "30.01"
+          },
+          {
+            "industry": "科技",
+            "rate": "10.84"
+          },
+          {
+            "industry": "基建",
+            "rate": "27.61"
+          }
+        ],
+        "heavyStock": [
+          {
+            "sec_name": "龙佰集团",
+            "sec_code": "002601",
+            "type": "astock",
+            "thscode": "002601.SZ",
+            "sec_code_quo": "002601",
+            "industry": "周期",
+            "marketValueRatio": "2.47"
+          },
+          {
+            "sec_name": "方大特钢",
+            "sec_code": "600507",
+            "type": "astock",
+            "thscode": "600507.SH",
+            "sec_code_quo": "600507",
+            "industry": "周期",
+            "marketValueRatio": "2.28"
+          },
+          {
+            "sec_name": "九阳股份",
+            "sec_code": "002242",
+            "type": "astock",
+            "thscode": "002242.SZ",
+            "sec_code_quo": "002242",
+            "industry": "制造",
+            "marketValueRatio": "2.27"
+          },
+          {
+            "sec_name": "依顿电子",
+            "sec_code": "603328",
+            "type": "astock",
+            "thscode": "603328.SH",
+            "sec_code_quo": "603328",
+            "industry": "科技",
+            "marketValueRatio": "2.21"
+          },
+          {
+            "sec_name": "康力电梯",
+            "sec_code": "002367",
+            "type": "astock",
+            "thscode": "002367.SZ",
+            "sec_code_quo": "002367",
+            "industry": "制造",
+            "marketValueRatio": "2.18"
+          },
+          {
+            "sec_name": "粤高速A",
+            "sec_code": "000429",
+            "type": "astock",
+            "thscode": "000429.SZ",
+            "sec_code_quo": "000429",
+            "industry": "基建",
+            "marketValueRatio": "2.03"
+          },
+          {
+            "sec_name": "旗滨集团",
+            "sec_code": "601636",
+            "type": "astock",
+            "thscode": "601636.SH",
+            "sec_code_quo": "601636",
+            "industry": "基建",
+            "marketValueRatio": "1.84"
+          },
+          {
+            "sec_name": "华联控股",
+            "sec_code": "000036",
+            "type": "astock",
+            "thscode": "000036.SZ",
+            "sec_code_quo": "000036",
+            "industry": "基建",
+            "marketValueRatio": "1.76"
+          },
+          {
+            "sec_name": "三钢闽光",
+            "sec_code": "002110",
+            "type": "astock",
+            "thscode": "002110.SZ",
+            "sec_code_quo": "002110",
+            "industry": "周期",
+            "marketValueRatio": "1.68"
+          },
+          {
+            "sec_name": "东睦股份",
+            "sec_code": "600114",
+            "type": "astock",
+            "thscode": "600114.SH",
+            "sec_code_quo": "600114",
+            "industry": "制造",
+            "marketValueRatio": "1.67"
+          }
+        ],
+        "share_per": "20.39",
+        "reportDate": "20200630"
+      },
+      "20200930": {
+        "shareClassPosition": [
+          {
+            "industry": "周期",
+            "rate": "31.92"
+          },
+          {
+            "industry": "制造",
+            "rate": "31.36"
+          },
+          {
+            "industry": "基建",
+            "rate": "20.19"
+          },
+          {
+            "industry": "消费",
+            "rate": "8.40"
+          },
+          {
+            "industry": "科技",
+            "rate": "8.13"
+          }
+        ],
+        "heavyStock": [
+          {
+            "sec_name": "龙佰集团",
+            "sec_code": "002601",
+            "type": "astock",
+            "thscode": "002601.SZ",
+            "sec_code_quo": "002601",
+            "industry": "周期",
+            "marketValueRatio": "2.89"
+          },
+          {
+            "sec_name": "康力电梯",
+            "sec_code": "002367",
+            "type": "astock",
+            "thscode": "002367.SZ",
+            "sec_code_quo": "002367",
+            "industry": "制造",
+            "marketValueRatio": "2.55"
+          },
+          {
+            "sec_name": "旗滨集团",
+            "sec_code": "601636",
+            "type": "astock",
+            "thscode": "601636.SH",
+            "sec_code_quo": "601636",
+            "industry": "基建",
+            "marketValueRatio": "2.47"
+          },
+          {
+            "sec_name": "九阳股份",
+            "sec_code": "002242",
+            "type": "astock",
+            "thscode": "002242.SZ",
+            "sec_code_quo": "002242",
+            "industry": "制造",
+            "marketValueRatio": "2.28"
+          },
+          {
+            "sec_name": "方大特钢",
+            "sec_code": "600507",
+            "type": "astock",
+            "thscode": "600507.SH",
+            "sec_code_quo": "600507",
+            "industry": "周期",
+            "marketValueRatio": "2.21"
+          },
+          {
+            "sec_name": "科华数据",
+            "sec_code": "002335",
+            "type": "astock",
+            "thscode": "002335.SZ",
+            "sec_code_quo": "002335",
+            "industry": "制造",
+            "marketValueRatio": "1.85"
+          },
+          {
+            "sec_name": "粤高速A",
+            "sec_code": "000429",
+            "type": "astock",
+            "thscode": "000429.SZ",
+            "sec_code_quo": "000429",
+            "industry": "基建",
+            "marketValueRatio": "1.83"
+          },
+          {
+            "sec_name": "双汇发展",
+            "sec_code": "000895",
+            "type": "astock",
+            "thscode": "000895.SZ",
+            "sec_code_quo": "000895",
+            "industry": "消费",
+            "marketValueRatio": "1.79"
+          },
+          {
+            "sec_name": "依顿电子",
+            "sec_code": "603328",
+            "type": "astock",
+            "thscode": "603328.SH",
+            "sec_code_quo": "603328",
+            "industry": "科技",
+            "marketValueRatio": "1.73"
+          },
+          {
+            "sec_name": "梅花生物",
+            "sec_code": "600873",
+            "type": "astock",
+            "thscode": "600873.SH",
+            "sec_code_quo": "600873",
+            "industry": "周期",
+            "marketValueRatio": "1.70"
+          }
+        ],
+        "share_per": "21.30",
+        "reportDate": "20200930"
+      },
+      "20201231": {
+        "shareClassPosition": [
+          {
+            "industry": "医疗",
+            "rate": "11.36"
+          },
+          {
+            "industry": "周期",
+            "rate": "49.10"
+          },
+          {
+            "industry": "科技",
+            "rate": "19.69"
+          },
+          {
+            "industry": "基建",
+            "rate": "19.85"
+          }
+        ],
+        "heavyStock": [
+          {
+            "sec_name": "大东方",
+            "sec_code": "600327",
+            "type": "astock",
+            "thscode": "600327.SH",
+            "sec_code_quo": "600327",
+            "industry": "医疗",
+            "marketValueRatio": "1.95"
+          },
+          {
+            "sec_name": "兖矿能源",
+            "sec_code": "600188",
+            "type": "astock",
+            "thscode": "600188.SH",
+            "sec_code_quo": "600188",
+            "industry": "周期",
+            "marketValueRatio": "1.93"
+          },
+          {
+            "sec_name": "柳钢股份",
+            "sec_code": "601003",
+            "type": "astock",
+            "thscode": "601003.SH",
+            "sec_code_quo": "601003",
+            "industry": "周期",
+            "marketValueRatio": "1.80"
+          },
+          {
+            "sec_name": "天威视讯",
+            "sec_code": "002238",
+            "type": "astock",
+            "thscode": "002238.SZ",
+            "sec_code_quo": "002238",
+            "industry": "科技",
+            "marketValueRatio": "1.73"
+          },
+          {
+            "sec_name": "苏宁环球",
+            "sec_code": "000718",
+            "type": "astock",
+            "thscode": "000718.SZ",
+            "sec_code_quo": "000718",
+            "industry": "基建",
+            "marketValueRatio": "1.72"
+          },
+          {
+            "sec_name": "华联控股",
+            "sec_code": "000036",
+            "type": "astock",
+            "thscode": "000036.SZ",
+            "sec_code_quo": "000036",
+            "industry": "基建",
+            "marketValueRatio": "1.69"
+          },
+          {
+            "sec_name": "依顿电子",
+            "sec_code": "603328",
+            "type": "astock",
+            "thscode": "603328.SH",
+            "sec_code_quo": "603328",
+            "industry": "科技",
+            "marketValueRatio": "1.65"
+          },
+          {
+            "sec_name": "三钢闽光",
+            "sec_code": "002110",
+            "type": "astock",
+            "thscode": "002110.SZ",
+            "sec_code_quo": "002110",
+            "industry": "周期",
+            "marketValueRatio": "1.58"
+          },
+          {
+            "sec_name": "永兴材料",
+            "sec_code": "002756",
+            "type": "astock",
+            "thscode": "002756.SZ",
+            "sec_code_quo": "002756",
+            "industry": "周期",
+            "marketValueRatio": "1.57"
+          },
+          {
+            "sec_name": "南钢股份",
+            "sec_code": "600282",
+            "type": "astock",
+            "thscode": "600282.SH",
+            "sec_code_quo": "600282",
+            "industry": "周期",
+            "marketValueRatio": "1.55"
+          }
+        ],
+        "share_per": "17.17",
+        "reportDate": "20201231"
+      },
+      "20210331": {
+        "shareClassPosition": [
+          {
+            "industry": "周期",
+            "rate": "61.94"
+          },
+          {
+            "industry": "基建",
+            "rate": "28.09"
+          },
+          {
+            "industry": "医疗",
+            "rate": "9.97"
+          }
+        ],
+        "heavyStock": [
+          {
+            "sec_name": "兖矿能源",
+            "sec_code": "600188",
+            "type": "astock",
+            "thscode": "600188.SH",
+            "sec_code_quo": "600188",
+            "industry": "周期",
+            "marketValueRatio": "2.40"
+          },
+          {
+            "sec_name": "柳钢股份",
+            "sec_code": "601003",
+            "type": "astock",
+            "thscode": "601003.SH",
+            "sec_code_quo": "601003",
+            "industry": "周期",
+            "marketValueRatio": "2.13"
+          },
+          {
+            "sec_name": "苏宁环球",
+            "sec_code": "000718",
+            "type": "astock",
+            "thscode": "000718.SZ",
+            "sec_code_quo": "000718",
+            "industry": "基建",
+            "marketValueRatio": "1.90"
+          },
+          {
+            "sec_name": "南钢股份",
+            "sec_code": "600282",
+            "type": "astock",
+            "thscode": "600282.SH",
+            "sec_code_quo": "600282",
+            "industry": "周期",
+            "marketValueRatio": "1.83"
+          },
+          {
+            "sec_name": "大东方",
+            "sec_code": "600327",
+            "type": "astock",
+            "thscode": "600327.SH",
+            "sec_code_quo": "600327",
+            "industry": "医疗",
+            "marketValueRatio": "1.82"
+          },
+          {
+            "sec_name": "永兴材料",
+            "sec_code": "002756",
+            "type": "astock",
+            "thscode": "002756.SZ",
+            "sec_code_quo": "002756",
+            "industry": "周期",
+            "marketValueRatio": "1.73"
+          },
+          {
+            "sec_name": "华联控股",
+            "sec_code": "000036",
+            "type": "astock",
+            "thscode": "000036.SZ",
+            "sec_code_quo": "000036",
+            "industry": "基建",
+            "marketValueRatio": "1.66"
+          },
+          {
+            "sec_name": "三钢闽光",
+            "sec_code": "002110",
+            "type": "astock",
+            "thscode": "002110.SZ",
+            "sec_code_quo": "002110",
+            "industry": "周期",
+            "marketValueRatio": "1.65"
+          },
+          {
+            "sec_name": "宝钢股份",
+            "sec_code": "600019",
+            "type": "astock",
+            "thscode": "600019.SH",
+            "sec_code_quo": "600019",
+            "industry": "周期",
+            "marketValueRatio": "1.57"
+          },
+          {
+            "sec_name": "鲁阳节能",
+            "sec_code": "002088",
+            "type": "astock",
+            "thscode": "002088.SZ",
+            "sec_code_quo": "002088",
+            "industry": "基建",
+            "marketValueRatio": "1.57"
+          }
+        ],
+        "share_per": "18.26",
+        "reportDate": "20210331"
+      },
+      "20210630": {
+        "shareClassPosition": [
+          {
+            "industry": "基建",
+            "rate": "32.29"
+          },
+          {
+            "industry": "医疗",
+            "rate": "15.90"
+          },
+          {
+            "industry": "周期",
+            "rate": "36.36"
+          },
+          {
+            "industry": "制造",
+            "rate": "15.45"
+          }
+        ],
+        "heavyStock": [
+          {
+            "sec_name": "苏宁环球",
+            "sec_code": "000718",
+            "type": "astock",
+            "thscode": "000718.SZ",
+            "sec_code_quo": "000718",
+            "industry": "基建",
+            "marketValueRatio": "3.65"
+          },
+          {
+            "sec_name": "大东方",
+            "sec_code": "600327",
+            "type": "astock",
+            "thscode": "600327.SH",
+            "sec_code_quo": "600327",
+            "industry": "医疗",
+            "marketValueRatio": "3.59"
+          },
+          {
+            "sec_name": "兖矿能源",
+            "sec_code": "600188",
+            "type": "astock",
+            "thscode": "600188.SH",
+            "sec_code_quo": "600188",
+            "industry": "周期",
+            "marketValueRatio": "2.58"
+          },
+          {
+            "sec_name": "永兴材料",
+            "sec_code": "002756",
+            "type": "astock",
+            "thscode": "002756.SZ",
+            "sec_code_quo": "002756",
+            "industry": "周期",
+            "marketValueRatio": "2.09"
+          },
+          {
+            "sec_name": "鲁阳节能",
+            "sec_code": "002088",
+            "type": "astock",
+            "thscode": "002088.SZ",
+            "sec_code_quo": "002088",
+            "industry": "基建",
+            "marketValueRatio": "1.91"
+          },
+          {
+            "sec_name": "柳钢股份",
+            "sec_code": "601003",
+            "type": "astock",
+            "thscode": "601003.SH",
+            "sec_code_quo": "601003",
+            "industry": "周期",
+            "marketValueRatio": "1.79"
+          },
+          {
+            "sec_name": "旷达科技",
+            "sec_code": "002516",
+            "type": "astock",
+            "thscode": "002516.SZ",
+            "sec_code_quo": "002516",
+            "industry": "制造",
+            "marketValueRatio": "1.77"
+          },
+          {
+            "sec_name": "马钢股份",
+            "sec_code": "600808",
+            "type": "astock",
+            "thscode": "600808.SH",
+            "sec_code_quo": "600808",
+            "industry": "周期",
+            "marketValueRatio": "1.75"
+          },
+          {
+            "sec_name": "华联控股",
+            "sec_code": "000036",
+            "type": "astock",
+            "thscode": "000036.SZ",
+            "sec_code_quo": "000036",
+            "industry": "基建",
+            "marketValueRatio": "1.73"
+          },
+          {
+            "sec_name": "莱克电气",
+            "sec_code": "603355",
+            "type": "astock",
+            "thscode": "603355.SH",
+            "sec_code_quo": "603355",
+            "industry": "制造",
+            "marketValueRatio": "1.72"
+          }
+        ],
+        "share_per": "22.58",
+        "reportDate": "20210630"
+      },
+      "20210930": {
+        "shareClassPosition": [
+          {
+            "industry": "周期",
+            "rate": "72.69"
+          },
+          {
+            "industry": "基建",
+            "rate": "18.50"
+          },
+          {
+            "industry": "医疗",
+            "rate": "8.81"
+          }
+        ],
+        "heavyStock": [
+          {
+            "sec_name": "兖矿能源",
+            "sec_code": "600188",
+            "type": "astock",
+            "thscode": "600188.SH",
+            "sec_code_quo": "600188",
+            "industry": "周期",
+            "marketValueRatio": "4.74"
+          },
+          {
+            "sec_name": "永兴材料",
+            "sec_code": "002756",
+            "type": "astock",
+            "thscode": "002756.SZ",
+            "sec_code_quo": "002756",
+            "industry": "周期",
+            "marketValueRatio": "3.21"
+          },
+          {
+            "sec_name": "淮北矿业",
+            "sec_code": "600985",
+            "type": "astock",
+            "thscode": "600985.SH",
+            "sec_code_quo": "600985",
+            "industry": "周期",
+            "marketValueRatio": "2.89"
+          },
+          {
+            "sec_name": "鲁阳节能",
+            "sec_code": "002088",
+            "type": "astock",
+            "thscode": "002088.SZ",
+            "sec_code_quo": "002088",
+            "industry": "基建",
+            "marketValueRatio": "2.64"
+          },
+          {
+            "sec_name": "大东方",
+            "sec_code": "600327",
+            "type": "astock",
+            "thscode": "600327.SH",
+            "sec_code_quo": "600327",
+            "industry": "医疗",
+            "marketValueRatio": "2.24"
+          },
+          {
+            "sec_name": "苏宁环球",
+            "sec_code": "000718",
+            "type": "astock",
+            "thscode": "000718.SZ",
+            "sec_code_quo": "000718",
+            "industry": "基建",
+            "marketValueRatio": "2.06"
+          },
+          {
+            "sec_name": "华阳股份",
+            "sec_code": "600348",
+            "type": "astock",
+            "thscode": "600348.SH",
+            "sec_code_quo": "600348",
+            "industry": "周期",
+            "marketValueRatio": "2.02"
+          },
+          {
+            "sec_name": "马钢股份",
+            "sec_code": "600808",
+            "type": "astock",
+            "thscode": "600808.SH",
+            "sec_code_quo": "600808",
+            "industry": "周期",
+            "marketValueRatio": "1.96"
+          },
+          {
+            "sec_name": "柳钢股份",
+            "sec_code": "601003",
+            "type": "astock",
+            "thscode": "601003.SH",
+            "sec_code_quo": "601003",
+            "industry": "周期",
+            "marketValueRatio": "1.90"
+          },
+          {
+            "sec_name": "三钢闽光",
+            "sec_code": "002110",
+            "type": "astock",
+            "thscode": "002110.SZ",
+            "sec_code_quo": "002110",
+            "industry": "周期",
+            "marketValueRatio": "1.75"
+          }
+        ],
+        "share_per": "25.41",
+        "reportDate": "20210930"
+      },
+      "20211231": {
+        "shareClassPosition": [
+          {
+            "industry": "医疗",
+            "rate": "25.08"
+          },
+          {
+            "industry": "周期",
+            "rate": "29.98"
+          },
+          {
+            "industry": "消费",
+            "rate": "10.06"
+          },
+          {
+            "industry": "基建",
+            "rate": "25.88"
+          },
+          {
+            "industry": "制造",
+            "rate": "9.00"
+          }
+        ],
+        "heavyStock": [
+          {
+            "sec_name": "大东方",
+            "sec_code": "600327",
+            "type": "astock",
+            "thscode": "600327.SH",
+            "sec_code_quo": "600327",
+            "industry": "医疗",
+            "marketValueRatio": "2.32"
+          },
+          {
+            "sec_name": "兖矿能源",
+            "sec_code": "600188",
+            "type": "astock",
+            "thscode": "600188.SH",
+            "sec_code_quo": "600188",
+            "industry": "周期",
+            "marketValueRatio": "1.95"
+          },
+          {
+            "sec_name": "千金药业",
+            "sec_code": "600479",
+            "type": "astock",
+            "thscode": "600479.SH",
+            "sec_code_quo": "600479",
+            "industry": "医疗",
+            "marketValueRatio": "1.72"
+          },
+          {
+            "sec_name": "汇洁股份",
+            "sec_code": "002763",
+            "type": "astock",
+            "thscode": "002763.SZ",
+            "sec_code_quo": "002763",
+            "industry": "消费",
+            "marketValueRatio": "1.62"
+          },
+          {
+            "sec_name": "华发股份",
+            "sec_code": "600325",
+            "type": "astock",
+            "thscode": "600325.SH",
+            "sec_code_quo": "600325",
+            "industry": "基建",
+            "marketValueRatio": "1.55"
+          },
+          {
+            "sec_name": "中国神华",
+            "sec_code": "601088",
+            "type": "astock",
+            "thscode": "601088.SH",
+            "sec_code_quo": "601088",
+            "industry": "周期",
+            "marketValueRatio": "1.52"
+          },
+          {
+            "sec_name": "江铃汽车",
+            "sec_code": "000550",
+            "type": "astock",
+            "thscode": "000550.SZ",
+            "sec_code_quo": "000550",
+            "industry": "制造",
+            "marketValueRatio": "1.45"
+          },
+          {
+            "sec_name": "南钢股份",
+            "sec_code": "600282",
+            "type": "astock",
+            "thscode": "600282.SH",
+            "sec_code_quo": "600282",
+            "industry": "周期",
+            "marketValueRatio": "1.36"
+          },
+          {
+            "sec_name": "首开股份",
+            "sec_code": "600376",
+            "type": "astock",
+            "thscode": "600376.SH",
+            "sec_code_quo": "600376",
+            "industry": "基建",
+            "marketValueRatio": "1.31"
+          },
+          {
+            "sec_name": "华联控股",
+            "sec_code": "000036",
+            "type": "astock",
+            "thscode": "000036.SZ",
+            "sec_code_quo": "000036",
+            "industry": "基建",
+            "marketValueRatio": "1.31"
+          }
+        ],
+        "share_per": "16.11",
+        "reportDate": "20211231"
+      },
+      "20220331": {
+        "shareClassPosition": [
+          {
+            "industry": "周期",
+            "rate": "45.25"
+          },
+          {
+            "industry": "医疗",
+            "rate": "21.56"
+          },
+          {
+            "industry": "基建",
+            "rate": "33.19"
+          }
+        ],
+        "heavyStock": [
+          {
+            "sec_name": "兖矿能源",
+            "sec_code": "600188",
+            "type": "astock",
+            "thscode": "600188.SH",
+            "sec_code_quo": "600188",
+            "industry": "周期",
+            "marketValueRatio": "3.15"
+          },
+          {
+            "sec_name": "大东方",
+            "sec_code": "600327",
+            "type": "astock",
+            "thscode": "600327.SH",
+            "sec_code_quo": "600327",
+            "industry": "医疗",
+            "marketValueRatio": "2.44"
+          },
+          {
+            "sec_name": "平煤股份",
+            "sec_code": "601666",
+            "type": "astock",
+            "thscode": "601666.SH",
+            "sec_code_quo": "601666",
+            "industry": "周期",
+            "marketValueRatio": "2.05"
+          },
+          {
+            "sec_name": "中国神华",
+            "sec_code": "601088",
+            "type": "astock",
+            "thscode": "601088.SH",
+            "sec_code_quo": "601088",
+            "industry": "周期",
+            "marketValueRatio": "1.98"
+          },
+          {
+            "sec_name": "华发股份",
+            "sec_code": "600325",
+            "type": "astock",
+            "thscode": "600325.SH",
+            "sec_code_quo": "600325",
+            "industry": "基建",
+            "marketValueRatio": "1.84"
+          },
+          {
+            "sec_name": "千金药业",
+            "sec_code": "600479",
+            "type": "astock",
+            "thscode": "600479.SH",
+            "sec_code_quo": "600479",
+            "industry": "医疗",
+            "marketValueRatio": "1.69"
+          },
+          {
+            "sec_name": "建发股份",
+            "sec_code": "600153",
+            "type": "astock",
+            "thscode": "600153.SH",
+            "sec_code_quo": "600153",
+            "industry": "基建",
+            "marketValueRatio": "1.61"
+          },
+          {
+            "sec_name": "首开股份",
+            "sec_code": "600376",
+            "type": "astock",
+            "thscode": "600376.SH",
+            "sec_code_quo": "600376",
+            "industry": "基建",
+            "marketValueRatio": "1.51"
+          },
+          {
+            "sec_name": "淮北矿业",
+            "sec_code": "600985",
+            "type": "astock",
+            "thscode": "600985.SH",
+            "sec_code_quo": "600985",
+            "industry": "周期",
+            "marketValueRatio": "1.49"
+          },
+          {
+            "sec_name": "天健集团",
+            "sec_code": "000090",
+            "type": "astock",
+            "thscode": "000090.SZ",
+            "sec_code_quo": "000090",
+            "industry": "基建",
+            "marketValueRatio": "1.40"
+          }
+        ],
+        "share_per": "19.16",
+        "reportDate": "20220331"
+      },
+      "20220630": {
+        "shareClassPosition": [
+          {
+            "industry": "周期",
+            "rate": "63.87"
+          },
+          {
+            "industry": "医疗",
+            "rate": "10.36"
+          },
+          {
+            "industry": "基建",
+            "rate": "25.77"
+          }
+        ],
+        "heavyStock": [
+          {
+            "sec_name": "兖矿能源",
+            "sec_code": "600188",
+            "type": "astock",
+            "thscode": "600188.SH",
+            "sec_code_quo": "600188",
+            "industry": "周期",
+            "marketValueRatio": "3.41"
+          },
+          {
+            "sec_name": "中国神华",
+            "sec_code": "601088",
+            "type": "astock",
+            "thscode": "601088.SH",
+            "sec_code_quo": "601088",
+            "industry": "周期",
+            "marketValueRatio": "2.27"
+          },
+          {
+            "sec_name": "大东方",
+            "sec_code": "600327",
+            "type": "astock",
+            "thscode": "600327.SH",
+            "sec_code_quo": "600327",
+            "industry": "医疗",
+            "marketValueRatio": "1.99"
+          },
+          {
+            "sec_name": "华发股份",
+            "sec_code": "600325",
+            "type": "astock",
+            "thscode": "600325.SH",
+            "sec_code_quo": "600325",
+            "industry": "基建",
+            "marketValueRatio": "1.97"
+          },
+          {
+            "sec_name": "江山股份",
+            "sec_code": "600389",
+            "type": "astock",
+            "thscode": "600389.SH",
+            "sec_code_quo": "600389",
+            "industry": "周期",
+            "marketValueRatio": "1.70"
+          },
+          {
+            "sec_name": "梅花生物",
+            "sec_code": "600873",
+            "type": "astock",
+            "thscode": "600873.SH",
+            "sec_code_quo": "600873",
+            "industry": "周期",
+            "marketValueRatio": "1.65"
+          },
+          {
+            "sec_name": "平煤股份",
+            "sec_code": "601666",
+            "type": "astock",
+            "thscode": "601666.SH",
+            "sec_code_quo": "601666",
+            "industry": "周期",
+            "marketValueRatio": "1.64"
+          },
+          {
+            "sec_name": "陕西煤业",
+            "sec_code": "601225",
+            "type": "astock",
+            "thscode": "601225.SH",
+            "sec_code_quo": "601225",
+            "industry": "周期",
+            "marketValueRatio": "1.60"
+          },
+          {
+            "sec_name": "华联控股",
+            "sec_code": "000036",
+            "type": "astock",
+            "thscode": "000036.SZ",
+            "sec_code_quo": "000036",
+            "industry": "基建",
+            "marketValueRatio": "1.51"
+          },
+          {
+            "sec_name": "建发股份",
+            "sec_code": "600153",
+            "type": "astock",
+            "thscode": "600153.SH",
+            "sec_code_quo": "600153",
+            "industry": "基建",
+            "marketValueRatio": "1.47"
+          }
+        ],
+        "share_per": "19.21",
+        "reportDate": "20220630"
+      },
+      "20220930": {
+        "shareClassPosition": [
+          {
+            "industry": "周期",
+            "rate": "63.50"
+          },
+          {
+            "industry": "基建",
+            "rate": "27.76"
+          },
+          {
+            "industry": "医疗",
+            "rate": "8.74"
+          }
+        ],
+        "heavyStock": [
+          {
+            "sec_name": "兖矿能源",
+            "sec_code": "600188",
+            "type": "astock",
+            "thscode": "600188.SH",
+            "sec_code_quo": "600188",
+            "industry": "周期",
+            "marketValueRatio": "4.54"
+          },
+          {
+            "sec_name": "华发股份",
+            "sec_code": "600325",
+            "type": "astock",
+            "thscode": "600325.SH",
+            "sec_code_quo": "600325",
+            "industry": "基建",
+            "marketValueRatio": "2.70"
+          },
+          {
+            "sec_name": "中国神华",
+            "sec_code": "601088",
+            "type": "astock",
+            "thscode": "601088.SH",
+            "sec_code_quo": "601088",
+            "industry": "周期",
+            "marketValueRatio": "2.26"
+          },
+          {
+            "sec_name": "大东方",
+            "sec_code": "600327",
+            "type": "astock",
+            "thscode": "600327.SH",
+            "sec_code_quo": "600327",
+            "industry": "医疗",
+            "marketValueRatio": "1.87"
+          },
+          {
+            "sec_name": "陕西煤业",
+            "sec_code": "601225",
+            "type": "astock",
+            "thscode": "601225.SH",
+            "sec_code_quo": "601225",
+            "industry": "周期",
+            "marketValueRatio": "1.80"
+          },
+          {
+            "sec_name": "平煤股份",
+            "sec_code": "601666",
+            "type": "astock",
+            "thscode": "601666.SH",
+            "sec_code_quo": "601666",
+            "industry": "周期",
+            "marketValueRatio": "1.73"
+          },
+          {
+            "sec_name": "淮北矿业",
+            "sec_code": "600985",
+            "type": "astock",
+            "thscode": "600985.SH",
+            "sec_code_quo": "600985",
+            "industry": "周期",
+            "marketValueRatio": "1.71"
+          },
+          {
+            "sec_name": "建发股份",
+            "sec_code": "600153",
+            "type": "astock",
+            "thscode": "600153.SH",
+            "sec_code_quo": "600153",
+            "industry": "基建",
+            "marketValueRatio": "1.63"
+          },
+          {
+            "sec_name": "华联控股",
+            "sec_code": "000036",
+            "type": "astock",
+            "thscode": "000036.SZ",
+            "sec_code_quo": "000036",
+            "industry": "基建",
+            "marketValueRatio": "1.61"
+          },
+          {
+            "sec_name": "梅花生物",
+            "sec_code": "600873",
+            "type": "astock",
+            "thscode": "600873.SH",
+            "sec_code_quo": "600873",
+            "industry": "周期",
+            "marketValueRatio": "1.55"
+          }
+        ],
+        "share_per": "21.40",
+        "reportDate": "20220930"
+      },
+      "20221231": {
+        "shareClassPosition": [
+          {
+            "industry": "周期",
+            "rate": "51.54"
+          },
+          {
+            "industry": "基建",
+            "rate": "29.26"
+          },
+          {
+            "industry": "消费",
+            "rate": "9.92"
+          },
+          {
+            "industry": "金融",
+            "rate": "9.28"
+          }
+        ],
+        "heavyStock": [
+          {
+            "sec_name": "兖矿能源",
+            "sec_code": "600188",
+            "type": "astock",
+            "thscode": "600188.SH",
+            "sec_code_quo": "600188",
+            "industry": "周期",
+            "marketValueRatio": "1.75"
+          },
+          {
+            "sec_name": "中国神华",
+            "sec_code": "601088",
+            "type": "astock",
+            "thscode": "601088.SH",
+            "sec_code_quo": "601088",
+            "industry": "周期",
+            "marketValueRatio": "1.73"
+          },
+          {
+            "sec_name": "唐山港",
+            "sec_code": "601000",
+            "type": "astock",
+            "thscode": "601000.SH",
+            "sec_code_quo": "601000",
+            "industry": "基建",
+            "marketValueRatio": "1.64"
+          },
+          {
+            "sec_name": "南钢股份",
+            "sec_code": "600282",
+            "type": "astock",
+            "thscode": "600282.SH",
+            "sec_code_quo": "600282",
+            "industry": "周期",
+            "marketValueRatio": "1.62"
+          },
+          {
+            "sec_name": "养元饮品",
+            "sec_code": "603156",
+            "type": "astock",
+            "thscode": "603156.SH",
+            "sec_code_quo": "603156",
+            "industry": "消费",
+            "marketValueRatio": "1.55"
+          },
+          {
+            "sec_name": "中国石化",
+            "sec_code": "600028",
+            "type": "astock",
+            "thscode": "600028.SH",
+            "sec_code_quo": "600028",
+            "industry": "周期",
+            "marketValueRatio": "1.53"
+          },
+          {
+            "sec_name": "大秦铁路",
+            "sec_code": "601006",
+            "type": "astock",
+            "thscode": "601006.SH",
+            "sec_code_quo": "601006",
+            "industry": "基建",
+            "marketValueRatio": "1.48"
+          },
+          {
+            "sec_name": "山东高速",
+            "sec_code": "600350",
+            "type": "astock",
+            "thscode": "600350.SH",
+            "sec_code_quo": "600350",
+            "industry": "基建",
+            "marketValueRatio": "1.45"
+          },
+          {
+            "sec_name": "交通银行",
+            "sec_code": "601328",
+            "type": "astock",
+            "thscode": "601328.SH",
+            "sec_code_quo": "601328",
+            "industry": "金融",
+            "marketValueRatio": "1.45"
+          },
+          {
+            "sec_name": "三钢闽光",
+            "sec_code": "002110",
+            "type": "astock",
+            "thscode": "002110.SZ",
+            "sec_code_quo": "002110",
+            "industry": "周期",
+            "marketValueRatio": "1.42"
+          }
+        ],
+        "share_per": "15.62",
+        "reportDate": "20221231"
+      },
+      "20230331": {
+        "shareClassPosition": [
+          {
+            "industry": "周期",
+            "rate": "43.09"
+          },
+          {
+            "industry": "基建",
+            "rate": "28.73"
+          },
+          {
+            "industry": "金融",
+            "rate": "9.87"
+          },
+          {
+            "industry": "消费",
+            "rate": "18.31"
+          }
+        ],
+        "heavyStock": [
+          {
+            "sec_name": "南钢股份",
+            "sec_code": "600282",
+            "type": "astock",
+            "thscode": "600282.SH",
+            "sec_code_quo": "600282",
+            "industry": "周期",
+            "marketValueRatio": "1.90"
+          },
+          {
+            "sec_name": "中国石化",
+            "sec_code": "600028",
+            "type": "astock",
+            "thscode": "600028.SH",
+            "sec_code_quo": "600028",
+            "industry": "周期",
+            "marketValueRatio": "1.87"
+          },
+          {
+            "sec_name": "唐山港",
+            "sec_code": "601000",
+            "type": "astock",
+            "thscode": "601000.SH",
+            "sec_code_quo": "601000",
+            "industry": "基建",
+            "marketValueRatio": "1.76"
+          },
+          {
+            "sec_name": "兖矿能源",
+            "sec_code": "600188",
+            "type": "astock",
+            "thscode": "600188.SH",
+            "sec_code_quo": "600188",
+            "industry": "周期",
+            "marketValueRatio": "1.76"
+          },
+          {
+            "sec_name": "中国神华",
+            "sec_code": "601088",
+            "type": "astock",
+            "thscode": "601088.SH",
+            "sec_code_quo": "601088",
+            "industry": "周期",
+            "marketValueRatio": "1.67"
+          },
+          {
+            "sec_name": "光大银行",
+            "sec_code": "601818",
+            "type": "astock",
+            "thscode": "601818.SH",
+            "sec_code_quo": "601818",
+            "industry": "金融",
+            "marketValueRatio": "1.65"
+          },
+          {
+            "sec_name": "森马服饰",
+            "sec_code": "002563",
+            "type": "astock",
+            "thscode": "002563.SZ",
+            "sec_code_quo": "002563",
+            "industry": "消费",
+            "marketValueRatio": "1.54"
+          },
+          {
+            "sec_name": "华发股份",
+            "sec_code": "600325",
+            "type": "astock",
+            "thscode": "600325.SH",
+            "sec_code_quo": "600325",
+            "industry": "基建",
+            "marketValueRatio": "1.53"
+          },
+          {
+            "sec_name": "养元饮品",
+            "sec_code": "603156",
+            "type": "astock",
+            "thscode": "603156.SH",
+            "sec_code_quo": "603156",
+            "industry": "消费",
+            "marketValueRatio": "1.52"
+          },
+          {
+            "sec_name": "大秦铁路",
+            "sec_code": "601006",
+            "type": "astock",
+            "thscode": "601006.SH",
+            "sec_code_quo": "601006",
+            "industry": "基建",
+            "marketValueRatio": "1.51"
+          }
+        ],
+        "share_per": "16.71",
+        "reportDate": "20230331"
+      },
+      "20230630": {
+        "shareClassPosition": [
+          {
+            "industry": "周期",
+            "rate": "46.59"
+          },
+          {
+            "industry": "基建",
+            "rate": "18.98"
+          },
+          {
+            "industry": "金融",
+            "rate": "17.27"
+          },
+          {
+            "industry": "消费",
+            "rate": "17.16"
+          }
+        ],
+        "heavyStock": [
+          {
+            "sec_name": "中国石化",
+            "sec_code": "600028",
+            "type": "astock",
+            "thscode": "600028.SH",
+            "sec_code_quo": "600028",
+            "industry": "周期",
+            "marketValueRatio": "3.01"
+          },
+          {
+            "sec_name": "盘江股份",
+            "sec_code": "600395",
+            "type": "astock",
+            "thscode": "600395.SH",
+            "sec_code_quo": "600395",
+            "industry": "周期",
+            "marketValueRatio": "2.25"
+          },
+          {
+            "sec_name": "唐山港",
+            "sec_code": "601000",
+            "type": "astock",
+            "thscode": "601000.SH",
+            "sec_code_quo": "601000",
+            "industry": "基建",
+            "marketValueRatio": "2.00"
+          },
+          {
+            "sec_name": "中国神华",
+            "sec_code": "601088",
+            "type": "astock",
+            "thscode": "601088.SH",
+            "sec_code_quo": "601088",
+            "industry": "周期",
+            "marketValueRatio": "1.83"
+          },
+          {
+            "sec_name": "交通银行",
+            "sec_code": "601328",
+            "type": "astock",
+            "thscode": "601328.SH",
+            "sec_code_quo": "601328",
+            "industry": "金融",
+            "marketValueRatio": "1.68"
+          },
+          {
+            "sec_name": "南钢股份",
+            "sec_code": "600282",
+            "type": "astock",
+            "thscode": "600282.SH",
+            "sec_code_quo": "600282",
+            "industry": "周期",
+            "marketValueRatio": "1.65"
+          },
+          {
+            "sec_name": "养元饮品",
+            "sec_code": "603156",
+            "type": "astock",
+            "thscode": "603156.SH",
+            "sec_code_quo": "603156",
+            "industry": "消费",
+            "marketValueRatio": "1.63"
+          },
+          {
+            "sec_name": "森马服饰",
+            "sec_code": "002563",
+            "type": "astock",
+            "thscode": "002563.SZ",
+            "sec_code_quo": "002563",
+            "industry": "消费",
+            "marketValueRatio": "1.59"
+          },
+          {
+            "sec_name": "大秦铁路",
+            "sec_code": "601006",
+            "type": "astock",
+            "thscode": "601006.SH",
+            "sec_code_quo": "601006",
+            "industry": "基建",
+            "marketValueRatio": "1.56"
+          },
+          {
+            "sec_name": "中国银行",
+            "sec_code": "601988",
+            "type": "astock",
+            "thscode": "601988.SH",
+            "sec_code_quo": "601988",
+            "industry": "金融",
+            "marketValueRatio": "1.56"
+          }
+        ],
+        "share_per": "18.76",
+        "reportDate": "20230630"
+      },
+      "20230930": {
+        "shareClassPosition": [
+          {
+            "industry": "周期",
+            "rate": "45.11"
+          },
+          {
+            "industry": "基建",
+            "rate": "20.19"
+          },
+          {
+            "industry": "消费",
+            "rate": "25.89"
+          },
+          {
+            "industry": "金融",
+            "rate": "8.81"
+          }
+        ],
+        "heavyStock": [
+          {
+            "sec_name": "中国石化",
+            "sec_code": "600028",
+            "type": "astock",
+            "thscode": "600028.SH",
+            "sec_code_quo": "600028",
+            "industry": "周期",
+            "marketValueRatio": "2.82"
+          },
+          {
+            "sec_name": "唐山港",
+            "sec_code": "601000",
+            "type": "astock",
+            "thscode": "601000.SH",
+            "sec_code_quo": "601000",
+            "industry": "基建",
+            "marketValueRatio": "2.06"
+          },
+          {
+            "sec_name": "盘江股份",
+            "sec_code": "600395",
+            "type": "astock",
+            "thscode": "600395.SH",
+            "sec_code_quo": "600395",
+            "industry": "周期",
+            "marketValueRatio": "1.97"
+          },
+          {
+            "sec_name": "中国神华",
+            "sec_code": "601088",
+            "type": "astock",
+            "thscode": "601088.SH",
+            "sec_code_quo": "601088",
+            "industry": "周期",
+            "marketValueRatio": "1.83"
+          },
+          {
+            "sec_name": "南钢股份",
+            "sec_code": "600282",
+            "type": "astock",
+            "thscode": "600282.SH",
+            "sec_code_quo": "600282",
+            "industry": "周期",
+            "marketValueRatio": "1.78"
+          },
+          {
+            "sec_name": "山东高速",
+            "sec_code": "600350",
+            "type": "astock",
+            "thscode": "600350.SH",
+            "sec_code_quo": "600350",
+            "industry": "基建",
+            "marketValueRatio": "1.70"
+          },
+          {
+            "sec_name": "海澜之家",
+            "sec_code": "600398",
+            "type": "astock",
+            "thscode": "600398.SH",
+            "sec_code_quo": "600398",
+            "industry": "消费",
+            "marketValueRatio": "1.68"
+          },
+          {
+            "sec_name": "交通银行",
+            "sec_code": "601328",
+            "type": "astock",
+            "thscode": "601328.SH",
+            "sec_code_quo": "601328",
+            "industry": "金融",
+            "marketValueRatio": "1.64"
+          },
+          {
+            "sec_name": "养元饮品",
+            "sec_code": "603156",
+            "type": "astock",
+            "thscode": "603156.SH",
+            "sec_code_quo": "603156",
+            "industry": "消费",
+            "marketValueRatio": "1.59"
+          },
+          {
+            "sec_name": "森马服饰",
+            "sec_code": "002563",
+            "type": "astock",
+            "thscode": "002563.SZ",
+            "sec_code_quo": "002563",
+            "industry": "消费",
+            "marketValueRatio": "1.55"
+          }
+        ],
+        "share_per": "18.62",
+        "reportDate": "20230930"
+      },
+      "20231231": {
+        "shareClassPosition": [
+          {
+            "industry": "周期",
+            "rate": "80.01"
+          },
+          {
+            "industry": "基建",
+            "rate": "10.61"
+          },
+          {
+            "industry": "消费",
+            "rate": "9.38"
+          }
+        ],
+        "heavyStock": [
+          {
+            "sec_name": "陕西煤业",
+            "sec_code": "601225",
+            "type": "astock",
+            "thscode": "601225.SH",
+            "sec_code_quo": "601225",
+            "industry": "周期",
+            "marketValueRatio": "1.78"
+          },
+          {
+            "sec_name": "中国神华",
+            "sec_code": "601088",
+            "type": "astock",
+            "thscode": "601088.SH",
+            "sec_code_quo": "601088",
+            "industry": "周期",
+            "marketValueRatio": "1.74"
+          },
+          {
+            "sec_name": "唐山港",
+            "sec_code": "601000",
+            "type": "astock",
+            "thscode": "601000.SH",
+            "sec_code_quo": "601000",
+            "industry": "基建",
+            "marketValueRatio": "1.63"
+          },
+          {
+            "sec_name": "山煤国际",
+            "sec_code": "600546",
+            "type": "astock",
+            "thscode": "600546.SH",
+            "sec_code_quo": "600546",
+            "industry": "周期",
+            "marketValueRatio": "1.59"
+          },
+          {
+            "sec_name": "恒源煤电",
+            "sec_code": "600971",
+            "type": "astock",
+            "thscode": "600971.SH",
+            "sec_code_quo": "600971",
+            "industry": "周期",
+            "marketValueRatio": "1.52"
+          },
+          {
+            "sec_name": "中国石化",
+            "sec_code": "600028",
+            "type": "astock",
+            "thscode": "600028.SH",
+            "sec_code_quo": "600028",
+            "industry": "周期",
+            "marketValueRatio": "1.45"
+          },
+          {
+            "sec_name": "厦门国贸",
+            "sec_code": "600755",
+            "type": "astock",
+            "thscode": "600755.SH",
+            "sec_code_quo": "600755",
+            "industry": "消费",
+            "marketValueRatio": "1.44"
+          },
+          {
+            "sec_name": "南钢股份",
+            "sec_code": "600282",
+            "type": "astock",
+            "thscode": "600282.SH",
+            "sec_code_quo": "600282",
+            "industry": "周期",
+            "marketValueRatio": "1.44"
+          },
+          {
+            "sec_name": "鲁西化工",
+            "sec_code": "000830",
+            "type": "astock",
+            "thscode": "000830.SZ",
+            "sec_code_quo": "000830",
+            "industry": "周期",
+            "marketValueRatio": "1.39"
+          },
+          {
+            "sec_name": "潞安环能",
+            "sec_code": "601699",
+            "type": "astock",
+            "thscode": "601699.SH",
+            "sec_code_quo": "601699",
+            "industry": "周期",
+            "marketValueRatio": "1.38"
+          }
+        ],
+        "share_per": "15.36",
+        "reportDate": "20231231"
+      },
+      "20240331": {
+        "shareClassPosition": [
+          {
+            "industry": "周期",
+            "rate": "52.53"
+          },
+          {
+            "industry": "基建",
+            "rate": "29.72"
+          },
+          {
+            "industry": "金融",
+            "rate": "8.90"
+          },
+          {
+            "industry": "制造",
+            "rate": "8.85"
+          }
+        ],
+        "heavyStock": [
+          {
+            "sec_name": "中国神华",
+            "sec_code": "601088",
+            "type": "astock",
+            "thscode": "601088.SH",
+            "sec_code_quo": "601088",
+            "industry": "周期",
+            "marketValueRatio": "2.00"
+          },
+          {
+            "sec_name": "陕西煤业",
+            "sec_code": "601225",
+            "type": "astock",
+            "thscode": "601225.SH",
+            "sec_code_quo": "601225",
+            "industry": "周期",
+            "marketValueRatio": "1.97"
+          },
+          {
+            "sec_name": "唐山港",
+            "sec_code": "601000",
+            "type": "astock",
+            "thscode": "601000.SH",
+            "sec_code_quo": "601000",
+            "industry": "基建",
+            "marketValueRatio": "1.75"
+          },
+          {
+            "sec_name": "大秦铁路",
+            "sec_code": "601006",
+            "type": "astock",
+            "thscode": "601006.SH",
+            "sec_code_quo": "601006",
+            "industry": "基建",
+            "marketValueRatio": "1.72"
+          },
+          {
+            "sec_name": "南钢股份",
+            "sec_code": "600282",
+            "type": "astock",
+            "thscode": "600282.SH",
+            "sec_code_quo": "600282",
+            "industry": "周期",
+            "marketValueRatio": "1.69"
+          },
+          {
+            "sec_name": "恒源煤电",
+            "sec_code": "600971",
+            "type": "astock",
+            "thscode": "600971.SH",
+            "sec_code_quo": "600971",
+            "industry": "周期",
+            "marketValueRatio": "1.54"
+          },
+          {
+            "sec_name": "中国石化",
+            "sec_code": "600028",
+            "type": "astock",
+            "thscode": "600028.SH",
+            "sec_code_quo": "600028",
+            "industry": "周期",
+            "marketValueRatio": "1.53"
+          },
+          {
+            "sec_name": "北京银行",
+            "sec_code": "601169",
+            "type": "astock",
+            "thscode": "601169.SH",
+            "sec_code_quo": "601169",
+            "industry": "金融",
+            "marketValueRatio": "1.48"
+          },
+          {
+            "sec_name": "山东高速",
+            "sec_code": "600350",
+            "type": "astock",
+            "thscode": "600350.SH",
+            "sec_code_quo": "600350",
+            "industry": "基建",
+            "marketValueRatio": "1.47"
+          },
+          {
+            "sec_name": "格力电器",
+            "sec_code": "000651",
+            "type": "astock",
+            "thscode": "000651.SZ",
+            "sec_code_quo": "000651",
+            "industry": "制造",
+            "marketValueRatio": "1.47"
+          }
+        ],
+        "share_per": "16.62",
+        "reportDate": "20240331"
+      },
+      "20240630": {
+        "shareClassPosition": [
+          {
+            "industry": "周期",
+            "rate": "41.31"
+          },
+          {
+            "industry": "基建",
+            "rate": "29.82"
+          },
+          {
+            "industry": "消费",
+            "rate": "11.27"
+          },
+          {
+            "industry": "金融",
+            "rate": "17.60"
+          }
+        ],
+        "heavyStock": [
+          {
+            "sec_name": "中国神华",
+            "sec_code": "601088",
+            "type": "astock",
+            "thscode": "601088.SH",
+            "sec_code_quo": "601088",
+            "industry": "周期",
+            "marketValueRatio": "2.26"
+          },
+          {
+            "sec_name": "陕西煤业",
+            "sec_code": "601225",
+            "type": "astock",
+            "thscode": "601225.SH",
+            "sec_code_quo": "601225",
+            "industry": "周期",
+            "marketValueRatio": "2.02"
+          },
+          {
+            "sec_name": "唐山港",
+            "sec_code": "601000",
+            "type": "astock",
+            "thscode": "601000.SH",
+            "sec_code_quo": "601000",
+            "industry": "基建",
+            "marketValueRatio": "2.01"
+          },
+          {
+            "sec_name": "海澜之家",
+            "sec_code": "600398",
+            "type": "astock",
+            "thscode": "600398.SH",
+            "sec_code_quo": "600398",
+            "industry": "消费",
+            "marketValueRatio": "2.01"
+          },
+          {
+            "sec_name": "大秦铁路",
+            "sec_code": "601006",
+            "type": "astock",
+            "thscode": "601006.SH",
+            "sec_code_quo": "601006",
+            "industry": "基建",
+            "marketValueRatio": "1.79"
+          },
+          {
+            "sec_name": "交通银行",
+            "sec_code": "601328",
+            "type": "astock",
+            "thscode": "601328.SH",
+            "sec_code_quo": "601328",
+            "industry": "金融",
+            "marketValueRatio": "1.62"
+          },
+          {
+            "sec_name": "山西焦煤",
+            "sec_code": "000983",
+            "type": "astock",
+            "thscode": "000983.SZ",
+            "sec_code_quo": "000983",
+            "industry": "周期",
+            "marketValueRatio": "1.60"
+          },
+          {
+            "sec_name": "山东高速",
+            "sec_code": "600350",
+            "type": "astock",
+            "thscode": "600350.SH",
+            "sec_code_quo": "600350",
+            "industry": "基建",
+            "marketValueRatio": "1.52"
+          },
+          {
+            "sec_name": "北京银行",
+            "sec_code": "601169",
+            "type": "astock",
+            "thscode": "601169.SH",
+            "sec_code_quo": "601169",
+            "industry": "金融",
+            "marketValueRatio": "1.52"
+          },
+          {
+            "sec_name": "恒源煤电",
+            "sec_code": "600971",
+            "type": "astock",
+            "thscode": "600971.SH",
+            "sec_code_quo": "600971",
+            "industry": "周期",
+            "marketValueRatio": "1.49"
+          }
+        ],
+        "share_per": "17.84",
+        "reportDate": "20240630"
+      },
+      "20240930": {
+        "shareClassPosition": [
+          {
+            "industry": "周期",
+            "rate": "33.02"
+          },
+          {
+            "industry": "基建",
+            "rate": "30.49"
+          },
+          {
+            "industry": "制造",
+            "rate": "9.89"
+          },
+          {
+            "industry": "消费",
+            "rate": "17.72"
+          },
+          {
+            "industry": "金融",
+            "rate": "8.88"
+          }
+        ],
+        "heavyStock": [
+          {
+            "sec_name": "中国神华",
+            "sec_code": "601088",
+            "type": "astock",
+            "thscode": "601088.SH",
+            "sec_code_quo": "601088",
+            "industry": "周期",
+            "marketValueRatio": "2.09"
+          },
+          {
+            "sec_name": "唐山港",
+            "sec_code": "601000",
+            "type": "astock",
+            "thscode": "601000.SH",
+            "sec_code_quo": "601000",
+            "industry": "基建",
+            "marketValueRatio": "2.08"
+          },
+          {
+            "sec_name": "陕西煤业",
+            "sec_code": "601225",
+            "type": "astock",
+            "thscode": "601225.SH",
+            "sec_code_quo": "601225",
+            "industry": "周期",
+            "marketValueRatio": "2.03"
+          },
+          {
+            "sec_name": "格力电器",
+            "sec_code": "000651",
+            "type": "astock",
+            "thscode": "000651.SZ",
+            "sec_code_quo": "000651",
+            "industry": "制造",
+            "marketValueRatio": "1.68"
+          },
+          {
+            "sec_name": "大秦铁路",
+            "sec_code": "601006",
+            "type": "astock",
+            "thscode": "601006.SH",
+            "sec_code_quo": "601006",
+            "industry": "基建",
+            "marketValueRatio": "1.61"
+          },
+          {
+            "sec_name": "海澜之家",
+            "sec_code": "600398",
+            "type": "astock",
+            "thscode": "600398.SH",
+            "sec_code_quo": "600398",
+            "industry": "消费",
+            "marketValueRatio": "1.55"
+          },
+          {
+            "sec_name": "交通银行",
+            "sec_code": "601328",
+            "type": "astock",
+            "thscode": "601328.SH",
+            "sec_code_quo": "601328",
+            "industry": "金融",
+            "marketValueRatio": "1.51"
+          },
+          {
+            "sec_name": "鲁西化工",
+            "sec_code": "000830",
+            "type": "astock",
+            "thscode": "000830.SZ",
+            "sec_code_quo": "000830",
+            "industry": "周期",
+            "marketValueRatio": "1.49"
+          },
+          {
+            "sec_name": "山东高速",
+            "sec_code": "600350",
+            "type": "astock",
+            "thscode": "600350.SH",
+            "sec_code_quo": "600350",
+            "industry": "基建",
+            "marketValueRatio": "1.49"
+          },
+          {
+            "sec_name": "雅戈尔",
+            "sec_code": "600177",
+            "type": "astock",
+            "thscode": "600177.SH",
+            "sec_code_quo": "600177",
+            "industry": "消费",
+            "marketValueRatio": "1.46"
+          }
+        ],
+        "share_per": "16.99",
+        "reportDate": "20240930"
+      },
+      "20241231": {
+        "shareClassPosition": [
+          {
+            "industry": "基建",
+            "rate": "24.72"
+          },
+          {
+            "industry": "周期",
+            "rate": "57.16"
+          },
+          {
+            "industry": "消费",
+            "rate": "18.12"
+          }
+        ],
+        "heavyStock": [
+          {
+            "sec_name": "中远海控",
+            "sec_code": "601919",
+            "type": "astock",
+            "thscode": "601919.SH",
+            "sec_code_quo": "601919",
+            "industry": "基建",
+            "marketValueRatio": "2.63"
+          },
+          {
+            "sec_name": "冀中能源",
+            "sec_code": "000937",
+            "type": "astock",
+            "thscode": "000937.SZ",
+            "sec_code_quo": "000937",
+            "industry": "周期",
+            "marketValueRatio": "1.98"
+          },
+          {
+            "sec_name": "海澜之家",
+            "sec_code": "600398",
+            "type": "astock",
+            "thscode": "600398.SH",
+            "sec_code_quo": "600398",
+            "industry": "消费",
+            "marketValueRatio": "1.59"
+          },
+          {
+            "sec_name": "山西焦煤",
+            "sec_code": "000983",
+            "type": "astock",
+            "thscode": "000983.SZ",
+            "sec_code_quo": "000983",
+            "industry": "周期",
+            "marketValueRatio": "1.52"
+          },
+          {
+            "sec_name": "山煤国际",
+            "sec_code": "600546",
+            "type": "astock",
+            "thscode": "600546.SH",
+            "sec_code_quo": "600546",
+            "industry": "周期",
+            "marketValueRatio": "1.48"
+          },
+          {
+            "sec_name": "潞安环能",
+            "sec_code": "601699",
+            "type": "astock",
+            "thscode": "601699.SH",
+            "sec_code_quo": "601699",
+            "industry": "周期",
+            "marketValueRatio": "1.47"
+          },
+          {
+            "sec_name": "恒源煤电",
+            "sec_code": "600971",
+            "type": "astock",
+            "thscode": "600971.SH",
+            "sec_code_quo": "600971",
+            "industry": "周期",
+            "marketValueRatio": "1.39"
+          },
+          {
+            "sec_name": "唐山港",
+            "sec_code": "601000",
+            "type": "astock",
+            "thscode": "601000.SH",
+            "sec_code_quo": "601000",
+            "industry": "基建",
+            "marketValueRatio": "1.34"
+          },
+          {
+            "sec_name": "中国神华",
+            "sec_code": "601088",
+            "type": "astock",
+            "thscode": "601088.SH",
+            "sec_code_quo": "601088",
+            "industry": "周期",
+            "marketValueRatio": "1.34"
+          },
+          {
+            "sec_name": "雅戈尔",
+            "sec_code": "600177",
+            "type": "astock",
+            "thscode": "600177.SH",
+            "sec_code_quo": "600177",
+            "industry": "消费",
+            "marketValueRatio": "1.32"
+          }
+        ],
+        "share_per": "16.06",
+        "reportDate": "20241231"
+      },
+      "20250331": {
+        "shareClassPosition": [
+          {
+            "industry": "基建",
+            "rate": "33.19"
+          },
+          {
+            "industry": "周期",
+            "rate": "29.19"
+          },
+          {
+            "industry": "消费",
+            "rate": "19.54"
+          },
+          {
+            "industry": "制造",
+            "rate": "9.64"
+          },
+          {
+            "industry": "金融",
+            "rate": "8.44"
+          }
+        ],
+        "heavyStock": [
+          {
+            "sec_name": "中远海控",
+            "sec_code": "601919",
+            "type": "astock",
+            "thscode": "601919.SH",
+            "sec_code_quo": "601919",
+            "industry": "基建",
+            "marketValueRatio": "2.55"
+          },
+          {
+            "sec_name": "冀中能源",
+            "sec_code": "000937",
+            "type": "astock",
+            "thscode": "000937.SZ",
+            "sec_code_quo": "000937",
+            "industry": "周期",
+            "marketValueRatio": "1.89"
+          },
+          {
+            "sec_name": "海澜之家",
+            "sec_code": "600398",
+            "type": "astock",
+            "thscode": "600398.SH",
+            "sec_code_quo": "600398",
+            "industry": "消费",
+            "marketValueRatio": "1.74"
+          },
+          {
+            "sec_name": "宁波华翔",
+            "sec_code": "002048",
+            "type": "astock",
+            "thscode": "002048.SZ",
+            "sec_code_quo": "002048",
+            "industry": "制造",
+            "marketValueRatio": "1.52"
+          },
+          {
+            "sec_name": "山煤国际",
+            "sec_code": "600546",
+            "type": "astock",
+            "thscode": "600546.SH",
+            "sec_code_quo": "600546",
+            "industry": "周期",
+            "marketValueRatio": "1.40"
+          },
+          {
+            "sec_name": "唐山港",
+            "sec_code": "601000",
+            "type": "astock",
+            "thscode": "601000.SH",
+            "sec_code_quo": "601000",
+            "industry": "基建",
+            "marketValueRatio": "1.37"
+          },
+          {
+            "sec_name": "重百集团",
+            "sec_code": "600729",
+            "type": "astock",
+            "thscode": "600729.SH",
+            "sec_code_quo": "600729",
+            "industry": "消费",
+            "marketValueRatio": "1.34"
+          },
+          {
+            "sec_name": "成都银行",
+            "sec_code": "601838",
+            "type": "astock",
+            "thscode": "601838.SH",
+            "sec_code_quo": "601838",
+            "industry": "金融",
+            "marketValueRatio": "1.33"
+          },
+          {
+            "sec_name": "中谷物流",
+            "sec_code": "603565",
+            "type": "astock",
+            "thscode": "603565.SH",
+            "sec_code_quo": "603565",
+            "industry": "基建",
+            "marketValueRatio": "1.31"
+          },
+          {
+            "sec_name": "山西焦煤",
+            "sec_code": "000983",
+            "type": "astock",
+            "thscode": "000983.SZ",
+            "sec_code_quo": "000983",
+            "industry": "周期",
+            "marketValueRatio": "1.31"
+          }
+        ],
+        "share_per": "15.76",
+        "reportDate": "20250331"
+      },
+      "20250630": {
+        "shareClassPosition": [
+          {
+            "industry": "基建",
+            "rate": "23.99"
+          },
+          {
+            "industry": "周期",
+            "rate": "11.03"
+          },
+          {
+            "industry": "制造",
+            "rate": "10.55"
+          },
+          {
+            "industry": "金融",
+            "rate": "45.27"
+          },
+          {
+            "industry": "消费",
+            "rate": "9.16"
+          }
+        ],
+        "heavyStock": [
+          {
+            "sec_name": "中远海控",
+            "sec_code": "601919",
+            "type": "astock",
+            "thscode": "601919.SH",
+            "sec_code_quo": "601919",
+            "industry": "基建",
+            "marketValueRatio": "2.57"
+          },
+          {
+            "sec_name": "冀中能源",
+            "sec_code": "000937",
+            "type": "astock",
+            "thscode": "000937.SZ",
+            "sec_code_quo": "000937",
+            "industry": "周期",
+            "marketValueRatio": "1.83"
+          },
+          {
+            "sec_name": "宁波华翔",
+            "sec_code": "002048",
+            "type": "astock",
+            "thscode": "002048.SZ",
+            "sec_code_quo": "002048",
+            "industry": "制造",
+            "marketValueRatio": "1.75"
+          },
+          {
+            "sec_name": "中信银行",
+            "sec_code": "601998",
+            "type": "astock",
+            "thscode": "601998.SH",
+            "sec_code_quo": "601998",
+            "industry": "金融",
+            "marketValueRatio": "1.60"
+          },
+          {
+            "sec_name": "成都银行",
+            "sec_code": "601838",
+            "type": "astock",
+            "thscode": "601838.SH",
+            "sec_code_quo": "601838",
+            "industry": "金融",
+            "marketValueRatio": "1.53"
+          },
+          {
+            "sec_name": "海澜之家",
+            "sec_code": "600398",
+            "type": "astock",
+            "thscode": "600398.SH",
+            "sec_code_quo": "600398",
+            "industry": "消费",
+            "marketValueRatio": "1.52"
+          },
+          {
+            "sec_name": "兴业银行",
+            "sec_code": "601166",
+            "type": "astock",
+            "thscode": "601166.SH",
+            "sec_code_quo": "601166",
+            "industry": "金融",
+            "marketValueRatio": "1.51"
+          },
+          {
+            "sec_name": "建设银行",
+            "sec_code": "601939",
+            "type": "astock",
+            "thscode": "601939.SH",
+            "sec_code_quo": "601939",
+            "industry": "金融",
+            "marketValueRatio": "1.48"
+          },
+          {
+            "sec_name": "大秦铁路",
+            "sec_code": "601006",
+            "type": "astock",
+            "thscode": "601006.SH",
+            "sec_code_quo": "601006",
+            "industry": "基建",
+            "marketValueRatio": "1.41"
+          },
+          {
+            "sec_name": "江苏银行",
+            "sec_code": "600919",
+            "type": "astock",
+            "thscode": "600919.SH",
+            "sec_code_quo": "600919",
+            "industry": "金融",
+            "marketValueRatio": "1.39"
+          }
+        ],
+        "share_per": "16.59",
+        "reportDate": "20250630"
+      },
+      "20250930": {
+        "shareClassPosition": [
+          {
+            "industry": "制造",
+            "rate": "20.49"
+          },
+          {
+            "industry": "基建",
+            "rate": "21.90"
+          },
+          {
+            "industry": "周期",
+            "rate": "26.66"
+          },
+          {
+            "industry": "金融",
+            "rate": "23.09"
+          },
+          {
+            "industry": "消费",
+            "rate": "7.86"
+          }
+        ],
+        "heavyStock": [
+          {
+            "sec_name": "宁波华翔",
+            "sec_code": "002048",
+            "type": "astock",
+            "thscode": "002048.SZ",
+            "sec_code_quo": "002048",
+            "industry": "制造",
+            "marketValueRatio": "3.62"
+          },
+          {
+            "sec_name": "中远海控",
+            "sec_code": "601919",
+            "type": "astock",
+            "thscode": "601919.SH",
+            "sec_code_quo": "601919",
+            "industry": "基建",
+            "marketValueRatio": "2.42"
+          },
+          {
+            "sec_name": "冀中能源",
+            "sec_code": "000937",
+            "type": "astock",
+            "thscode": "000937.SZ",
+            "sec_code_quo": "000937",
+            "industry": "周期",
+            "marketValueRatio": "1.85"
+          },
+          {
+            "sec_name": "潞安环能",
+            "sec_code": "601699",
+            "type": "astock",
+            "thscode": "601699.SH",
+            "sec_code_quo": "601699",
+            "industry": "周期",
+            "marketValueRatio": "1.47"
+          },
+          {
+            "sec_name": "中谷物流",
+            "sec_code": "603565",
+            "type": "astock",
+            "thscode": "603565.SH",
+            "sec_code_quo": "603565",
+            "industry": "基建",
+            "marketValueRatio": "1.45"
+          },
+          {
+            "sec_name": "农业银行",
+            "sec_code": "601288",
+            "type": "astock",
+            "thscode": "601288.SH",
+            "sec_code_quo": "601288",
+            "industry": "金融",
+            "marketValueRatio": "1.41"
+          },
+          {
+            "sec_name": "海澜之家",
+            "sec_code": "600398",
+            "type": "astock",
+            "thscode": "600398.SH",
+            "sec_code_quo": "600398",
+            "industry": "消费",
+            "marketValueRatio": "1.39"
+          },
+          {
+            "sec_name": "南钢股份",
+            "sec_code": "600282",
+            "type": "astock",
+            "thscode": "600282.SH",
+            "sec_code_quo": "600282",
+            "industry": "周期",
+            "marketValueRatio": "1.39"
+          },
+          {
+            "sec_name": "中信银行",
+            "sec_code": "601998",
+            "type": "astock",
+            "thscode": "601998.SH",
+            "sec_code_quo": "601998",
+            "industry": "金融",
+            "marketValueRatio": "1.34"
+          },
+          {
+            "sec_name": "建设银行",
+            "sec_code": "601939",
+            "type": "astock",
+            "thscode": "601939.SH",
+            "sec_code_quo": "601939",
+            "industry": "金融",
+            "marketValueRatio": "1.33"
+          }
+        ],
+        "share_per": "17.67",
+        "reportDate": "20250930"
+      },
+      "20251231": {
+        "shareClassPosition": [
+          {
+            "industry": "基建",
+            "rate": "27.77"
+          },
+          {
+            "industry": "周期",
+            "rate": "72.23"
+          }
+        ],
+        "heavyStock": [
+          {
+            "sec_name": "中远海控",
+            "sec_code": "601919",
+            "type": "astock",
+            "thscode": "601919.SH",
+            "sec_code_quo": "601919",
+            "industry": "基建",
+            "marketValueRatio": "2.98"
+          },
+          {
+            "sec_name": "广汇能源",
+            "sec_code": "600256",
+            "type": "astock",
+            "thscode": "600256.SH",
+            "sec_code_quo": "600256",
+            "industry": "周期",
+            "marketValueRatio": "1.72"
+          },
+          {
+            "sec_name": "中谷物流",
+            "sec_code": "603565",
+            "type": "astock",
+            "thscode": "603565.SH",
+            "sec_code_quo": "603565",
+            "industry": "基建",
+            "marketValueRatio": "1.48"
+          },
+          {
+            "sec_name": "潞安环能",
+            "sec_code": "601699",
+            "type": "astock",
+            "thscode": "601699.SH",
+            "sec_code_quo": "601699",
+            "industry": "周期",
+            "marketValueRatio": "1.46"
+          },
+          {
+            "sec_name": "山煤国际",
+            "sec_code": "600546",
+            "type": "astock",
+            "thscode": "600546.SH",
+            "sec_code_quo": "600546",
+            "industry": "周期",
+            "marketValueRatio": "1.46"
+          },
+          {
+            "sec_name": "平煤股份",
+            "sec_code": "601666",
+            "type": "astock",
+            "thscode": "601666.SH",
+            "sec_code_quo": "601666",
+            "industry": "周期",
+            "marketValueRatio": "1.46"
+          },
+          {
+            "sec_name": "鄂尔多斯",
+            "sec_code": "600295",
+            "type": "astock",
+            "thscode": "600295.SH",
+            "sec_code_quo": "600295",
+            "industry": "周期",
+            "marketValueRatio": "1.43"
+          },
+          {
+            "sec_name": "山西焦煤",
+            "sec_code": "000983",
+            "type": "astock",
+            "thscode": "000983.SZ",
+            "sec_code_quo": "000983",
+            "industry": "周期",
+            "marketValueRatio": "1.39"
+          },
+          {
+            "sec_name": "陕西煤业",
+            "sec_code": "601225",
+            "type": "astock",
+            "thscode": "601225.SH",
+            "sec_code_quo": "601225",
+            "industry": "周期",
+            "marketValueRatio": "1.36"
+          },
+          {
+            "sec_name": "藏格矿业",
+            "sec_code": "000408",
+            "type": "astock",
+            "thscode": "000408.SZ",
+            "sec_code_quo": "000408",
+            "industry": "周期",
+            "marketValueRatio": "1.32"
+          }
+        ],
+        "share_per": "16.06",
+        "reportDate": "20251231"
+      },
+      "20260331": {
+        "shareClassPosition": [
+          {
+            "industry": "基建",
+            "rate": "24.96"
+          },
+          {
+            "industry": "周期",
+            "rate": "75.04"
+          }
+        ],
+        "heavyStock": [
+          {
+            "sec_name": "中远海控",
+            "sec_code": "601919",
+            "type": "astock",
+            "thscode": "601919.SH",
+            "sec_code_quo": "601919",
+            "industry": "基建",
+            "marketValueRatio": "2.83"
+          },
+          {
+            "sec_name": "广汇能源",
+            "sec_code": "600256",
+            "type": "astock",
+            "thscode": "600256.SH",
+            "sec_code_quo": "600256",
+            "industry": "周期",
+            "marketValueRatio": "2.24"
+          },
+          {
+            "sec_name": "兖矿能源",
+            "sec_code": "600188",
+            "type": "astock",
+            "thscode": "600188.SH",
+            "sec_code_quo": "600188",
+            "industry": "周期",
+            "marketValueRatio": "1.85"
+          },
+          {
+            "sec_name": "鄂尔多斯",
+            "sec_code": "600295",
+            "type": "astock",
+            "thscode": "600295.SH",
+            "sec_code_quo": "600295",
+            "industry": "周期",
+            "marketValueRatio": "1.66"
+          },
+          {
+            "sec_name": "中谷物流",
+            "sec_code": "603565",
+            "type": "astock",
+            "thscode": "603565.SH",
+            "sec_code_quo": "603565",
+            "industry": "基建",
+            "marketValueRatio": "1.63"
+          },
+          {
+            "sec_name": "潞安环能",
+            "sec_code": "601699",
+            "type": "astock",
+            "thscode": "601699.SH",
+            "sec_code_quo": "601699",
+            "industry": "周期",
+            "marketValueRatio": "1.61"
+          },
+          {
+            "sec_name": "陕西煤业",
+            "sec_code": "601225",
+            "type": "astock",
+            "thscode": "601225.SH",
+            "sec_code_quo": "601225",
+            "industry": "周期",
+            "marketValueRatio": "1.57"
+          },
+          {
+            "sec_name": "山煤国际",
+            "sec_code": "600546",
+            "type": "astock",
+            "thscode": "600546.SH",
+            "sec_code_quo": "600546",
+            "industry": "周期",
+            "marketValueRatio": "1.55"
+          },
+          {
+            "sec_name": "中国神华",
+            "sec_code": "601088",
+            "type": "astock",
+            "thscode": "601088.SH",
+            "sec_code_quo": "601088",
+            "industry": "周期",
+            "marketValueRatio": "1.48"
+          },
+          {
+            "sec_name": "平煤股份",
+            "sec_code": "601666",
+            "type": "astock",
+            "thscode": "601666.SH",
+            "sec_code_quo": "601666",
+            "industry": "周期",
+            "marketValueRatio": "1.45"
+          }
+        ],
+        "share_per": "17.87",
+        "reportDate": "20260331"
+      },
+      "20260630": {
+        "shareClassPosition": [
+          {
+            "industry": "基建",
+            "rate": "37.04"
+          },
+          {
+            "industry": "周期",
+            "rate": "62.96"
+          }
+        ],
+        "heavyStock": [
+          {
+            "sec_name": "中远海控",
+            "sec_code": "601919",
+            "type": "astock",
+            "thscode": "601919.SH",
+            "sec_code_quo": "601919",
+            "industry": "基建",
+            "marketValueRatio": "2.82"
+          },
+          {
+            "sec_name": "上峰材料",
+            "sec_code": "000672",
+            "type": "astock",
+            "thscode": "000672.SZ",
+            "sec_code_quo": "000672",
+            "industry": "基建",
+            "marketValueRatio": "2.27"
+          },
+          {
+            "sec_name": "中谷物流",
+            "sec_code": "603565",
+            "type": "astock",
+            "thscode": "603565.SH",
+            "sec_code_quo": "603565",
+            "industry": "基建",
+            "marketValueRatio": "1.98"
+          },
+          {
+            "sec_name": "潞安环能",
+            "sec_code": "601699",
+            "type": "astock",
+            "thscode": "601699.SH",
+            "sec_code_quo": "601699",
+            "industry": "周期",
+            "marketValueRatio": "1.93"
+          },
+          {
+            "sec_name": "兖矿能源",
+            "sec_code": "600188",
+            "type": "astock",
+            "thscode": "600188.SH",
+            "sec_code_quo": "600188",
+            "industry": "周期",
+            "marketValueRatio": "1.93"
+          },
+          {
+            "sec_name": "广汇能源",
+            "sec_code": "600256",
+            "type": "astock",
+            "thscode": "600256.SH",
+            "sec_code_quo": "600256",
+            "industry": "周期",
+            "marketValueRatio": "1.89"
+          },
+          {
+            "sec_name": "山煤国际",
+            "sec_code": "600546",
+            "type": "astock",
+            "thscode": "600546.SH",
+            "sec_code_quo": "600546",
+            "industry": "周期",
+            "marketValueRatio": "1.73"
+          },
+          {
+            "sec_name": "淮北矿业",
+            "sec_code": "600985",
+            "type": "astock",
+            "thscode": "600985.SH",
+            "sec_code_quo": "600985",
+            "industry": "周期",
+            "marketValueRatio": "1.59"
+          },
+          {
+            "sec_name": "昊华能源",
+            "sec_code": "601101",
+            "type": "astock",
+            "thscode": "601101.SH",
+            "sec_code_quo": "601101",
+            "industry": "周期",
+            "marketValueRatio": "1.50"
+          },
+          {
+            "sec_name": "平煤股份",
+            "sec_code": "601666",
+            "type": "astock",
+            "thscode": "601666.SH",
+            "sec_code_quo": "601666",
+            "industry": "周期",
+            "marketValueRatio": "1.45"
+          }
+        ],
+        "share_per": "19.09",
+        "reportDate": "20260630"
+      }
+    },
+    "reportPeriod": [
+      "20191231",
+      "20260630"
+    ]
+  }
+}
