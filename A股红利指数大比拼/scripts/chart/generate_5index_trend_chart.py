@@ -14,7 +14,7 @@ import pandas as pd
 
 warnings.filterwarnings("ignore", category=UserWarning, module="matplotlib")
 
-BASE = Path(__file__).resolve().parent.parent
+BASE = Path(__file__).resolve().parent.parent.parent
 PERF = BASE / "sources" / "performance-data"
 CHART_DIR = BASE / "charts"
 START = pd.Timestamp("2016-06-30")
@@ -30,6 +30,14 @@ SERIES = [
     ("深证红利（ETF代理）",     "399324_深证红利_159905复权净值代理_2016-06-30_2026-07-31.csv",     "#9D4EDD", "复权单位净值"),
 ]
 
+# 基准线：沪深300全收益（虚线，不参与图例排序）
+BENCHMARK = (
+    "沪深300全收益",
+    "H00300_沪深300全收益_2016-06-30_2026-07-31.csv",
+    "#888888",
+    "收盘点位",
+)
+
 
 def load_csv(filename: str, value_col: str) -> pd.Series:
     df = pd.read_csv(PERF / filename)
@@ -44,6 +52,10 @@ def main() -> None:
     data: dict[str, pd.Series] = {}
     for name, fn, _, vcol in SERIES:
         data[name] = load_csv(fn, vcol)
+
+    # 加载沪深300基准
+    bm_name, bm_fn, _, bm_vcol = BENCHMARK
+    data[bm_name] = load_csv(bm_fn, bm_vcol)
 
     # 统一到共同交易日
     common = None
@@ -74,6 +86,10 @@ def main() -> None:
         s = data[name]
         ax.plot(s.index, s.values, color=color, linewidth=0.8, zorder=3)
 
+    # 沪深300基准虚线
+    bm_s = data[bm_name]
+    ax.plot(bm_s.index, bm_s.values, color=BENCHMARK[2], linewidth=0.8, linestyle="--", zorder=2)
+
     # 基准线
     ax.axhline(100, color="#CCCCCC", linewidth=0.7, linestyle="--", zorder=1)
 
@@ -97,7 +113,7 @@ def main() -> None:
 
     ax.set_ylabel("累计全收益（期初=100）", fontsize=10, color="#555555")
     ax.set_title(
-        "六只代表性红利指数：十年累计全收益走势（2016-06-30 = 100）",
+        "六只代表性红利指数 vs 沪深300全收益：十年累计走势（2016-06-30 = 100）",
         fontsize=13, fontweight="bold", color="#333333", pad=12,
     )
 
@@ -124,6 +140,12 @@ def main() -> None:
             [0], [0], color=color, linewidth=1.8,
             label=label,
         ))
+    # 沪深300基准加在图例末尾
+    bm_cum = bm_s.iloc[-1] - 100
+    legend_handles.append(Line2D(
+        [0], [0], color=BENCHMARK[2], linewidth=1.8, linestyle="--",
+        label=f"沪深300全收益（基准）  +{bm_cum:.0f}%",
+    ))
     ax.legend(
         handles=legend_handles,
         loc="upper left",
@@ -141,14 +163,14 @@ def main() -> None:
     # 注释
     ax.text(
         0.01, -0.10,
-        "口径：前五只为人民币全收益指数（现金分红再投资），深证红利使用工银深证红利ETF（159905）复权净值代理（已扣费，非官方全收益），2016-06-30至2026-07-31。\n"
+        "口径：前五只为人民币全收益指数（现金分红再投资），深证红利使用工银深证红利ETF（159905）复权净值代理（已扣费，非官方全收益），沪深300全收益为宽基基准。2016-06-30至2026-07-31。\n"
         "走势只呈现累计收益路径；低波与抗跌应以波动率、最大回撤表判断，不能把曲线平缓程度当作精确风险指标。",
         transform=ax.transAxes, fontsize=7.5, color="#999999",
         va="top", ha="left", linespacing=1.5,
     )
 
     plt.tight_layout()
-    out_path = CHART_DIR / "五指数累计全收益走势.png"
+    out_path = CHART_DIR / "summary" / "六指数vs沪深300累计全收益走势.png"
     fig.savefig(out_path, bbox_inches="tight", facecolor="white")
     plt.close()
     print(f"\n图表已保存: {out_path}")
