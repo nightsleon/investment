@@ -152,6 +152,7 @@ cd 指数估值 && python3 generate.py
 
 详见 [指数估值/generate.py](指数估值/generate.py)
 
+- 🌐 **在线看板（GitHub Pages）**：[估值看板归档入口](https://nightsleon.github.io/investment/)
 - 本地入口：`docs/index.html`
 - 仓库内归档目录：`docs/index-valuation/`
 
