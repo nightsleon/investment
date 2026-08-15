@@ -1,0 +1,22 @@
+{
+  "index_code": "930917",
+  "index_name": "SHS高股息",
+  "market": "跨市场",
+  "total_funds": 1,
+  "funds": [
+    {
+      "fund_code": "501307",
+      "fund_name": "银河中证沪港深高股息指数型证券投资基金(LOF)",
+      "fund_name_en": "Galaxy Fund CSI Hugangshen High Dividend Index Fund",
+      "fund_type": "LOF",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.65,
+      "fund_manager": "银河基金管理有限公司",
+      "inception_date": "2018-04-10",
+      "exchange": "上海证券交易所",
+      "index_code_tracked": "930917",
+      "index_name_tracked": "SHS高股息"
+    }
+  ]
+}

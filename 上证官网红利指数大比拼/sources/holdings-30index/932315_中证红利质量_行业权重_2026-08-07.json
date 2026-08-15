@@ -1,0 +1,85 @@
+{
+  "updateDate": "2026-08-07",
+  "industryWeightList": [
+    {
+      "rowNum": 1,
+      "tradeDate": "20260807",
+      "csiType": "原材料",
+      "csiTypeEn": "Materials",
+      "weightPct": "25.33",
+      "preciseWeight": "25.334728830048927509686253208"
+    },
+    {
+      "rowNum": 2,
+      "tradeDate": "20260807",
+      "csiType": "通信服务",
+      "csiTypeEn": "Communication Services",
+      "weightPct": "16.06",
+      "preciseWeight": "16.064372743520147068109646951"
+    },
+    {
+      "rowNum": 3,
+      "tradeDate": "20260807",
+      "csiType": "主要消费",
+      "csiTypeEn": "Consumer Staples",
+      "weightPct": "15.71",
+      "preciseWeight": "15.707378934965980340315617178"
+    },
+    {
+      "rowNum": 4,
+      "tradeDate": "20260807",
+      "csiType": "工业",
+      "csiTypeEn": "Industrials",
+      "weightPct": "12.28",
+      "preciseWeight": "12.278210746877275122642840706"
+    },
+    {
+      "rowNum": 5,
+      "tradeDate": "20260807",
+      "csiType": "信息技术",
+      "csiTypeEn": "Information Technology",
+      "weightPct": "8.29",
+      "preciseWeight": "8.290186575612484267385316265"
+    },
+    {
+      "rowNum": 6,
+      "tradeDate": "20260807",
+      "csiType": "可选消费",
+      "csiTypeEn": "Consumer Discretionary",
+      "weightPct": "8.17",
+      "preciseWeight": "8.166379639086327193897368079"
+    },
+    {
+      "rowNum": 7,
+      "tradeDate": "20260807",
+      "csiType": "医药卫生",
+      "csiTypeEn": "Health Care",
+      "weightPct": "7.67",
+      "preciseWeight": "7.665597158458213743935017299"
+    },
+    {
+      "rowNum": 8,
+      "tradeDate": "20260807",
+      "csiType": "金融",
+      "csiTypeEn": "Financials",
+      "weightPct": "3.21",
+      "preciseWeight": "3.208275370328893519143994848"
+    },
+    {
+      "rowNum": 9,
+      "tradeDate": "20260807",
+      "csiType": "能源",
+      "csiTypeEn": "Energy",
+      "weightPct": "2.56",
+      "preciseWeight": "2.559931637565243875888707746"
+    },
+    {
+      "rowNum": 10,
+      "tradeDate": "20260807",
+      "csiType": "公用事业",
+      "csiTypeEn": "Utilities",
+      "weightPct": "0.72",
+      "preciseWeight": "0.724938363536507358995237720"
+    }
+  ]
+}

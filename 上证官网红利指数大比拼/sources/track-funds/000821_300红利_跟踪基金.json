@@ -1,0 +1,50 @@
+{
+  "index_code": "000821",
+  "index_name": "300红利",
+  "market": "境内",
+  "total_funds": 3,
+  "funds": [
+    {
+      "fund_code": "012712",
+      "fund_name": "建信沪深300红利交易型开放式指数证券投资基金发起式联接基金",
+      "fund_name_en": "CCB CSI 300 Dividend ETF Initiating Feeder Fund",
+      "fund_type": "联接基金",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.0,
+      "fund_manager": "建信基金管理有限责任公司",
+      "inception_date": "2021-09-08",
+      "exchange": "-",
+      "index_code_tracked": "000821",
+      "index_name_tracked": "300红利"
+    },
+    {
+      "fund_code": "512530",
+      "fund_name": "建信沪深300红利交易型开放式指数证券投资基金",
+      "fund_name_en": "CCB Principal CSI 300 Dividend ETF",
+      "fund_type": "ETF",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 1.6,
+      "fund_manager": "建信基金管理有限责任公司",
+      "inception_date": "2019-08-23",
+      "exchange": "上海证券交易所",
+      "index_code_tracked": "000821",
+      "index_name_tracked": "300红利"
+    },
+    {
+      "fund_code": "SIC300I TT Equity",
+      "fund_name": "永丰沪深300红利指数基金",
+      "fund_name_en": "SINOPAC CSI 300 INDEX FUND",
+      "fund_type": "指数基金",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.19,
+      "fund_manager": "永丰投信",
+      "inception_date": "2013-08-22",
+      "exchange": "nil（台湾）",
+      "index_code_tracked": "000821",
+      "index_name_tracked": "300红利"
+    }
+  ]
+}

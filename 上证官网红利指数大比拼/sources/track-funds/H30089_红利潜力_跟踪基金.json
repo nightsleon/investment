@@ -1,0 +1,22 @@
+{
+  "index_code": "H30089",
+  "index_name": "红利潜力",
+  "market": "境内",
+  "total_funds": 1,
+  "funds": [
+    {
+      "fund_code": "007671",
+      "fund_name": "建信中证红利潜力指数证券投资基金",
+      "fund_name_en": "CCB Principal CSI Dividend Potential Index Fund",
+      "fund_type": "指数基金",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.42,
+      "fund_manager": "建信基金管理有限责任公司",
+      "inception_date": "2019-09-11",
+      "exchange": "-",
+      "index_code_tracked": "H30089",
+      "index_name_tracked": "红利潜力"
+    }
+  ]
+}

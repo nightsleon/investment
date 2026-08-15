@@ -1,0 +1,45 @@
+{
+  "updateDate": "2026-08-07",
+  "industryWeightList": [
+    {
+      "rowNum": 1,
+      "tradeDate": "20260807",
+      "csiType": "能源",
+      "csiTypeEn": "Energy",
+      "weightPct": "43.05",
+      "preciseWeight": "43.045911219827402586537564247"
+    },
+    {
+      "rowNum": 2,
+      "tradeDate": "20260807",
+      "csiType": "金融",
+      "csiTypeEn": "Financials",
+      "weightPct": "29.27",
+      "preciseWeight": "29.266997303074450675174314248"
+    },
+    {
+      "rowNum": 3,
+      "tradeDate": "20260807",
+      "csiType": "工业",
+      "csiTypeEn": "Industrials",
+      "weightPct": "17.88",
+      "preciseWeight": "17.882051552384900094073128393"
+    },
+    {
+      "rowNum": 4,
+      "tradeDate": "20260807",
+      "csiType": "原材料",
+      "csiTypeEn": "Materials",
+      "weightPct": "7.57",
+      "preciseWeight": "7.570537112874783969132089439"
+    },
+    {
+      "rowNum": 5,
+      "tradeDate": "20260807",
+      "csiType": "主要消费",
+      "csiTypeEn": "Consumer Staples",
+      "weightPct": "2.23",
+      "preciseWeight": "2.234502811838462675082903674"
+    }
+  ]
+}

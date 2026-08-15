@@ -1,0 +1,49 @@
+{
+  "code": "200",
+  "msg": "Success",
+  "data": [
+    {
+      "productCode": "021561",
+      "fundName": "天弘中证央企红利50指数型发起式证券投资基金",
+      "fundNameEn": "Tianhong CSI Central State-owned Enterprises Dividend 50 Index Initiating Fund",
+      "assetClass": "股票",
+      "assetClassEn": "Equity",
+      "fundType": "指数基金",
+      "fundTypeEn": "Index Fund",
+      "coverage": "境内",
+      "coverageEn": "China Mainland",
+      "indexCode": "931231",
+      "indexNameCn": "央企红利50",
+      "indexNameEn": "Central SOEs Dividend 50",
+      "aum": "3.50",
+      "aumEn": "3.50",
+      "fundManager": "天弘基金管理有限公司",
+      "fundManagerEn": "Tianhong Asset Management Co.,Ltd.",
+      "inceptionDate": "2024-07-02",
+      "exchange": "-",
+      "exchangeEn": "-"
+    },
+    {
+      "productCode": "020251",
+      "fundName": "中银中证央企红利50指数型证券投资基金",
+      "fundNameEn": "BOC CSI Central State-owned Enterprises Dividend 50 Index Fund",
+      "assetClass": "股票",
+      "assetClassEn": "Equity",
+      "fundType": "指数基金",
+      "fundTypeEn": "Index Fund",
+      "coverage": "境内",
+      "coverageEn": "China Mainland",
+      "indexCode": "931231",
+      "indexNameCn": "央企红利50",
+      "indexNameEn": "Central SOEs Dividend 50",
+      "aum": "0.87",
+      "aumEn": "0.87",
+      "fundManager": "中银基金管理有限公司",
+      "fundManagerEn": "Bank Of China Investment Management",
+      "inceptionDate": "2024-03-22",
+      "exchange": "-",
+      "exchangeEn": "-"
+    }
+  ],
+  "success": true
+}

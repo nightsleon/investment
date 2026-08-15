@@ -1,0 +1,272 @@
+[
+  {
+    "index_code": "000015",
+    "index_name": "上证红利",
+    "market": "境内",
+    "total_funds": 3,
+    "largest_fund": "上证红利交易型开放式指数证券投资基金",
+    "largest_fund_code": "510880",
+    "largest_aum_yi": 213.18
+  },
+  {
+    "index_code": "000922",
+    "index_name": "中证红利",
+    "market": "境内",
+    "total_funds": 19,
+    "largest_fund": "易方达中证红利交易型开放式指数证券投资基金",
+    "largest_fund_code": "515180",
+    "largest_aum_yi": 179.08
+  },
+  {
+    "index_code": "000151",
+    "index_name": "上国红利",
+    "market": "境内",
+    "total_funds": 4,
+    "largest_fund": "国泰上证国有企业红利交易型开放式指数证券投资基金",
+    "largest_fund_code": "510720",
+    "largest_aum_yi": 21.76
+  },
+  {
+    "index_code": "000821",
+    "index_name": "300红利",
+    "market": "境内",
+    "total_funds": 3,
+    "largest_fund": "建信沪深300红利交易型开放式指数证券投资基金",
+    "largest_fund_code": "512530",
+    "largest_aum_yi": 1.6
+  },
+  {
+    "index_code": "000824",
+    "index_name": "国企红利",
+    "market": "境内",
+    "total_funds": 6,
+    "largest_fund": "西部利得中证国有企业红利指数增强型证券投资基金(LOF)",
+    "largest_fund_code": "501059",
+    "largest_aum_yi": 8.76
+  },
+  {
+    "index_code": "000825",
+    "index_name": "央企红利",
+    "market": "境内",
+    "total_funds": 4,
+    "largest_fund": "华泰柏瑞中证中央企业红利交易型开放式指数证券投资基金",
+    "largest_fund_code": "561580",
+    "largest_aum_yi": 26.98
+  },
+  {
+    "index_code": "H30269",
+    "index_name": "红利低波",
+    "market": "境内",
+    "total_funds": 17,
+    "largest_fund": "华泰柏瑞中证红利低波动交易型开放式指数证券投资基金",
+    "largest_fund_code": "512890",
+    "largest_aum_yi": 324.14
+  },
+  {
+    "index_code": "930955",
+    "index_name": "红利低波100",
+    "market": "境内",
+    "total_funds": 22,
+    "largest_fund": "博时中证红利低波动100交易型开放式指数证券投资基金",
+    "largest_fund_code": "159307",
+    "largest_aum_yi": 71.99
+  },
+  {
+    "index_code": "930740",
+    "index_name": "300红利低波",
+    "market": "境内",
+    "total_funds": 3,
+    "largest_fund": "嘉实沪深300红利低波动交易型开放式指数证券投资基金",
+    "largest_fund_code": "515300",
+    "largest_aum_yi": 45.2
+  },
+  {
+    "index_code": "H50040",
+    "index_name": "上红低波",
+    "market": "境内",
+    "total_funds": 1,
+    "largest_fund": "平安上证红利低波动指数型证券投资基金",
+    "largest_fund_code": "020456",
+    "largest_aum_yi": 0.84
+  },
+  {
+    "index_code": "931446",
+    "index_name": "东证红利低波",
+    "market": "境内",
+    "total_funds": 1,
+    "largest_fund": "东方红中证东方红红利低波动指数证券投资基金",
+    "largest_fund_code": "012708",
+    "largest_aum_yi": 65.11
+  },
+  {
+    "index_code": "932422",
+    "index_name": "A500红利低波",
+    "market": "境内",
+    "total_funds": 6,
+    "largest_fund": "国联安中证A500红利低波动交易型开放式指数证券投资基金",
+    "largest_fund_code": "560570",
+    "largest_aum_yi": 12.3
+  },
+  {
+    "index_code": "931468",
+    "index_name": "红利质量",
+    "market": "境内",
+    "total_funds": 2,
+    "largest_fund": "华夏中证红利质量交易型开放式指数证券投资基金",
+    "largest_fund_code": "159758",
+    "largest_aum_yi": 15.06
+  },
+  {
+    "index_code": "932315",
+    "index_name": "中证红利质量",
+    "market": "境内",
+    "total_funds": 10,
+    "largest_fund": "招商中证全指红利质量交易型开放式指数证券投资基金",
+    "largest_fund_code": "159209",
+    "largest_aum_yi": 25.07
+  },
+  {
+    "index_code": "932305",
+    "index_name": "智选高股息",
+    "market": "境内",
+    "total_funds": 2,
+    "largest_fund": "广发中证智选高股息策略交易型开放式指数证券投资基金",
+    "largest_fund_code": "159207",
+    "largest_aum_yi": 22.87
+  },
+  {
+    "index_code": "931157",
+    "index_name": "SHS红利成长LV",
+    "market": "跨市场",
+    "total_funds": 1,
+    "largest_fund": "景顺长城中证沪港深红利成长低波动指数型证券投资基金",
+    "largest_fund_code": "007751",
+    "largest_aum_yi": 34.51
+  },
+  {
+    "index_code": "930914",
+    "index_name": "港股通高股息",
+    "market": "跨市场",
+    "total_funds": 17,
+    "largest_fund": "华泰柏瑞中证港股通高股息投资交易型开放式指数证券投资基金(QDII)",
+    "largest_fund_code": "513530",
+    "largest_aum_yi": 42.71
+  },
+  {
+    "index_code": "930839",
+    "index_name": "港股通高息精选",
+    "market": "跨市场",
+    "total_funds": 3,
+    "largest_fund": "工银瑞信中证港股通高股息精选交易型开放式指数证券投资基金",
+    "largest_fund_code": "159691",
+    "largest_aum_yi": 44.55
+  },
+  {
+    "index_code": "930917",
+    "index_name": "SHS高股息",
+    "market": "跨市场",
+    "total_funds": 1,
+    "largest_fund": "银河中证沪港深高股息指数型证券投资基金(LOF)",
+    "largest_fund_code": "501307",
+    "largest_aum_yi": 0.65
+  },
+  {
+    "index_code": "931233",
+    "index_name": "港股通央企红利",
+    "market": "跨市场",
+    "total_funds": 11,
+    "largest_fund": "华夏中证港股通央企红利交易型开放式指数证券投资基金",
+    "largest_fund_code": "513910",
+    "largest_aum_yi": 32.47
+  },
+  {
+    "index_code": "CESFHY",
+    "index_name": "中华预期高股息",
+    "market": "跨市场",
+    "total_funds": 1,
+    "largest_fund": "浙商港股通中华交易服务预期高股息指数增强型证券投资基金",
+    "largest_fund_code": "007178",
+    "largest_aum_yi": 0.62
+  },
+  {
+    "index_code": "H11140",
+    "index_name": "香港红利",
+    "market": "跨市场",
+    "total_funds": 1,
+    "largest_fund": "中国平安CSI香港高息股ETF",
+    "largest_fund_code": "3070 HK Equity",
+    "largest_aum_yi": 10.87
+  },
+  {
+    "index_code": "H30089",
+    "index_name": "红利潜力",
+    "market": "境内",
+    "total_funds": 1,
+    "largest_fund": "建信中证红利潜力指数证券投资基金",
+    "largest_fund_code": "007671",
+    "largest_aum_yi": 0.42
+  },
+  {
+    "index_code": "H30094",
+    "index_name": "消费红利",
+    "market": "境内",
+    "total_funds": 2,
+    "largest_fund": "宏利中证主要消费红利指数型证券投资基金",
+    "largest_fund_code": "008928",
+    "largest_aum_yi": 7.99
+  },
+  {
+    "index_code": "H30270",
+    "index_name": "红利价值",
+    "market": "境内",
+    "total_funds": 2,
+    "largest_fund": "易方达中证红利价值交易型开放式指数证券投资基金",
+    "largest_fund_code": "563700",
+    "largest_aum_yi": 4.16
+  },
+  {
+    "index_code": "H30366",
+    "index_name": "高息策略",
+    "market": "境内",
+    "total_funds": 2,
+    "largest_fund": "银华中证高股息策略交易型开放式指数证券投资基金",
+    "largest_fund_code": "563180",
+    "largest_aum_yi": 1.26
+  },
+  {
+    "index_code": "932039",
+    "index_name": "央企股东回报",
+    "market": "境内",
+    "total_funds": 6,
+    "largest_fund": "广发中证国新央企股东回报交易型开放式指数证券投资基金",
+    "largest_fund_code": "560700",
+    "largest_aum_yi": 5.38
+  },
+  {
+    "index_code": "931132",
+    "index_name": "诚通央企红利",
+    "market": "境内",
+    "total_funds": 2,
+    "largest_fund": "融通中证诚通央企红利交易型开放式指数证券投资基金",
+    "largest_fund_code": "159336",
+    "largest_aum_yi": 4.24
+  },
+  {
+    "index_code": "931231",
+    "index_name": "央企红利50",
+    "market": "境内",
+    "total_funds": 2,
+    "largest_fund": "天弘中证央企红利50指数型发起式证券投资基金",
+    "largest_fund_code": "021561",
+    "largest_aum_yi": 3.5
+  },
+  {
+    "index_code": "931722",
+    "index_name": "国新港股通央企红利",
+    "market": "跨市场",
+    "total_funds": 7,
+    "largest_fund": "景顺长城中证国新港股通央企红利交易型开放式指数证券投资基金",
+    "largest_fund_code": "520990",
+    "largest_aum_yi": 34.01
+  }
+]

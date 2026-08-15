@@ -1,0 +1,50 @@
+{
+  "index_code": "000015",
+  "index_name": "上证红利",
+  "market": "境内",
+  "total_funds": 3,
+  "funds": [
+    {
+      "fund_code": "SHD SP Equity",
+      "fund_name": "CSOP Huatai-PineBridge SSE Dividend Index ETF",
+      "fund_name_en": "CSOP HATI-PNBE SSE DD ID ETF",
+      "fund_type": "ETF",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.23,
+      "fund_manager": "南方东英",
+      "inception_date": "2023-12-01",
+      "exchange": "新加坡交易所",
+      "index_code_tracked": "000015",
+      "index_name_tracked": "红利指数"
+    },
+    {
+      "fund_code": "012761",
+      "fund_name": "华泰柏瑞上证红利交易型开放式指数证券投资基金联接基金",
+      "fund_name_en": "HuataiB SSE Dividend ETF Feeder Fund",
+      "fund_type": "联接基金",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.0,
+      "fund_manager": "华泰柏瑞基金管理有限公司",
+      "inception_date": "2021-11-15",
+      "exchange": "-",
+      "index_code_tracked": "000015",
+      "index_name_tracked": "红利指数"
+    },
+    {
+      "fund_code": "510880",
+      "fund_name": "上证红利交易型开放式指数证券投资基金",
+      "fund_name_en": "HuataiB SSE Dividend ETF",
+      "fund_type": "ETF",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 213.18,
+      "fund_manager": "华泰柏瑞基金管理有限公司",
+      "inception_date": "2006-11-17",
+      "exchange": "上海证券交易所",
+      "index_code_tracked": "000015",
+      "index_name_tracked": "红利指数"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "code": "200",
+  "msg": "Success",
+  "data": [
+    {
+      "productCode": "022144",
+      "fundName": "银华中证高股息策略交易型开放式指数证券投资基金发起式联接基金",
+      "fundNameEn": "Yinhua CSI High Dividend Yield Strategy ETF Initiating Feeder Fund",
+      "assetClass": "股票",
+      "assetClassEn": "Equity",
+      "fundType": "联接基金",
+      "fundTypeEn": "Feeder Fund",
+      "coverage": "境内",
+      "coverageEn": "China Mainland",
+      "indexCode": "H30366",
+      "indexNameCn": "高息策略",
+      "indexNameEn": "CSI HDY Strategy",
+      "aum": "0.00",
+      "aumEn": "0.00",
+      "fundManager": "银华基金管理股份有限公司",
+      "fundManagerEn": "Yinhua Fund Management Co.,Ltd.",
+      "inceptionDate": "2024-12-03",
+      "exchange": "-",
+      "exchangeEn": "-"
+    },
+    {
+      "productCode": "563180",
+      "fundName": "银华中证高股息策略交易型开放式指数证券投资基金",
+      "fundNameEn": "Yinhua CSI High Dividend Yield Strategy ETF",
+      "assetClass": "股票",
+      "assetClassEn": "Equity",
+      "fundType": "ETF",
+      "fundTypeEn": "ETF",
+      "coverage": "境内",
+      "coverageEn": "China Mainland",
+      "indexCode": "H30366",
+      "indexNameCn": "高息策略",
+      "indexNameEn": "CSI HDY Strategy",
+      "aum": "1.26",
+      "aumEn": "1.26",
+      "fundManager": "银华基金管理股份有限公司",
+      "fundManagerEn": "Yinhua Fund Management Co.,Ltd.",
+      "inceptionDate": "2024-05-06",
+      "exchange": "上海证券交易所",
+      "exchangeEn": "Shanghai Stock Exchange"
+    }
+  ],
+  "success": true
+}

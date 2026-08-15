@@ -1,0 +1,77 @@
+{
+  "updateDate": "2026-08-07",
+  "industryWeightList": [
+    {
+      "rowNum": 1,
+      "tradeDate": "20260807",
+      "csiType": "医药卫生",
+      "csiTypeEn": "Health Care",
+      "weightPct": "20.46",
+      "preciseWeight": "20.458195455234482885223637247"
+    },
+    {
+      "rowNum": 2,
+      "tradeDate": "20260807",
+      "csiType": "原材料",
+      "csiTypeEn": "Materials",
+      "weightPct": "18.66",
+      "preciseWeight": "18.662792535174470267063138806"
+    },
+    {
+      "rowNum": 3,
+      "tradeDate": "20260807",
+      "csiType": "信息技术",
+      "csiTypeEn": "Information Technology",
+      "weightPct": "16.89",
+      "preciseWeight": "16.888866895547840458519124217"
+    },
+    {
+      "rowNum": 4,
+      "tradeDate": "20260807",
+      "csiType": "工业",
+      "csiTypeEn": "Industrials",
+      "weightPct": "13.31",
+      "preciseWeight": "13.309879052342858346255193611"
+    },
+    {
+      "rowNum": 5,
+      "tradeDate": "20260807",
+      "csiType": "通信服务",
+      "csiTypeEn": "Communication Services",
+      "weightPct": "10.18",
+      "preciseWeight": "10.181409783293092840967937770"
+    },
+    {
+      "rowNum": 6,
+      "tradeDate": "20260807",
+      "csiType": "主要消费",
+      "csiTypeEn": "Consumer Staples",
+      "weightPct": "7.26",
+      "preciseWeight": "7.261191450972249017525461850"
+    },
+    {
+      "rowNum": 7,
+      "tradeDate": "20260807",
+      "csiType": "可选消费",
+      "csiTypeEn": "Consumer Discretionary",
+      "weightPct": "6.06",
+      "preciseWeight": "6.058143576615592902354514075"
+    },
+    {
+      "rowNum": 8,
+      "tradeDate": "20260807",
+      "csiType": "公用事业",
+      "csiTypeEn": "Utilities",
+      "weightPct": "4.70",
+      "preciseWeight": "4.704904601508511626524169074"
+    },
+    {
+      "rowNum": 9,
+      "tradeDate": "20260807",
+      "csiType": "能源",
+      "csiTypeEn": "Energy",
+      "weightPct": "2.47",
+      "preciseWeight": "2.474616649310901655566823347"
+    }
+  ]
+}

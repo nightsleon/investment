@@ -1,0 +1,77 @@
+{
+  "updateDate": "2026-08-07",
+  "industryWeightList": [
+    {
+      "rowNum": 1,
+      "tradeDate": "20260807",
+      "csiType": "工业",
+      "csiTypeEn": "Industrials",
+      "weightPct": "35.96",
+      "preciseWeight": "35.963753106078014909041671089"
+    },
+    {
+      "rowNum": 2,
+      "tradeDate": "20260807",
+      "csiType": "金融",
+      "csiTypeEn": "Financials",
+      "weightPct": "27.91",
+      "preciseWeight": "27.908440289030725531123030933"
+    },
+    {
+      "rowNum": 3,
+      "tradeDate": "20260807",
+      "csiType": "能源",
+      "csiTypeEn": "Energy",
+      "weightPct": "15.20",
+      "preciseWeight": "15.202848873263043536860742075"
+    },
+    {
+      "rowNum": 4,
+      "tradeDate": "20260807",
+      "csiType": "通信服务",
+      "csiTypeEn": "Communication Services",
+      "weightPct": "10.34",
+      "preciseWeight": "10.339093286889311758852627802"
+    },
+    {
+      "rowNum": 5,
+      "tradeDate": "20260807",
+      "csiType": "公用事业",
+      "csiTypeEn": "Utilities",
+      "weightPct": "4.67",
+      "preciseWeight": "4.669983855913220709346674094"
+    },
+    {
+      "rowNum": 6,
+      "tradeDate": "20260807",
+      "csiType": "房地产",
+      "csiTypeEn": "Real Estate",
+      "weightPct": "1.77",
+      "preciseWeight": "1.771094324061012199803371337"
+    },
+    {
+      "rowNum": 7,
+      "tradeDate": "20260807",
+      "csiType": "医药卫生",
+      "csiTypeEn": "Health Care",
+      "weightPct": "1.54",
+      "preciseWeight": "1.541712833364210894227844457"
+    },
+    {
+      "rowNum": 8,
+      "tradeDate": "20260807",
+      "csiType": "原材料",
+      "csiTypeEn": "Materials",
+      "weightPct": "1.31",
+      "preciseWeight": "1.312905076217006627260560673"
+    },
+    {
+      "rowNum": 9,
+      "tradeDate": "20260807",
+      "csiType": "主要消费",
+      "csiTypeEn": "Consumer Staples",
+      "weightPct": "1.29",
+      "preciseWeight": "1.290168355183453833483477541"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "index_code": "930740",
+  "index_name": "300红利低波",
+  "market": "境内",
+  "total_funds": 3,
+  "funds": [
+    {
+      "fund_code": "024906",
+      "fund_name": "中加沪深300红利低波动指数型证券投资基金",
+      "fund_name_en": "Bank of Beijing ScotiaBank CSI 300 Dividend Low Volatility Index Fund",
+      "fund_type": "指数基金",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.86,
+      "fund_manager": "中加基金管理有限公司",
+      "inception_date": "2025-09-09",
+      "exchange": "-",
+      "index_code_tracked": "930740",
+      "index_name_tracked": "300红利低波"
+    },
+    {
+      "fund_code": "007605",
+      "fund_name": "嘉实沪深300红利低波动交易型开放式指数证券投资基金联接基金",
+      "fund_name_en": "Harvest CSI 300 Dividend Low Volatility ETF Feeder Fund",
+      "fund_type": "联接基金",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.0,
+      "fund_manager": "嘉实基金管理有限公司",
+      "inception_date": "2019-12-09",
+      "exchange": "-",
+      "index_code_tracked": "930740",
+      "index_name_tracked": "300红利低波"
+    },
+    {
+      "fund_code": "515300",
+      "fund_name": "嘉实沪深300红利低波动交易型开放式指数证券投资基金",
+      "fund_name_en": "Harvest CSI 300 Dividend Low Volatility ETF",
+      "fund_type": "ETF",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 45.2,
+      "fund_manager": "嘉实基金管理有限公司",
+      "inception_date": "2019-08-08",
+      "exchange": "上海证券交易所",
+      "index_code_tracked": "930740",
+      "index_name_tracked": "300红利低波"
+    }
+  ]
+}

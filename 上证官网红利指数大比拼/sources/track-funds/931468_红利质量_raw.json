@@ -1,0 +1,49 @@
+{
+  "code": "200",
+  "msg": "Success",
+  "data": [
+    {
+      "productCode": "016440",
+      "fundName": "华夏中证红利质量交易型开放式指数证券投资基金发起式联接基金",
+      "fundNameEn": "ChinaAMC CSI Dividend Quality ETF Initiating Feeder Fund",
+      "assetClass": "股票",
+      "assetClassEn": "Equity",
+      "fundType": "联接基金",
+      "fundTypeEn": "Feeder Fund",
+      "coverage": "境内",
+      "coverageEn": "China Mainland",
+      "indexCode": "931468",
+      "indexNameCn": "红利质量",
+      "indexNameEn": "Dividend Quality",
+      "aum": "0.00",
+      "aumEn": "0.00",
+      "fundManager": "华夏基金管理有限公司",
+      "fundManagerEn": "China Asset Management Co.,Ltd.",
+      "inceptionDate": "2022-09-14",
+      "exchange": "-",
+      "exchangeEn": "-"
+    },
+    {
+      "productCode": "159758",
+      "fundName": "华夏中证红利质量交易型开放式指数证券投资基金",
+      "fundNameEn": "ChinaAMC CSI Dividend Quality ETF",
+      "assetClass": "股票",
+      "assetClassEn": "Equity",
+      "fundType": "ETF",
+      "fundTypeEn": "ETF",
+      "coverage": "境内",
+      "coverageEn": "China Mainland",
+      "indexCode": "931468",
+      "indexNameCn": "红利质量",
+      "indexNameEn": "Dividend Quality",
+      "aum": "15.06",
+      "aumEn": "15.06",
+      "fundManager": "华夏基金管理有限公司",
+      "fundManagerEn": "China Asset Management Co.,Ltd.",
+      "inceptionDate": "2021-12-20",
+      "exchange": "深圳证券交易所",
+      "exchangeEn": "Shenzhen Stock Exchange"
+    }
+  ],
+  "success": true
+}

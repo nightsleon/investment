@@ -1,0 +1,49 @@
+{
+  "code": "200",
+  "msg": "Success",
+  "data": [
+    {
+      "productCode": "025682",
+      "fundName": "广发中证智选高股息策略交易型开放式指数证券投资基金发起式联接基金",
+      "fundNameEn": "GF Fund CSI High Dividend Strategy Custom ETF Initiating Feeder Fund",
+      "assetClass": "股票",
+      "assetClassEn": "Equity",
+      "fundType": "联接基金",
+      "fundTypeEn": "Feeder Fund",
+      "coverage": "境内",
+      "coverageEn": "China Mainland",
+      "indexCode": "932305",
+      "indexNameCn": "智选高股息",
+      "indexNameEn": "High Dividend Custom",
+      "aum": "0.00",
+      "aumEn": "0.00",
+      "fundManager": "广发基金管理有限公司",
+      "fundManagerEn": "Gf Fund Management Co.,Ltd.",
+      "inceptionDate": "2025-11-28",
+      "exchange": "-",
+      "exchangeEn": "-"
+    },
+    {
+      "productCode": "159207",
+      "fundName": "广发中证智选高股息策略交易型开放式指数证券投资基金",
+      "fundNameEn": "GF Fund CSI High Dividend Strategy Custom ETF",
+      "assetClass": "股票",
+      "assetClassEn": "Equity",
+      "fundType": "ETF",
+      "fundTypeEn": "ETF",
+      "coverage": "境内",
+      "coverageEn": "China Mainland",
+      "indexCode": "932305",
+      "indexNameCn": "智选高股息",
+      "indexNameEn": "High Dividend Custom",
+      "aum": "22.87",
+      "aumEn": "22.87",
+      "fundManager": "广发基金管理有限公司",
+      "fundManagerEn": "Gf Fund Management Co.,Ltd.",
+      "inceptionDate": "2025-03-27",
+      "exchange": "深圳证券交易所",
+      "exchangeEn": "Shenzhen Stock Exchange"
+    }
+  ],
+  "success": true
+}

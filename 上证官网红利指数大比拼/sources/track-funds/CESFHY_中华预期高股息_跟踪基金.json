@@ -1,0 +1,22 @@
+{
+  "index_code": "CESFHY",
+  "index_name": "中华预期高股息",
+  "market": "跨市场",
+  "total_funds": 1,
+  "funds": [
+    {
+      "fund_code": "007178",
+      "fund_name": "浙商港股通中华交易服务预期高股息指数增强型证券投资基金",
+      "fund_name_en": "Zheshang HK Equities China Transaction Service Expected High Dividend Index Enhanced Fund",
+      "fund_type": "指数增强",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.62,
+      "fund_manager": "浙商基金管理有限公司",
+      "inception_date": "2019-10-30",
+      "exchange": "-",
+      "index_code_tracked": "CESFHY",
+      "index_name_tracked": "中华预期高股息"
+    }
+  ]
+}

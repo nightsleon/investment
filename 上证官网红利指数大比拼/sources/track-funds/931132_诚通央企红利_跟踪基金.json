@@ -1,0 +1,36 @@
+{
+  "index_code": "931132",
+  "index_name": "诚通央企红利",
+  "market": "境内",
+  "total_funds": 2,
+  "funds": [
+    {
+      "fund_code": "024218",
+      "fund_name": "融通中证诚通央企红利交易型开放式指数证券投资基金联接基金",
+      "fund_name_en": "RongTong CSI CHENGTONG Central State-owned Enterprises Dividend ETF Feeder Fund",
+      "fund_type": "联接基金",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.0,
+      "fund_manager": "融通基金管理有限公司",
+      "inception_date": "2025-07-16",
+      "exchange": "-",
+      "index_code_tracked": "931132",
+      "index_name_tracked": "诚通央企红利"
+    },
+    {
+      "fund_code": "159336",
+      "fund_name": "融通中证诚通央企红利交易型开放式指数证券投资基金",
+      "fund_name_en": "RongTong CSI CHENGTONG Central State-owned Enterprises Dividend ETF",
+      "fund_type": "ETF",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 4.24,
+      "fund_manager": "融通基金管理有限公司",
+      "inception_date": "2025-01-22",
+      "exchange": "深圳证券交易所",
+      "index_code_tracked": "931132",
+      "index_name_tracked": "诚通央企红利"
+    }
+  ]
+}

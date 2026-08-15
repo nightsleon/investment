@@ -1,0 +1,36 @@
+{
+  "index_code": "932305",
+  "index_name": "智选高股息",
+  "market": "境内",
+  "total_funds": 2,
+  "funds": [
+    {
+      "fund_code": "025682",
+      "fund_name": "广发中证智选高股息策略交易型开放式指数证券投资基金发起式联接基金",
+      "fund_name_en": "GF Fund CSI High Dividend Strategy Custom ETF Initiating Feeder Fund",
+      "fund_type": "联接基金",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.0,
+      "fund_manager": "广发基金管理有限公司",
+      "inception_date": "2025-11-28",
+      "exchange": "-",
+      "index_code_tracked": "932305",
+      "index_name_tracked": "智选高股息"
+    },
+    {
+      "fund_code": "159207",
+      "fund_name": "广发中证智选高股息策略交易型开放式指数证券投资基金",
+      "fund_name_en": "GF Fund CSI High Dividend Strategy Custom ETF",
+      "fund_type": "ETF",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 22.87,
+      "fund_manager": "广发基金管理有限公司",
+      "inception_date": "2025-03-27",
+      "exchange": "深圳证券交易所",
+      "index_code_tracked": "932305",
+      "index_name_tracked": "智选高股息"
+    }
+  ]
+}

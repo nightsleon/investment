@@ -1,0 +1,36 @@
+{
+  "index_code": "931231",
+  "index_name": "央企红利50",
+  "market": "境内",
+  "total_funds": 2,
+  "funds": [
+    {
+      "fund_code": "021561",
+      "fund_name": "天弘中证央企红利50指数型发起式证券投资基金",
+      "fund_name_en": "Tianhong CSI Central State-owned Enterprises Dividend 50 Index Initiating Fund",
+      "fund_type": "指数基金",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 3.5,
+      "fund_manager": "天弘基金管理有限公司",
+      "inception_date": "2024-07-02",
+      "exchange": "-",
+      "index_code_tracked": "931231",
+      "index_name_tracked": "央企红利50"
+    },
+    {
+      "fund_code": "020251",
+      "fund_name": "中银中证央企红利50指数型证券投资基金",
+      "fund_name_en": "BOC CSI Central State-owned Enterprises Dividend 50 Index Fund",
+      "fund_type": "指数基金",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.87,
+      "fund_manager": "中银基金管理有限公司",
+      "inception_date": "2024-03-22",
+      "exchange": "-",
+      "index_code_tracked": "931231",
+      "index_name_tracked": "央企红利50"
+    }
+  ]
+}

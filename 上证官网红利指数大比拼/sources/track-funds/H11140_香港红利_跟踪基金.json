@@ -1,0 +1,22 @@
+{
+  "index_code": "H11140",
+  "index_name": "香港红利",
+  "market": "跨市场",
+  "total_funds": 1,
+  "funds": [
+    {
+      "fund_code": "3070 HK Equity",
+      "fund_name": "中国平安CSI香港高息股ETF",
+      "fund_name_en": "PING AN OF CH CSI HK DIV",
+      "fund_type": "ETF",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 10.87,
+      "fund_manager": "平安香港",
+      "inception_date": "2012-02-10",
+      "exchange": "香港交易所",
+      "index_code_tracked": "H11140",
+      "index_name_tracked": "香港红利"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "updateDate": "2026-08-07",
+  "industryWeightList": [
+    {
+      "rowNum": 1,
+      "tradeDate": "20260807",
+      "csiType": "金融",
+      "csiTypeEn": "Financials",
+      "weightPct": "44.15",
+      "preciseWeight": "44.149250279531878787599962216"
+    },
+    {
+      "rowNum": 2,
+      "tradeDate": "20260807",
+      "csiType": "工业",
+      "csiTypeEn": "Industrials",
+      "weightPct": "15.84",
+      "preciseWeight": "15.837706468244870580647883422"
+    },
+    {
+      "rowNum": 3,
+      "tradeDate": "20260807",
+      "csiType": "公用事业",
+      "csiTypeEn": "Utilities",
+      "weightPct": "8.51",
+      "preciseWeight": "8.511222582400462524490272895"
+    },
+    {
+      "rowNum": 4,
+      "tradeDate": "20260807",
+      "csiType": "医药卫生",
+      "csiTypeEn": "Health Care",
+      "weightPct": "8.43",
+      "preciseWeight": "8.426196287726484930553427723"
+    },
+    {
+      "rowNum": 5,
+      "tradeDate": "20260807",
+      "csiType": "通信服务",
+      "csiTypeEn": "Communication Services",
+      "weightPct": "7.81",
+      "preciseWeight": "7.809396500582897844054584301"
+    },
+    {
+      "rowNum": 6,
+      "tradeDate": "20260807",
+      "csiType": "主要消费",
+      "csiTypeEn": "Consumer Staples",
+      "weightPct": "6.20",
+      "preciseWeight": "6.199131414232704378703107614"
+    },
+    {
+      "rowNum": 7,
+      "tradeDate": "20260807",
+      "csiType": "可选消费",
+      "csiTypeEn": "Consumer Discretionary",
+      "weightPct": "3.08",
+      "preciseWeight": "3.077562660784797496555208516"
+    },
+    {
+      "rowNum": 8,
+      "tradeDate": "20260807",
+      "csiType": "能源",
+      "csiTypeEn": "Energy",
+      "weightPct": "2.30",
+      "preciseWeight": "2.297933143884178957953065256"
+    },
+    {
+      "rowNum": 9,
+      "tradeDate": "20260807",
+      "csiType": "信息技术",
+      "csiTypeEn": "Information Technology",
+      "weightPct": "1.97",
+      "preciseWeight": "1.967732358915768626988486291"
+    },
+    {
+      "rowNum": 10,
+      "tradeDate": "20260807",
+      "csiType": "原材料",
+      "csiTypeEn": "Materials",
+      "weightPct": "1.17",
+      "preciseWeight": "1.174461942463938519466543829"
+    },
+    {
+      "rowNum": 11,
+      "tradeDate": "20260807",
+      "csiType": "房地产",
+      "csiTypeEn": "Real Estate",
+      "weightPct": "0.55",
+      "preciseWeight": "0.549406361233236897981041132"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "code": "200",
+  "msg": "Success",
+  "data": [
+    {
+      "productCode": "012708",
+      "fundName": "东方红中证东方红红利低波动指数证券投资基金",
+      "fundNameEn": "Dongfang Hong CSI Dongfanghong Dividend Low Volatility Index Fund",
+      "assetClass": "股票",
+      "assetClassEn": "Equity",
+      "fundType": "指数基金",
+      "fundTypeEn": "Index Fund",
+      "coverage": "境内",
+      "coverageEn": "China Mainland",
+      "indexCode": "931446",
+      "indexNameCn": "东证红利低波",
+      "indexNameEn": "DFH Dividend Low Volatility",
+      "aum": "65.11",
+      "aumEn": "65.11",
+      "fundManager": "上海东方证券资产管理有限公司",
+      "fundManagerEn": "Shanghai Dongfang Securities Co.,Ltd.",
+      "inceptionDate": "2021-12-30",
+      "exchange": "-",
+      "exchangeEn": "-"
+    }
+  ],
+  "success": true
+}

@@ -1,0 +1,28 @@
+{
+  "code": "200",
+  "msg": "Success",
+  "data": [
+    {
+      "productCode": "501307",
+      "fundName": "银河中证沪港深高股息指数型证券投资基金(LOF)",
+      "fundNameEn": "Galaxy Fund CSI Hugangshen High Dividend Index Fund",
+      "assetClass": "股票",
+      "assetClassEn": "Equity",
+      "fundType": "LOF",
+      "fundTypeEn": "LOF",
+      "coverage": "境内",
+      "coverageEn": "China Mainland",
+      "indexCode": "930917",
+      "indexNameCn": "SHS高股息",
+      "indexNameEn": "CSI SHS HDY",
+      "aum": "0.65",
+      "aumEn": "0.65",
+      "fundManager": "银河基金管理有限公司",
+      "fundManagerEn": "Galaxy Asset Management Co.,Ltd.",
+      "inceptionDate": "2018-04-10",
+      "exchange": "上海证券交易所",
+      "exchangeEn": "Shanghai Stock Exchange"
+    }
+  ],
+  "success": true
+}

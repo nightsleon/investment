@@ -1,0 +1,85 @@
+{
+  "updateDate": "2026-08-07",
+  "industryWeightList": [
+    {
+      "rowNum": 1,
+      "tradeDate": "20260807",
+      "csiType": "能源",
+      "csiTypeEn": "Energy",
+      "weightPct": "24.58",
+      "preciseWeight": "24.583731912801616064339840389"
+    },
+    {
+      "rowNum": 2,
+      "tradeDate": "20260807",
+      "csiType": "金融",
+      "csiTypeEn": "Financials",
+      "weightPct": "24.10",
+      "preciseWeight": "24.096942498269809162589655239"
+    },
+    {
+      "rowNum": 3,
+      "tradeDate": "20260807",
+      "csiType": "工业",
+      "csiTypeEn": "Industrials",
+      "weightPct": "19.13",
+      "preciseWeight": "19.133982409190776497039327206"
+    },
+    {
+      "rowNum": 4,
+      "tradeDate": "20260807",
+      "csiType": "原材料",
+      "csiTypeEn": "Materials",
+      "weightPct": "14.46",
+      "preciseWeight": "14.459421873212735603959705653"
+    },
+    {
+      "rowNum": 5,
+      "tradeDate": "20260807",
+      "csiType": "可选消费",
+      "csiTypeEn": "Consumer Discretionary",
+      "weightPct": "8.90",
+      "preciseWeight": "8.904977717960025444389175441"
+    },
+    {
+      "rowNum": 6,
+      "tradeDate": "20260807",
+      "csiType": "通信服务",
+      "csiTypeEn": "Communication Services",
+      "weightPct": "3.56",
+      "preciseWeight": "3.562387060291394225001686614"
+    },
+    {
+      "rowNum": 7,
+      "tradeDate": "20260807",
+      "csiType": "主要消费",
+      "csiTypeEn": "Consumer Staples",
+      "weightPct": "1.84",
+      "preciseWeight": "1.840105873948674173141279246"
+    },
+    {
+      "rowNum": 8,
+      "tradeDate": "20260807",
+      "csiType": "公用事业",
+      "csiTypeEn": "Utilities",
+      "weightPct": "1.74",
+      "preciseWeight": "1.743993506173914328328843080"
+    },
+    {
+      "rowNum": 9,
+      "tradeDate": "20260807",
+      "csiType": "房地产",
+      "csiTypeEn": "Real Estate",
+      "weightPct": "1.22",
+      "preciseWeight": "1.222797027910804865791307341"
+    },
+    {
+      "rowNum": 10,
+      "tradeDate": "20260807",
+      "csiType": "医药卫生",
+      "csiTypeEn": "Health Care",
+      "weightPct": "0.45",
+      "preciseWeight": "0.451660120240249635419179786"
+    }
+  ]
+}

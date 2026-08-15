@@ -1,0 +1,36 @@
+{
+  "index_code": "H30366",
+  "index_name": "高息策略",
+  "market": "境内",
+  "total_funds": 2,
+  "funds": [
+    {
+      "fund_code": "022144",
+      "fund_name": "银华中证高股息策略交易型开放式指数证券投资基金发起式联接基金",
+      "fund_name_en": "Yinhua CSI High Dividend Yield Strategy ETF Initiating Feeder Fund",
+      "fund_type": "联接基金",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.0,
+      "fund_manager": "银华基金管理股份有限公司",
+      "inception_date": "2024-12-03",
+      "exchange": "-",
+      "index_code_tracked": "H30366",
+      "index_name_tracked": "高息策略"
+    },
+    {
+      "fund_code": "563180",
+      "fund_name": "银华中证高股息策略交易型开放式指数证券投资基金",
+      "fund_name_en": "Yinhua CSI High Dividend Yield Strategy ETF",
+      "fund_type": "ETF",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 1.26,
+      "fund_manager": "银华基金管理股份有限公司",
+      "inception_date": "2024-05-06",
+      "exchange": "上海证券交易所",
+      "index_code_tracked": "H30366",
+      "index_name_tracked": "高息策略"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "code": "200",
+  "msg": "Success",
+  "data": [
+    {
+      "productCode": "008928",
+      "fundName": "宏利中证主要消费红利指数型证券投资基金",
+      "fundNameEn": "Manulife CSI Consumer Staples Dividend Index Fund",
+      "assetClass": "股票",
+      "assetClassEn": "Equity",
+      "fundType": "指数基金",
+      "fundTypeEn": "Index Fund",
+      "coverage": "境内",
+      "coverageEn": "China Mainland",
+      "indexCode": "H30094",
+      "indexNameCn": "消费红利",
+      "indexNameEn": "CSI Cons. Staples Dividend",
+      "aum": "7.99",
+      "aumEn": "7.99",
+      "fundManager": "宏利基金管理有限公司",
+      "fundManagerEn": "Manulife Fund Management Co.,Ltd.",
+      "inceptionDate": "2020-03-26",
+      "exchange": "-",
+      "exchangeEn": "-"
+    },
+    {
+      "productCode": "501089",
+      "fundName": "方正富邦中证主要消费红利指数增强型证券投资基金(LOF)",
+      "fundNameEn": "Founder Fubon CSI Consumer Staples Dividend Index Enhanced Fund(LOF)",
+      "assetClass": "股票",
+      "assetClassEn": "Equity",
+      "fundType": "LOF",
+      "fundTypeEn": "LOF",
+      "coverage": "境内",
+      "coverageEn": "China Mainland",
+      "indexCode": "H30094",
+      "indexNameCn": "消费红利",
+      "indexNameEn": "CSI Cons. Staples Dividend",
+      "aum": "0.62",
+      "aumEn": "0.62",
+      "fundManager": "方正富邦基金管理有限公司",
+      "fundManagerEn": "Founder Fubon Fund Management Co.,Ltd.",
+      "inceptionDate": "2019-11-29",
+      "exchange": "上海证券交易所",
+      "exchangeEn": "Shanghai Stock Exchange"
+    }
+  ],
+  "success": true
+}

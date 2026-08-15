@@ -1,0 +1,85 @@
+{
+  "updateDate": "2026-08-07",
+  "industryWeightList": [
+    {
+      "rowNum": 1,
+      "tradeDate": "20260807",
+      "csiType": "可选消费",
+      "csiTypeEn": "Consumer Discretionary",
+      "weightPct": "32.13",
+      "preciseWeight": "32.129931840261606433492679351"
+    },
+    {
+      "rowNum": 2,
+      "tradeDate": "20260807",
+      "csiType": "房地产",
+      "csiTypeEn": "Real Estate",
+      "weightPct": "13.86",
+      "preciseWeight": "13.859313320746854042860065711"
+    },
+    {
+      "rowNum": 3,
+      "tradeDate": "20260807",
+      "csiType": "金融",
+      "csiTypeEn": "Financials",
+      "weightPct": "12.63",
+      "preciseWeight": "12.626001480818437741216634321"
+    },
+    {
+      "rowNum": 4,
+      "tradeDate": "20260807",
+      "csiType": "工业",
+      "csiTypeEn": "Industrials",
+      "weightPct": "10.57",
+      "preciseWeight": "10.565638605743813096315112014"
+    },
+    {
+      "rowNum": 5,
+      "tradeDate": "20260807",
+      "csiType": "主要消费",
+      "csiTypeEn": "Consumer Staples",
+      "weightPct": "8.38",
+      "preciseWeight": "8.381030435283368980892860855"
+    },
+    {
+      "rowNum": 6,
+      "tradeDate": "20260807",
+      "csiType": "公用事业",
+      "csiTypeEn": "Utilities",
+      "weightPct": "6.50",
+      "preciseWeight": "6.504381098779778218569734855"
+    },
+    {
+      "rowNum": 7,
+      "tradeDate": "20260807",
+      "csiType": "通信服务",
+      "csiTypeEn": "Communication Services",
+      "weightPct": "6.44",
+      "preciseWeight": "6.438290475934222573655068926"
+    },
+    {
+      "rowNum": 8,
+      "tradeDate": "20260807",
+      "csiType": "能源",
+      "csiTypeEn": "Energy",
+      "weightPct": "4.64",
+      "preciseWeight": "4.643754982334119797068474401"
+    },
+    {
+      "rowNum": 9,
+      "tradeDate": "20260807",
+      "csiType": "医药卫生",
+      "csiTypeEn": "Health Care",
+      "weightPct": "2.45",
+      "preciseWeight": "2.447598669777850113792552446"
+    },
+    {
+      "rowNum": 10,
+      "tradeDate": "20260807",
+      "csiType": "原材料",
+      "csiTypeEn": "Materials",
+      "weightPct": "2.40",
+      "preciseWeight": "2.404059090315059675501246985"
+    }
+  ]
+}

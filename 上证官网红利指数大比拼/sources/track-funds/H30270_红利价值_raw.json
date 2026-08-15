@@ -1,0 +1,49 @@
+{
+  "code": "200",
+  "msg": "Success",
+  "data": [
+    {
+      "productCode": "024564",
+      "fundName": "易方达中证红利价值交易型开放式指数证券投资基金联接基金",
+      "fundNameEn": "E Fund CSI Dividend Value ETF Feeder Fund",
+      "assetClass": "股票",
+      "assetClassEn": "Equity",
+      "fundType": "联接基金",
+      "fundTypeEn": "Feeder Fund",
+      "coverage": "境内",
+      "coverageEn": "China Mainland",
+      "indexCode": "H30270",
+      "indexNameCn": "红利价值",
+      "indexNameEn": "CSI Dividend Value",
+      "aum": "0.00",
+      "aumEn": "0.00",
+      "fundManager": "易方达基金管理有限公司",
+      "fundManagerEn": "E Fund Management Co.,Ltd.",
+      "inceptionDate": "2025-07-29",
+      "exchange": "-",
+      "exchangeEn": "-"
+    },
+    {
+      "productCode": "563700",
+      "fundName": "易方达中证红利价值交易型开放式指数证券投资基金",
+      "fundNameEn": "E Fund CSI Dividend Value ETF",
+      "assetClass": "股票",
+      "assetClassEn": "Equity",
+      "fundType": "ETF",
+      "fundTypeEn": "ETF",
+      "coverage": "境内",
+      "coverageEn": "China Mainland",
+      "indexCode": "H30270",
+      "indexNameCn": "红利价值",
+      "indexNameEn": "CSI Dividend Value",
+      "aum": "4.16",
+      "aumEn": "4.16",
+      "fundManager": "易方达基金管理有限公司",
+      "fundManagerEn": "E Fund Management Co.,Ltd.",
+      "inceptionDate": "2025-04-16",
+      "exchange": "上海证券交易所",
+      "exchangeEn": "Shanghai Stock Exchange"
+    }
+  ],
+  "success": true
+}

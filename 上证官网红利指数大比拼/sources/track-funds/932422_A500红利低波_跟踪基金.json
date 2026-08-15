@@ -1,0 +1,92 @@
+{
+  "index_code": "932422",
+  "index_name": "A500红利低波",
+  "market": "境内",
+  "total_funds": 6,
+  "funds": [
+    {
+      "fund_code": "563510",
+      "fund_name": "易方达中证A500红利低波动交易型开放式指数证券投资基金",
+      "fund_name_en": "E Fund CSI A500 Dividend Low Volatility ETF",
+      "fund_type": "ETF",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 3.06,
+      "fund_manager": "易方达基金管理有限公司",
+      "inception_date": "2025-11-17",
+      "exchange": "上海证券交易所",
+      "index_code_tracked": "932422",
+      "index_name_tracked": "A500红利低波"
+    },
+    {
+      "fund_code": "025457",
+      "fund_name": "申万菱信中证A500红利低波动指数型证券投资基金",
+      "fund_name_en": "SWS MU CSI A500 Dividend Low Volatility Index Fund",
+      "fund_type": "指数基金",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 2.89,
+      "fund_manager": "申万菱信基金管理有限公司",
+      "inception_date": "2025-11-04",
+      "exchange": "-",
+      "index_code_tracked": "932422",
+      "index_name_tracked": "A500红利低波"
+    },
+    {
+      "fund_code": "563590",
+      "fund_name": "国寿安保中证A500红利低波动交易型开放式指数证券投资基金",
+      "fund_name_en": "China Life AMP CSI A500 Dividend Low Volatility ETF",
+      "fund_type": "ETF",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.62,
+      "fund_manager": "国寿安保基金管理有限公司",
+      "inception_date": "2025-10-27",
+      "exchange": "上海证券交易所",
+      "index_code_tracked": "932422",
+      "index_name_tracked": "A500红利低波"
+    },
+    {
+      "fund_code": "560570",
+      "fund_name": "国联安中证A500红利低波动交易型开放式指数证券投资基金",
+      "fund_name_en": "GTJA Allianz CSI A500 Dividend Low Volatility ETF",
+      "fund_type": "ETF",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 12.3,
+      "fund_manager": "国联安基金管理有限公司",
+      "inception_date": "2025-09-10",
+      "exchange": "上海证券交易所",
+      "index_code_tracked": "932422",
+      "index_name_tracked": "A500红利低波"
+    },
+    {
+      "fund_code": "561680",
+      "fund_name": "平安中证A500红利低波动交易型开放式指数证券投资基金",
+      "fund_name_en": "Ping An CSI A500 Dividend Low Volatility ETF",
+      "fund_type": "ETF",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.61,
+      "fund_manager": "平安基金管理有限公司",
+      "inception_date": "2025-08-27",
+      "exchange": "上海证券交易所",
+      "index_code_tracked": "932422",
+      "index_name_tracked": "A500红利低波"
+    },
+    {
+      "fund_code": "159296",
+      "fund_name": "华宝中证A500红利低波动交易型开放式指数证券投资基金",
+      "fund_name_en": "Hwabao WP CSI A500 Dividend Low Volatility ETF",
+      "fund_type": "ETF",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.48,
+      "fund_manager": "华宝基金管理有限公司",
+      "inception_date": "2025-08-27",
+      "exchange": "深圳证券交易所",
+      "index_code_tracked": "932422",
+      "index_name_tracked": "A500红利低波"
+    }
+  ]
+}

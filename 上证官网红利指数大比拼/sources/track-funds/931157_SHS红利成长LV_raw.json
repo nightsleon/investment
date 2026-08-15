@@ -1,0 +1,28 @@
+{
+  "code": "200",
+  "msg": "Success",
+  "data": [
+    {
+      "productCode": "007751",
+      "fundName": "景顺长城中证沪港深红利成长低波动指数型证券投资基金",
+      "fundNameEn": "Invesco Great Wall CSI SHKZ Dividend Growth Low Volatility Index Fund",
+      "assetClass": "股票",
+      "assetClassEn": "Equity",
+      "fundType": "指数基金",
+      "fundTypeEn": "Index Fund",
+      "coverage": "境内",
+      "coverageEn": "China Mainland",
+      "indexCode": "931157",
+      "indexNameCn": "SHS红利成长LV",
+      "indexNameEn": "SHS Div Growth LV",
+      "aum": "34.51",
+      "aumEn": "34.51",
+      "fundManager": "景顺长城基金管理有限公司",
+      "fundManagerEn": "Invesco Great Wall Fund Management Company Limited",
+      "inceptionDate": "2019-09-06",
+      "exchange": "-",
+      "exchangeEn": "-"
+    }
+  ],
+  "success": true
+}

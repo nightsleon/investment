@@ -1,0 +1,28 @@
+{
+  "code": "200",
+  "msg": "Success",
+  "data": [
+    {
+      "productCode": "007178",
+      "fundName": "浙商港股通中华交易服务预期高股息指数增强型证券投资基金",
+      "fundNameEn": "Zheshang HK Equities China Transaction Service Expected High Dividend Index Enhanced Fund",
+      "assetClass": "股票",
+      "assetClassEn": "Equity",
+      "fundType": "指数增强",
+      "fundTypeEn": "Enhanced Index Fund",
+      "coverage": "境内",
+      "coverageEn": "China Mainland",
+      "indexCode": "CESFHY",
+      "indexNameCn": "中华预期高股息",
+      "indexNameEn": "CES High Yield",
+      "aum": "0.62",
+      "aumEn": "0.62",
+      "fundManager": "浙商基金管理有限公司",
+      "fundManagerEn": "Zheshang Fund Management Co.,Ltd.",
+      "inceptionDate": "2019-10-30",
+      "exchange": "-",
+      "exchangeEn": "-"
+    }
+  ],
+  "success": true
+}

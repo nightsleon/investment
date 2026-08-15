@@ -1,0 +1,28 @@
+{
+  "code": "200",
+  "msg": "Success",
+  "data": [
+    {
+      "productCode": "3070 HK Equity",
+      "fundName": "中国平安CSI香港高息股ETF",
+      "fundNameEn": "PING AN OF CH CSI HK DIV",
+      "assetClass": "股票",
+      "assetClassEn": "Equity",
+      "fundType": "ETF",
+      "fundTypeEn": "ETF",
+      "coverage": "境内",
+      "coverageEn": "China Mainland",
+      "indexCode": "H11140",
+      "indexNameCn": "香港红利",
+      "indexNameEn": "HK Dividend",
+      "aum": "10.87",
+      "aumEn": "10.87",
+      "fundManager": "平安香港",
+      "fundManagerEn": "Ping An of China Asset Management Hong Kong",
+      "inceptionDate": "2012-02-10",
+      "exchange": "香港交易所",
+      "exchangeEn": "Hong Kong Exchanges"
+    }
+  ],
+  "success": true
+}

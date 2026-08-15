@@ -1,0 +1,64 @@
+{
+  "index_code": "000151",
+  "index_name": "上国红利",
+  "market": "境内",
+  "total_funds": 4,
+  "funds": [
+    {
+      "fund_code": "023162",
+      "fund_name": "银河上证国有企业红利交易型开放式指数证券投资基金发起式联接基金",
+      "fund_name_en": "Galaxy Fund SSE State-owned Enterprises Dividend ETF Initiating Feeder Fund",
+      "fund_type": "联接基金",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.0,
+      "fund_manager": "银河基金管理有限公司",
+      "inception_date": "2025-01-21",
+      "exchange": "-",
+      "index_code_tracked": "000151",
+      "index_name_tracked": "上国红利"
+    },
+    {
+      "fund_code": "530880",
+      "fund_name": "银河上证国有企业红利交易型开放式指数证券投资基金",
+      "fund_name_en": "Galaxy Fund SSE State-owned Enterprises Dividend ETF",
+      "fund_type": "ETF",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.44,
+      "fund_manager": "银河基金管理有限公司",
+      "inception_date": "2024-10-30",
+      "exchange": "上海证券交易所",
+      "index_code_tracked": "000151",
+      "index_name_tracked": "上国红利"
+    },
+    {
+      "fund_code": "021701",
+      "fund_name": "国泰上证国有企业红利交易型开放式指数证券投资基金发起式联接基金",
+      "fund_name_en": "Guotai SSE State-owned Enterprises Dividend ETF Initiating Feeder Fund",
+      "fund_type": "联接基金",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.0,
+      "fund_manager": "国泰基金管理有限公司",
+      "inception_date": "2024-06-19",
+      "exchange": "-",
+      "index_code_tracked": "000151",
+      "index_name_tracked": "上国红利"
+    },
+    {
+      "fund_code": "510720",
+      "fund_name": "国泰上证国有企业红利交易型开放式指数证券投资基金",
+      "fund_name_en": "Guotai SSE State-owned Enterprises Dividend ETF",
+      "fund_type": "ETF",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 21.76,
+      "fund_manager": "国泰基金管理有限公司",
+      "inception_date": "2024-04-30",
+      "exchange": "上海证券交易所",
+      "index_code_tracked": "000151",
+      "index_name_tracked": "上国红利"
+    }
+  ]
+}

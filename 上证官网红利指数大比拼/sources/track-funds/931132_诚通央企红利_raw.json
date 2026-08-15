@@ -1,0 +1,49 @@
+{
+  "code": "200",
+  "msg": "Success",
+  "data": [
+    {
+      "productCode": "024218",
+      "fundName": "融通中证诚通央企红利交易型开放式指数证券投资基金联接基金",
+      "fundNameEn": "RongTong CSI CHENGTONG Central State-owned Enterprises Dividend ETF Feeder Fund",
+      "assetClass": "股票",
+      "assetClassEn": "Equity",
+      "fundType": "联接基金",
+      "fundTypeEn": "Feeder Fund",
+      "coverage": "境内",
+      "coverageEn": "China Mainland",
+      "indexCode": "931132",
+      "indexNameCn": "诚通央企红利",
+      "indexNameEn": "CHENGTONG Central SOEs Dividend",
+      "aum": "0.00",
+      "aumEn": "0.00",
+      "fundManager": "融通基金管理有限公司",
+      "fundManagerEn": "Rongtong Fund Management Co.,Ltd.",
+      "inceptionDate": "2025-07-16",
+      "exchange": "-",
+      "exchangeEn": "-"
+    },
+    {
+      "productCode": "159336",
+      "fundName": "融通中证诚通央企红利交易型开放式指数证券投资基金",
+      "fundNameEn": "RongTong CSI CHENGTONG Central State-owned Enterprises Dividend ETF",
+      "assetClass": "股票",
+      "assetClassEn": "Equity",
+      "fundType": "ETF",
+      "fundTypeEn": "ETF",
+      "coverage": "境内",
+      "coverageEn": "China Mainland",
+      "indexCode": "931132",
+      "indexNameCn": "诚通央企红利",
+      "indexNameEn": "CHENGTONG Central SOEs Dividend",
+      "aum": "4.24",
+      "aumEn": "4.24",
+      "fundManager": "融通基金管理有限公司",
+      "fundManagerEn": "Rongtong Fund Management Co.,Ltd.",
+      "inceptionDate": "2025-01-22",
+      "exchange": "深圳证券交易所",
+      "exchangeEn": "Shenzhen Stock Exchange"
+    }
+  ],
+  "success": true
+}

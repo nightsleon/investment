@@ -1,0 +1,92 @@
+{
+  "index_code": "000824",
+  "index_name": "国企红利",
+  "market": "境内",
+  "total_funds": 6,
+  "funds": [
+    {
+      "fund_code": "563890",
+      "fund_name": "创金合信中证国有企业红利交易型开放式指数证券投资基金",
+      "fund_name_en": "Truvalue CSI State-owned Enterprises Dividend ETF",
+      "fund_type": "ETF",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.27,
+      "fund_manager": "创金合信基金管理有限公司",
+      "inception_date": "2025-09-24",
+      "exchange": "上海证券交易所",
+      "index_code_tracked": "000824",
+      "index_name_tracked": "国企红利"
+    },
+    {
+      "fund_code": "020115",
+      "fund_name": "鹏扬中证国有企业红利交易型开放式指数证券投资基金联接基金",
+      "fund_name_en": "Pengyang CSI State-owned Enterprises Dividend ETF Feeder Fund",
+      "fund_type": "联接基金",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.0,
+      "fund_manager": "鹏扬基金管理有限公司",
+      "inception_date": "2024-03-19",
+      "exchange": "-",
+      "index_code_tracked": "000824",
+      "index_name_tracked": "国企红利"
+    },
+    {
+      "fund_code": "020461",
+      "fund_name": "华安中证国有企业红利交易型开放式指数证券投资基金发起式联接基金",
+      "fund_name_en": "Huaan CSI State-owned Enterprises Dividend ETF Initiating Feeder Fund",
+      "fund_type": "联接基金",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.0,
+      "fund_manager": "华安基金管理有限公司",
+      "inception_date": "2024-01-31",
+      "exchange": "-",
+      "index_code_tracked": "000824",
+      "index_name_tracked": "国企红利"
+    },
+    {
+      "fund_code": "561060",
+      "fund_name": "华安中证国有企业红利交易型开放式指数证券投资基金",
+      "fund_name_en": "Huaan CSI State-owned Enterprises Dividend ETF",
+      "fund_type": "ETF",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.63,
+      "fund_manager": "华安基金管理有限公司",
+      "inception_date": "2023-09-06",
+      "exchange": "上海证券交易所",
+      "index_code_tracked": "000824",
+      "index_name_tracked": "国企红利"
+    },
+    {
+      "fund_code": "159515",
+      "fund_name": "鹏扬中证国有企业红利交易型开放式指数证券投资基金",
+      "fund_name_en": "Pengyang CSI State-owned Enterprises Dividend ETF",
+      "fund_type": "ETF",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.47,
+      "fund_manager": "鹏扬基金管理有限公司",
+      "inception_date": "2023-08-25",
+      "exchange": "深圳证券交易所",
+      "index_code_tracked": "000824",
+      "index_name_tracked": "国企红利"
+    },
+    {
+      "fund_code": "501059",
+      "fund_name": "西部利得中证国有企业红利指数增强型证券投资基金(LOF)",
+      "fund_name_en": "Western Leadbank CSI Statewned Enterprises Dividend Index Enhanced Fund(LOF)",
+      "fund_type": "LOF",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 8.76,
+      "fund_manager": "西部利得基金管理有限公司",
+      "inception_date": "2018-07-11",
+      "exchange": "上海证券交易所",
+      "index_code_tracked": "000824",
+      "index_name_tracked": "国企红利"
+    }
+  ]
+}

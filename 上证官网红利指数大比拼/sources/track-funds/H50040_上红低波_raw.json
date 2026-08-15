@@ -1,0 +1,28 @@
+{
+  "code": "200",
+  "msg": "Success",
+  "data": [
+    {
+      "productCode": "020456",
+      "fundName": "平安上证红利低波动指数型证券投资基金",
+      "fundNameEn": "Ping An SSE Dividend Low Volatility Index Fund",
+      "assetClass": "股票",
+      "assetClassEn": "Equity",
+      "fundType": "指数基金",
+      "fundTypeEn": "Index Fund",
+      "coverage": "境内",
+      "coverageEn": "China Mainland",
+      "indexCode": "H50040",
+      "indexNameCn": "上红低波",
+      "indexNameEn": "SSE Dividend Low Volatility",
+      "aum": "0.84",
+      "aumEn": "0.84",
+      "fundManager": "平安基金管理有限公司",
+      "fundManagerEn": "Ping An Fund Management Company Limited",
+      "inceptionDate": "2024-04-23",
+      "exchange": "-",
+      "exchangeEn": "-"
+    }
+  ],
+  "success": true
+}

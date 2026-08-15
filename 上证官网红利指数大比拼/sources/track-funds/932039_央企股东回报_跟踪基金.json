@@ -1,0 +1,92 @@
+{
+  "index_code": "932039",
+  "index_name": "央企股东回报",
+  "market": "境内",
+  "total_funds": 6,
+  "funds": [
+    {
+      "fund_code": "019365",
+      "fund_name": "汇添富中证国新央企股东回报交易型开放式指数证券投资基金联接基金",
+      "fund_name_en": "China Universal CSI Guoxin CentralOEs Shareholder Return ETF Feeder Fund",
+      "fund_type": "联接基金",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.0,
+      "fund_manager": "汇添富基金管理股份有限公司",
+      "inception_date": "2024-02-02",
+      "exchange": "-",
+      "index_code_tracked": "932039",
+      "index_name_tracked": "央企股东回报"
+    },
+    {
+      "fund_code": "019544",
+      "fund_name": "招商中证国新央企股东回报交易型开放式指数证券投资基金发起式联接基金",
+      "fund_name_en": "China Merchants CSI Guoxin CentralOEs Shareholder Return ETF Initiating Feeder Fund",
+      "fund_type": "联接基金",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.0,
+      "fund_manager": "招商基金管理有限公司",
+      "inception_date": "2023-12-29",
+      "exchange": "-",
+      "index_code_tracked": "932039",
+      "index_name_tracked": "央企股东回报"
+    },
+    {
+      "fund_code": "019428",
+      "fund_name": "广发中证国新央企股东回报交易型开放式指数证券投资基金发起式联接基金",
+      "fund_name_en": "GF Fund CSI Guoxin CentralOEs Shareholder Return ETF Initiating Feeder Fund",
+      "fund_type": "联接基金",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.0,
+      "fund_manager": "广发基金管理有限公司",
+      "inception_date": "2023-11-24",
+      "exchange": "-",
+      "index_code_tracked": "932039",
+      "index_name_tracked": "央企股东回报"
+    },
+    {
+      "fund_code": "560700",
+      "fund_name": "广发中证国新央企股东回报交易型开放式指数证券投资基金",
+      "fund_name_en": "GF Fund CSI Guoxin CentralOEs Shareholder Return ETF",
+      "fund_type": "ETF",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 5.38,
+      "fund_manager": "广发基金管理有限公司",
+      "inception_date": "2023-05-24",
+      "exchange": "上海证券交易所",
+      "index_code_tracked": "932039",
+      "index_name_tracked": "央企股东回报"
+    },
+    {
+      "fund_code": "560070",
+      "fund_name": "汇添富中证国新央企股东回报交易型开放式指数证券投资基金",
+      "fund_name_en": "China Universal CSI Guoxin CentralOEs Shareholder Return ETF",
+      "fund_type": "ETF",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.98,
+      "fund_manager": "汇添富基金管理股份有限公司",
+      "inception_date": "2023-05-24",
+      "exchange": "上海证券交易所",
+      "index_code_tracked": "932039",
+      "index_name_tracked": "央企股东回报"
+    },
+    {
+      "fund_code": "561960",
+      "fund_name": "招商中证国新央企股东回报交易型开放式指数证券投资基金",
+      "fund_name_en": "China Merchants CSI Guoxin CentralOEs Shareholder Return ETF",
+      "fund_type": "ETF",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.72,
+      "fund_manager": "招商基金管理有限公司",
+      "inception_date": "2023-05-24",
+      "exchange": "上海证券交易所",
+      "index_code_tracked": "932039",
+      "index_name_tracked": "央企股东回报"
+    }
+  ]
+}

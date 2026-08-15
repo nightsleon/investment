@@ -1,0 +1,36 @@
+{
+  "index_code": "H30094",
+  "index_name": "消费红利",
+  "market": "境内",
+  "total_funds": 2,
+  "funds": [
+    {
+      "fund_code": "008928",
+      "fund_name": "宏利中证主要消费红利指数型证券投资基金",
+      "fund_name_en": "Manulife CSI Consumer Staples Dividend Index Fund",
+      "fund_type": "指数基金",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 7.99,
+      "fund_manager": "宏利基金管理有限公司",
+      "inception_date": "2020-03-26",
+      "exchange": "-",
+      "index_code_tracked": "H30094",
+      "index_name_tracked": "消费红利"
+    },
+    {
+      "fund_code": "501089",
+      "fund_name": "方正富邦中证主要消费红利指数增强型证券投资基金(LOF)",
+      "fund_name_en": "Founder Fubon CSI Consumer Staples Dividend Index Enhanced Fund(LOF)",
+      "fund_type": "LOF",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.62,
+      "fund_manager": "方正富邦基金管理有限公司",
+      "inception_date": "2019-11-29",
+      "exchange": "上海证券交易所",
+      "index_code_tracked": "H30094",
+      "index_name_tracked": "消费红利"
+    }
+  ]
+}

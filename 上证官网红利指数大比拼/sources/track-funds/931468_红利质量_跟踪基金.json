@@ -1,0 +1,36 @@
+{
+  "index_code": "931468",
+  "index_name": "红利质量",
+  "market": "境内",
+  "total_funds": 2,
+  "funds": [
+    {
+      "fund_code": "016440",
+      "fund_name": "华夏中证红利质量交易型开放式指数证券投资基金发起式联接基金",
+      "fund_name_en": "ChinaAMC CSI Dividend Quality ETF Initiating Feeder Fund",
+      "fund_type": "联接基金",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.0,
+      "fund_manager": "华夏基金管理有限公司",
+      "inception_date": "2022-09-14",
+      "exchange": "-",
+      "index_code_tracked": "931468",
+      "index_name_tracked": "红利质量"
+    },
+    {
+      "fund_code": "159758",
+      "fund_name": "华夏中证红利质量交易型开放式指数证券投资基金",
+      "fund_name_en": "ChinaAMC CSI Dividend Quality ETF",
+      "fund_type": "ETF",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 15.06,
+      "fund_manager": "华夏基金管理有限公司",
+      "inception_date": "2021-12-20",
+      "exchange": "深圳证券交易所",
+      "index_code_tracked": "931468",
+      "index_name_tracked": "红利质量"
+    }
+  ]
+}

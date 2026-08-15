@@ -1,0 +1,50 @@
+{
+  "index_code": "930839",
+  "index_name": "港股通高息精选",
+  "market": "跨市场",
+  "total_funds": 3,
+  "funds": [
+    {
+      "fund_code": "024247",
+      "fund_name": "工银瑞信中证港股通高股息精选交易型开放式指数证券投资基金联接基金",
+      "fund_name_en": "ICBCCS CSI Hong Kong Connect High Dividend Yield Select ETF Feeder Fund",
+      "fund_type": "联接基金",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.0,
+      "fund_manager": "工银瑞信基金管理有限公司",
+      "inception_date": "2025-05-27",
+      "exchange": "-",
+      "index_code_tracked": "930839",
+      "index_name_tracked": "港股通高息精选"
+    },
+    {
+      "fund_code": "159691",
+      "fund_name": "工银瑞信中证港股通高股息精选交易型开放式指数证券投资基金",
+      "fund_name_en": "ICBCCS CSI Hong Kong Connect High Dividend Yield Select ETF",
+      "fund_type": "ETF",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 44.55,
+      "fund_manager": "工银瑞信基金管理有限公司",
+      "inception_date": "2023-03-30",
+      "exchange": "深圳证券交易所",
+      "index_code_tracked": "930839",
+      "index_name_tracked": "港股通高息精选"
+    },
+    {
+      "fund_code": "004532",
+      "fund_name": "民生加银中证港股通高股息精选指数证券投资基金",
+      "fund_name_en": "Minsheng Royal CSI HK Equities High Dividend Selected Index Fund",
+      "fund_type": "指数基金",
+      "asset_class": "股票",
+      "coverage": "境内",
+      "aum_yi": 0.93,
+      "fund_manager": "民生加银基金管理有限公司",
+      "inception_date": "2017-06-02",
+      "exchange": "-",
+      "index_code_tracked": "930839",
+      "index_name_tracked": "港股通高息精选"
+    }
+  ]
+}
