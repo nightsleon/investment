@@ -11,7 +11,7 @@ plt.rcParams['axes.unicode_minus']=False
 q=pd.read_csv(DATA/'quarterly_financial.csv', parse_dates=['date'])
 q=q.dropna(subset=['non_gaap_ttm_yi'])
 start=str(q['date'].min().date())
-raw=yf.download('300760.SZ', start=start, end='2026-07-08', auto_adjust=False, progress=False)
+raw=yf.download('300760.SZ', start=start, end='2026-09-03', auto_adjust=False, progress=False)
 if isinstance(raw.columns,pd.MultiIndex): raw.columns=raw.columns.get_level_values(0)
 price=raw.reset_index()[['Date','Close','Adj Close']].rename(columns={'Date':'trade_date','Adj Close':'adj_close','Close':'close'})
 rows=[]
@@ -21,6 +21,14 @@ for _,r in q.iterrows():
     p=sub.iloc[-1]
     rows.append({**r.to_dict(),'trade_date':p.trade_date,'adj_close':float(p.adj_close),'close':float(p.close)})
 m=pd.DataFrame(rows)
+# 追加最新交易日快照(不覆盖末个报告期, 保留真实季度末价格, 使图上能看出6/30之后走势)
+if not m.empty and len(price):
+    last=price.iloc[-1]
+    tail=m.iloc[-1].to_dict()
+    tail.update({'date':pd.Timestamp(last.trade_date),'year':int(last.trade_date.year),
+                 'quarter':int((last.trade_date.month-1)//3+1),
+                 'trade_date':last.trade_date,'adj_close':float(last.adj_close),'close':float(last.close)})
+    m=pd.concat([m,pd.DataFrame([tail])],ignore_index=True)
 m.to_csv(DATA/'stock_profit_quarterly_merged.csv',index=False,encoding='utf-8-sig')
 # plot 1 dual axis TTM main
 fig, ax1=plt.subplots(figsize=(14,7),dpi=180)
