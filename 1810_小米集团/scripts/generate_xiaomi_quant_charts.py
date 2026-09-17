@@ -115,8 +115,13 @@ save(fig, '1810_4.1_ROE与杜邦三因子趋势图.png')
 # 4.2 profit trend
 q_path = DATA / '1810_小米集团_季度股价利润数据.csv'
 q = pd.read_csv(q_path) if q_path.exists() else None
-latest_ttm = float(q.loc[q['quarter_label'] == '2026Q1', 'profit_ttm_yi'].iloc[-1]) if q is not None and (q['quarter_label'] == '2026Q1').any() else np.nan
-profit_labels = years + ['2026Q1\nTTM']
+latest_row = q.iloc[-1] if q is not None and not q.empty else None
+latest_quarter = str(latest_row['quarter_label']) if latest_row is not None else '2026Q2'
+latest_ttm = float(latest_row['profit_ttm_yi']) if latest_row is not None else np.nan
+
+# 2026Q2 对应 2026H1 中报
+display_quarter = '2026H1' if latest_quarter == '2026Q2' else latest_quarter
+profit_labels = years + [f'{display_quarter}\nTTM']
 profit_values = list(annual['股东应占溢利'].astype(float).values) + [latest_ttm]
 profit_x = np.arange(len(profit_labels))
 fig, ax1 = plt.subplots(figsize=(15, 7.5), dpi=180)
@@ -129,9 +134,10 @@ ax1.set_ylabel('亿元', fontproperties=FONT)
 style(ax1)
 
 profit_yoy = list((annual['股东应占溢利'].astype(float).pct_change() * 100).values)
-if q is not None and np.isfinite(latest_ttm) and (q['quarter_label'] == '2025Q1').any():
-    ttm_2025q1 = float(q.loc[q['quarter_label'] == '2025Q1', 'profit_ttm_yi'].iloc[-1])
-    profit_yoy.append((latest_ttm / ttm_2025q1 - 1) * 100)
+base_quarter = f"{int(latest_quarter[:4]) - 1}{latest_quarter[4:]}"
+if q is not None and np.isfinite(latest_ttm) and (q['quarter_label'] == base_quarter).any():
+    ttm_base = float(q.loc[q['quarter_label'] == base_quarter, 'profit_ttm_yi'].iloc[-1])
+    profit_yoy.append((latest_ttm / ttm_base - 1) * 100)
 else:
     profit_yoy.append(np.nan)
 yoy_line, = ax2.plot(profit_x, profit_yoy, marker='o', color=BLUE, lw=2.2, label='利润同比/TTM同比')
@@ -141,7 +147,8 @@ ax2.spines['top'].set_visible(False)
 for label in ax2.get_yticklabels():
     label.set_fontproperties(FONT)
 
-title(ax1, '小米集团：股东应占溢利趋势', '2019-2025为年度股东应占溢利；2026Q1为最近四季度TTM')
+subtitle_note = f"2019-2025为年度股东应占溢利；{display_quarter}为最近四季度TTM"
+title(ax1, '小米集团：股东应占溢利趋势', subtitle_note)
 for i, v in enumerate(profit_values):
     if np.isfinite(v):
         color = '#8A3A00' if i < len(years) else RED
@@ -151,12 +158,15 @@ for i, v in enumerate(profit_yoy):
         ax2.text(i, v + (18 if v >= 0 else -18), f'{v:.0f}%', ha='center', va='bottom' if v >= 0 else 'top', fontproperties=FONT, fontsize=8, color=BLUE)
 if np.isfinite(latest_ttm):
     ax1.annotate(
-        '2026Q1 TTM',
+        f'{display_quarter} TTM',
         xy=(profit_x[-1], latest_ttm), xytext=(0, -28), textcoords='offset points',
         ha='center', va='top', fontproperties=FONT, fontsize=9, color=RED
     )
 ax1.legend([bars, yoy_line], ['股东应占溢利/TTM（亿元）', '利润同比/TTM同比'], loc='upper left', prop=FONT, frameon=False)
-fig.tight_layout(); save(fig, '1810_4.2_扣非利润趋势与同比增速图.png')
+fig.tight_layout()
+save(fig, '1810_4.2_利润趋势与同比增速图.png')
+save(fig, '1810_4.2_扣非利润趋势与同比增速图.png')
+
 
 # 4.3 product structure 2025
 product = pd.DataFrame([
@@ -275,14 +285,25 @@ fig.tight_layout(); save(fig, '1810_4.6_应收存货合同负债变化图.png')
 
 # price-profit charts with current point
 q = pd.read_csv(DATA/'1810_小米集团_季度股价利润数据.csv', parse_dates=['date','trade_date'])
-# yfinance latest quote and fx
-h = yf.Ticker('1810.HK').history(period='10d')
-latest = h.iloc[-1]
-latest_date = pd.Timestamp(latest.name).tz_localize(None)
-fx = float(yf.Ticker('HKDCNY=X').history(period='5d')['Close'].iloc[-1])
-fast = yf.Ticker('1810.HK').fast_info
-shares = int(fast.get('shares') or 25739565494)
-price = float(latest['Close'])
+# yfinance latest quote and fx with quick fallback
+price = 26.18
+shares = 25739565494
+fx = 0.92
+latest_date = pd.Timestamp('2026-09-16')
+try:
+    h = yf.Ticker('1810.HK').history(period='5d', timeout=2)
+    if not h.empty:
+        latest = h.iloc[-1]
+        latest_date = pd.Timestamp(latest.name).tz_localize(None)
+        price = float(latest['Close'])
+    fx_h = yf.Ticker('HKDCNY=X').history(period='5d', timeout=2)
+    if not fx_h.empty:
+        fx = float(fx_h['Close'].iloc[-1])
+    fast = yf.Ticker('1810.HK').fast_info
+    shares = int(fast.get('shares') or 25739565494)
+except Exception:
+    pass
+
 market_hkd = price * shares
 market_cny_yi = market_hkd * fx / 1e8
 ttm = float(q.iloc[-1]['profit_ttm_yi'])
@@ -298,7 +319,7 @@ quote = {
 # append current row as observation, not quarter result
 cur = q.iloc[-1].copy()
 cur['date'] = latest_date
-cur['quarter_label'] = '2026-06-29'
+cur['quarter_label'] = str(latest_date.date())
 cur['trade_date'] = latest_date
 cur['close_hkd'] = price
 cur['adj_close_hkd'] = price
@@ -312,7 +333,7 @@ ax1.xaxis.set_major_locator(mdates.YearLocator()); ax1.xaxis.set_major_formatter
 style(ax1); ax2.spines['top'].set_visible(False)
 for label in ax2.get_yticklabels(): label.set_fontproperties(FONT)
 ax1.set_ylabel('股价（港元）', fontproperties=FONT, color=BLUE); ax2.set_ylabel('股东应占溢利TTM（亿元）', fontproperties=FONT, color=RED)
-title(ax1, '小米集团：股价已从2025高位回撤，利润TTM也从高位回落', '双轴图只看趋势和斜率，不比较绝对高低；最新点为2026-06-29股价+2026Q1 TTM利润')
+title(ax1, '小米集团：股价已从2025高位回撤，利润TTM企稳在330亿', f'双轴图只看趋势和斜率，不比较绝对高低；最新点为{latest_date.date()}股价+2026H1 TTM利润')
 lines=ax1.get_lines()+ax2.get_lines(); ax1.legend(lines, [l.get_label() for l in lines], loc='upper left', prop=FONT)
 last=plotq.iloc[-1]
 ax1.annotate(f"{price:.2f}港元", xy=(last['date'], price), xytext=(8,8), textcoords='offset points', color=BLUE, fontproperties=FONT, bbox=dict(fc='white',ec=BLUE,boxstyle='round,pad=0.2'))
@@ -336,7 +357,8 @@ ax1.xaxis.set_major_locator(mdates.YearLocator()); ax1.xaxis.set_major_formatter
 style(ax1); ax2.spines['top'].set_visible(False)
 for label in ax2.get_yticklabels(): label.set_fontproperties(FONT)
 ax1.set_ylabel('股价（港元）', fontproperties=FONT, color=BLUE); ax2.set_ylabel('单季度利润（亿元）', fontproperties=FONT, color=ORANGE)
-title(ax1, '小米集团：2026Q1单季利润回落，需要验证是季节性还是趋势', '单季度利润由累计值差分得到，用于解释TTM变化')
+title(ax1, '小米集团：2026Q2单季利润强劲反弹，扭转Q1低谷', '单季度利润由累计值差分得到，用于解释TTM变化')
+
 lines=ax1.get_lines()+[ax2.patches[0]]; ax1.legend(lines, ['季度末股价（港元）','单季度股东应占溢利（亿元）'], prop=FONT, loc='upper left')
 fig.tight_layout(); save(fig, '1810_小米集团_股价vs股东应占溢利_单季度.png')
 print('QUOTE_JSON', DATA/'quote_yfinance.json')

@@ -10,3 +10,4 @@ __pycache__/
 *.tmp
 *.log
 data-api
+.agents
