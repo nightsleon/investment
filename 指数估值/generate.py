@@ -52,10 +52,18 @@ def list_local_archive_files():
     return sorted(set(files), reverse=True)
 
 
-def fetch_json(url):
-    req = urllib.request.Request(url, headers=HEADERS)
-    resp = urllib.request.urlopen(req, timeout=20)
-    return json.loads(resp.read())
+def fetch_json(url, retries=5, delay=1.5):
+    for attempt in range(retries):
+        try:
+            req = urllib.request.Request(url, headers=HEADERS)
+            resp = urllib.request.urlopen(req, timeout=25)
+            return json.loads(resp.read())
+        except Exception as e:
+            if attempt == retries - 1:
+                print(f"    [错误] 请求失败 ({attempt + 1}/{retries}): {url} -> {e}")
+                raise
+            print(f"    [重试] 请求出现异常 ({e})，{delay * (attempt + 1)} 秒后进行第 {attempt + 2} 次重试...")
+            time.sleep(delay * (attempt + 1))
 
 
 def fetch_all():
@@ -74,9 +82,9 @@ def fetch_all():
         name = snap_map.get(code, {}).get("name", code)
         print(f"  ({i}/{total}) {name} ({code})")
         pe_data = fetch_json(f"{API_BASE}/pe_history/{code}?day=all")
-        time.sleep(0.25)
+        time.sleep(0.5)
         roe_data = fetch_json(f"{API_BASE}/roe_history/{code}?day=all")
-        time.sleep(0.25)
+        time.sleep(0.5)
         history[code] = {
             "pe": pe_data.get("data", {}).get("index_eva_pe_growths", []),
             "pe_lines": pe_data.get("data", {}).get("horizontal_lines", []),
