@@ -1,12 +1,18 @@
 # macOS
 .DS_Store
+**/.DS_Store
+._*
 
 # Python
 __pycache__/
 *.pyc
 .venv/
 
-# Temp
+# Large media & presentations
+*.mp4
+*.pptx
+
+# Temp & logs
 *.tmp
 *.log
 data-api
