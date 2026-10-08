@@ -1,0 +1,147 @@
+---
+name: video-interview-summary
+description: "将商业/财经/访谈视频（B站/YouTube等）转录并整理为结构化投资笔记与纯问答对话实录双文档，规范输出至 insights/访谈笔记/。"
+version: 1.1.0
+author: Hermes / Antigravity
+metadata:
+  tags: [investment, video, interview, transcription, summary, insights]
+  related_skills: [financial-report-speedread, investment-analysis-framework]
+---
+
+# 视频访谈与商业演讲深度整理 (Video Interview Summary)
+
+将商业领袖访谈、路演演讲、财经对话等视频/音频，提炼为**高信噪比的投资研报**与**通俗易懂的纯问答实录**双层文档。
+
+---
+
+## 触发条件
+
+用户提供音视频链接（B站、YouTube、媒体网页等）或本地音视频文件，提出：
+- “总结/整理该视频内容”
+- “视频转换为 md 文档”
+- “提取访谈/演讲的核心观点与商业逻辑”
+- “归档访谈笔记”
+
+---
+
+## 归档规范：双层文档体系
+
+产出文件**一律输出至 `insights/访谈笔记/`**，严禁放在根目录。每次生成一组互相链接的配对文档：
+
+| 文档类型 | 命名规范 | 核心定位与特色 |
+| :--- | :--- | :--- |
+| **1. 深度商业研报** | `{人物/公司}_{年份}_{来源}_{主题}.md` | **高维认知与决策**：天然形成时间轴，Mermaid 全景导图 + 3~5个强业务语义章节 + 选配分析积木。 |
+| **2. 纯问答对话实录** | `{人物/公司}_{年份}_{来源}_{主题}_对话实录.md` | **细节溯源与语境还原**：按话题分章节，完整还原一问一答，保留案例细节与现场交锋。 |
+
+> **命名关键原则**：必须显式加入四位数字 `{年份}`（如 `2016`、`2019`、`2026`），使同人物/公司的多期访谈在文件管理器中按时间轴自动升序排列，清晰呈现其商业认知与企业生命周期的演进脉络。  
+> **多期访谈归拢规范**：当同一人物/公司积累多场访谈（或产出 Master 综合认知长文）时，应建立专属子目录 `insights/访谈笔记/{人物/公司}/` 归纳底层访谈配对文档；外层根目录仅保留 Master 思想成果或单篇人物总结，实现“顶层成果先行、底层证据链沉淀”。  
+> **文档互链要求**：两篇文档均需在顶部 YAML / 元数据说明中提供指向对方的相对链接（如 `[查看问答实录](./xxx_对话实录.md)`）。
+
+---
+
+## 研报架构：组件化拼装指南
+
+> 💡 **核心禁忌**：严禁套用空泛的“AI模板标题”（如“核心逻辑提炼”、“焦点质疑攻防”）。小标题必须**“业务语义化”**（如《两代投资人现场激烈交锋》、《从卖玩具到卖快乐的范式跃迁》），直接亮出该视频独有的核心观点。
+
+一份优秀的访谈研报由**“必备骨架”**与**“按需积木”**组合而成：
+
+```
+研报骨架
+├── 1. 顶部元信息（来源、人物、背景坐标、实录链接）
+├── 2. Mermaid 全景业务导图（提纲挈领，看透商业本质）
+├── 3. 核心业务章节（3~5个根据访谈定制的专属语义标题，内含翔实论据）
+└── 4. 选配积木（根据访谈内容，有则添加，无则不强行凑数）：
+    ├── 🧩 [数据看板]：硬核经营指标（规模/销量/坪效/估值）
+    ├── 🧩 [攻防对照表]：外部尖锐质疑 vs 内部破局逻辑
+    ├── 🧩 [复盘演进表]：历史路演/早期决策 vs 今日成果对照
+    └── 🧩 [底层哲学/金句]：创始人认知金句、反常识思考
+```
+
+---
+
+## 执行流程（5 步标准流）
+
+### 步骤 0：字幕优先探测（秒级处理）
+优先检查视频是否自带现成字幕（如 YouTube CC 字幕、B站官方/AI 字幕），若有则直接提取文本，无需耗时下载与模型推理：
+```bash
+# 检测 YouTube/B站字幕
+uvx yt-dlp --list-subs "<VIDEO_URL>"
+# 若有中文字幕，直接抓取
+uvx yt-dlp --write-sub --sub-lang "zh.*,en.*" --skip-download -o "/tmp/subs" "<VIDEO_URL>"
+```
+
+---
+
+### 步骤 1：音视频提取与极简压缩（若无现成字幕）
+使用 `yt-dlp` 提取音轨并压缩为 16kHz 单声道（30分钟音频仅 ~8MB，便于秒级上传与稳定推理）：
+```bash
+# 1. 抓取音轨（B站需附带 Chrome Cookie 防 412）
+uvx yt-dlp --cookies-from-browser chrome -x --audio-format mp3 -o "/tmp/raw_audio.%(ext)s" "<VIDEO_URL>"
+
+# 2. 压缩为 16kHz mono 32k
+ffmpeg -y -i /tmp/raw_audio.mp3 -ac 1 -ar 16000 -b:a 32k /tmp/audio_16k.mp3
+```
+
+---
+
+### 步骤 2：语音转录与先验信息注入
+
+#### 首选方案：Gemini Flash API（长音频直出、自带语义分段）
+利用 Gemini File API + 本地代理（`http://127.0.0.1:7897`）转录。
+**关键技巧**：在 Prompt 中主动注入从视频标题/简介中提取的 **5~10 个核心专有名词与人名**（如角色名、设计师、行业行话），防止 ASR 识别错别字：
+```python
+import os
+from google import genai
+from google.genai import types
+
+client = genai.Client(api_key=os.environ.get("GOOGLE_API_KEY"))
+
+# 1. 上传音频
+audio_file = client.files.upload(file="/tmp/audio_16k.mp3")
+
+# 2. 注入背景先验与转录指令
+prompt = """
+视频背景：专访XX创始人XX。涉及核心实体与专有名词：[列出核心人名/IP/品牌/术语]。
+任务：
+1. 提取核心洞察，输出各章节要点。
+2. 逐字转录完整一问一答，区分【主持人】与【受访者】，口语适度微调，保留全部细节与数据。
+"""
+response = client.models.generate_content(
+    model="gemini-3.6-flash",
+    contents=[audio_file, prompt],
+    config=types.GenerateContentConfig(max_output_tokens=65536, temperature=0.2)
+)
+```
+
+#### 备选方案：本地 faster-whisper（离线/网络受限时）
+```python
+from faster_whisper import WhisperModel
+model = WhisperModel("base", device="cpu", compute_type="int8")
+segments, _ = model.transcribe("/tmp/audio_16k.mp3", language="zh")
+```
+
+---
+
+### 步骤 3：双层文档编撰与数据防幻觉核查
+
+1. **编撰研报**：根据组件化架构，撰写带有 Mermaid 导图与业务语义章节的研报，存至 `insights/访谈笔记/{人物/公司}_{年份}_{来源}_{主题}.md`。
+2. **编撰实录**：按话题章节整理清晰的纯一问一答，存至 `insights/访谈笔记/{人物/公司}_{年份}_{来源}_{主题}_对话实录.md`。
+3. **数据量级红线**：对文中出现的**金额、销量、门店数、估值、年份**做严格上下文核对，严防“万/亿”单位遗漏或多零少零。
+
+---
+
+### 步骤 4：长视频截断防护（针对 >60 分钟视频）
+- 若视频总长超过 1 小时，为防止单次生成被截断：
+  - **研报层**可全量一次性输出；
+  - **问答实录层**若字数过大，可分上、下两半部分或精简冗余寒暄，确保主体问答完整无截断。
+
+---
+
+### 步骤 5：环境与资源清理
+```bash
+# 清理本地临时文件
+rm -f /tmp/raw_audio.* /tmp/audio_16k.mp3 /tmp/subs.*
+
+# 若使用 Gemini File API，释放云端文件
+# client.files.delete(name=audio_file.name)
+```
