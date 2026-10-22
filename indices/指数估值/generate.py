@@ -21,7 +21,7 @@ INDICES = [
 API_BASE = "https://danjuanfunds.com/djapi/index_eva"
 HEADERS = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"}
 OUTPUT_DIR = os.path.dirname(os.path.abspath(__file__))
-REPO_ROOT = os.path.dirname(OUTPUT_DIR)
+REPO_ROOT = os.path.dirname(os.path.dirname(OUTPUT_DIR))
 DOCS_DIR = os.path.join(REPO_ROOT, "docs")
 DOCS_ARCHIVE_DIR = os.path.join(DOCS_DIR, "index-valuation")
 

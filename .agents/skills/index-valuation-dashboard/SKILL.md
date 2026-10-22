@@ -14,20 +14,20 @@ tools: terminal
 
 1. 运行生成脚本（自动拉数据 + 生成 HTML + Pages 入口页）：
    ```
-   python3 ~/Documents/AI投资/investment/指数估值/generate.py
+   python3 indices/指数估值/generate.py
    ```
 
 2. 本地归档输出文件路径格式：
    ```
-   ~/Documents/AI投资/investment/指数估值/指数估值看板_YYYY-MM-DD.html
+   indices/指数估值/指数估值看板_YYYY-MM-DD.html
    ```
    数据日期来自蛋卷 API 返回的 `ts` 字段推算，不是生成日期。
 
 3. GitHub Pages 发布目录会同步生成：
    ```
-   ~/Documents/AI投资/investment/docs/index.html
-   ~/Documents/AI投资/investment/docs/index-valuation/指数估值看板_YYYY-MM-DD.html
-   ~/Documents/AI投资/investment/docs/index-valuation-manifest.json
+   docs/index.html
+   docs/index-valuation/指数估值看板_YYYY-MM-DD.html
+   docs/index-valuation-manifest.json
    ```
 
 4. 生成完成后，优先告知用户：
