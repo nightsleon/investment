@@ -1,0 +1,3 @@
+{
+  "error": "HTTPSConnectionPool(host='push2.eastmoney.com', port=443): Max retries exceeded with url: /api/qt/stock/get?secid=0.300750&fields=f43%2Cf44%2Cf45%2Cf46%2Cf47%2Cf48%2Cf57%2Cf58%2Cf60%2Cf116%2Cf117%2Cf162%2Cf167%2Cf168%2Cf170%2Cf171%2Cf173%2Cf187 (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"
+}
