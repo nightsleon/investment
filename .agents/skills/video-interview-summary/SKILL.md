@@ -5,7 +5,7 @@ version: 1.1.0
 author: Hermes / Antigravity
 metadata:
   tags: [investment, video, interview, transcription, summary, insights]
-  related_skills: [financial-report-speedread, investment-analysis-framework]
+  related_skills: [stock-financial-speedread, investment-analysis-framework]
 ---
 
 # 视频访谈与商业演讲深度整理 (Video Interview Summary)

@@ -8,7 +8,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [investment, article, markdown, chart, verification, qa]
-    related_skills: [investment-article-writing, index-performance-backtest, dividend-index-analysis]
+    related_skills: [stock-investment-article, index-performance-backtest, dividend-index-analysis]
 ---
 
 # 投资文章 QA：机械校验 + 内容审计
@@ -28,8 +28,8 @@ metadata:
 范围清单化 → 回源复验审计数字 → 逐处硬错列出级联落点 → grep 清残留 → 整篇重读查不一致。
 触发词：修/改稿/只改 X/补上前 N 项。
 
-分析与写作本身由 `financial-report-speedread`、`dividend-index-analysis`、`index-performance-backtest`、
-`investment-article-writing` 等 skill 负责；本 skill 只做质量把关。
+分析与写作本身由 `stock-financial-speedread`、`dividend-index-analysis`、`index-performance-backtest`、
+`stock-investment-article` 等 skill 负责；本 skill 只做质量把关。
 
 ## 内容审计速览（详见 references/财报速览内容审计.md）
 

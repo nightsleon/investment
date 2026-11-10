@@ -314,7 +314,7 @@ metadata:
 | 港股/IFRS现金头寸案例：小米2025 | `references/xiaomi-cash-position-2025-case.md` |
 | 港股季度披露平台公司：GAAP/Non-IFRS TTM、点时PE、月报股本、持续回购、AI净投入、战略投资折价与冻结行情快照（腾讯案例） | `references/tencent-quarterly-valuation-case.md` |
 | 股价 vs 基本面、PE分位、收益分解 | `references/a-share-stock-fundamentals-comparison.md` |
-| 第四章基本面图表模板 | `references/fundamental-charts.md`；优先加载 `fundamental-quant-charts` skill 生成统一风格图表 |
+| 第四章基本面图表模板 | `references/fundamental-charts.md`；优先加载 `stock-financial-charts` skill 生成统一风格图表 |
 | A股Q4/季度季节性 | `references/a-share-q4-seasonality.md` |
 | 白酒深度调整/现金头寸案例 | `references/wuliangye-2025-case.md`、`references/fenjiu-2026-case.md` |
 | 连续年报补齐、现金头寸/营运图缺柱案例（美的） | `references/midea-2020-2025-cash-operating-case.md` |
@@ -333,9 +333,9 @@ metadata:
 | 季度财务/股价拉取脚本 | `scripts/a-share-quarterly-analysis.py` |
 | 将完整报告/3R简报改写为雪球、知乎、公众号文章 | `references/platform-investment-article-writing.md`；研究框架负责不漏项，文章围绕一个核心矛盾按六段式组织；深度长文默认约2500—3600个汉字，短帖再压缩到500—1500字 |
 
-## 11. 何时加载 quarterly-stock-profit-analysis
+## 11. 何时加载 stock-earnings-line
 
-本 skill 不再自动加载 `quarterly-stock-profit-analysis`，避免上下文过长。
+本 skill 不再自动加载 `stock-earnings-line`，避免上下文过长。
 
 只有在以下情况按需加载：
 - 生成股价 vs 扣非 TTM 利润图。

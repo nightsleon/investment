@@ -157,7 +157,7 @@ def as_pct(series: pd.Series) -> pd.Series:
 
 def plot_roe_dupont(df: pd.DataFrame, out_dir: Path, code: str, company: str):
     cols = require(df, {
-        "roe": ["简单ROE", "ROE", "净资产收益率", "roe"],
+        "roe": ["加权ROE", "加权平均ROE", "ROE", "净资产收益率", "roe"],
         "net_margin": ["净利率", "销售净利率", "net_margin"],
         "asset_turnover": ["总资产周转率", "asset_turnover"],
         "equity_multiplier": ["权益乘数", "equity_multiplier"],
@@ -174,7 +174,7 @@ def plot_roe_dupont(df: pd.DataFrame, out_dir: Path, code: str, company: str):
     ax0.set_xticks(x); ax0.set_xticklabels(years, fontproperties=FONT)
     ax0.set_ylabel("ROE %", fontproperties=FONT)
     style(ax0)
-    set_title(ax0, f"{company}：ROE与杜邦三因子趋势", "杜邦三因子按首年=100归一化；只比较趋势，不比较绝对高低")
+    set_title(ax0, f"{company}：ROE与杜邦三因子趋势", f"柱状为{cols['roe']}（年报披露口径）；杜邦三因子按首年=100归一化，只比较趋势，不比较绝对高低")
     span = max(roe.max() - min(0, roe.min()), 1)
     for i, v in enumerate(roe):
         if pd.notna(v):
@@ -262,6 +262,81 @@ def plot_profit(df: pd.DataFrame, out_dir: Path, code: str, company: str, profit
     ax1.legend([bars, line], [f"{profit_col}/TTM（亿元）", "年度同比"], loc="upper left", prop=FONT, frameon=False)
     fig.tight_layout()
     save(fig, out_dir, f"{code}_4.2_利润趋势与同比增速图.png")
+
+
+def plot_profit_margin(df: pd.DataFrame, out_dir: Path, code: str, company: str, profit_col_arg: Optional[str]):
+    """4.2 变体：营收/扣非双柱 + 毛利率/净利率双折线，用来看利润被谁拿走了。"""
+    cols = require(df, {
+        "revenue": ["营收", "营业收入", "revenue_yi", "revenue"],
+        "gross_margin": ["毛利率", "毛利率_%", "gross_margin", "gross_margin_%"],
+        "net_margin": ["净利率", "销售净利率", "net_margin"],
+    }, "4.2 Profit margin")
+    if not cols:
+        return
+    profit_col = profit_col_arg if profit_col_arg in df.columns else first_existing(
+        df, ["扣非净利润", "归母净利润", "净利润", "股东应占溢利", "profit"]
+    )
+    if not profit_col:
+        print("SKIP 4.2 Profit margin: missing profit column")
+        return
+
+    years, x = years_x(df)
+    revenue = pd.to_numeric(df[cols["revenue"]], errors="coerce")
+    profit = pd.to_numeric(df[profit_col], errors="coerce")
+    gross = as_pct(df[cols["gross_margin"]])
+    net = as_pct(df[cols["net_margin"]])
+    margin_values = pd.concat([gross, net]).dropna()
+    if margin_values.empty:
+        print("SKIP 4.2 Profit margin: no margin values")
+        return
+
+    fig, ax1 = plt.subplots(figsize=(15, 7.5), dpi=180)
+    ax2 = ax1.twinx()
+    w = 0.36
+    bars_rev = ax1.bar(x - w / 2, revenue, width=w, color=COLORS["orange_light"], label="营业收入")
+    bars_profit = ax1.bar(x + w / 2, profit, width=w, color=COLORS["blue_light"], label=profit_col)
+    ax1.axhline(0, color="#999999", lw=0.8)
+    ax1.set_xticks(x); ax1.set_xticklabels(years, fontproperties=FONT)
+    ax1.set_ylabel("亿元", fontproperties=FONT)
+    style(ax1)
+
+    line_gross, = ax2.plot(x, gross, marker="o", color=COLORS["red"], lw=2.4, label="毛利率")
+    line_net, = ax2.plot(x, net, marker="s", color=COLORS["green"], lw=2.4, label="净利率")
+    upper = max(10.0, float(margin_values.max()) * 1.3)
+    ax2.set_ylim(0, upper)
+    ax2.set_ylabel("%", fontproperties=FONT)
+    ax2.spines["top"].set_visible(False)
+    for label in ax2.get_yticklabels():
+        label.set_fontproperties(FONT)
+
+    set_title(
+        ax1,
+        f"{company}：营收、利润与利润率趋势",
+        f"柱状为营业收入/{profit_col}（亿元）；折线为毛利率/净利率（%），右轴从 0 起",
+    )
+
+    span = max(float(np.nanmax(revenue)) if revenue.notna().any() else 0, 1)
+    for i, v in enumerate(revenue):
+        if pd.notna(v):
+            ax1.text(i - w / 2, v + span * 0.02, f"{v:.0f}", ha="center", va="bottom", fontproperties=FONT, fontsize=9)
+    for i, v in enumerate(profit):
+        if pd.notna(v):
+            y = v + span * 0.02 if v >= 0 else v - span * 0.02
+            ax1.text(i + w / 2, y, f"{v:.0f}", ha="center", va="bottom" if v >= 0 else "top",
+                     fontproperties=FONT, fontsize=9)
+    for i, v in enumerate(gross):
+        if pd.notna(v):
+            ax2.text(i, v + upper * 0.02, f"{v:.1f}%", ha="center", va="bottom",
+                     fontproperties=FONT, fontsize=8, color=COLORS["red"])
+    for i, v in enumerate(net):
+        if pd.notna(v):
+            ax2.text(i, v - upper * 0.02, f"{v:.1f}%", ha="center", va="top",
+                     fontproperties=FONT, fontsize=8, color=COLORS["green"])
+
+    ax1.legend([bars_rev, bars_profit, line_gross, line_net], ["营业收入", profit_col, "毛利率", "净利率"],
+               loc="upper left", prop=FONT, frameon=False, ncol=2)
+    fig.tight_layout()
+    save(fig, out_dir, f"{code}_4.2_利润与利润率趋势图.png")
 
 
 def plot_product(product_path: Optional[Path], out_dir: Path, code: str, company: str):
@@ -531,6 +606,7 @@ def main():
 
     plot_roe_dupont(df, out_dir, args.code, args.company)
     plot_profit(df, out_dir, args.code, args.company, profit_col_arg, quarterly_path, latest_label)
+    plot_profit_margin(df, out_dir, args.code, args.company, profit_col_arg)
     plot_product(product_path if product_path and product_path.exists() else None, out_dir, args.code, args.company)
     plot_cashflow(df, out_dir, args.code, args.company, profit_col_arg)
     plot_cash_position(df, out_dir, args.code, args.company, args.recent_years)

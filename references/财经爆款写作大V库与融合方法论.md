@@ -217,7 +217,7 @@
 
 ## 三、 未来 Skill 转化蓝图（Skill Blueprint）
 
-> 本模块为后续创建或升级专属写作 Skill（如 `investment-article-writing` 升级版）提供核心逻辑输入与执行规范。
+> 本模块为后续创建或升级专属写作 Skill（如 `stock-investment-article` 升级版）提供核心逻辑输入与执行规范。
 
 ### 1. Skill 核心定位与处理流程
 * **Skill 触发场景**：输入一份个股 3R 投资简报、完整投资报告或指数研究数据，将其改写为雪球、知乎、微信等平台的高传播力投资文章。
