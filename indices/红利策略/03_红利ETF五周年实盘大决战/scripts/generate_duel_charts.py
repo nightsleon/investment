@@ -565,7 +565,7 @@ def plot_radar_board_duel(
     ax_bars.set_xlim(0, 148)
     ax_bars.set_ylim(-0.55, len(scores_duel) - 0.15)
     ax_bars.axis('off')
-    ax_bars.set_title(f"维度对决 ｜ 景顺 {total_duel:.1f}分 vs 华泰 {total_bench:.1f}分", size=10.5, color='#111827', weight='bold', pad=32)
+    ax_bars.set_title(f"维度对决 ｜ {label_duel} {total_duel:.1f}分 vs {label_bench} {total_bench:.1f}分", size=10.5, color='#111827', weight='bold', pad=32)
 
     plt.suptitle(title, size=13.5, color='#111827', weight='bold', y=0.95)
     plt.savefig(output_path, bbox_inches='tight')
@@ -684,6 +684,15 @@ def main() -> None:
             "华泰 50",
             CHARTS_DIR / "01_515100_五维战力雷达对决看板.png",
         )
+        plot_radar_board_duel(
+            [13.5, 24.5, 16.0, 13.0, 12.5],
+            [18.0, 23.0, 18.0, 12.0, 14.0],
+            [25, 25, 20, 15, 15],
+            "第 2 战：嘉实 300红利低波 vs 华泰红利低波 五维量化对决看板",
+            "嘉实 300",
+            "华泰 50",
+            CHARTS_DIR / "02_515300_五维战力雷达对决看板.png",
+        )
 
     if args.bench or (not args.code and not args.all and not args.funnel and not args.radar):
         plot_benchmark_vs_hs300()
@@ -709,6 +718,15 @@ def main() -> None:
             "景顺 100",
             "华泰 50",
             CHARTS_DIR / "01_515100_五维战力雷达对决看板.png",
+        )
+        plot_radar_board_duel(
+            [13.5, 24.5, 16.0, 13.0, 12.5],
+            [18.0, 23.0, 18.0, 12.0, 14.0],
+            [25, 25, 20, 15, 15],
+            "第 2 战：嘉实 300红利低波 vs 华泰红利低波 五维量化对决看板",
+            "嘉实 300",
+            "华泰 50",
+            CHARTS_DIR / "02_515300_五维战力雷达对决看板.png",
         )
         battles = [
             ("515100", "景顺长城红利低波100ETF", CHARTS_DIR / "01_515100_vs_512890_对决走势.png"),
