@@ -1,0 +1,916 @@
+August 20, 2026
+June Quarter 2026 Results
+
+
+Disclaimer
+This presentation contains certain financial measures that are not recognized under generally accepted accounting principles in the United States (“GAAP”), including 
+adjusted EBITDA (including adjusted EBITDA margin), adjusted EBITA (including adjusted EBITA margin), non-GAAP net income, non-GAAP diluted earnings per 
+share/ADS and free cash flow.  For a reconciliation of these non-GAAP financial measures to the most directly comparable GAAP measures, see GAAP to Non-GAAP 
+Measures Reconciliation, GAAP to Non-GAAP Net Income Attributable to Ordinary Shareholders and the slides presenting revenue and adjusted EBITA by segments 
+and cash flow and balance sheet items. This presentation contains forward-looking statements. These statements are made under the “safe harbor” provisions of the 
+U.S. Private Securities Litigation Reform Act of 1995. These forward-looking statements can be identified by terminology such as “may,” “will,” “expect,” “anticipate,” 
+“future,” “aim,” “estimate,” “intend,” “seek,” “plan,” “believe,” “potential,” “continue,” “ongoing,” “target,” “guidance,” “is/are likely to” and similar statements. In 
+addition, statements that are not historical facts, including statements about Alibaba’s strategies and business and operational plans, Alibaba’s beliefs, expectations 
+and guidance regarding the growth of its business, its operating and financial results, return on investments, strategic investments and dispositions and share 
+repurchases, and the business and industry outlook and quotations from management in this presentation, are or contain forward-looking statements. Forward-
+looking statements involve inherent risks and uncertainties. A number of factors could cause actual results to differ materially from those contained in any forward-
+looking statement, including but not limited to: Alibaba’s ability to compete, innovate and maintain or grow its business; risks associated with sustained investments in 
+Alibaba’s businesses; risks related to strategic transactions; fluctuations in general economic and business conditions in China and globally; uncertainties arising from 
+competition among countries and geopolitical tensions, including national trade, investment, protectionist or other policies and export control, economic or trade 
+sanctions; changes to our shareholder return initiatives; and assumptions underlying or related to any of the foregoing. Further information regarding these and other 
+risks is included in Alibaba’s filings with the U.S. Securities and Exchange Commission and announcements on the website of The Stock Exchange of Hong Kong Limited. 
+All information provided in this presentation is as of the date of this presentation and is based on assumptions that we believe to be reasonable as of this date, and 
+Alibaba does not undertake any obligation to update any forward-looking statement, except as required under applicable law. 
+
+
+AI Labs and Applications
+Business and Financial Highlights
+1
+•
+Both total revenue and external revenue 
+growth accelerated to 45%.
+•
+AI revenue accounted for 35% of external 
+cloud revenue, reaching RMB12.4 billion 
+(US$1.8 billion) this quarter. The annual 
+run rate1 of this revenue is RMB49.5 
+billion (US$7.3 billion).
+• Alibaba China E-commerce Group, AIDC, 
+and Freshippo were integrated to form 
+Alibaba E-commerce Group. 
+•
+Alibaba E-commerce Group’s adjusted
+EBITA remained stable YoY.
+•
+Taobao Instant Commerce continued to 
+improve UE sequentially while scaling.
+We undertook strategic combinations of certain businesses to form Alibaba E-commerce 
+Group, AI Cloud and Compute Services, and AI Labs and Applications, to realize 
+synergies across our commerce platforms and strengthen our full-stack AI capabilities.
+Jun 30, 2025     Jun 30, 2026
+4%
+Three months ended:
+Total Revenue 
+9%
+Jun 30, 2025            Jun 30, 2026
+45%
+Alibaba E-commerce Group
+AI Cloud and 
+Compute Services
+Revenue 
+Alibaba E-commerce Group
+Revenue
+AI Cloud and Compute Services
+T-Head
+App
+Model
+16%
+AI Labs and 
+Applications
+Revenue 
+•
+Our comprehensive frontier model 
+portfolio was fully upgraded recently.
+•
+The segment adjusted EBITA loss 
+significantly narrowed QoQ.
+Jun 30, 2025     Jun 30, 2026
+Jun 30, 2025     Jun 30, 2026
+…
+Note:
+(1)
+Annual revenue run rate is calculated using current quarter revenue 
+multiplied by four before rounding.
+Three months ended:
+Three months ended:
+Three months ended:
+Taobao Instant Commerce 
+
+
+Financial Highlights
+Notes:
+(1)
+Each ADS represents eight ordinary shares.
+(2)
+Diluted earnings per share is derived from dividing net income attributable to ordinary shareholders by the weighted average number of outstanding ordinary shares, on a diluted basis. 
+Diluted earnings per ADS is derived from the diluted earnings per share after adjusting for the ordinary share-to-ADS ratio.
+(3)
+Non-GAAP diluted earnings per share is derived from dividing non-GAAP net income attributable to ordinary shareholders by the weighted average number of outstanding ordinary 
+shares, in each case for computing non-GAAP diluted earnings per share. Non-GAAP diluted earnings per ADS is derived from the non-GAAP diluted earnings per share after adjusting 
+for the ordinary share-to-ADS ratio.
+2
+!
+!"#$%&'$&#($)*+),-$,).$/01.)$21-1$1#2$,).+)#-13)/4
+!"!#
+!"!$
+%&%G
+()*)+,)
+!-.I$#!
+!$0I1#2
+1G
+3+4&5)678&56&9)8J;<&+=
+62-I100
+6>#I>$>
+?#.@G
+"#$%&'()!()'*+%,'(+-!&#.I+$('01#$!+2I+$(+
+!34567
+!84698
+:.#*01;'01#$!'$-!1.I'1*.+$0!#<!1$0'$=1,>+!'((+0(
+!?@A
+!99B
+C.I'1*.+$0!#<!=##-D1>>4!'$-!#0)+*(
+!N57BF
+!?4B75
+A);6<+4&5)
+6-!I20!
+6>"I---
+?.#@G
+B<C,;)D6)J8+<+N=69)86=FJ8)?>@?!@
+!G!#
+"G-$
+?.1@G
+B<C,;)D6)J8+<+N=69)86HBI?>@?!@
+>.G10
+2G.>
+?.1@G
+!"#$%&&G()*+,-.*,
+HDJ,=;)D6KL3MH
+620I0--
+6!.I2!1
+?2"@G
+A&+NOHHP6+);6<+4&5)
+622I#>"
+6!"I.>#
+?20@G
+A&+NOHHP6D<C,;)D6)J8+<+N=69)86=FJ8)?>@?2@
+>G0-
+>G".
+?-!@G
+A&+NOHHP6D<C,;)D6)J8+<+N=69)86HBI?>@?2@
+>-G.#
+0G#!
+?-!@G
+MF8))65&+;F=6)+D)D6Q,+)62"I
+
+
+Cash Flow & Balance Sheet: Selected Financials
+Notes:
+(1)
+The significant year-over-year increase in capital expenditures was due to several reasons, including fluctuations in procurement cycles, increase in CPU-compute capacity driven by anticipated 
+growing customer adoption of AI agents, and higher pricing of a broad range of chip components.
+(2)
+Cash and other liquid investments represent cash and cash equivalents, short-term investments and other treasury investments included in equity securities and other investments on the 
+consolidated balance sheets, of which that are unrestricted for withdrawal and use.
+3
+2025
+Cash Flow
+RMB Mn
+RMB Mn
+USD Mn
+Net cash provided by operating activities
+ 20,672 
+ 22,945 
+ 3,382 
+Less: 
+Purchase of property and equipment (excluding land use rights and 
+    construction in progress relating to office campuses)
+ (38,629) 
+ (67,660) 
+ (9,972) 
+Changes in the buyer protection fund deposits
+ (858) 
+ 45 
+ 6 
+Free cash flow
+ (18,815) 
+ (44,670) 
+ (6,584) 
+Net cash outflow relating to capital expenditure(1)
+               (38,676)
+             (67,678)
+     (9,975)
+Share Repurchase
+                 (5,840)
+                  (762)
+        (112)
+As of March 31,
+2026
+Balance Sheet
+RMB Mn
+RMB Mn
+USD Mn
+Cash and other liquid investments(2)
+ 520,824 
+ 474,505 
+ 69,933 
+Less:
+Current and non-current bank borrowings
+               (75,674)
+             (86,621)
+   (12,766)
+Non-current unsecured senior notes
+             (117,485)
+           (115,716)
+   (17,054)
+Non-current convertible unsecured senior notes
+               (55,861)
+             (54,905)
+     (8,092)
+Non-current exchangeable bonds
+               (10,976)
+               (9,288)
+     (1,369)
+Net cash position
+               260,828 
+             207,975 
+     30,652 
+2026
+Three months ended June 30,
+2026
+As of June 30,
+
+
+Share Repurchases & Capital Expenditures
+Share Repurchases
+During the quarter ended June 30, 2026, we repurchased a total of 13.4 million ordinary shares (equivalent to approximately 1.7 million
+ADSs) for a total of US$162 million. These purchases were made in the U.S. market under our share repurchase program.
+4
+Sep. 30,
+Dec. 31,
+Mar. 31,
+Jun. 30,
+Sep. 30,
+Dec. 31,
+Mar. 31,
+Jun. 30,
+2024
+2024
+2025
+2025
+2025
+2025
+2026
+2026
+Repurchase amount (US$ Bn)
+             4.1 
+            1.3 
+            0.6 
+            0.8 
+            0.3 
+               -   
+               -   
+             0.2 
+Shares repurchased (Mn ADSs)
+              52 
+             15 
+               6 
+               7 
+               2 
+               -   
+               -   
+                2 
+Outstanding shares (Mn ADSs)
+         2,327 
+        2,315 
+        2,309 
+        2,319 
+        2,319 
+         2,321 
+         2,323 
+         2,333 
+Three months ended
+Capital Expenditures
+• During the quarter, capital expenditures were RMB67,678 million (US$9,975 million), an increase of 75% compared to RMB38,676 
+million in the same quarter of 2025, reflecting our continued investments in AI infrastructure to meet strong and growing customer 
+demand.
+• The increase is driven by fluctuations in procurement cycles, increase in CPU-compute capacity driven by anticipated growing AI 
+agent adoption, and higher pricing of chip components.
+
+
+5.5%
+7.8%
+2.5%
+4.3%
+Cost of Revenue and Operating Expenses
+5
+Product Development Expenses (excluding SBC)
+(RMB Mn)
+% of Revenue
+Cost of Revenue (excluding SBC)
+Sales & Marketing Expenses (excluding SBC)
+General & Administrative Expenses (excluding SBC)
+Three months ended: 
+54.9%
+61.6%
+21.3%
+17.6%
+% of Revenue
+% of Revenue
+% of Revenue
+(RMB Mn)
+Three months ended: 
+(RMB Mn)
+Three months ended: 
+(RMB Mn)
+Three months ended: 
+
+
+Segment Results: Quarter ended June 30, 2026
+6
+Notes: During the quarter ended June 30, 2026, we have implemented a new segment structure, to reflect the strategic re-alignment to realize synergies across our commerce platforms, strengthen our integrated AI 
+infrastructure offering, and accelerate the development of our AI products and services, as follows: 
+i) Alibaba E-commerce Group, a unified group formed by combining Alibaba China E-Commerce Group, Alibaba International Digital Commerce Group, together with Freshippo and certain commerce businesses within 
+Cainiao.
+ii) AI Cloud and Compute Services, combining Cloud Intelligence Group with T-Head to strengthen the infrastructure and computing layer of our full-stack AI capabilities.
+iii) AI Labs and Applications, where AI model labs, Qwen Consumer Business Group and QwenWork, formerly classified under All others, were brought together to integrate the full value chain from AI model innovation 
+through to consumer applications and enterprise productivity solutions.
+iv) All others include mainly Alibaba Health, Hujing Digital Media and Entertainment Group, Amap, Lingxi Games and other technology businesses.
+Accordingly, the above presentation has been recast to conform with the new reporting structure to reflect how our chief operating decision maker (“CODM”) reviews information under this new structure.
+(1)
+For a more intuitive presentation, widening of loss in YoY% is shown in terms of negative growth rate, and narrowing of loss in YoY% is shown in terms of positive growth rate.
+!"#$%&'$&#($)*+),-$,).+)#-/0)12
+!"#$%$%
+&G()**+,(+
+-,).I
+!012").31%43
+2)*I.5+
+6+,7#(+8
+!019%$81%43
+!II"#(%5#)48
+!""1J5;+,8
+<4%"")(%5+3
+045+,G8+=*+45
++"#*#4%5#)4
+2)48)"#3%5+3
+L+7+4.+
+1?@ABCD?
+1ECBEFG
+1FBFFC
+1?CBC@F
+1GCF
+1HICB?G@J
+1?DCBOAF
+!"#"$%"&'(')
+&*)
+&*+)
+&,-)
+&,)
+&.)
+!3L.85+31&M0N!
+1FOBGEO
+1ABD?C
+1HIFBCDIJ
+1HFBFEFJ
+1HIDFJ
+1HDCIJ
+1?GBF?O
+I01%23"0&4567I&'('&89:$;"
+&&&&&&&&&&&&&&&<=>.? &&&&&&&&&&&&&>@=A. &&&&&&&&&<,A@->B? &&&&&&&&&&&<*@A>A? &&&&&&&&&&&&&&&&=+- &&&&&&&&&&&&&&&&&<B*? &&&&&&&&&<,,@+,+?
+I01%23"0&4567I&'(')<,?
+&<,?)
+,>>)
+<>>A?)
+CDI
+<>A?)
+!"#$%&'$&#2
+!"#$%$%
+&G()**+,(+
+-,).I
+!012").31%43
+2)*I.5+
+6+,7#(+8
+!019%$81%43
+!II"#(%5#)48
+!""1J5;+,8
+<4%"")(%5+3
+045+,G8+=*+45
++"#*#4%5#)4
+2)48)"#3%5+3
+L+7+4.+
+1IOCBCI?
+1FFBEIC
+1?BCC?
+1?CBD?O
+1AIO
+1HIDBD@CJ
+1?EGBDA?
+!3L.85+31&M0N!
+1FOBOCC
+1?BEIO
+1HFB??EJ
+1DCG
+1HEIOJ
+1HD@GJ
+1FCBCEE
+N;,++1*)45;81+43+31O.4+1F@B1?@?D
+N;,++1*)45;81+43+31O.4+1F@B1?@?A
+
+
+• Taobao Instant Commerce improved UE QoQ, while 
+maintaining market share.
+• Freshippo maintained robust order and revenue growth YoY.
+Alibaba E-commerce Group (1/2)
+7
+Taobao Instant Commerce 
+Alibaba E-commerce Group: Revenue
+China E-commerce: CMR growth YoY
+Reported vs. like-for-like (excl. contra revenue)
+Reported
+Jun 30, 2026
+-7%
++1%
+Like-for-like
+Jun 30, 2026
+China Quick Commerce: Revenue
+China E-commerce
+China Quick Commerce
+International E-commerce
+54%
+26%
+13%
+7%
+Global Wholesale
++45%
+Alibaba E-commerce Group: Adjusted EBITA
+Jun 30, 2025      Jun 30, 2026
+-0.6%
+• EBITA of the segment remained stable.
+• AliExpress achieved operating profit.
+Three months ended: 
+Three months ended: 
+Jun 30, 2025      Jun 30, 2026
+…
+Total Revenue: 205,862 million
+Three months ended June 30, 2026: 
+Three months ended: 
+
+
+China E-commerce Business
+•
+Revenue from our China E-commerce business in the quarter ended June 
+30, 2026 was RMB110,900 million (US$16,345 million), a decrease of 8%
+compared to RMB120,874 million in the same quarter of 2025.
+•
+Customer management revenue decreased by 7% year-over-year. 
+Excluding the contra revenue impact from the new business development 
+program, customer management revenue on a like-for-like basis would 
+have grown by 1% year-over-year.
+•
+Direct sales, logistics and others revenue under China E-commerce 
+business in this quarter was RMB28,353 million (US$4,179 million), a 
+decrease of 10% compared to RMB31,675 million in the same quarter of 
+2025, reflecting our planned reduction of certain direct sales businesses.
+China Quick Commerce Business
+•
+Revenue from our China Quick Commerce business in this quarter was 
+RMB53,295 million (US$7,855 million), an increase of 45% compared to 
+RMB36,725 million in the same quarter of 2025, primarily driven by 
+Freshippo and Taobao Instant Commerce.
+International E-commerce Business
+•
+Revenue from our International E-commerce business in this quarter was 
+RMB27,761 million (US$4,091 million), a decrease of 1% compared to 
+RMB28,177 million in the same quarter of 2025.
+Global Wholesale Business
+•
+Revenue from our Global Wholesale business in this quarter was 
+RMB13,906 million (US$2,049 million), an increase of 7% year-over-year, 
+primarily due to the increase in revenue generated by cross-border related 
+value-added services.
+Alibaba E-commerce Group (2/2)
+8
+Segment Adjusted EBITA
+•
+Alibaba E-commerce Group adjusted EBITA decreased by 1% to RMB39,749 
+million (US$5,858 million) in this quarter, compared to RMB39,988 million in the 
+same quarter of 2025, primarily due to our increased investment in user 
+experiences and technology, partly offset by improved operating performance 
+across various businesses.
+!"!#
+!"!$
+%&%'(
+!"#$%&G()*++,-),
+&.I01234
+&..01500
+&6278
+&&&&&(&!9:;*+,-&+%$%<,+,$;
+&251.55
+&2I1=43
+&6378
+&&&&&(&>#-,);&:%?,:1&?*<#:;#):&%$@&*;",-:
+&A.1B3=
+&I21A=A
+&6.078
+!"#$%&C9#)D&!*++,-),
+&AB13I=
+&=A1I5=
+&4=8
+E$;,-$%;#*$%?&G()*++,-),
+&I21.33
+&I313B.
+&6.78
+F?*G%?&H"*?,:%?,
+&.A10AB
+&.A150B
+&38
+)*+*,-*
+'.I010.!
+'!"#10$!
+'2(
+3456'789J3
+';I1I00
+';I1<2I
+'=.>(
+!"#$%&'$&#($)*+),-$,).+)#-/0)12
+J?@**'A&,B?C'*,4*4'D-,*';"1
+Taobao Instant Commerce 
+…
+
+
+AI Cloud and Compute Services
+Segment Revenue
+•
+Revenue from our AI Cloud and Compute Services in the quarter ended June 
+30, 2026 was RMB48,437 million (US$7,139 million), an increase of 45%
+compared to RMB33,418 million in the same quarter of 2025, primarily driven 
+by public cloud revenue growth, including the increasing adoption of AI-related 
+products.
+Segment Adjusted EBITA
+•
+AI Cloud and Compute Services adjusted EBITA increased by 133% to 
+RMB5,628 million (US$830 million) in the quarter ended June 30, 2026, 
+compared to RMB2,419 million in the same quarter of 2025, primarily due to 
+revenue growth and improving operating efficiency, partly offset by the 
+increasing investments in customer growth and technology innovation.
+Business Highlights
+For the quarter ended June 30, 2026, revenue from AI Cloud and Compute 
+Services was RMB48,437 million (US$7,139 million). The year-over-year growth 
+of total revenue and revenue from external customers both accelerated to 45%. 
+This momentum was primarily driven by the increasing adoption of AI-related 
+products. AI-related product revenue continued to show strong momentum, 
+achieving RMB12,376 million (US$1,824 million) and delivering the twelfth 
+consecutive quarter of triple-digit year-over-year growth.
+Cloud
+Alibaba Cloud continues to lead the market, driven by growing customer 
+adoption of our full-stack AI capabilities across AI agents, AI models, AI cloud 
+infrastructure, and orchestration software that manages heterogeneous chip 
+clusters, including our own proprietary chips. Omdia’s “AI Cloud Market: China - 
+2025” reported that Alibaba Cloud ranked first in China’s AI cloud market with 
+the largest share of 38.1%, highlighting our ability to outperform industry and 
+lead China's fast-growing AI cloud market with our comprehensive full-stack AI 
+capabilities.
+9
+T-Head
+!"!#
+!"!$
+%&%'(
+)*+*,-*
+'..I012
+'02I0.3
+'0#(
+4567'89J;4
+'!I01<
+'#I$!2
+'1..(
+!"#$%&'$&#($)*+),-$,).+)#-/0)12
+;=>**'?&,@=A'*,5*5'B-,*'."I
+Chip Design – T-Head Semiconductor (“T-Head”)
+T-Head has established a portfolio of proprietary silicon, spanning GPU, CPU, 
+storage and networking chips. This comprehensive chip portfolio enables 
+integrated hardware optimization across compute, storage and networking, 
+strengthening our ability to deliver high performance and efficiency in AI 
+infrastructure.
+The Zhenwu chips, including Zhenwu M890, the latest AI processor, have achieved 
+broad commercial adoption via Alibaba Cloud services from more than 650 
+external customers across over 20 industries, including autonomous driving, 
+Internet, and financial services. This broad adoption demonstrates its ability to 
+support AI workloads from training and fine-tuning to inference.
+
+
+AI Labs and Applications
+Business Highlights
+Model
+Our model development has demonstrated a combination of capability and fast 
+iteration, with our frontier language, coding, video, audio, image and music 
+models all delivering top-tier performance. In August, we launched our flagship 
+foundation model Qwen3.8-Max within three months of its prior version, and we 
+opened its model weights with 2.4 trillion parameters. Qwen3.8-Max delivers 
+comprehensive improvements across coding, real-world work, research, long-
+horizon tasks and multimodal agents, enabling it to complete complex tasks with 
+greater reliability.
+QwenWork
+QwenWork is our flagship unified AI-native workforce agent. Through advanced 
+AI models and agentic capabilities, QwenWork is designed to unlock productivity 
+at the organizational level and drive operating efficiency. It also supports 
+individual users with everyday workplace tasks. On distribution, QwenWork is 
+deeply integrated with Alibaba Cloud and DingTalk’s ecosystem, providing a 
+natural gateway to Alibaba's extensive enterprise user base and established 
+workplace workflows. Its reach is further extended through broad integration 
+with third-party business workflows and productivity platforms. 
+10
+App
+Segment Revenue
+•
+Revenue from AI Labs and Applications in the quarter ended June 30, 2026 was 
+RMB3,338 million (US$492 million), an increase of 16% compared to RMB2,882 
+million in the same quarter of 2025.
+Segment Adjusted EBITA
+•
+AI Labs and Applications adjusted EBITA was a loss of RMB13,861 million 
+(US$2,043 million) in the quarter ended June 30, 2026, compared to a loss of 
+RMB3,224 million in the same quarter of 2025, primarily due to our increased 
+investment in AI capabilities, and higher inference cost related to Qwen app. 
+Model
+!"!#
+!"!$
+%&%'(
+)*+*,-*
+'!.II!
+'0.00I
+'1$(
+2345'67892
+'J0.!!;<
+'J10.I$1<
+'J00"<(
+!"#$%&'$&#($)*+),-$,).+)#-/0)12
+9=>**'?&,@=A'*,3*3'B-,*'0".
+Qwen App
+Qwen app, our flagship consumer-facing AI application, is adding diverse value-
+added offerings to meet user demands. Qwen app deepens its integration with 
+core services across our ecosystem, including Taobao and Tmall, and Taobao 
+Instant Commerce, to further expand the customer reach of our e-commerce 
+business and enable a wider range of agentic use cases. 250 million users have had 
+their first AI-driven shopping experience through Qwen app’s agentic features 
+across an expanding range of e-commerce and other services since the launch of 
+Qwen app. The integration also creates a flywheel across our AI and e-commerce 
+businesses: broader AI adoption unlocks new growth opportunities, while 
+feedback from real-world use cases enables us to enhance our models and user 
+experiences. 
+
+
+Segment Revenue
+•
+Revenue from All others segment was RMB28,803 million (US$4,245 
+million) in the quarter ended June 30, 2026, an increase of 1% compared to 
+RMB28,629 million in the same quarter of 2025.
+Segment Adjusted EBITA
+•
+Adjusted EBITA from All others segment in the quarter ended June 30, 2026 
+was a loss of RMB3,343 million (US$493 million), compared to a profit of 
+RMB687 million in the same quarter of 2025, primarily due to our increased 
+investment in technology businesses.
+All Others
+11
+!"!#
+!"!$
+%&%'(
+)*+*,-*
+'!.I$!0
+'!.I."1
+'2(
+3456'789J3
+'$.;
+'<1I1=1>
+'?@3
+!"#$%&'$&#($)*+),-$,).+)#-/0)12
+JAB**'C&,DAN'*,4*4'F-,*'1"I
+
+
+Appendix
+
+
+Revenue Breakdown
+Notes:
+(1)
+Direct sales, logistics and others revenue under China E-commerce business of Alibaba E-commerce Group primarily represents direct sales businesses 
+of Tmall Supermarket (excluding on-demand delivery business), Tmall Global and other businesses, where revenue and cost of inventory are recorded 
+on a gross basis within the business group, as well as revenue from logistics services and other value-added services.
+(2)
+China Quick Commerce revenue includes revenue generated by Taobao Instant Commerce, Freshippo, and on-demand delivery business of Tmall 
+Supermarket. 
+12
+!"#$%&'$&#($)*+),-$,).+)#-/0)12
+!"!#
+!"!$
+%&%G
+()*+,+,-.I0&112302-43&56
+-789J97!
+-!"#J9$!
+-;G
+!"#$%&G()*++,-),
+&.I01234
+&..01500
+&6278
+(&!9:;*+,-&+%$%<,+,$;
+&251.55
+&2I1=43
+&6378
+(&>#-,);&:%?,:1&?*<#:;#):&%$@&*;",-:6.7
+&A.1B3=
+&I21A=A
+&6.078
+!"#$%&C9#)D&!*++,-),6I7
+&AB13I=
+&=A1I5=
+&4=8
+E$;,-$%;#*$%?&G()*++,-),
+&I21.33
+&I313B.
+&6.78
+F?*G%?&H"*?,:%?,
+&.A10AB
+&.A150B
+&38
+(<-=)&5L-,?L-=&165@2-A23B*02C
+-DDJ;79
+-;9J;DE
+-;#G
+(<-F,+C-,?L-(66)*0,@*&?C
+-!J99!
+-DJDD9
+-7$G
+())-&@G23C
+-!9J$!8
+-!9J9"D
+-7G
+I$%??*)%;,@
+&=.5
+&32A
+E$;,-(:,<+,$;&,?#+#$%;#*$
+&6.B1B027
+&6.21I307
+=&?C&)*L,@2L-32B2?52
+-!;EJ$#!
+-!$9J8#D
+-8G
+HG322-1&?@GC-2?L2L-I5?2-D"J
+
+
+GAAP to Non-GAAP Measures Reconciliation
+Note:
+(1)
+Tax effects primarily comprise tax effects relating to non-cash share-based compensation expense, amortization and impairment of intangible assets 
+and certain gains and losses from investments, and others.
+13
+!"!#
+$%FG()*%+,-.I$+01%+$%FG()*%+,-.I2$
+34-+41
+34-+41
+562+41
+.1789*+J;89+8<*;0)=81(
++>?@ABB
++C#@CMC
++!@!>?
+!!"#$%&G()!()G*+%,G(+-!&#.I+$(G01#$!+2I+$(+
+!34567
+!84698
+!73:
+;.#*01<G01#$!#=!1$0G$L1,?+!G((+0(
+!@A:
+!99B
+!6@
+!!C.IG1*.+$0!#=!L##-D1??4!G$-!#0)+*(
+!N57BF
+!@4B75
+!548B6
+$%FG()*%+,-.I$
++>B@B??
++!N@>!A
++?@"!B
+G+I*+&1G01#$!G$-!1.IG1*.+$0!#=!I*#I+*0H!G$-!+IJ1I.+$04!G$-
+!!!!#I+*G01$L!?+G(+!&#(0!*+?G01$L!0#!?G$-!J(+!*1L)0(
+!94@65
+!554@57
+!54:75
+$%FG()*%+,-.I2$
++?#@N>#
++>A@C?>
++#@NMA
+F81GH$$I+1*)+=1789*
+F*)+=1789*
++?!@>B!
++C"@???
++C@#>A
+$%FG()9*1)(+)8+;*7817=J*+1*)+=1789*+)8+181GH$$I+1*)+=1789*K
+!!!!"#$%&G()!()G*+%,G(+-!&#.I+$(G01#$!+2I+$(+
+!34567
+!84698
+!73:
+;.#*01<G01#$!#=!1$0G$L1,?+!G((+0(
+!@A:
+!99B
+!6@
+KG1$!#$!-++.+-!-1(I#(G?(L-1(I#(G?(L*+MG?JG01#$!#=!1$M+(0.+$0(
+!N53458@F
+!NB4397F
+!N:65F
+C.IG1*.+$0!#=!L##-D1??!G$-!1$M+(0.+$0(4!G$-!#0)+*(
+!54A53
+!648A8
+!543B9
+NG2!+==+&0(N5F
+!N:B@F
+!84@A9
+!757
+F81GH$$I+1*)+=1789*
++>>@#C"
++!"@NC#
++>@"#>
+F81GH$$I+L;**+70(M+JJ8N
+F*)+70(M+<;8O=%*%+PQ+8<*;0)=1R+07)=O=)=*(
++!"@MN!
++!!@A?#
++>@>B!
+O+((P
+QJ*&)G(+!#=!I*#I+*0H!G$-!+IJ1I.+$0!N+2&?J-1$L!?G$-!J(+!*1L)0(!G$-!&#$(0*J&01#$!1$
+!!!!I*#L*+((!*+?G01$L!0#!#==1&+!&G.IJ(+(F
+!N3@4986F
+!N9:499AF
+!N646:8F
+R)G$L+(!1$!0)+!,JH+*!I*#0+&01#$!=J$-!-+I#(10(
+!N@B@F
+!7B
+!9
+L;**+70(M+JJ8N
++SCB@BC#T
++S??@MN"T
++SM@#B?T
+IM;**+981)M(+*1%*%+UG1*+>"@
+!"!M
+
+
+GAAP to Non-GAAP Net Income Attributable to Ordinary Shareholders
+Notes:
+(1)
+Non-GAAP adjustments exclude the attributions to the noncontrolling interests for computing non-GAAP diluted earnings per share/ADS. See the table above for items 
+regarding the reconciliation of net income to non-GAAP net income (before taking into account the dilutive impact and excluding the attributions to the noncontrolling 
+interests).
+(2)
+Each ADS represents eight ordinary shares.
+(3)
+Diluted earnings per share is derived from dividing net income attributable to ordinary shareholders by the weighted average number of outstanding ordinary shares, on a 
+diluted basis. Diluted earnings per ADS is derived from the diluted earnings per share after adjusting for the ordinary share-to-ADS ratio.
+(4)
+Non-GAAP diluted earnings per share is derived from dividing non-GAAP net income attributable to ordinary shareholders by the weighted average number of outstanding 
+ordinary shares, in each case for computing non-GAAP diluted earnings per share. Non-GAAP diluted earnings per ADS is derived from the non-GAAP diluted earnings per share 
+after adjusting for the ordinary share-to-ADS ratio.
+14
+!"!#
+!"#$%#&$'()'*+$*',$-./,'$0/+/1
+$%&
+$%&
+G()*
+G+,-G./012,G3--4.56-357,G-1G148./349GJ;34,;178,4JG<G53J.0
+G=>?@@A
+G@"?#>B
+G@?##>
+!!"#$%&#G(!)**)+&!G(!),-(#(./!,-#/#(.!*-G0!(G(1+,/2!/2,-)13,/)4!,5,-4/!G6)-,&)4!37
+!!!!!!)8%#&7!0)&2G4!#(9)/&))/!,(4!/%3/#4#,-#)/
+!:;<=>
+!:;?@>
+!:;<>
+!!A4B%/&0)(&/!*G-!#(&)-)/&!)C6)(/)!,&&-#3%&,3$)!&G!+G(9)-&#3$)!%(/)+%-)4!/)(#G-!(G&)/
+!D;
+!N?
+!;=
+!!"#$%&#G(!)**)+&!G(!),-(#(./!,-#/#(.!*-G0!,//%0)4!)C+2,(.)!G*!)C+2,(.),3$)!3G(4/
+!F
+!:;GHH<>
+!:==@>
+!!I)&!#(+G0)!,&&-#3%&,3$)!&G!G-4#(,-7!/2,-)2G$4)-/!F!4#$%&)4
+!JKG?=H
+!NG@H=
+!;GK=?
+!!IG(1LAAM!,4B%/&0)(&/!&G!()&!#(+G0)!,&&-#3%&,3$)!&G!G-4#(,-7!/2,-)2G$4)-/:;>
+!:DGDKJ>
+!;;G<K;
+!;GD;J
+GG+1/CMNNFG/,-G./012,G3--4.56-357,G-1G148./349GJ;34,;178,4JGG14
+GGGGGG012H6-./IG/1/CMNNFG8.76-,8G,34/./IJGH,4GJ;34,JN*)
+G>#?!K@
+G!"?#L>
+G>?">=
+GGM,.I;-,8G3N,43I,G/625,4G1GGJ;34,JG1/G3G8.76-,8G53J.JGG14G012H6-./IG/1/CMNNF
+GGGGGG8.76-,8G,34/./IJGH,4GJ;34,JN*)GO2.77.1/GJ;34,JPO!P
+G@K?@=!
+G@K?>!=
+GG*.76-,8G,34/./IJGH,4GJ;34,O!PO>P
+G!Q!#
+G"Q=A
+G"Q"B
+GG+1/CMNNFG8.76-,8G,34/./IJGH,4GJ;34,O!PO=P
+G@QL=
+G@Q"B
+G"Q@A
+GG*.76-,8G,34/./IJGH,4GN*)O!PO>P
+G@BQKL
+G>QB@
+G"Q##
+GG+1/CMNNFG8.76-,8G,34/./IJGH,4GN*)O!PO=P
+G@=QB#
+GLQ#!
+G@Q!A
+!"!A
+R;4,,G21/-;JG,/8,8GS6/,G>"?
+
+

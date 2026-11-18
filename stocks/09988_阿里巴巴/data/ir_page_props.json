@@ -1,0 +1,689 @@
+{
+  "yearDatas": [
+    {
+      "categoryId": "1986240460472975360",
+      "categoryNo": 7,
+      "categoryCode": "Quarterly Results",
+      "categoryName": "2026",
+      "categoryRemark": "2026"
+    },
+    {
+      "categoryId": "1854313720688148480",
+      "categoryNo": 8,
+      "categoryCode": "Quarterly Results",
+      "categoryName": "2025",
+      "categoryRemark": "2025"
+    },
+    {
+      "categoryId": "1721758155173527552",
+      "categoryNo": 9,
+      "categoryCode": "Quarterly Results",
+      "categoryName": "2024",
+      "categoryRemark": "2024"
+    },
+    {
+      "categoryId": "1595977028727734272",
+      "categoryNo": 10,
+      "categoryCode": "Quarterly Results",
+      "categoryName": "2023",
+      "categoryRemark": "2023"
+    },
+    {
+      "categoryId": "1485767402741301248",
+      "categoryNo": 11,
+      "categoryCode": "Quarterly Results",
+      "categoryName": "2022",
+      "categoryRemark": "2022"
+    },
+    {
+      "categoryId": "1485767311024455680",
+      "categoryNo": 12,
+      "categoryCode": "Quarterly Results",
+      "categoryName": "2021",
+      "categoryRemark": "2021"
+    },
+    {
+      "categoryId": "1489762148727914496",
+      "categoryNo": 13,
+      "categoryCode": "Quarterly Results",
+      "categoryName": "2020",
+      "categoryRemark": "2020"
+    },
+    {
+      "categoryId": "1489762338088157184",
+      "categoryNo": 14,
+      "categoryCode": "Quarterly Results",
+      "categoryName": "2019",
+      "categoryRemark": "2019"
+    },
+    {
+      "categoryId": "1489762434246770688",
+      "categoryNo": 15,
+      "categoryCode": "Quarterly Results",
+      "categoryName": "2018",
+      "categoryRemark": "2018"
+    },
+    {
+      "categoryId": "1489762504836907008",
+      "categoryNo": 16,
+      "categoryCode": "Quarterly Results",
+      "categoryName": "2017",
+      "categoryRemark": "2017"
+    },
+    {
+      "categoryId": "1489762603365302272",
+      "categoryNo": 17,
+      "categoryCode": "Quarterly Results",
+      "categoryName": "2016",
+      "categoryRemark": "2016"
+    },
+    {
+      "categoryId": "1489762704984899584",
+      "categoryNo": 18,
+      "categoryCode": "Quarterly Results",
+      "categoryName": "2015",
+      "categoryRemark": "2015"
+    },
+    {
+      "categoryId": "1489762781052796928",
+      "categoryNo": 19,
+      "categoryCode": "Quarterly Results",
+      "categoryName": "2014",
+      "categoryRemark": "2014"
+    }
+  ],
+  "yearVualue": "1986240460472975360",
+  "QuarterlyData": [
+    {
+      "eventDate": 1795089600000,
+      "eventDateLocal": "2026年11月19日",
+      "documentId": "2055444750298775552",
+      "documentTop": 0,
+      "documentSortNum": 3,
+      "documentPublishTime": 1793952305000,
+      "documentPublishTimeLocal": "2026年11月6日",
+      "documentTitle": "2026年9月份季度業績",
+      "documentType": "FILE",
+      "urls": {
+        "clickUrl": "",
+        "cover": "",
+        "pdf": "",
+        "pressReleaseUrl": "",
+        "webcastUrl": "https://edge.media-server.com/mmc/p/uaadh2wu",
+        "transcriptUrl": "",
+        "presentationUrl": "",
+        "presentationLink": ""
+      },
+      "documentFileInfos": [],
+      "multilingualDocumentFileInfos": {
+        "en_US": [],
+        "zh_CN": [],
+        "zh_HK": null,
+        "type": "FILE"
+      },
+      "multiAttachments": {
+        "zhCn": [],
+        "zhHk": [],
+        "enUs": []
+      },
+      "extFieldMap": {
+        "TplBlockGbwdmnm": {},
+        "tplBlockGbwdmnm": {
+          "tplFieldBmwmoekj": "",
+          "tplFieldBmwpbjmu": "https://edge.media-server.com/mmc/p/uaadh2wu",
+          "tplFieldBrynmdnz": 1795089600000,
+          "seqId": 591256
+        },
+        "dataJson": {
+          "TplBlockGbwdmnm": {},
+          "tplBlockGbwdmnm": {
+            "tplFieldBmwmoekj": "",
+            "tplFieldBmwpbjmu": "https://edge.media-server.com/mmc/p/uaadh2wu",
+            "tplFieldBrynmdnz": 1795089600000,
+            "seqId": 591256
+          }
+        }
+      },
+      "documentTitleWithNL": "2026年9月份季度業績"
+    },
+    {
+      "eventDate": 1787225400000,
+      "eventDateLocal": "2026年8月20日",
+      "documentId": "2022478313196355584",
+      "documentTop": 0,
+      "documentSortNum": 2,
+      "documentPublishTime": 1787841921000,
+      "documentPublishTimeLocal": "2026年8月27日",
+      "documentTitle": "2026年6月份季度業績",
+      "documentType": "FILE",
+      "pressRelease": "2026456290057781248",
+      "urls": {
+        "clickUrl": "",
+        "cover": "",
+        "pdf": "",
+        "pressReleaseUrl": "",
+        "webcastUrl": "https://edge.media-server.com/mmc/p/cnqsvuvm",
+        "transcriptUrl": "https://data.alibabagroup.com/ecms-files/1567773279/6a298f57-826a-460c-a85b-fd9b11f2339d/CN%20Jun%202026%20Q%20-%20Alibaba%20Earnings%20Call.pdf",
+        "presentationUrl": "https://data.alibabagroup.com/ecms-files/1567773279/a9d0a2f3-beca-402c-b3c1-526c2064d10f/June%20Quarter%202026%20Results.pdf",
+        "presentationLink": "https://data.alibabagroup.com/ecms-files/1567773279/a9d0a2f3-beca-402c-b3c1-526c2064d10f/June%20Quarter%202026%20Results.pdf"
+      },
+      "documentFileInfos": [],
+      "multilingualDocumentFileInfos": {
+        "en_US": [
+          {
+            "name": "June Quarter 2026 Results.pdf",
+            "url": "https://data.alibabagroup.com/ecms-files/1567773279/a9d0a2f3-beca-402c-b3c1-526c2064d10f/June%20Quarter%202026%20Results.pdf",
+            "size": 2196569
+          },
+          {
+            "name": "EN Jun 2026 Q - Alibaba Earnings Call.pdf",
+            "url": "https://data.alibabagroup.com/ecms-files/1567773279/9a0e4864-83fe-4a69-aa1e-e5c14f5b2e73/EN%20Jun%202026%20Q%20-%20Alibaba%20Earnings%20Call.pdf",
+            "size": 219646
+          }
+        ],
+        "zh_CN": [
+          {
+            "name": "CN Jun 2026 Q - Alibaba Earnings Call.pdf",
+            "url": "https://data.alibabagroup.com/ecms-files/1567773279/9ce4254c-6ac3-4fea-a278-cbb999f5306a/CN%20Jun%202026%20Q%20-%20Alibaba%20Earnings%20Call.pdf",
+            "size": 336621
+          }
+        ],
+        "zh_HK": [
+          {
+            "name": "CN Jun 2026 Q - Alibaba Earnings Call.pdf",
+            "url": "https://data.alibabagroup.com/ecms-files/1567773279/6a298f57-826a-460c-a85b-fd9b11f2339d/CN%20Jun%202026%20Q%20-%20Alibaba%20Earnings%20Call.pdf",
+            "size": 336621
+          }
+        ],
+        "type": "FILE"
+      },
+      "multiAttachments": {
+        "zhCn": [],
+        "zhHk": [],
+        "enUs": []
+      },
+      "extFieldMap": {
+        "TplBlockGbwdmnm": {},
+        "tplBlockGbwdmnm": {
+          "tplFieldBmwmoekj": "2026456290057781248",
+          "tplFieldBmwpbjmu": "https://edge.media-server.com/mmc/p/cnqsvuvm",
+          "tplFieldBrynmdnz": 1787225400000,
+          "seqId": 585568
+        },
+        "dataJson": {
+          "TplBlockGbwdmnm": {},
+          "tplBlockGbwdmnm": {
+            "tplFieldBmwmoekj": "2026456290057781248",
+            "tplFieldBmwpbjmu": "https://edge.media-server.com/mmc/p/cnqsvuvm",
+            "tplFieldBrynmdnz": 1787225400000,
+            "seqId": 585568
+          }
+        }
+      },
+      "documentTitleWithNL": "2026年6月份季度業績"
+    },
+    {
+      "eventDate": 1778671800000,
+      "eventDateLocal": "2026年5月13日",
+      "documentId": "1986242982717685760",
+      "documentTop": 0,
+      "documentSortNum": 1,
+      "documentPublishTime": 1779507888000,
+      "documentPublishTimeLocal": "2026年5月23日",
+      "documentTitle": "2026年3月份季度及2026財年全年業績",
+      "documentType": "FILE",
+      "pressRelease": "1991237455038119936",
+      "urls": {
+        "clickUrl": "",
+        "cover": "",
+        "pdf": "",
+        "pressReleaseUrl": "",
+        "webcastUrl": "https://edge.media-server.com/mmc/p/npqai6e2",
+        "transcriptUrl": "https://data.alibabagroup.com/ecms-files/1508695866/2ba95420-c0db-4e7e-b2ff-9c258c613612/CN%20Mar%202026%20Q%20-%20Alibaba%20Earnings%20Call.pdf",
+        "presentationUrl": "https://data.alibabagroup.com/ecms-files/1508664153/2299e3f4-f7dd-449c-a9cf-94fc7a393d6a/March%20Quarter%202026%20Results.pdf",
+        "presentationLink": "https://data.alibabagroup.com/ecms-files/1508664153/2299e3f4-f7dd-449c-a9cf-94fc7a393d6a/March%20Quarter%202026%20Results.pdf"
+      },
+      "documentFileInfos": [],
+      "multilingualDocumentFileInfos": {
+        "en_US": [
+          {
+            "name": "March Quarter 2026 Results.pdf",
+            "url": "https://data.alibabagroup.com/ecms-files/1508664153/2299e3f4-f7dd-449c-a9cf-94fc7a393d6a/March%20Quarter%202026%20Results.pdf",
+            "size": 2135394
+          },
+          {
+            "name": "EN Mar 2026 Q - Alibaba Earnings Call.pdf",
+            "url": "https://data.alibabagroup.com/ecms-files/1508695866/9e0f30c9-651f-41f9-a269-90db4b7d0dd7/EN%20Mar%202026%20Q%20-%20Alibaba%20Earnings%20Call.pdf",
+            "size": 255318
+          }
+        ],
+        "zh_CN": [
+          {
+            "name": "CN Mar 2026 Q - Alibaba Earnings Call.pdf",
+            "url": "https://data.alibabagroup.com/ecms-files/1508695866/7c00533c-ffb7-47cc-b962-9be08b261520/CN%20Mar%202026%20Q%20-%20Alibaba%20Earnings%20Call.pdf",
+            "size": 383961
+          }
+        ],
+        "zh_HK": [
+          {
+            "name": "CN Mar 2026 Q - Alibaba Earnings Call.pdf",
+            "url": "https://data.alibabagroup.com/ecms-files/1508695866/2ba95420-c0db-4e7e-b2ff-9c258c613612/CN%20Mar%202026%20Q%20-%20Alibaba%20Earnings%20Call.pdf",
+            "size": 383961
+          }
+        ],
+        "type": "FILE"
+      },
+      "multiAttachments": {
+        "zhCn": [],
+        "zhHk": [],
+        "enUs": []
+      },
+      "extFieldMap": {
+        "TplBlockGbwdmnm": {},
+        "tplBlockGbwdmnm": {
+          "tplFieldBmwmoekj": "1991237455038119936",
+          "tplFieldBmwpbjmu": "https://edge.media-server.com/mmc/p/npqai6e2",
+          "tplFieldBrynmdnz": 1778671800000,
+          "seqId": 582131
+        },
+        "dataJson": {
+          "TplBlockGbwdmnm": {},
+          "tplBlockGbwdmnm": {
+            "tplFieldBmwmoekj": "1991237455038119936",
+            "tplFieldBmwpbjmu": "https://edge.media-server.com/mmc/p/npqai6e2",
+            "tplFieldBrynmdnz": 1778671800000,
+            "seqId": 582131
+          }
+        }
+      },
+      "documentTitleWithNL": "2026年3月份季度及2026財年全年業績"
+    }
+  ],
+  "dataListDatas": [
+    {
+      "documentId": "2004320717654458368",
+      "documentTop": 0,
+      "documentSortNum": 13,
+      "documentPublishTime": 1783505860000,
+      "documentPublishTimeLocal": "2026年7月8日",
+      "documentTitle": "2026財務年度報告",
+      "documentType": "FILE",
+      "urls": {
+        "clickUrl": "",
+        "cover": "https://data.alibabagroup.com/ecms-files/1514443390/047906ca-d797-4ca7-824b-11d09f55541c/95992_%28Alibaba%20AR_Chi%29_stp2_1125.jpg",
+        "pdf": "https://data.alibabagroup.com/ecms-files/1514443390/c62cb431-2d83-4196-9c85-e242ed1df244/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E9%9B%86%E5%9C%98%E6%8E%A7%E8%82%A1%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B82026%E8%B2%A1%E5%8B%99%E5%B9%B4%E5%BA%A6%E5%A0%B1%E5%91%8A.pdf",
+        "awardImage": null
+      },
+      "documentFileInfos": [],
+      "multilingualDocumentFileInfos": {
+        "en_US": null,
+        "zh_CN": [],
+        "zh_HK": null,
+        "type": "FILE"
+      },
+      "documentTitleWithNL": "2026財務年度報告"
+    },
+    {
+      "documentId": "1933211553075560448",
+      "documentTop": 0,
+      "documentSortNum": 12,
+      "documentPublishTime": 1764809221000,
+      "documentPublishTimeLocal": "2025年12月4日",
+      "documentTitle": "2026財務年度中期報告",
+      "documentType": "FILE",
+      "urls": {
+        "clickUrl": "",
+        "cover": "https://data.alibabagroup.com/ecms-files/1514443390/11cc2786-a092-460d-85b6-7d52002141a7/CH%20COVER.jpg",
+        "pdf": "https://data.alibabagroup.com/ecms-files/1514443390/e7094050-3ffe-403c-a020-38e0c3f31937/2026%E8%B2%A1%E5%8B%99%E5%B9%B4%E5%BA%A6%E4%B8%AD%E6%9C%9F%E5%A0%B1%E5%91%8A.pdf",
+        "awardImage": null
+      },
+      "documentFileInfos": [],
+      "multilingualDocumentFileInfos": {
+        "en_US": null,
+        "zh_CN": [],
+        "zh_HK": null,
+        "type": "FILE"
+      },
+      "documentTitleWithNL": "2026財務年度中期報告"
+    },
+    {
+      "documentId": "1872471059001769984",
+      "documentTop": 0,
+      "documentSortNum": 11,
+      "documentPublishTime": 1781762977000,
+      "documentPublishTimeLocal": "2026年6月18日",
+      "documentTitle": "2025財務年度報告",
+      "documentType": "FILE",
+      "urls": {
+        "clickUrl": "",
+        "cover": "https://data.alibabagroup.com/ecms-files/1514443390/8ad376da-5a6c-4c05-9354-9f8d7d810c67/C_ALBB009_AR2025_Cover_AW.jpg",
+        "pdf": "https://data.alibabagroup.com/ecms-files/1514443390/49a076a3-a1a2-48b1-b21f-dcaee54f1852/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E9%9B%86%E5%9C%98%E6%8E%A7%E8%82%A1%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B82025%E8%B2%A1%E5%8B%99%E5%B9%B4%E5%BA%A6%E5%A0%B1%E5%91%8A.pdf",
+        "awardImage": null
+      },
+      "documentFileInfos": [],
+      "multilingualDocumentFileInfos": {
+        "en_US": null,
+        "zh_CN": [],
+        "zh_HK": null,
+        "type": "FILE"
+      },
+      "documentTitleWithNL": "2025財務年度報告"
+    },
+    {
+      "documentId": "1799336602728660992",
+      "documentTop": 0,
+      "documentSortNum": 10,
+      "documentPublishTime": 1734019518000,
+      "documentPublishTimeLocal": "2024年12月13日",
+      "documentTitle": "2025財務年度中期報告",
+      "documentType": "FILE",
+      "urls": {
+        "clickUrl": "",
+        "cover": "https://data.alibabagroup.com/ecms-files/1514443390/f9a3e0d7-104f-481c-8fbb-775cca1ce25f/C_Alibaba_HIR2025_front%20cover.jpg",
+        "pdf": "https://data.alibabagroup.com/ecms-files/1514443390/42dff8ee-0d7b-43f1-96ca-7fc9b06169ae/2025%E8%B2%A1%E5%8B%99%E5%B9%B4%E5%BA%A6%E4%B8%AD%E6%9C%9F%E5%A0%B1%E5%91%8A.pdf",
+        "awardImage": null
+      },
+      "documentFileInfos": [],
+      "multilingualDocumentFileInfos": {
+        "en_US": null,
+        "zh_CN": [],
+        "zh_HK": null,
+        "type": "FILE"
+      },
+      "documentTitleWithNL": "2025財務年度中期報告"
+    },
+    {
+      "documentId": "1730296926961664000",
+      "documentTop": 0,
+      "documentSortNum": 9,
+      "documentPublishTime": 1743649905000,
+      "documentPublishTimeLocal": "2025年4月3日",
+      "documentTitle": "2024財務年度報告",
+      "documentType": "FILE",
+      "urls": {
+        "clickUrl": "",
+        "cover": "https://data.alibabagroup.com/ecms-files/1514443390/e4b8ffff-106a-422c-aea6-fe8cb60719f6/94299%20%28Chi%29%20AR_Cover.jpg",
+        "pdf": "https://data.alibabagroup.com/ecms-files/1514443390/1fe55b48-c185-4a95-94c3-422d3bce7276/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E9%9B%86%E5%9C%98%E6%8E%A7%E8%82%A1%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B82024%E8%B2%A1%E5%8B%99%E5%B9%B4%E5%BA%A6%E5%A0%B1%E5%91%8A.pdf",
+        "ebook": "https://static.alibabagroup.com/reports/fy2024/ar/ebook/CN/index.html",
+        "awardImage": "https://data.alibabagroup.com/ecms-files/1514443390/9001675b-111e-4209-890d-fab33d27a8ed/2024%E8%B4%A2%E5%B9%B4%E5%B9%B4%E6%8A%A5%20250403.jpg"
+      },
+      "documentFileInfos": [],
+      "multilingualDocumentFileInfos": {
+        "en_US": [],
+        "zh_CN": [
+          {
+            "name": "2024财年年报 250403.jpg",
+            "url": "https://data.alibabagroup.com/ecms-files/1514443390/9001675b-111e-4209-890d-fab33d27a8ed/2024%E8%B4%A2%E5%B9%B4%E5%B9%B4%E6%8A%A5%20250403.jpg",
+            "size": 98091
+          }
+        ],
+        "zh_HK": [],
+        "type": "FILE"
+      },
+      "documentTitleWithNL": "2024財務年度報告"
+    },
+    {
+      "documentId": "1675010988484591616",
+      "documentTop": 0,
+      "documentSortNum": 8,
+      "documentPublishTime": 1703249407000,
+      "documentPublishTimeLocal": "2023年12月22日",
+      "documentTitle": "2024財務年度中期報告",
+      "documentType": "FILE",
+      "urls": {
+        "clickUrl": "",
+        "cover": "https://data.alibabagroup.com/ecms-files/1479231421/dc593ab3-0743-46a7-ae46-fa2dc556670e/2024%E8%B2%A1%E5%8B%99%E5%B9%B4%E5%BA%A6%E4%B8%AD%E6%9C%9F%E5%A0%B1%E5%91%8A.jpg",
+        "pdf": "https://data.alibabagroup.com/ecms-files/1479231421/19a85d91-80ae-4206-8b3f-62f751685522/2024%E8%B2%A1%E5%8B%99%E5%B9%B4%E5%BA%A6%E4%B8%AD%E6%9C%9F%E5%A0%B1%E5%91%8A.pdf",
+        "awardImage": null
+      },
+      "documentFileInfos": [],
+      "multilingualDocumentFileInfos": {
+        "en_US": null,
+        "zh_CN": [],
+        "zh_HK": null,
+        "type": "FILE"
+      },
+      "documentTitleWithNL": "2024財務年度中期報告"
+    },
+    {
+      "documentId": "1619111925851881472",
+      "documentTop": 0,
+      "documentSortNum": 7,
+      "documentPublishTime": 1741248504000,
+      "documentPublishTimeLocal": "2025年3月6日",
+      "documentTitle": "2023財務年度報告",
+      "documentType": "FILE",
+      "urls": {
+        "clickUrl": "",
+        "cover": "https://data.alibabagroup.com/ecms-files/1479231421/7811b996-be30-4a83-95c6-19a8a19b8f87/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E9%9B%86%E5%9C%98%E6%8E%A7%E8%82%A1%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B82023%E8%B2%A1%E5%8B%99%E5%B9%B4%E5%BA%A6%E5%A0%B1%E5%91%8A.jpg",
+        "pdf": "https://data.alibabagroup.com/ecms-files/1479231421/e32378da-51f7-414a-96ca-ca340fd557de/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E9%9B%86%E5%9C%98%E6%8E%A7%E8%82%A1%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B82023%E8%B2%A1%E5%8B%99%E5%B9%B4%E5%BA%A6%E5%A0%B1%E5%91%8A.pdf",
+        "ebook": "https://static.alibabagroup.com/reports/fy2023/ar/ebook/tc/index.html",
+        "awardImage": "https://data.alibabagroup.com/ecms-files/1514443390/30baa0e0-a5a4-4ef7-bcd2-b42ff8af4376/20250306_2023%E8%B4%A2%E6%94%BF%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A%E8%8E%B7%E5%A5%96%E5%9B%BE%E7%89%87.jpg"
+      },
+      "documentFileInfos": [],
+      "multilingualDocumentFileInfos": {
+        "en_US": [
+          {
+            "name": "20240829_2023财政年度报告获奖图片.jpg",
+            "url": "https://data.alibabagroup.com/ecms-files/1514443390/4a6fa1aa-6dd0-4f39-9a0e-2e309e376407/20240829_2023%E8%B4%A2%E6%94%BF%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A%E8%8E%B7%E5%A5%96%E5%9B%BE%E7%89%87.jpg",
+            "size": 51619
+          }
+        ],
+        "zh_CN": [
+          {
+            "name": "20250306_2023财政年度报告获奖图片.jpg",
+            "url": "https://data.alibabagroup.com/ecms-files/1514443390/30baa0e0-a5a4-4ef7-bcd2-b42ff8af4376/20250306_2023%E8%B4%A2%E6%94%BF%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A%E8%8E%B7%E5%A5%96%E5%9B%BE%E7%89%87.jpg",
+            "size": 115463
+          }
+        ],
+        "zh_HK": [
+          {
+            "name": "20240829_2023财政年度报告获奖图片.jpg",
+            "url": "https://data.alibabagroup.com/ecms-files/1514443390/8b415fb4-ac4c-4f1a-93dc-c1713abf825b/20240829_2023%E8%B4%A2%E6%94%BF%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A%E8%8E%B7%E5%A5%96%E5%9B%BE%E7%89%87.jpg",
+            "size": 51619
+          }
+        ],
+        "type": "FILE"
+      },
+      "documentTitleWithNL": "2023財務年度報告"
+    },
+    {
+      "documentId": "1541863699990446080",
+      "documentTop": 0,
+      "documentSortNum": 6,
+      "documentPublishTime": 1671520918000,
+      "documentPublishTimeLocal": "2022年12月20日",
+      "documentTitle": "2023財政年度中期報告",
+      "documentType": "FILE",
+      "urls": {
+        "clickUrl": "",
+        "cover": "https://data.alibabagroup.com/ecms-files/850695055/7fc6d62e-8410-499c-9a2d-2ec02e550458/2023%E4%B8%AD%E6%9C%9F%E7%B9%81%E9%AB%94.jpg",
+        "pdf": "https://data.alibabagroup.com/ecms-files/1452422558/56f6d6ac-355f-4a94-88ab-7c2a1ba9d0f2/2023%E8%B2%A1%E6%94%BF%E5%B9%B4%E5%BA%A6%E4%B8%AD%E6%9C%9F%E5%A0%B1%E5%91%8A.pdf",
+        "awardImage": null
+      },
+      "documentFileInfos": [],
+      "multilingualDocumentFileInfos": {
+        "en_US": null,
+        "zh_CN": [],
+        "zh_HK": [],
+        "type": "FILE"
+      },
+      "documentTitleWithNL": "2023財政年度中期報告"
+    },
+    {
+      "documentId": "1489752681529475072",
+      "documentTop": 0,
+      "documentSortNum": 5,
+      "documentPublishTime": 1697006230000,
+      "documentPublishTimeLocal": "2023年10月11日",
+      "documentTitle": "2022財政年度報告",
+      "documentType": "FILE",
+      "urls": {
+        "clickUrl": "",
+        "cover": "https://data.alibabagroup.com/ecms-files/1452422558/e96e8510-7a4c-49e7-a2e8-c1a3e506fbcf.jpg",
+        "pdf": "https://data.alibabagroup.com/ecms-files/886023430/d6ecaee0-a2ac-495d-b375-41b8008dffe8.pdf",
+        "ebook": "https://static.alibabagroup.com/reports/fy2022/ar/ebook/tc/index.html",
+        "awardImage": "https://data.alibabagroup.com/ecms-files/1479231421/e61f0988-4eee-4dfb-a060-d4fe74f20f05/20231010_2022%E8%B4%A2%E6%94%BF%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A%E8%8E%B7%E5%A5%96%E5%9B%BE%E7%89%87.jpg"
+      },
+      "documentFileInfos": [],
+      "multilingualDocumentFileInfos": {
+        "en_US": [
+          {
+            "name": "20231010_2022财政年度报告获奖图片.jpg",
+            "url": "https://data.alibabagroup.com/ecms-files/1479231421/d4c8acba-31c6-40f1-8fdf-165e93a2734d/20231010_2022%E8%B4%A2%E6%94%BF%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A%E8%8E%B7%E5%A5%96%E5%9B%BE%E7%89%87.jpg",
+            "size": 241607
+          }
+        ],
+        "zh_CN": [
+          {
+            "name": "20231010_2022财政年度报告获奖图片.jpg",
+            "url": "https://data.alibabagroup.com/ecms-files/1479231421/e61f0988-4eee-4dfb-a060-d4fe74f20f05/20231010_2022%E8%B4%A2%E6%94%BF%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A%E8%8E%B7%E5%A5%96%E5%9B%BE%E7%89%87.jpg",
+            "size": 241607
+          }
+        ],
+        "zh_HK": [
+          {
+            "name": "20231010_2022财政年度报告获奖图片.jpg",
+            "url": "https://data.alibabagroup.com/ecms-files/1479231421/bb2417d9-5fd3-4b97-bcf2-9010195ed279/20231010_2022%E8%B4%A2%E6%94%BF%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A%E8%8E%B7%E5%A5%96%E5%9B%BE%E7%89%87.jpg",
+            "size": 241607
+          }
+        ],
+        "type": "FILE"
+      },
+      "documentTitleWithNL": "2022財政年度報告"
+    },
+    {
+      "documentId": "1489770481757192192",
+      "documentTop": 0,
+      "documentSortNum": 4,
+      "documentPublishTime": 1661679918000,
+      "documentPublishTimeLocal": "2022年8月28日",
+      "documentTitle": "2022財政年度中期報告",
+      "documentType": "FILE",
+      "urls": {
+        "clickUrl": "",
+        "cover": "https://data.alibabagroup.com/ecms-files/1452422558/e51b3850-ec27-43c7-b1de-90104d0a6be2.jpg",
+        "pdf": "https://ali-home-data.oss-cn-hangzhou.aliyuncs.com/ecms-files/886023430/5911dbbc-44c0-46b8-90b5-813398f9de1c.pdf",
+        "awardImage": null
+      },
+      "documentFileInfos": [],
+      "multilingualDocumentFileInfos": {
+        "en_US": null,
+        "zh_CN": [],
+        "zh_HK": null,
+        "type": "FILE"
+      },
+      "documentTitleWithNL": "2022財政年度中期報告"
+    },
+    {
+      "documentId": "1489750294320381952",
+      "documentTop": 0,
+      "documentSortNum": 3,
+      "documentPublishTime": 1663911126000,
+      "documentPublishTimeLocal": "2022年9月23日",
+      "documentTitle": "2021財政年度報告",
+      "documentType": "FILE",
+      "urls": {
+        "clickUrl": "",
+        "cover": "https://data.alibabagroup.com/ecms-files/1452422558/815fe5ad-fecb-4113-ab38-e8eb92a40e9b.jpg",
+        "pdf": "https://ali-home-data.oss-cn-hangzhou.aliyuncs.com/ecms-files/886023430/d2dd70d6-63f2-4ad5-8707-e78df4181769.pdf",
+        "ebook": "https://static.alibabagroup.com/reports/fy2021/ar/ebook/tc/index.html",
+        "awardImage": "https://data.alibabagroup.com/ecms-files/886023430/56f04caa-c425-4780-aed2-378ee0de132b.jpg",
+        "summaryUrl": "https://static.alibabagroup.com/reports/fy2021/ar/glance/tc/index.html"
+      },
+      "documentFileInfos": [],
+      "multilingualDocumentFileInfos": {
+        "en_US": [
+          {
+            "name": "2021年度报告.jpg",
+            "url": "https://data.alibabagroup.com/ecms-files/886023430/b69b899e-5c06-4e1f-8809-bb85462bda02.jpg",
+            "size": 126535
+          }
+        ],
+        "zh_CN": [
+          {
+            "name": "2021年度报告.jpg",
+            "url": "https://data.alibabagroup.com/ecms-files/886023430/56f04caa-c425-4780-aed2-378ee0de132b.jpg",
+            "size": 126535
+          }
+        ],
+        "zh_HK": [
+          {
+            "name": "2021年度报告.jpg",
+            "url": "https://data.alibabagroup.com/ecms-files/886023430/60d60a7a-3073-4072-8d6e-98680fb295d2.jpg",
+            "size": 126535
+          }
+        ],
+        "type": "FILE"
+      },
+      "documentTitleWithNL": "2021財政年度報告"
+    },
+    {
+      "documentId": "1491918092656181248",
+      "documentTop": 0,
+      "documentSortNum": 2,
+      "documentPublishTime": 1659968483000,
+      "documentPublishTimeLocal": "2022年8月8日",
+      "documentTitle": "2021財政年度中期報告",
+      "documentType": "FILE",
+      "urls": {
+        "clickUrl": "",
+        "cover": "https://data.alibabagroup.com/ecms-files/886023430/20b52fda-8bf3-4098-a48a-958d6fada900.jpg",
+        "pdf": "https://data.alibabagroup.com/ecms-files/886023430/7ff5aae2-879d-4268-a8fd-dd2eb0a6eaec.pdf",
+        "awardImage": null
+      },
+      "documentFileInfos": [],
+      "multilingualDocumentFileInfos": {
+        "en_US": null,
+        "zh_CN": [],
+        "zh_HK": null,
+        "type": "FILE"
+      },
+      "documentTitleWithNL": "2021財政年度中期報告"
+    },
+    {
+      "documentId": "1489772633032491008",
+      "documentTop": 0,
+      "documentSortNum": 1,
+      "documentPublishTime": 1663308857000,
+      "documentPublishTimeLocal": "2022年9月16日",
+      "documentTitle": "2020財政年度報告",
+      "documentType": "FILE",
+      "urls": {
+        "clickUrl": "",
+        "cover": "https://data.alibabagroup.com/ecms-files/886023430/d3ce0434-2e4e-452b-908f-033e76505193.jpg",
+        "pdf": "https://ali-home-data.oss-cn-hangzhou.aliyuncs.com/ecms-files/886023430/e553d950-6ad0-4fba-97f0-a07d07632a95.pdf",
+        "ebook": "https://static.alibabagroup.com/reports/fy2020/ar/ebook/tc/index.html",
+        "awardImage": "https://data.alibabagroup.com/ecms-files/886023430/9ce2439a-ecf0-4e7a-8da8-e0a576098371.jpg",
+        "summaryUrl": "https://static.alibabagroup.com/reports/fy2020/ar/glance/tc/index.html"
+      },
+      "documentFileInfos": [],
+      "multilingualDocumentFileInfos": {
+        "en_US": [
+          {
+            "name": "2020财政年度报告.jpg",
+            "url": "https://data.alibabagroup.com/ecms-files/886023430/6913bb7a-0915-469a-a87c-af8d7ef8726e.jpg",
+            "size": 221616
+          }
+        ],
+        "zh_CN": [
+          {
+            "name": "2020财政年度报告.jpg",
+            "url": "https://data.alibabagroup.com/ecms-files/886023430/9ce2439a-ecf0-4e7a-8da8-e0a576098371.jpg",
+            "size": 221616
+          }
+        ],
+        "zh_HK": [
+          {
+            "name": "2020财政年度报告.jpg",
+            "url": "https://data.alibabagroup.com/ecms-files/886023430/fc14172f-60b7-4853-b7fe-c376d4356337.jpg",
+            "size": 221616
+          }
+        ],
+        "type": "FILE"
+      },
+      "documentTitleWithNL": "2020財政年度報告"
+    }
+  ],
+  "totalCountData": 13
+}

@@ -50,6 +50,22 @@ for cumulative, single in [
     raw[single] = raw.groupby("年份")[cumulative].diff()
     raw.loc[raw["季度"].eq(1), single] = raw.loc[raw["季度"].eq(1), cumulative]
 
+# 补齐 2026 Q2 官方中期业绩公告数据
+row_2026q2 = pd.DataFrame([{
+    "报告期": pd.Timestamp("2026-06-30"),
+    "营收累计_百万元": 401243.0,
+    "GAAP归母累计_百万元": 114115.0,
+    "毛利累计_百万元": 229698.0,
+    "基本EPS累计_人民币": 12.639,
+    "年份": 2026,
+    "季度": 2,
+    "营收单季_百万元": 204785.0,
+    "GAAP归母单季_百万元": 56022.0,
+    "毛利单季_百万元": 118433.0,
+    "基本EPS单季_人民币": 6.207,
+}])
+raw = pd.concat([raw, row_2026q2], ignore_index=True).sort_values("报告期").reset_index(drop=True)
+
 # 官方业绩公告披露日，利润只能在披露日之后用于点时估值。
 ledger = pd.read_csv(DATA / "official_filings.csv")
 events = []
@@ -83,7 +99,7 @@ non_ifrs = {
     (2023, 1): 32538, (2023, 2): 37548, (2023, 3): 44921, (2023, 4): 42681,
     (2024, 1): 50265, (2024, 2): 57313, (2024, 3): 59813, (2024, 4): 55312,
     (2025, 1): 61329, (2025, 2): 63052, (2025, 3): 70551, (2025, 4): 64694,
-    (2026, 1): 67905,
+    (2026, 1): 67905, (2026, 2): 68415,
 }
 quarterly["NonIFRS归母单季_百万元"] = [non_ifrs.get((int(y), int(q)), math.nan) for y, q in zip(quarterly["年份"], quarterly["季度"])]
 quarterly["NonIFRS归母TTM_百万元"] = quarterly["NonIFRS归母单季_百万元"].rolling(4).sum()
@@ -175,14 +191,17 @@ def next_trading_day(disclosed):
 
 profit_events["生效日"] = profit_events["披露日"].map(next_trading_day)
 effective_events = profit_events.dropna(subset=["生效日"]).rename(columns={"生效日": "日期"}).sort_values("日期")
+m_df = market.reset_index().rename(columns={"Date": "日期", "index": "日期"}).sort_values("日期")
+m_df["日期"] = pd.to_datetime(m_df["日期"]).astype("datetime64[ns]")
+effective_events["日期"] = pd.to_datetime(effective_events["日期"]).astype("datetime64[ns]")
 market = pd.merge_asof(
-    market.reset_index().rename(columns={"Date": "日期", "index": "日期"}).sort_values("日期"),
+    m_df,
     effective_events,
     on="日期",
     direction="backward",
 )
 market["GAAP_PE_TTM"] = market["收盘价_HKD"] * market["HKD_CNY"] / market["基本EPS_TTM_人民币"]
-shares = 9_092_516_289
+shares = 9_004_607_601
 market["总股本"] = shares
 market["市值_亿港元"] = market["收盘价_HKD"] * shares / 1e8
 market["市值_亿人民币"] = market["市值_亿港元"] * market["HKD_CNY"]
@@ -197,10 +216,10 @@ gaap_pct = float((last_10y["GAAP_PE_TTM"] <= current_gaap_pe).mean() * 100)
 core_profit_ttm_yi = float(latest["NonIFRS归母TTM_百万元"] / 100)
 market_cap_rmb = float(latest["市值_亿人民币"])
 latest_dividends = yf.Ticker("0700.HK").dividends
-latest_dividend = float(latest_dividends.iloc[-1]) if not latest_dividends.empty else math.nan
+latest_dividend = float(latest_dividends.iloc[-1]) if not latest_dividends.empty else 5.30
 dividend_yield = latest_dividend / float(latest["收盘价_HKD"]) * 100
 profit_cagr = (2596.26 / 1156.49) ** (1 / 3) - 1
-latest_net_cash = 1468.60
+latest_net_cash = 1445.29
 
 snapshot = {
     "交易日": latest["日期"].strftime("%Y-%m-%d"),
@@ -216,38 +235,37 @@ snapshot = {
     "近十年GAAP点时PE百分位_%": round(gaap_pct, 2),
     "2022至2025核心利润3年CAGR_%": round(profit_cagr * 100, 2),
     "PEG_NonIFRS": round(current_nonifrs_pe / (profit_cagr * 100), 2),
-    "2026Q1公司净现金_亿元": latest_net_cash,
+    "2026Q2林奇净现金_亿元": latest_net_cash,
     "扣净现金后NonIFRS_PE": round((market_cap_rmb - latest_net_cash) / core_profit_ttm_yi, 2),
     "最新每股年度股息_HKD": round(latest_dividend, 3),
     "静态股息率_%": round(dividend_yield, 2),
-    "2025上市投资公允价值_亿元": 6727.0,
-    "2025非上市投资账面价值_亿元": 3631.0,
+    "2026H1上市投资公允价值_亿元": 4872.0,
+    "2026H1非上市投资账面价值_亿元": 3879.0,
     "2025回购金额_亿港元": 800.0,
-    "2026Q1回购金额_亿港元": 76.0,
-    "2026-07-09回购股数": 1_065_000,
-    "2026-07-09回购金额_亿港元": 5.00688876,
-    "数据源": "yfinance收盘价/汇率/股息；港交所2026-07-09翌日披露报表股本；腾讯官方业绩公告利润与现金",
+    "2026H1回购金额_亿港元": 317.0,
+    "数据源": "yfinance收盘价/汇率/股息；2026中期报告已发行股本；腾讯官方业绩公告利润与现金",
 }
 (DATA / "market_snapshot.json").write_text(json.dumps(snapshot, ensure_ascii=False, indent=2), encoding="utf-8")
 
 scenarios = []
-for name, growth, pe in [("压力", -0.05, 12.0), ("保守", 0.05, 15.0), ("中性", 0.09, 18.0), ("乐观", 0.13, 22.0)]:
+for name, growth, pe in [("压力", -0.05, 10.0), ("保守", 0.05, 12.0), ("中性", 0.08, 15.0), ("乐观", 0.12, 18.0)]:
     future_profit = core_profit_ttm_yi * (1 + growth) ** 3
-    # 核心净利润已包含现金产生的利息收入；PE法不再额外加回净现金，避免重复计算。
     future_value = future_profit * pe
     annualized = (future_value / market_cap_rmb) ** (1 / 3) - 1
     scenarios.append({"情景": name, "未来3年核心利润增速": growth, "2029核心利润_亿元": future_profit, "目标PE": pe, "2029股权价值_亿元": future_value, "三年总回报": future_value / market_cap_rmb - 1, "隐含年化回报": annualized})
 pd.DataFrame(scenarios).to_csv(DATA / "valuation_scenarios.csv", index=False, encoding="utf-8-sig", float_format="%.6f")
 
-# 同业快照只用于数量级比较，市场口径来自同一批次 yfinance。
 peers = []
 for name, ticker in [("腾讯", "0700.HK"), ("网易", "9999.HK"), ("阿里巴巴", "9988.HK"), ("百度", "9888.HK"), ("Meta", "META"), ("拼多多", "PDD")]:
-    info = yf.Ticker(ticker).info
-    peers.append({"公司": name, "代码": ticker, "币种": info.get("currency"), "市值": info.get("marketCap"), "PE_TTM": info.get("trailingPE"), "抓取日": latest["日期"].strftime("%Y-%m-%d"), "来源": "yfinance同批次行情；不采用预测PE"})
+    try:
+        info = yf.Ticker(ticker).info
+        peers.append({"公司": name, "代码": ticker, "币种": info.get("currency"), "市值": info.get("marketCap"), "PE_TTM": info.get("trailingPE"), "抓取日": latest["日期"].strftime("%Y-%m-%d"), "来源": "yfinance同批次行情；不采用预测PE"})
+    except Exception as e:
+        print(f"Error fetching {name}: {e}")
 pd.DataFrame(peers).to_csv(DATA / "peer_snapshot.csv", index=False, encoding="utf-8-sig")
 
 assert annual["年份"].tolist() == years
 assert abs(annual.loc[annual["年份"].eq(2025), "现金头寸"].iloc[0] - 1603.27) < 0.01
-assert shares == 9_092_516_289
-assert quarterly.loc[(quarterly["年份"].eq(2026)) & (quarterly["季度"].eq(1)), "NonIFRS归母TTM_百万元"].iloc[0] == 266202
+assert shares == 9_004_607_601
+assert quarterly.loc[(quarterly["年份"].eq(2026)) & (quarterly["季度"].eq(2)), "NonIFRS归母TTM_百万元"].iloc[0] == 271565
 print(json.dumps(snapshot, ensure_ascii=False, indent=2))
