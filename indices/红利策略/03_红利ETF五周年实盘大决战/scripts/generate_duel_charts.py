@@ -693,6 +693,15 @@ def main() -> None:
             "华泰 50",
             CHARTS_DIR / "02_515300_五维战力雷达对决看板.png",
         )
+        plot_radar_board_duel(
+            [18.5, 24.5, 17.5, 13.0, 13.5],
+            [18.0, 23.0, 18.0, 12.0, 14.0],
+            [25, 25, 20, 15, 15],
+            "第 3 战：南方红利低波 50 vs 华泰红利低波 五维量化对决看板",
+            "南方 50",
+            "华泰 50",
+            CHARTS_DIR / "03_515450_五维战力雷达对决看板.png",
+        )
 
     if args.bench or (not args.code and not args.all and not args.funnel and not args.radar):
         plot_benchmark_vs_hs300()
@@ -727,6 +736,15 @@ def main() -> None:
             "嘉实 300",
             "华泰 50",
             CHARTS_DIR / "02_515300_五维战力雷达对决看板.png",
+        )
+        plot_radar_board_duel(
+            [18.5, 24.5, 17.5, 13.0, 13.5],
+            [18.0, 23.0, 18.0, 12.0, 14.0],
+            [25, 25, 20, 15, 15],
+            "第 3 战：南方红利低波 50 vs 华泰红利低波 五维量化对决看板",
+            "南方 50",
+            "华泰 50",
+            CHARTS_DIR / "03_515450_五维战力雷达对决看板.png",
         )
         battles = [
             ("515100", "景顺长城红利低波100ETF", CHARTS_DIR / "01_515100_vs_512890_对决走势.png"),
