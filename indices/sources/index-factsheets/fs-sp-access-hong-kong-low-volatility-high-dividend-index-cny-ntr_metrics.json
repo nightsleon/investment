@@ -1,0 +1,78 @@
+{
+  "file_path": "/Users/pidan-l/Documents/investment/indices/sources/index-factsheets/fs-sp-access-hong-kong-low-volatility-high-dividend-index-cny-ntr.pdf",
+  "file_name": "fs-sp-access-hong-kong-low-volatility-high-dividend-index-cny-ntr.pdf",
+  "parse_time": "2026-11-19 16:22:28",
+  "provider": "S&P Dow Jones Indices",
+  "index_name": "S&P Access Hong Kong Low Volatility High Dividend Index",
+  "fundamentals": {
+    "dividend_yield": "5.82%",
+    "trailing_pe": 8.9,
+    "projected_pe": 8.82,
+    "pb": 0.57,
+    "price_to_sales": 0.59,
+    "price_to_cash_flow": 5.67
+  },
+  "top_constituents": [
+    {
+      "rank": 1,
+      "name": "ENN Energy Holdings Ltd",
+      "code": "02688",
+      "sector": "Utilities"
+    },
+    {
+      "rank": 2,
+      "name": "Huaneng Power International Inc H Shares",
+      "code": "00902",
+      "sector": "Utilities"
+    },
+    {
+      "rank": 3,
+      "name": "Wharf Real Estate Investment Company Ltd",
+      "code": "01997",
+      "sector": "Real Estate"
+    },
+    {
+      "rank": 4,
+      "name": "Far East Horizon Ltd",
+      "code": "03360",
+      "sector": "Financials"
+    },
+    {
+      "rank": 5,
+      "name": "China Telecom Corporation Ltd. - H Shares",
+      "code": "00728",
+      "sector": "Communication Services"
+    },
+    {
+      "rank": 6,
+      "name": "PetroChina Co Ltd H Shares",
+      "code": "00857",
+      "sector": "Energy"
+    },
+    {
+      "rank": 7,
+      "name": "China Mobile Ltd - H Shares",
+      "code": "00941",
+      "sector": "Communication Services"
+    },
+    {
+      "rank": 8,
+      "name": "China Resources Power Holdings Co. Ltd.",
+      "code": "00836",
+      "sector": "Utilities"
+    },
+    {
+      "rank": 9,
+      "name": "China Gas Holdings Ltd.",
+      "code": "00384",
+      "sector": "Utilities"
+    },
+    {
+      "rank": 10,
+      "name": "China Merchants Port Holdings Co Ltd",
+      "code": "00144",
+      "sector": "Industrials"
+    }
+  ],
+  "as_of_date": "OCTOBER 30, 2026"
+}

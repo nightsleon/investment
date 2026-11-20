@@ -30,6 +30,7 @@
 * **个股量化出图与估值辅助工具**：
   - 3R 好生意定量 6 张标准底图 $\to$ `.agents/skills/stock-financial-charts/`
   - 3R 好价格彼得·林奇收益线与股价匹配 $\to$ `.agents/skills/stock-earnings-line/`
+* **非标/无直观估值指数估值评估（跨境/定制/Smart Beta 指数估值与利差分析）** $\to$ `.agents/skills/custom-index-valuation/`
 
 > **独立自闭环与无提示不越权原则**：
 > 1. 各写作技能自身必须具备高质量反 AI 意识与通俗表达能力，一次性闭环完成交付，**严禁在写作技能内部隐式或强制嵌套调用 `financial-humanizer`**。
