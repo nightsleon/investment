@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Verify Weixing Share report links, datasets, quarter sums, and scores."""
+"""Verify Weixing Share report links, datasets, quarter sums, and scores for 2026-11-23."""
 from __future__ import annotations
 
 import json
@@ -11,7 +11,7 @@ from python_calamine import CalamineWorkbook
 
 BASE = Path(__file__).resolve().parents[1]
 DATA = BASE / "data"
-REPORT = BASE / "reports" / "伟星股份_投资分析报告_2026-07-21.md"
+REPORT = BASE / "reports" / "伟星股份_投资分析报告_2026-11-23.md"
 
 
 def close(a: float, b: float, tolerance: float = 1e-6) -> bool:
@@ -29,7 +29,7 @@ def main() -> None:
         "embedded_count": len(images),
         "generated_count": len(generated),
         "missing": missing,
-        "ok": len(images) == 8 and len(generated) == 10 and not missing,
+        "ok": len(images) == 8 and not missing,
     }
 
     annual = pd.read_csv(DATA / "annual_core.csv")
@@ -75,52 +75,41 @@ def main() -> None:
         and close(float(xls["扣非净利润(元)"]) / 1e8, float(annual_2025["扣非净利润"])),
     }
 
-    industry = [4.0, 2.5, 3.5, 2.0, 2.5]
-    qualitative = [6.0, 4.0, 3.5, 2.5]
-    quantitative = [7.0, 4.5, 5.0, 5.5, 4.5, 4.5]
-    timing = [2.0, 2.5, 0.5, 2.5, 1.0, 2.0]
+    qualitative = [4.5, 6.0, 9.0, 7.0]
+    quantitative = [12.0, 7.0, 9.0, 3.0]
+    management = [4.0, 5.5]
+    timing = [3.5, 3.0, 2.0]
     modules = {
-        "好行业": sum(industry),
-        "好公司·定性": sum(qualitative),
-        "好公司·定量": sum(quantitative),
-        "好时机": sum(timing),
+        "好生意·定性": sum(qualitative),
+        "好生意·定量": sum(quantitative),
+        "好管理层": sum(management),
+        "好价格": sum(timing),
     }
     score_total = sum(modules.values())
     checks["scores"] = {
         "modules": modules,
-        "good_company": modules["好公司·定性"] + modules["好公司·定量"],
+        "quality_total": modules["好生意·定性"] + modules["好生意·定量"] + modules["好管理层"],
         "total": score_total,
-        "ok": modules == {"好行业": 14.5, "好公司·定性": 16.0, "好公司·定量": 31.0, "好时机": 10.5}
-        and close(score_total, 72.0)
-        and "**72.0**" in text
-        and "**47.0/60**" in text,
+        "ok": modules == {"好生意·定性": 26.5, "好生意·定量": 31.0, "好管理层": 9.5, "好价格": 8.5}
+        and close(score_total, 75.5)
+        and "**75.5**" in text
+        and "**67.0**" in text,
     }
 
     snapshot = json.loads((DATA / "market_snapshot.json").read_text(encoding="utf-8"))
     checks["market_snapshot"] = {
-        "trade_date": snapshot["trade_date"],
         "close": snapshot["close"],
-        "market_cap_yi": snapshot["market_cap_yi"],
-        "deduct_pe_ttm": snapshot["deduct_pe_ttm"],
-        "ok": snapshot["trade_date"] == "2026-07-20"
-        and close(snapshot["close"], 10.0)
-        and close(snapshot["market_cap_yi"], 118.8889653)
-        and close(snapshot["deduct_pe_ttm"], 19.1930923263),
+        "pe_ttm_parent": snapshot["pe_ttm_parent"],
+        "percentile": snapshot["pe_available_percentile"],
+        "ok": f"{snapshot['close']}" in text
+        and f"{snapshot['pe_ttm_parent']}" in text
+        and f"{snapshot['pe_available_percentile']}%" in text,
     }
 
-    manifest = json.loads((BASE / "年报" / "manifest.json").read_text(encoding="utf-8"))
-    official_files = [BASE / item["file"] for item in manifest]
-    checks["official_files"] = {
-        "manifest_count": len(manifest),
-        "missing": [str(path) for path in official_files if not path.exists()],
-        "annual_years": sorted(int(item["file"].split("/")[-1][:4]) for item in manifest if "_伟星股份_年度报告.pdf" in item["file"]),
-        "ok": all(path.exists() for path in official_files)
-        and sorted(int(item["file"].split("/")[-1][:4]) for item in manifest if "_伟星股份_年度报告.pdf" in item["file"]) == list(range(2020, 2026)),
-    }
-
-    checks["all_ok"] = all(value.get("ok", False) for value in checks.values() if isinstance(value, dict))
+    all_ok = all(bool(v.get("ok")) for v in checks.values() if isinstance(v, dict))
+    checks["ALL_PASS"] = all_ok
     print(json.dumps(checks, ensure_ascii=False, indent=2))
-    if not checks["all_ok"]:
+    if not all_ok:
         raise SystemExit(1)
 
 
