@@ -1,8 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Generate standardized charts for investment report chapter:
-四、好公司·定量：利润是不是真，增长是否健康？
+Generate standardized charts for investment report quantitative sections:
+- 4.1 ROE & DuPont
+- 4.2 Revenue, Profit, Margins & YoY Growth (2-panel unified chart)
+- 4.3 Product Revenue Structure & Incremental Contribution
+- 4.4 Net Profit, OCF & FCF
+- 4.5 Cash Position & Liability Ratio (opt-in via --with-45)
+- 4.6 Receivables, Inventory & Contract Liabilities
 
 Input defaults assume company package structure:
   {base}/data/annual_core.csv
@@ -265,7 +270,7 @@ def plot_profit(df: pd.DataFrame, out_dir: Path, code: str, company: str, profit
 
 
 def plot_profit_margin(df: pd.DataFrame, out_dir: Path, code: str, company: str, profit_col_arg: Optional[str]):
-    """4.2 变体：营收/扣非双柱 + 毛利率/净利率双折线，用来看利润被谁拿走了。"""
+    """4.2 合并主图：上图看营收/扣非规模与毛利率/净利率，下图看扣非同比增速（低基数极值自动截断）。"""
     cols = require(df, {
         "revenue": ["营收", "营业收入", "revenue_yi", "revenue"],
         "gross_margin": ["毛利率", "毛利率_%", "gross_margin", "gross_margin_%"],
@@ -290,19 +295,19 @@ def plot_profit_margin(df: pd.DataFrame, out_dir: Path, code: str, company: str,
         print("SKIP 4.2 Profit margin: no margin values")
         return
 
-    fig, ax1 = plt.subplots(figsize=(15, 7.5), dpi=180)
+    fig, axes = plt.subplots(2, 1, figsize=(15, 9.8), dpi=180, sharex=True, gridspec_kw={"height_ratios": [1.55, 1]})
+    ax1 = axes[0]
     ax2 = ax1.twinx()
     w = 0.36
     bars_rev = ax1.bar(x - w / 2, revenue, width=w, color=COLORS["orange_light"], label="营业收入")
     bars_profit = ax1.bar(x + w / 2, profit, width=w, color=COLORS["blue_light"], label=profit_col)
     ax1.axhline(0, color="#999999", lw=0.8)
-    ax1.set_xticks(x); ax1.set_xticklabels(years, fontproperties=FONT)
     ax1.set_ylabel("亿元", fontproperties=FONT)
     style(ax1)
 
     line_gross, = ax2.plot(x, gross, marker="o", color=COLORS["red"], lw=2.4, label="毛利率")
     line_net, = ax2.plot(x, net, marker="s", color=COLORS["green"], lw=2.4, label="净利率")
-    upper = max(10.0, float(margin_values.max()) * 1.3)
+    upper = max(10.0, float(margin_values.max()) * 1.32)
     ax2.set_ylim(0, upper)
     ax2.set_ylabel("%", fontproperties=FONT)
     ax2.spines["top"].set_visible(False)
@@ -312,7 +317,7 @@ def plot_profit_margin(df: pd.DataFrame, out_dir: Path, code: str, company: str,
     set_title(
         ax1,
         f"{company}：营收、利润与利润率趋势",
-        f"柱状为营业收入/{profit_col}（亿元）；折线为毛利率/净利率（%），右轴从 0 起",
+        f"上图：营业收入/{profit_col}（亿元）与毛利率/净利率（%，右轴从 0 起）；下图：{profit_col}年度同比增速（%）",
     )
 
     span = max(float(np.nanmax(revenue)) if revenue.notna().any() else 0, 1)
@@ -330,11 +335,48 @@ def plot_profit_margin(df: pd.DataFrame, out_dir: Path, code: str, company: str,
                      fontproperties=FONT, fontsize=8, color=COLORS["red"])
     for i, v in enumerate(net):
         if pd.notna(v):
-            ax2.text(i, v - upper * 0.02, f"{v:.1f}%", ha="center", va="top",
+            ax2.text(i, v - upper * 0.025, f"{v:.1f}%", ha="center", va="top",
                      fontproperties=FONT, fontsize=8, color=COLORS["green"])
 
     ax1.legend([bars_rev, bars_profit, line_gross, line_net], ["营业收入", profit_col, "毛利率", "净利率"],
                loc="upper left", prop=FONT, frameon=False, ncol=2)
+
+    # Bottom panel: profit YoY growth, clipping extreme low-base outliers
+    ax_yoy = axes[1]
+    prev_profit = profit.shift(1)
+    raw_yoy = pd.Series(np.nan, index=profit.index, dtype=float)
+    valid_base = prev_profit.notna() & (prev_profit > 0) & profit.notna()
+    raw_yoy.loc[valid_base] = (profit.loc[valid_base] - prev_profit.loc[valid_base]) / prev_profit.loc[valid_base] * 100.0
+    clip_low, clip_high = -100.0, 250.0
+    clipped_yoy = raw_yoy.clip(lower=clip_low, upper=clip_high)
+
+    ax_yoy.plot(x, clipped_yoy, marker="o", color=COLORS["blue"], lw=2.2, label=f"{profit_col}同比增速")
+    ax_yoy.axhline(0, color="#999999", lw=0.8, ls="--")
+    style(ax_yoy)
+    ax_yoy.set_xticks(x); ax_yoy.set_xticklabels(years, fontproperties=FONT)
+    ax_yoy.set_ylabel("同比 %", fontproperties=FONT)
+
+    yoy_valid = clipped_yoy.dropna()
+    if not yoy_valid.empty:
+        y_min = min(-15.0, float(yoy_valid.min()) - 25.0)
+        y_max = max(30.0, float(yoy_valid.max()) + 35.0)
+        ax_yoy.set_ylim(y_min, y_max)
+        y_span = max(y_max - y_min, 1.0)
+        for i, (raw_v, clip_v, prev_v) in enumerate(zip(raw_yoy, clipped_yoy, prev_profit)):
+            if i == 0:
+                continue
+            if pd.isna(raw_v):
+                if pd.notna(prev_v) and prev_v <= 0:
+                    ax_yoy.text(i, 5.0, "上期负基数\n同比不适用", ha="center", va="bottom",
+                                fontproperties=FONT, fontsize=8, color=COLORS["gray"])
+                continue
+            is_clipped = raw_v < clip_low or raw_v > clip_high
+            label_txt = f"{raw_v:+.0f}%(已截断)" if is_clipped else f"{raw_v:+.1f}%"
+            va = "top" if clip_v >= 0 and is_clipped else ("bottom" if clip_v >= 0 else "top")
+            dy = -y_span * 0.05 if (clip_v >= 0 and is_clipped) else (y_span * 0.04 if clip_v >= 0 else -y_span * 0.04)
+            ax_yoy.text(i, clip_v + dy, label_txt, ha="center", va=va, fontproperties=FONT, fontsize=8.5,
+                        color=COLORS["gray"] if is_clipped else COLORS["blue"])
+    ax_yoy.legend(loc="upper right", prop=FONT, frameon=False)
     fig.tight_layout()
     save(fig, out_dir, f"{code}_4.2_利润与利润率趋势图.png")
 
@@ -389,9 +431,9 @@ def plot_product(product_path: Optional[Path], out_dir: Path, code: str, company
     max_abs = max(abs(inc["__increment"].min()), abs(inc["__increment"].max()), 1)
     for bar, y, inc_val, yoy in zip(bars, inc[cols["business"]], inc["__increment"], inc[cols["yoy"]]):
         label = f"{inc_val:+.1f}亿 / {yoy:+.1f}%"
-        # A white label only works when the negative bar is wide enough to contain it.
-        # Medium/small negative bars otherwise make half the text disappear on white canvas.
-        if inc_val < 0 and abs(inc_val) >= max_abs * 0.18:
+        # Place negative bar labels to the right of x=0 (or centered inside wide negative bars)
+        # so they never overlap the y-axis category labels on the left.
+        if inc_val < 0 and abs(inc_val) >= max_abs * 0.25:
             axes[1].text(
                 inc_val / 2, y, label,
                 va="center", ha="center", fontproperties=FONT,
@@ -400,8 +442,8 @@ def plot_product(product_path: Optional[Path], out_dir: Path, code: str, company
         elif inc_val < 0:
             axes[1].annotate(
                 label,
-                xy=(inc_val, y), xytext=(-8, 0), textcoords="offset points",
-                va="center", ha="right", fontproperties=FONT,
+                xy=(0, y), xytext=(8, 0), textcoords="offset points",
+                va="center", ha="left", fontproperties=FONT,
                 fontsize=9, color=COLORS["red"],
             )
         else:
@@ -411,7 +453,11 @@ def plot_product(product_path: Optional[Path], out_dir: Path, code: str, company
                 va="center", ha="left", fontproperties=FONT,
                 fontsize=9, color=COLORS["green"],
             )
-    axes[1].set_xlim(min(inc["__increment"].min() * 1.60, -max_abs * 0.12), inc["__increment"].max() * 1.35)
+    min_inc = float(inc["__increment"].min())
+    max_inc = float(inc["__increment"].max())
+    left_lim = min(min_inc * 1.18, -max_abs * 0.08) if min_inc < 0 else -max_abs * 0.06
+    right_lim = max(max_inc * 1.38, max_abs * 0.35)
+    axes[1].set_xlim(left_lim, right_lim)
     if pre_elimination:
         axes[0].set_xlabel("分部收入（亿元，合并抵销前）", fontproperties=FONT)
         set_title(axes[0], f"{company}：分部收入结构", "合并抵销前口径；占比仅表示抵销前分部收入构成，不能与集团营收直接勾稽")
@@ -581,6 +627,8 @@ def parse_args():
     p.add_argument("--start-year", type=int, default=None)
     p.add_argument("--end-year", type=int, default=None)
     p.add_argument("--recent-years", type=int, default=5, help="Years shown in 4.5/4.6")
+    p.add_argument("--with-split-42", action="store_true", help="Also emit legacy standalone 4.2 profit-yoy chart")
+    p.add_argument("--with-45", action="store_true", help="Also emit legacy 4.5 cash-position chart")
     return p.parse_args()
 
 
@@ -605,11 +653,13 @@ def main():
     latest_label = args.latest_ttm_label or None
 
     plot_roe_dupont(df, out_dir, args.code, args.company)
-    plot_profit(df, out_dir, args.code, args.company, profit_col_arg, quarterly_path, latest_label)
+    if args.with_split_42:
+        plot_profit(df, out_dir, args.code, args.company, profit_col_arg, quarterly_path, latest_label)
     plot_profit_margin(df, out_dir, args.code, args.company, profit_col_arg)
     plot_product(product_path if product_path and product_path.exists() else None, out_dir, args.code, args.company)
     plot_cashflow(df, out_dir, args.code, args.company, profit_col_arg)
-    plot_cash_position(df, out_dir, args.code, args.company, args.recent_years)
+    if args.with_45:
+        plot_cash_position(df, out_dir, args.code, args.company, args.recent_years)
     plot_operating_quality(df, out_dir, args.code, args.company, args.recent_years)
 
 
